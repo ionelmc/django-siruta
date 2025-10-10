@@ -7,9 +7,9 @@ from django.utils.choices import normalize_choices
 from django.utils.safestring import mark_safe
 from django.utils.translation import gettext as _
 
+from .data import COUNTIES_BY_ID
 from .extras import LOCALITIES_BY_COUNTY_ID
 from .extras import LOCALITIES_BY_ID
-from .data import COUNTIES_BY_ID
 
 COUNTY_CHOICES = (("", ""), *COUNTIES_BY_ID.items())
 LOCALITY_JSON = json.dumps(
@@ -95,4 +95,3 @@ class LocalityField(forms.Field):
             return locality_id
         else:
             return None
-

@@ -12,11 +12,10 @@ class Form(forms.Form):
 def test_form_valid():
     form = Form({"locality": "1026", "county": "1"})
     assert form.is_valid(), form.errors
-    assert form.cleaned_data ==    {
-       'county': 1,
-       'locality': 1026,
-   }
-
+    assert form.cleaned_data == {
+        "county": 1,
+        "locality": 1026,
+    }
 
 
 def test_form_bad_locality():
