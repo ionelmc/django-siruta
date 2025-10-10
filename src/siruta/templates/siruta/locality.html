@@ -1,0 +1,29 @@
+{% include 'django/forms/widgets/text.html' %}
+<script>
+  window.addEventListener('load', function () {
+    var initial_value = $('#{{ widget.attrs.id }}').val();
+    var locality_widget = $('#{{ widget.attrs.id }}').selectize({mode: 'single'}).data('selectize');
+    var county_field = $('select[name="{{ county_field }}"]');
+    var localities = {{ localities }};
+    county_field.change(function () {
+      var value;
+      if (initial_value) {
+        value = initial_value;
+        initial_value = null;
+      } else {
+        value = locality_widget.getValue();
+      }
+      var choices = localities[county_field.val()];
+      if (choices) {
+        locality_widget.setValue();
+        locality_widget.clearOptions();
+        locality_widget.addOption(choices);
+        locality_widget.enable();
+        locality_widget.setValue([value]);
+      } else {
+        locality_widget.clearOptions();
+        locality_widget.disable();
+      }
+    }).change();
+  }, false);
+</script>

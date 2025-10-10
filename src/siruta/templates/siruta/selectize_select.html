@@ -1,0 +1,6 @@
+{% include 'django/forms/widgets/select.html' %}
+<script>
+  window.addEventListener('load', function () {
+    $('#{{ widget.attrs.id }}').selectize();
+  }, false);
+</script>
