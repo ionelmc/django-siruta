@@ -82,8 +82,24 @@ You can also install the in-development version with::
 Documentation
 =============
 
+Add ``siruta`` to your INSTALLED_APPS and use something like this:
 
-https://django-siruta.readthedocs.io/
+.. code-block:: python
+
+    class DemoForm(forms.Form):
+        county = CountyField(label="Delivery county")
+        locality = LocalityField(label="Delivery locality")
+
+        billing_county = CountyField()
+        billing_locality = LocalityField(county_field="billing_county")
+
+With bootstrap5 would look like this:
+
+.. image::  https://github.com/ionelmc/django-siruta/blob/main/docs/example.png?raw=true
+
+Complete code: https://github.com/ionelmc/django-siruta/blob/main/tests/testproject/views.py
+
+Sphinx docs: https://django-siruta.readthedocs.io/
 
 
 Development

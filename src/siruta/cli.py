@@ -61,7 +61,7 @@ parser.add_argument(
 
 class SirutaTypes(enum.IntEnum):
     """
-    https://legislatie.just.ro/public/DetaliiDocument/46083
+    https://legislatie.just.ro/public/DetaliiDocument/46083::
 
         0	Judet, municipiul Bucuresti
         1	Municipiu

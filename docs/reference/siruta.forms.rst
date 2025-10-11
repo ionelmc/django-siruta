@@ -1,9 +1,6 @@
-siruta
-======
+forms
+=====
 
-.. testsetup::
-
-    from siruta import *
 
 .. automodule:: siruta.forms
     :members:

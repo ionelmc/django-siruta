@@ -1,11 +1,8 @@
-siruta
-======
+cli
+===
 
-.. testsetup::
 
-    from siruta import *
-
-.. automodule:: siruta.forms
+.. automodule:: siruta.cli
     :members:
     :undoc-members:
     :special-members: __init__, __len__
