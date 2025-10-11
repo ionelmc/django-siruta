@@ -15,6 +15,7 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
     "django.contrib.admin",
     "rosetta",
+    "django_bootstrap5",
     "testproject",
     "siruta",
 ]
