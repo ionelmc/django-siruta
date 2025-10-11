@@ -25,6 +25,9 @@ class SelectizeSelectWidget(widgets.Select):
 
 
 class CountyField(forms.TypedChoiceField):
+    """
+    An integer field with choices.
+    """
     def __init__(self, **kwargs):
         super().__init__(choices=COUNTY_CHOICES, coerce=int, **kwargs)
 
@@ -58,6 +61,15 @@ class LocalityWidget(widgets.TextInput):
 
 
 class LocalityField(forms.Field):
+    """
+    An integer field with choices.
+
+    The default widget dynamically changes choices depending on another form field named ``"county"``.
+    Override ``county_field`` to change this.
+
+    Values are ordered by type.
+    See ``siruta.cli.SIRUTA_TYPE_REORDER`` for exact precedence.
+    """
     def __init__(self, *, county_field="county", **kwargs):
         super().__init__(
             widget=LocalityWidget(county_field=county_field),
