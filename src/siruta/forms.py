@@ -28,6 +28,7 @@ class CountyField(forms.TypedChoiceField):
     """
     An integer field with choices.
     """
+
     def __init__(self, **kwargs):
         super().__init__(choices=COUNTY_CHOICES, coerce=int, **kwargs)
 
@@ -70,6 +71,7 @@ class LocalityField(forms.Field):
     Values are ordered by type.
     See ``siruta.cli.SIRUTA_TYPE_REORDER`` for exact precedence.
     """
+
     def __init__(self, *, county_field="county", **kwargs):
         super().__init__(
             widget=LocalityWidget(county_field=county_field),
