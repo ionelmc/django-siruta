@@ -9,7 +9,7 @@ dynamic = [
     "readme",
 ]
 name = "django-siruta"
-version = "0.1.1"
+version = "0.2.0"
 license = "BSD-2-Clause"
 license-files = ["LICENSE"]
 description = "A bunch of form fields and utilities for Romanian counties and localities using SIRUTA codes."

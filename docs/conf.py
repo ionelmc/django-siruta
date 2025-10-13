@@ -15,7 +15,7 @@ project = "django-siruta"
 year = "2025"
 author = "Ionel Cristian Mărieș"
 copyright = f"{year}, {author}"
-version = release = "0.1.1"
+version = release = "0.2.0"
 
 pygments_style = "trac"
 templates_path = ["."]
