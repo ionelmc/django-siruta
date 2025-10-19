@@ -2,6 +2,10 @@
 Changelog
 =========
 
+0.2.1 (2025-10-19)
+------------------
+
+* Move ``msgspec`` to optional dependencies (it has some big issues on 3.14). It's not really optional but perhaps a fork may work better on 3.14.
 
 0.2.0 (2025-10-13)
 ------------------
