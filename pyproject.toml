@@ -41,17 +41,22 @@ classifiers = [
     "Topic :: Utilities",
 ]
 keywords = [
-    # eg: "keyword1", "keyword2", "keyword3",
+    "siruta",
+    "romania",
+    "romanian",
+    "counties",
+    "county",
 ]
 requires-python = ">=3.9"
 dependencies = [
     "unidecode",
-    "msgspec",
     "django",
 ]
 
 [project.optional-dependencies]
-# rst = ["docutils>=0.11"]
+msgspec = [
+    "msgspec",
+]
 
 [dependency-groups]
 test = [
