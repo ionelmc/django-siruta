@@ -10,9 +10,16 @@ Overview
     * - docs
       - |docs|
     * - tests
-      - |github-actions| |coveralls| |codecov|
+      - |github-actions|
+        |coveralls|
+        |codecov|
     * - package
-      - |version| |wheel| |supported-versions| |supported-implementations| |commits-since|
+      - |version|
+        |wheel|
+        |supported-versions|
+        |supported-implementations|
+        |commits-since|
+
 .. |docs| image:: https://readthedocs.org/projects/django-siruta/badge/?style=flat
     :target: https://readthedocs.org/projects/django-siruta/
     :alt: Documentation Status
@@ -59,6 +66,7 @@ A bunch of form fields and utilities for Romanian counties and localities using 
 
 Data:
     Localities: https://data.gov.ro/dataset/activity/siruta-2024
+
     Counties: https://data.gov.ro/dataset/activity/siruta
 
 Form fields are designed to pass around integers (assuming you will have the most compact storage).
