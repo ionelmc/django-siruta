@@ -1,0 +1,2120 @@
+[
+  {
+    "denumire": "Bobule\u015fti Loc.  - Or\u015f. \u015etef\u0103ne\u015fti",
+    "cod": "20",
+    "codPrimarie": "3373403",
+    "siruta": "39195"
+  },
+  {
+    "denumire": "Bucecea Loc.  - Or\u015f. Bucecea",
+    "cod": "35",
+    "codPrimarie": "3643876",
+    "siruta": "36462"
+  },
+  {
+    "denumire": "B\u0103diu\u0163i Loc.  - Or\u015f. \u015etef\u0103ne\u015fti",
+    "cod": "44",
+    "codPrimarie": "3373403",
+    "siruta": "39186"
+  },
+  {
+    "denumire": "C\u0103line\u015fti Loc.  - Or\u015f. Bucecea",
+    "cod": "99",
+    "codPrimarie": "3643876",
+    "siruta": "36480"
+  },
+  {
+    "denumire": "Dealu Mare Loc.  - Mun. Dorohoi",
+    "cod": "111",
+    "codPrimarie": "4112945",
+    "siruta": "36024"
+  },
+  {
+    "denumire": "Fl\u0103m\u00e2nzi Loc.  - Or\u015f. Fl\u0103m\u00e2nzi",
+    "cod": "141",
+    "codPrimarie": "3372173",
+    "siruta": "37299"
+  },
+  {
+    "denumire": "Loturi Enescu Loc.  - Mun. Dorohoi",
+    "cod": "201",
+    "codPrimarie": "4112945",
+    "siruta": "36033"
+  },
+  {
+    "denumire": "Nicolae B\u0103lcescu Loc.  - Or\u015f. Fl\u0103m\u00e2nzi",
+    "cod": "243",
+    "codPrimarie": "3372173",
+    "siruta": "38410"
+  },
+  {
+    "denumire": "Poiana Loc.  - Or\u015f. Fl\u0103m\u00e2nzi",
+    "cod": "261",
+    "codPrimarie": "3372173",
+    "siruta": "37315"
+  },
+  {
+    "denumire": "Progresul Loc.  - Mun. Dorohoi",
+    "cod": "270",
+    "codPrimarie": "4112945",
+    "siruta": "36042"
+  },
+  {
+    "denumire": "St\u00e2nca Loc.  - Or\u015f. \u015etef\u0103ne\u015fti",
+    "cod": "333",
+    "codPrimarie": "3373403",
+    "siruta": "39202"
+  },
+  {
+    "denumire": "\u015etef\u0103ne\u015fti Loc.  - Or\u015f. \u015etef\u0103ne\u015fti",
+    "cod": "399",
+    "codPrimarie": "3373403",
+    "siruta": "39177"
+  },
+  {
+    "denumire": "\u015etef\u0103ne\u015fti-Sat Loc.  - Or\u015f. \u015etef\u0103ne\u015fti",
+    "cod": "400",
+    "codPrimarie": "3373403",
+    "siruta": "39211"
+  },
+  {
+    "denumire": "Boto\u015fani Mun. ",
+    "cod": "27",
+    "codPrimarie": "3372882",
+    "siruta": "35740"
+  },
+  {
+    "denumire": "Dorohoi Mun. ",
+    "cod": "121",
+    "codPrimarie": "4112945",
+    "siruta": "36015"
+  },
+  {
+    "denumire": "Bucecea Or\u015f. ",
+    "cod": "34",
+    "codPrimarie": "3643876",
+    "siruta": "36453"
+  },
+  {
+    "denumire": "Darabani Or\u015f. ",
+    "cod": "108",
+    "codPrimarie": "3372017",
+    "siruta": "35955"
+  },
+  {
+    "denumire": "Fl\u0103m\u00e2nzi Or\u015f. ",
+    "cod": "140",
+    "codPrimarie": "3372173",
+    "siruta": "37280"
+  },
+  {
+    "denumire": "S\u0103veni Or\u015f. ",
+    "cod": "342",
+    "codPrimarie": "3372050",
+    "siruta": "36079"
+  },
+  {
+    "denumire": "\u015etef\u0103ne\u015fti Or\u015f. ",
+    "cod": "398",
+    "codPrimarie": "3373403",
+    "siruta": "39168"
+  },
+  {
+    "denumire": "Ad\u0103\u015feni Sat  - Com. Ad\u0103\u015feni",
+    "cod": "1",
+    "codPrimarie": "18382485",
+    "siruta": "36220"
+  },
+  {
+    "denumire": "Agafton Sat  - Com. Curte\u015fti",
+    "cod": "2",
+    "codPrimarie": "3433866",
+    "siruta": "35777"
+  },
+  {
+    "denumire": "Alba Sat  - Com. Hude\u015fti",
+    "cod": "3",
+    "codPrimarie": "3672022",
+    "siruta": "37798"
+  },
+  {
+    "denumire": "Albe\u015fti Sat  - Com. Albe\u015fti",
+    "cod": "5",
+    "codPrimarie": "3373519",
+    "siruta": "36140"
+  },
+  {
+    "denumire": "Arborea Sat  - Com. George Enescu",
+    "cod": "6",
+    "codPrimarie": "8613990",
+    "siruta": "37413"
+  },
+  {
+    "denumire": "Aurel Vlaicu Sat  - Com. Avr\u0103meni",
+    "cod": "7",
+    "codPrimarie": "3571591",
+    "siruta": "36239"
+  },
+  {
+    "denumire": "Avram Iancu Sat  - Com. Co\u0163u\u015fca",
+    "cod": "8",
+    "codPrimarie": "3372157",
+    "siruta": "36827"
+  },
+  {
+    "denumire": "Avr\u0103meni Sat  - Com. Avr\u0103meni",
+    "cod": "10",
+    "codPrimarie": "3571591",
+    "siruta": "36211"
+  },
+  {
+    "denumire": "Baisa Sat  - Com. Mihai Eminescu",
+    "cod": "11",
+    "codPrimarie": "3503600",
+    "siruta": "38081"
+  },
+  {
+    "denumire": "Bajura Sat  - Or\u015f. Darabani",
+    "cod": "411",
+    "codPrimarie": "3372017",
+    "siruta": "35964"
+  },
+  {
+    "denumire": "Balin\u0163i Sat  - Com. Hav\u00e2rna",
+    "cod": "12",
+    "codPrimarie": "3643884",
+    "siruta": "37565"
+  },
+  {
+    "denumire": "Balta Ars\u0103 Sat  - Com. Corni",
+    "cod": "13",
+    "codPrimarie": "3748503",
+    "siruta": "36774"
+  },
+  {
+    "denumire": "Baranca Sat  - Com. Hude\u015fti",
+    "cod": "15",
+    "codPrimarie": "3672022",
+    "siruta": "37805"
+  },
+  {
+    "denumire": "Baranca Sat  - Com. Cristine\u015fti",
+    "cod": "14",
+    "codPrimarie": "8613973",
+    "siruta": "36970"
+  },
+  {
+    "denumire": "Ba\u015feu Sat  - Com. Hude\u015fti",
+    "cod": "435",
+    "codPrimarie": "3672022",
+    "siruta": "40018"
+  },
+  {
+    "denumire": "Belcea Sat  - Com. Leorda",
+    "cod": "16",
+    "codPrimarie": "3372130",
+    "siruta": "37878"
+  },
+  {
+    "denumire": "Berza Sat  - Com. Santa Mare",
+    "cod": "17",
+    "codPrimarie": "3373446",
+    "siruta": "38928"
+  },
+  {
+    "denumire": "Bivolari Sat  - Com. Dob\u00e2rceni",
+    "cod": "18",
+    "codPrimarie": "3373543",
+    "siruta": "37128"
+  },
+  {
+    "denumire": "Bl\u00e2nde\u015fti Sat  - Com. Bl\u00e2nde\u015fti",
+    "cod": "19",
+    "codPrimarie": "16406308",
+    "siruta": "39079"
+  },
+  {
+    "denumire": "Bodeasa Sat  - Or\u015f. S\u0103veni",
+    "cod": "409",
+    "codPrimarie": "3372050",
+    "siruta": "36088"
+  },
+  {
+    "denumire": "Bogd\u0103ne\u015fti Sat  - Com. Santa Mare",
+    "cod": "21",
+    "codPrimarie": "3373446",
+    "siruta": "38937"
+  },
+  {
+    "denumire": "Bohoghina Sat  - Or\u015f. Bucecea",
+    "cod": "22",
+    "codPrimarie": "3643876",
+    "siruta": "36471"
+  },
+  {
+    "denumire": "Bold Sat  - Com. Manoleasa",
+    "cod": "23",
+    "codPrimarie": "3643906",
+    "siruta": "37976"
+  },
+  {
+    "denumire": "Borolea Sat  - Com. H\u0103ne\u015fti",
+    "cod": "24",
+    "codPrimarie": "3571613",
+    "siruta": "37636"
+  },
+  {
+    "denumire": "Borze\u015fti Sat  - Com. Ungureni",
+    "cod": "25",
+    "codPrimarie": "3571583",
+    "siruta": "39435"
+  },
+  {
+    "denumire": "Boscoteni Sat  - Com. Frumu\u015fica",
+    "cod": "26",
+    "codPrimarie": "3373322",
+    "siruta": "37342"
+  },
+  {
+    "denumire": "Bozieni Sat  - Or\u015f. S\u0103veni",
+    "cod": "410",
+    "codPrimarie": "3372050",
+    "siruta": "36097"
+  },
+  {
+    "denumire": "Brehuie\u015fti Sat  - Com. Vl\u0103deni",
+    "cod": "28",
+    "codPrimarie": "3748490",
+    "siruta": "39756"
+  },
+  {
+    "denumire": "Brosc\u0103u\u0163i Sat  - Com. Brosc\u0103u\u0163i",
+    "cod": "30",
+    "codPrimarie": "4524946",
+    "siruta": "36435"
+  },
+  {
+    "denumire": "Bro\u015fteni Sat  - Com. Durne\u015fti",
+    "cod": "31",
+    "codPrimarie": "3373420",
+    "siruta": "37253"
+  },
+  {
+    "denumire": "Br\u0103e\u015fti Sat  - Com. Br\u0103e\u015fti",
+    "cod": "33",
+    "codPrimarie": "3503694",
+    "siruta": "36382"
+  },
+  {
+    "denumire": "Br\u0103teni Sat  - Com. Dob\u00e2rceni",
+    "cod": "276",
+    "codPrimarie": "3373543",
+    "siruta": "37164"
+  },
+  {
+    "denumire": "Buda Sat  - Com. Co\u015fula",
+    "cod": "36",
+    "codPrimarie": "15676400",
+    "siruta": "36587"
+  },
+  {
+    "denumire": "Buh\u0103ceni Sat  - Com. Tru\u015fe\u015fti",
+    "cod": "37",
+    "codPrimarie": "3373497",
+    "siruta": "39346"
+  },
+  {
+    "denumire": "Buim\u0103ceni Sat  - Com. Albe\u015fti",
+    "cod": "38",
+    "codPrimarie": "3373519",
+    "siruta": "36159"
+  },
+  {
+    "denumire": "Burla Sat  - Com. Un\u0163eni",
+    "cod": "39",
+    "codPrimarie": "3433858",
+    "siruta": "39550"
+  },
+  {
+    "denumire": "Burle\u015fti Sat  - Com. Un\u0163eni",
+    "cod": "40",
+    "codPrimarie": "3433858",
+    "siruta": "39569"
+  },
+  {
+    "denumire": "Buzeni Sat  - Com. B\u0103lu\u015feni",
+    "cod": "41",
+    "codPrimarie": "3433890",
+    "siruta": "36337"
+  },
+  {
+    "denumire": "B\u00e2rs\u0103ne\u015fti Sat  - Com. Durne\u015fti",
+    "cod": "42",
+    "codPrimarie": "3373420",
+    "siruta": "37244"
+  },
+  {
+    "denumire": "B\u0103biceni Sat  - Com. Durne\u015fti",
+    "cod": "43",
+    "codPrimarie": "3373420",
+    "siruta": "37235"
+  },
+  {
+    "denumire": "B\u0103d\u0103r\u0103i Sat  - Com. Santa Mare",
+    "cod": "45",
+    "codPrimarie": "3373446",
+    "siruta": "38919"
+  },
+  {
+    "denumire": "B\u0103iceni Sat  - Com. Curte\u015fti",
+    "cod": "46",
+    "codPrimarie": "3433866",
+    "siruta": "35786"
+  },
+  {
+    "denumire": "B\u0103lu\u015feni Sat  - Com. B\u0103lu\u015feni",
+    "cod": "48",
+    "codPrimarie": "3433890",
+    "siruta": "36319"
+  },
+  {
+    "denumire": "B\u0103lu\u015fenii Noi Sat  - Com. B\u0103lu\u015feni",
+    "cod": "49",
+    "codPrimarie": "3433890",
+    "siruta": "36328"
+  },
+  {
+    "denumire": "B\u0103tr\u00e2ne\u015fti Sat  - Com. Gorb\u0103ne\u015fti",
+    "cod": "50",
+    "codPrimarie": "3373527",
+    "siruta": "37477"
+  },
+  {
+    "denumire": "Caraiman Sat  - Com. Mih\u0103l\u0103\u015feni",
+    "cod": "51",
+    "codPrimarie": "3373462",
+    "siruta": "38269"
+  },
+  {
+    "denumire": "Carasa Sat  - Com. Corl\u0103teni",
+    "cod": "52",
+    "codPrimarie": "4524920",
+    "siruta": "36694"
+  },
+  {
+    "denumire": "Cerbu Sat  - Com. Cop\u0103l\u0103u",
+    "cod": "53",
+    "codPrimarie": "3372190",
+    "siruta": "36596"
+  },
+  {
+    "denumire": "Cerchejeni Sat  - Com. Bl\u00e2nde\u015fti",
+    "cod": "54",
+    "codPrimarie": "16406308",
+    "siruta": "39088"
+  },
+  {
+    "denumire": "Cerne\u015fti Sat  - Com. Todireni",
+    "cod": "55",
+    "codPrimarie": "3373381",
+    "siruta": "39284"
+  },
+  {
+    "denumire": "Cervice\u015fti Sat  - Com. Mihai Eminescu",
+    "cod": "56",
+    "codPrimarie": "3503600",
+    "siruta": "38116"
+  },
+  {
+    "denumire": "Cervice\u015fti-Deal Sat  - Com. Mihai Eminescu",
+    "cod": "57",
+    "codPrimarie": "3503600",
+    "siruta": "38125"
+  },
+  {
+    "denumire": "Cheli\u015f Sat  - Com. Suli\u0163a",
+    "cod": "58",
+    "codPrimarie": "3373357",
+    "siruta": "39097"
+  },
+  {
+    "denumire": "Chi\u015fc\u0103reni Sat  - Or\u015f. S\u0103veni",
+    "cod": "408",
+    "codPrimarie": "3372050",
+    "siruta": "36104"
+  },
+  {
+    "denumire": "Chi\u0163oveni Sat  - Or\u015f. Fl\u0103m\u00e2nzi",
+    "cod": "59",
+    "codPrimarie": "3372173",
+    "siruta": "38438"
+  },
+  {
+    "denumire": "Cinghinia Sat  - Com. Ripiceni",
+    "cod": "60",
+    "codPrimarie": "3571605",
+    "siruta": "38759"
+  },
+  {
+    "denumire": "Ciritei Sat  - Com. Tru\u015fe\u015fti",
+    "cod": "61",
+    "codPrimarie": "3373497",
+    "siruta": "39355"
+  },
+  {
+    "denumire": "Ci\u015fmea Sat  - Com. R\u0103chi\u0163i",
+    "cod": "62",
+    "codPrimarie": "3372106",
+    "siruta": "35857"
+  },
+  {
+    "denumire": "Ci\u015fm\u0103ne\u015fti Sat  - Com. Dob\u00e2rceni",
+    "cod": "63",
+    "codPrimarie": "3373543",
+    "siruta": "37137"
+  },
+  {
+    "denumire": "Codreni Sat  - Com. Mileanca",
+    "cod": "64",
+    "codPrimarie": "3571567",
+    "siruta": "38349"
+  },
+  {
+    "denumire": "Conce\u015fti Sat  - Com. Conce\u015fti",
+    "cod": "66",
+    "codPrimarie": "3643892",
+    "siruta": "36541"
+  },
+  {
+    "denumire": "Cop\u0103l\u0103u Sat  - Com. Cop\u0103l\u0103u",
+    "cod": "68",
+    "codPrimarie": "3372190",
+    "siruta": "36578"
+  },
+  {
+    "denumire": "Cord\u0103reni Sat  - Com. Cord\u0103reni",
+    "cod": "70",
+    "codPrimarie": "8613981",
+    "siruta": "36658"
+  },
+  {
+    "denumire": "Corj\u0103u\u0163i Sat  - Com. Hili\u015feu-Horia",
+    "cod": "71",
+    "codPrimarie": "4524938",
+    "siruta": "37690"
+  },
+  {
+    "denumire": "Corl\u0103teni Sat  - Com. Corl\u0103teni",
+    "cod": "72",
+    "codPrimarie": "4524920",
+    "siruta": "36685"
+  },
+  {
+    "denumire": "Corni Sat  - Com. Corni",
+    "cod": "75",
+    "codPrimarie": "3748503",
+    "siruta": "36765"
+  },
+  {
+    "denumire": "Coste\u015fti Sat  - Com. R\u0103chi\u0163i",
+    "cod": "76",
+    "codPrimarie": "3372106",
+    "siruta": "35866"
+  },
+  {
+    "denumire": "Costine\u015fti Sat  - Com. Leorda",
+    "cod": "77",
+    "codPrimarie": "3372130",
+    "siruta": "37887"
+  },
+  {
+    "denumire": "Cotu Sat  - Com. Cop\u0103l\u0103u",
+    "cod": "78",
+    "codPrimarie": "3372190",
+    "siruta": "36612"
+  },
+  {
+    "denumire": "Cotu Miculin\u0163i Sat  - Com. Co\u0163u\u015fca",
+    "cod": "79",
+    "codPrimarie": "3372157",
+    "siruta": "36836"
+  },
+  {
+    "denumire": "Cot\u00e2rgaci Sat  - Com. Roma",
+    "cod": "80",
+    "codPrimarie": "3372114",
+    "siruta": "38839"
+  },
+  {
+    "denumire": "Co\u015ftiugeni Sat  - Com. Albe\u015fti",
+    "cod": "81",
+    "codPrimarie": "3373519",
+    "siruta": "36168"
+  },
+  {
+    "denumire": "Co\u015fula Sat  - Com. Co\u015fula",
+    "cod": "82",
+    "codPrimarie": "15676400",
+    "siruta": "36603"
+  },
+  {
+    "denumire": "Co\u015fuleni Sat  - Com. B\u0103lu\u015feni",
+    "cod": "83",
+    "codPrimarie": "3433890",
+    "siruta": "36346"
+  },
+  {
+    "denumire": "Co\u0163u\u015fca Sat  - Com. Co\u0163u\u015fca",
+    "cod": "85",
+    "codPrimarie": "3372157",
+    "siruta": "36818"
+  },
+  {
+    "denumire": "Crasnaleuca Sat  - Com. Co\u0163u\u015fca",
+    "cod": "86",
+    "codPrimarie": "3372157",
+    "siruta": "36845"
+  },
+  {
+    "denumire": "Criste\u015fti Sat  - Com. Criste\u015fti",
+    "cod": "88",
+    "codPrimarie": "3672057",
+    "siruta": "36916"
+  },
+  {
+    "denumire": "Cristine\u015fti Sat  - Com. Cristine\u015fti",
+    "cod": "90",
+    "codPrimarie": "8613973",
+    "siruta": "36961"
+  },
+  {
+    "denumire": "Cucor\u0103ni Sat  - Com. Mihai Eminescu",
+    "cod": "91",
+    "codPrimarie": "3503600",
+    "siruta": "38134"
+  },
+  {
+    "denumire": "Cucuteni Sat  - Com. Durne\u015fti",
+    "cod": "92",
+    "codPrimarie": "3373420",
+    "siruta": "37262"
+  },
+  {
+    "denumire": "Curte\u015fti Sat  - Com. Curte\u015fti",
+    "cod": "94",
+    "codPrimarie": "3433866",
+    "siruta": "35768"
+  },
+  {
+    "denumire": "Cuza Vod\u0103 Sat  - Com. Vii\u015foara",
+    "cod": "95",
+    "codPrimarie": "3372149",
+    "siruta": "39676"
+  },
+  {
+    "denumire": "Cuzl\u0103u Sat  - Com. P\u0103ltini\u015f",
+    "cod": "96",
+    "codPrimarie": "3571559",
+    "siruta": "38517"
+  },
+  {
+    "denumire": "C\u00e2mpeni Sat  - Com. Pr\u0103jeni",
+    "cod": "97",
+    "codPrimarie": "3373330",
+    "siruta": "38606"
+  },
+  {
+    "denumire": "C\u00e2nde\u015fti Sat  - Com. C\u00e2nde\u015fti",
+    "cod": "98",
+    "codPrimarie": "15676397",
+    "siruta": "38198"
+  },
+  {
+    "denumire": "C\u0103line\u015fti Sat  - Com. C\u00e2nde\u015fti",
+    "cod": "100",
+    "codPrimarie": "15676397",
+    "siruta": "38189"
+  },
+  {
+    "denumire": "C\u0103lug\u0103reni Sat  - Com. Ungureni",
+    "cod": "101",
+    "codPrimarie": "3571583",
+    "siruta": "39444"
+  },
+  {
+    "denumire": "C\u0103lug\u0103renii Noi Sat  - Com. Ungureni",
+    "cod": "102",
+    "codPrimarie": "3571583",
+    "siruta": "39453"
+  },
+  {
+    "denumire": "C\u0103l\u0103ra\u015fi Sat  - Com. C\u0103l\u0103ra\u015fi",
+    "cod": "104",
+    "codPrimarie": "3373454",
+    "siruta": "36505"
+  },
+  {
+    "denumire": "C\u0103t\u0103m\u0103re\u015fti Sat  - Com. Mihai Eminescu",
+    "cod": "105",
+    "codPrimarie": "3503600",
+    "siruta": "38090"
+  },
+  {
+    "denumire": "C\u0103t\u0103m\u0103re\u015fti-Deal Sat  - Com. Mihai Eminescu",
+    "cod": "106",
+    "codPrimarie": "3503600",
+    "siruta": "38107"
+  },
+  {
+    "denumire": "Dacia Sat  - Com. Nic\u015feni",
+    "cod": "107",
+    "codPrimarie": "3372122",
+    "siruta": "38474"
+  },
+  {
+    "denumire": "Davidoaia Sat  - Com. Vorniceni",
+    "cod": "109",
+    "codPrimarie": "3643914",
+    "siruta": "39854"
+  },
+  {
+    "denumire": "Dealu Crucii Sat  - Com. Vorniceni",
+    "cod": "110",
+    "codPrimarie": "3643914",
+    "siruta": "39863"
+  },
+  {
+    "denumire": "Dersca Sat  - Com. Dersca",
+    "cod": "113",
+    "codPrimarie": "3503660",
+    "siruta": "37020"
+  },
+  {
+    "denumire": "Dimitrie Cantemir Sat  - Com. Avr\u0103meni",
+    "cod": "114",
+    "codPrimarie": "3571591",
+    "siruta": "36248"
+  },
+  {
+    "denumire": "Dim\u0103cheni Sat  - Com. Dim\u0103cheni",
+    "cod": "115",
+    "codPrimarie": "15676370",
+    "siruta": "36701"
+  },
+  {
+    "denumire": "Dobrin\u0103u\u0163i-Hap\u0103i Sat  - Com. V\u00e2rfu C\u00e2mpului",
+    "cod": "440",
+    "codPrimarie": "3503627",
+    "siruta": "40045"
+  },
+  {
+    "denumire": "Dob\u00e2rceni Sat  - Com. Dob\u00e2rceni",
+    "cod": "117",
+    "codPrimarie": "3373543",
+    "siruta": "37119"
+  },
+  {
+    "denumire": "Doina Sat  - Com. R\u0103useni",
+    "cod": "118",
+    "codPrimarie": "3373373",
+    "siruta": "38697"
+  },
+  {
+    "denumire": "Dolina Sat  - Com. Leorda",
+    "cod": "119",
+    "codPrimarie": "3372130",
+    "siruta": "37896"
+  },
+  {
+    "denumire": "Doroban\u0163i Sat  - Com. Nic\u015feni",
+    "cod": "120",
+    "codPrimarie": "3372122",
+    "siruta": "38483"
+  },
+  {
+    "denumire": "Drac\u015fani Sat  - Com. Suli\u0163a",
+    "cod": "122",
+    "codPrimarie": "3373357",
+    "siruta": "39104"
+  },
+  {
+    "denumire": "Dragalina Sat  - Com. Hlipiceni",
+    "cod": "124",
+    "codPrimarie": "3373365",
+    "siruta": "37752"
+  },
+  {
+    "denumire": "Dragalina Sat  - Com. Cristine\u015fti",
+    "cod": "123",
+    "codPrimarie": "8613973",
+    "siruta": "36989"
+  },
+  {
+    "denumire": "Draxini Sat  - Com. B\u0103lu\u015feni",
+    "cod": "125",
+    "codPrimarie": "3433890",
+    "siruta": "36355"
+  },
+  {
+    "denumire": "Drislea Sat  - Com. Tru\u015fe\u015fti",
+    "cod": "126",
+    "codPrimarie": "3373497",
+    "siruta": "39364"
+  },
+  {
+    "denumire": "Dr\u0103gu\u015feni Sat  - Com. Dr\u0103gu\u015feni",
+    "cod": "128",
+    "codPrimarie": "3503635",
+    "siruta": "37182"
+  },
+  {
+    "denumire": "Dumbr\u0103vi\u0163a Sat  - Com. Ib\u0103ne\u015fti",
+    "cod": "129",
+    "codPrimarie": "3372165",
+    "siruta": "37841"
+  },
+  {
+    "denumire": "Dumeni Sat  - Com. George Enescu",
+    "cod": "130",
+    "codPrimarie": "8613990",
+    "siruta": "37404"
+  },
+  {
+    "denumire": "Durne\u015fti Sat  - Com. Santa Mare",
+    "cod": "134",
+    "codPrimarie": "3373446",
+    "siruta": "38946"
+  },
+  {
+    "denumire": "Durne\u015fti Sat  - Com. Ungureni",
+    "cod": "133",
+    "codPrimarie": "3571583",
+    "siruta": "39462"
+  },
+  {
+    "denumire": "Durne\u015fti Sat  - Com. Durne\u015fti",
+    "cod": "132",
+    "codPrimarie": "3373420",
+    "siruta": "37226"
+  },
+  {
+    "denumire": "D\u00e2ngeni Sat  - Com. D\u00e2ngeni",
+    "cod": "136",
+    "codPrimarie": "3373535",
+    "siruta": "37066"
+  },
+  {
+    "denumire": "D\u0103mideni Sat  - Com. Rom\u00e2ne\u015fti",
+    "cod": "137",
+    "codPrimarie": "3373438",
+    "siruta": "38866"
+  },
+  {
+    "denumire": "D\u0103mileni Sat  - Com. Cristine\u015fti",
+    "cod": "434",
+    "codPrimarie": "8613973",
+    "siruta": "39998"
+  },
+  {
+    "denumire": "E\u015fanca Sat  - Or\u015f. Darabani",
+    "cod": "406",
+    "codPrimarie": "3372017",
+    "siruta": "35973"
+  },
+  {
+    "denumire": "Flondora Sat  - Com. Manoleasa",
+    "cod": "138",
+    "codPrimarie": "3643906",
+    "siruta": "37985"
+  },
+  {
+    "denumire": "Flore\u015fti Sat  - Com. Todireni",
+    "cod": "139",
+    "codPrimarie": "3373381",
+    "siruta": "39293"
+  },
+  {
+    "denumire": "Frumu\u015fica Sat  - Com. Frumu\u015fica",
+    "cod": "143",
+    "codPrimarie": "3373322",
+    "siruta": "37333"
+  },
+  {
+    "denumire": "Fundu Her\u0163ii Sat  - Com. Cristine\u015fti",
+    "cod": "144",
+    "codPrimarie": "8613973",
+    "siruta": "36998"
+  },
+  {
+    "denumire": "Galbeni Sat  - Com. Hav\u00e2rna",
+    "cod": "145",
+    "codPrimarie": "3643884",
+    "siruta": "37574"
+  },
+  {
+    "denumire": "George Co\u015fbuc Sat  - Com. Gorb\u0103ne\u015fti",
+    "cod": "146",
+    "codPrimarie": "3373527",
+    "siruta": "37486"
+  },
+  {
+    "denumire": "George Enescu Sat  - Com. George Enescu",
+    "cod": "148",
+    "codPrimarie": "8613990",
+    "siruta": "37422"
+  },
+  {
+    "denumire": "Ghireni Sat  - Com. Co\u0163u\u015fca",
+    "cod": "149",
+    "codPrimarie": "3372157",
+    "siruta": "36854"
+  },
+  {
+    "denumire": "Gorb\u0103ne\u015fti Sat  - Com. Gorb\u0103ne\u015fti",
+    "cod": "151",
+    "codPrimarie": "3373527",
+    "siruta": "37468"
+  },
+  {
+    "denumire": "Gorovei Sat  - Com. V\u0103cule\u015fti",
+    "cod": "152",
+    "codPrimarie": "3503686",
+    "siruta": "39630"
+  },
+  {
+    "denumire": "Grivi\u0163a Sat  - Com. Cord\u0103reni",
+    "cod": "153",
+    "codPrimarie": "8613981",
+    "siruta": "36667"
+  },
+  {
+    "denumire": "Guranda Sat  - Com. Durne\u015fti",
+    "cod": "154",
+    "codPrimarie": "3373420",
+    "siruta": "37271"
+  },
+  {
+    "denumire": "G\u00e2rbeni Sat  - Com. Hav\u00e2rna",
+    "cod": "155",
+    "codPrimarie": "3643884",
+    "siruta": "37583"
+  },
+  {
+    "denumire": "G\u00e2rbe\u015fti Sat  - Com. Todireni",
+    "cod": "156",
+    "codPrimarie": "3373381",
+    "siruta": "39300"
+  },
+  {
+    "denumire": "Hav\u00e2rna Sat  - Com. Hav\u00e2rna",
+    "cod": "158",
+    "codPrimarie": "3643884",
+    "siruta": "37556"
+  },
+  {
+    "denumire": "Hili\u015feu-Clo\u015fca Sat  - Com. Hili\u015feu-Horia",
+    "cod": "159",
+    "codPrimarie": "4524938",
+    "siruta": "37707"
+  },
+  {
+    "denumire": "Hili\u015feu-Cri\u015fan Sat  - Com. Hili\u015feu-Horia",
+    "cod": "160",
+    "codPrimarie": "4524938",
+    "siruta": "37716"
+  },
+  {
+    "denumire": "Hili\u015feu-Horia Sat  - Com. Hili\u015feu-Horia",
+    "cod": "162",
+    "codPrimarie": "4524938",
+    "siruta": "37681"
+  },
+  {
+    "denumire": "Hlipiceni Sat  - Com. Hlipiceni",
+    "cod": "164",
+    "codPrimarie": "3373365",
+    "siruta": "37743"
+  },
+  {
+    "denumire": "Horia Sat  - Com. Mitoc",
+    "cod": "165",
+    "codPrimarie": "3503643",
+    "siruta": "38394"
+  },
+  {
+    "denumire": "Horl\u0103ceni Sat  - Com. \u015eendriceni",
+    "cod": "166",
+    "codPrimarie": "3571575",
+    "siruta": "39140"
+  },
+  {
+    "denumire": "Horodi\u015ftea Sat  - Com. P\u0103ltini\u015f",
+    "cod": "167",
+    "codPrimarie": "3571559",
+    "siruta": "38526"
+  },
+  {
+    "denumire": "Hri\u015fcani Sat  - Com. Vl\u0103deni",
+    "cod": "168",
+    "codPrimarie": "3748490",
+    "siruta": "39765"
+  },
+  {
+    "denumire": "Hude\u015fti Sat  - Com. Hude\u015fti",
+    "cod": "170",
+    "codPrimarie": "3672022",
+    "siruta": "37789"
+  },
+  {
+    "denumire": "Hudum Sat  - Com. Curte\u015fti",
+    "cod": "171",
+    "codPrimarie": "3433866",
+    "siruta": "35795"
+  },
+  {
+    "denumire": "Hulub Sat  - Com. D\u00e2ngeni",
+    "cod": "172",
+    "codPrimarie": "3373535",
+    "siruta": "37075"
+  },
+  {
+    "denumire": "Hulube\u015fti Sat  - Com. Pom\u00e2rla",
+    "cod": "173",
+    "codPrimarie": "3503678",
+    "siruta": "38562"
+  },
+  {
+    "denumire": "Hu\u0163ani Sat  - Com. Vl\u0103deni",
+    "cod": "174",
+    "codPrimarie": "3748490",
+    "siruta": "39774"
+  },
+  {
+    "denumire": "H\u0103ne\u015fti Sat  - Com. H\u0103ne\u015fti",
+    "cod": "176",
+    "codPrimarie": "3571613",
+    "siruta": "37627"
+  },
+  {
+    "denumire": "Iacobeni Sat  - Com. D\u00e2ngeni",
+    "cod": "177",
+    "codPrimarie": "3373535",
+    "siruta": "37084"
+  },
+  {
+    "denumire": "Ib\u0103neasa Sat  - Com. \u015etiubieni",
+    "cod": "178",
+    "codPrimarie": "3643922",
+    "siruta": "39248"
+  },
+  {
+    "denumire": "Ib\u0103ne\u015fti Sat  - Com. Ib\u0103ne\u015fti",
+    "cod": "180",
+    "codPrimarie": "3372165",
+    "siruta": "37832"
+  },
+  {
+    "denumire": "Ichimeni Sat  - Com. Avr\u0103meni",
+    "cod": "181",
+    "codPrimarie": "3571591",
+    "siruta": "36257"
+  },
+  {
+    "denumire": "Icu\u015feni Sat  - Com. Vorona",
+    "cod": "182",
+    "codPrimarie": "3672049",
+    "siruta": "39890"
+  },
+  {
+    "denumire": "Iezer Sat  - Com. Hili\u015feu-Horia",
+    "cod": "183",
+    "codPrimarie": "4524938",
+    "siruta": "37725"
+  },
+  {
+    "denumire": "Ili\u015feni Sat  - Com. Santa Mare",
+    "cod": "184",
+    "codPrimarie": "3373446",
+    "siruta": "38955"
+  },
+  {
+    "denumire": "Ion\u0103\u015feni Sat  - Com. V\u00e2rfu C\u00e2mpului",
+    "cod": "186",
+    "codPrimarie": "3503627",
+    "siruta": "39710"
+  },
+  {
+    "denumire": "Ion\u0103\u015feni Sat  - Com. Tru\u015fe\u015fti",
+    "cod": "185",
+    "codPrimarie": "3373497",
+    "siruta": "39373"
+  },
+  {
+    "denumire": "Iorga Sat  - Com. Manoleasa",
+    "cod": "187",
+    "codPrimarie": "3643906",
+    "siruta": "37994"
+  },
+  {
+    "denumire": "Ipote\u015fti Sat  - Com. Mihai Eminescu",
+    "cod": "188",
+    "codPrimarie": "3503600",
+    "siruta": "38072"
+  },
+  {
+    "denumire": "Iure\u015fti Sat  - Com. Todireni",
+    "cod": "189",
+    "codPrimarie": "3373381",
+    "siruta": "39319"
+  },
+  {
+    "denumire": "Izvoare Sat  - Com. Suhar\u0103u",
+    "cod": "190",
+    "codPrimarie": "3433912",
+    "siruta": "39006"
+  },
+  {
+    "denumire": "Jijia Sat  - Com. Albe\u015fti",
+    "cod": "191",
+    "codPrimarie": "3373519",
+    "siruta": "36177"
+  },
+  {
+    "denumire": "Jolde\u015fti Sat  - Com. Vorona",
+    "cod": "192",
+    "codPrimarie": "3672049",
+    "siruta": "39907"
+  },
+  {
+    "denumire": "Lehne\u015fti Sat  - Com. Ripiceni",
+    "cod": "193",
+    "codPrimarie": "3571605",
+    "siruta": "38768"
+  },
+  {
+    "denumire": "Leorda Sat  - Com. Leorda",
+    "cod": "195",
+    "codPrimarie": "3372130",
+    "siruta": "37869"
+  },
+  {
+    "denumire": "Libertatea Sat  - Com. C\u0103l\u0103ra\u015fi",
+    "cod": "196",
+    "codPrimarie": "3373454",
+    "siruta": "36514"
+  },
+  {
+    "denumire": "Livada Sat  - Com. Dob\u00e2rceni",
+    "cod": "197",
+    "codPrimarie": "3373543",
+    "siruta": "37146"
+  },
+  {
+    "denumire": "Liveni Sat  - Com. Manoleasa",
+    "cod": "198",
+    "codPrimarie": "3643906",
+    "siruta": "38009"
+  },
+  {
+    "denumire": "Li\u015fm\u0103ni\u0163a Sat  - Or\u015f. Darabani",
+    "cod": "407",
+    "codPrimarie": "3372017",
+    "siruta": "35982"
+  },
+  {
+    "denumire": "Li\u015fna Sat  - Com. Suhar\u0103u",
+    "cod": "199",
+    "codPrimarie": "3433912",
+    "siruta": "39015"
+  },
+  {
+    "denumire": "Loturi Sat  - Com. Manoleasa",
+    "cod": "200",
+    "codPrimarie": "3643906",
+    "siruta": "38018"
+  },
+  {
+    "denumire": "Lozna Sat  - Com. Lozna",
+    "cod": "202",
+    "codPrimarie": "15676389",
+    "siruta": "37039"
+  },
+  {
+    "denumire": "Lunca Sat  - Com. V\u00e2rfu C\u00e2mpului",
+    "cod": "205",
+    "codPrimarie": "3503627",
+    "siruta": "39729"
+  },
+  {
+    "denumire": "Lunca Sat  - Com. Lunca",
+    "cod": "204",
+    "codPrimarie": "3373390",
+    "siruta": "37921"
+  },
+  {
+    "denumire": "Lup\u0103ria Sat  - Com. Pr\u0103jeni",
+    "cod": "206",
+    "codPrimarie": "3373330",
+    "siruta": "38615"
+  },
+  {
+    "denumire": "Maghera Sat  - Com. V\u00e2rfu C\u00e2mpului",
+    "cod": "439",
+    "codPrimarie": "3503627",
+    "siruta": "40054"
+  },
+  {
+    "denumire": "Manoleasa Sat  - Com. Manoleasa",
+    "cod": "208",
+    "codPrimarie": "3643906",
+    "siruta": "37967"
+  },
+  {
+    "denumire": "Manoleasa-Prut Sat  - Com. Manoleasa",
+    "cod": "209",
+    "codPrimarie": "3643906",
+    "siruta": "38027"
+  },
+  {
+    "denumire": "Manole\u015fti Sat  - Com. Mihai Eminescu",
+    "cod": "210",
+    "codPrimarie": "3503600",
+    "siruta": "38143"
+  },
+  {
+    "denumire": "Mateieni Sat  - Com. Dim\u0103cheni",
+    "cod": "211",
+    "codPrimarie": "15676370",
+    "siruta": "36710"
+  },
+  {
+    "denumire": "Mesteac\u0103n Sat  - Com. Corni",
+    "cod": "212",
+    "codPrimarie": "3748503",
+    "siruta": "36783"
+  },
+  {
+    "denumire": "Mihai Eminescu Sat  - Com. Gorb\u0103ne\u015fti",
+    "cod": "214",
+    "codPrimarie": "3373527",
+    "siruta": "37495"
+  },
+  {
+    "denumire": "Mihai Viteazu Sat  - Com. Ungureni",
+    "cod": "215",
+    "codPrimarie": "3571583",
+    "siruta": "39471"
+  },
+  {
+    "denumire": "Mihail Kog\u0103lniceanu Sat  - Com. Co\u0163u\u015fca",
+    "cod": "216",
+    "codPrimarie": "3372157",
+    "siruta": "36863"
+  },
+  {
+    "denumire": "Mih\u0103ileni Sat  - Com. Mih\u0103ileni",
+    "cod": "218",
+    "codPrimarie": "3672006",
+    "siruta": "38170"
+  },
+  {
+    "denumire": "Mih\u0103l\u0103\u015feni Sat  - Com. Mih\u0103l\u0103\u015feni",
+    "cod": "220",
+    "codPrimarie": "3373462",
+    "siruta": "38250"
+  },
+  {
+    "denumire": "Mileanca Sat  - Com. Mileanca",
+    "cod": "222",
+    "codPrimarie": "3571567",
+    "siruta": "38330"
+  },
+  {
+    "denumire": "Miletin Sat  - Com. Pr\u0103jeni",
+    "cod": "223",
+    "codPrimarie": "3373330",
+    "siruta": "38624"
+  },
+  {
+    "denumire": "Miorcani Sat  - Com. R\u0103d\u0103u\u0163i-Prut",
+    "cod": "224",
+    "codPrimarie": "3503651",
+    "siruta": "38651"
+  },
+  {
+    "denumire": "Miron Costin Sat  - Com. Vl\u0103sine\u015fti",
+    "cod": "225",
+    "codPrimarie": "3373349",
+    "siruta": "39818"
+  },
+  {
+    "denumire": "Mitoc Sat  - Com. Mitoc",
+    "cod": "227",
+    "codPrimarie": "3503643",
+    "siruta": "38385"
+  },
+  {
+    "denumire": "Mitoc Sat  - Com. Leorda",
+    "cod": "228",
+    "codPrimarie": "3372130",
+    "siruta": "37903"
+  },
+  {
+    "denumire": "Mlen\u0103u\u0163i Sat  - Com. Hude\u015fti",
+    "cod": "229",
+    "codPrimarie": "3672022",
+    "siruta": "37814"
+  },
+  {
+    "denumire": "Moara Jorii Sat  - Com. H\u0103ne\u015fti",
+    "cod": "230",
+    "codPrimarie": "3571613",
+    "siruta": "37645"
+  },
+  {
+    "denumire": "Movila Rupt\u0103 Sat  - Com. Ripiceni",
+    "cod": "231",
+    "codPrimarie": "3571605",
+    "siruta": "38777"
+  },
+  {
+    "denumire": "Movileni Sat  - Com. Conce\u015fti",
+    "cod": "232",
+    "codPrimarie": "3643892",
+    "siruta": "36550"
+  },
+  {
+    "denumire": "Murgu\u0163a Sat  - Com. Dob\u00e2rceni",
+    "cod": "233",
+    "codPrimarie": "3373543",
+    "siruta": "37155"
+  },
+  {
+    "denumire": "M\u00e2ndre\u015fti Sat  - Com. Vl\u0103deni",
+    "cod": "235",
+    "codPrimarie": "3748490",
+    "siruta": "39783"
+  },
+  {
+    "denumire": "M\u00e2ndre\u015fti Sat  - Com. Ungureni",
+    "cod": "234",
+    "codPrimarie": "3571583",
+    "siruta": "39480"
+  },
+  {
+    "denumire": "M\u00e2n\u0103stireni Sat  - Com. Un\u0163eni",
+    "cod": "236",
+    "codPrimarie": "3433858",
+    "siruta": "39578"
+  },
+  {
+    "denumire": "M\u0103n\u0103stirea Doamnei Sat  - Com. Curte\u015fti",
+    "cod": "237",
+    "codPrimarie": "3433866",
+    "siruta": "35802"
+  },
+  {
+    "denumire": "M\u0103\u015fc\u0103teni Sat  - Com. Albe\u015fti",
+    "cod": "238",
+    "codPrimarie": "3373519",
+    "siruta": "36186"
+  },
+  {
+    "denumire": "Negreni Sat  - Com. \u015etiubieni",
+    "cod": "239",
+    "codPrimarie": "3643922",
+    "siruta": "39257"
+  },
+  {
+    "denumire": "Negre\u015fti Sat  - Com. Mih\u0103l\u0103\u015feni",
+    "cod": "240",
+    "codPrimarie": "3373462",
+    "siruta": "38287"
+  },
+  {
+    "denumire": "Nichiteni Sat  - Com. Co\u0163u\u015fca",
+    "cod": "241",
+    "codPrimarie": "3372157",
+    "siruta": "36872"
+  },
+  {
+    "denumire": "Nicolae B\u0103lcescu Sat  - Com. Co\u0163u\u015fca",
+    "cod": "242",
+    "codPrimarie": "3372157",
+    "siruta": "36881"
+  },
+  {
+    "denumire": "Niculcea Sat  - Com. Hav\u00e2rna",
+    "cod": "244",
+    "codPrimarie": "3643884",
+    "siruta": "37592"
+  },
+  {
+    "denumire": "Nic\u015feni Sat  - Com. Nic\u015feni",
+    "cod": "245",
+    "codPrimarie": "3372122",
+    "siruta": "38465"
+  },
+  {
+    "denumire": "N\u0103stase Sat  - Com. Mih\u0103l\u0103\u015feni",
+    "cod": "247",
+    "codPrimarie": "3373462",
+    "siruta": "38278"
+  },
+  {
+    "denumire": "Oneaga Sat  - Com. Criste\u015fti",
+    "cod": "248",
+    "codPrimarie": "3672057",
+    "siruta": "36925"
+  },
+  {
+    "denumire": "Oroftiana Sat  - Com. Suhar\u0103u",
+    "cod": "249",
+    "codPrimarie": "3433912",
+    "siruta": "39024"
+  },
+  {
+    "denumire": "Or\u0103\u015feni-Deal Sat  - Com. Curte\u015fti",
+    "cod": "250",
+    "codPrimarie": "3433866",
+    "siruta": "35811"
+  },
+  {
+    "denumire": "Or\u0103\u015feni-Vale Sat  - Com. Curte\u015fti",
+    "cod": "251",
+    "codPrimarie": "3433866",
+    "siruta": "35820"
+  },
+  {
+    "denumire": "Panaitoaia Sat  - Com. Avr\u0103meni",
+    "cod": "252",
+    "codPrimarie": "3571591",
+    "siruta": "36266"
+  },
+  {
+    "denumire": "Petricani Sat  - Or\u015f. S\u0103veni",
+    "cod": "404",
+    "codPrimarie": "3372050",
+    "siruta": "36113"
+  },
+  {
+    "denumire": "Plevna Sat  - Com. Suhar\u0103u",
+    "cod": "253",
+    "codPrimarie": "3433912",
+    "siruta": "39033"
+  },
+  {
+    "denumire": "Ple\u015fani Sat  - Com. C\u0103l\u0103ra\u015fi",
+    "cod": "254",
+    "codPrimarie": "3373454",
+    "siruta": "36523"
+  },
+  {
+    "denumire": "Plopenii Mari Sat  - Com. Ungureni",
+    "cod": "255",
+    "codPrimarie": "3571583",
+    "siruta": "39499"
+  },
+  {
+    "denumire": "Plopenii Mici Sat  - Com. Ungureni",
+    "cod": "256",
+    "codPrimarie": "3571583",
+    "siruta": "39505"
+  },
+  {
+    "denumire": "Podeni Sat  - Com. Corl\u0103teni",
+    "cod": "257",
+    "codPrimarie": "4524920",
+    "siruta": "36729"
+  },
+  {
+    "denumire": "Podriga Sat  - Com. Dr\u0103gu\u015feni",
+    "cod": "258",
+    "codPrimarie": "3503635",
+    "siruta": "37191"
+  },
+  {
+    "denumire": "Pogor\u0103\u015fti Sat  - Com. R\u0103useni",
+    "cod": "259",
+    "codPrimarie": "3373373",
+    "siruta": "38704"
+  },
+  {
+    "denumire": "Poiana Sat  - Com. Br\u0103e\u015fti",
+    "cod": "260",
+    "codPrimarie": "3503694",
+    "siruta": "36391"
+  },
+  {
+    "denumire": "Poiana Sat  - Com. Vorona",
+    "cod": "262",
+    "codPrimarie": "3672049",
+    "siruta": "39916"
+  },
+  {
+    "denumire": "Poiana Sat  - Com. Cristine\u015fti",
+    "cod": "263",
+    "codPrimarie": "8613973",
+    "siruta": "37002"
+  },
+  {
+    "denumire": "Pom\u00e2rla Sat  - Com. Pom\u00e2rla",
+    "cod": "265",
+    "codPrimarie": "3503678",
+    "siruta": "38553"
+  },
+  {
+    "denumire": "Popeni Sat  - Com. George Enescu",
+    "cod": "267",
+    "codPrimarie": "8613990",
+    "siruta": "37431"
+  },
+  {
+    "denumire": "Popeni Sat  - Com. Br\u0103e\u015fti",
+    "cod": "266",
+    "codPrimarie": "3503694",
+    "siruta": "36408"
+  },
+  {
+    "denumire": "Popoaia Sat  - Com. Ripiceni",
+    "cod": "268",
+    "codPrimarie": "3571605",
+    "siruta": "38786"
+  },
+  {
+    "denumire": "Pris\u0103cani Sat  - Or\u015f. Fl\u0103m\u00e2nzi",
+    "cod": "269",
+    "codPrimarie": "3372173",
+    "siruta": "38447"
+  },
+  {
+    "denumire": "Pr\u0103jeni Sat  - Com. Pr\u0103jeni",
+    "cod": "272",
+    "codPrimarie": "3373330",
+    "siruta": "38599"
+  },
+  {
+    "denumire": "Pustoaia Sat  - Com. V\u00e2rfu C\u00e2mpului",
+    "cod": "438",
+    "codPrimarie": "3503627",
+    "siruta": "40063"
+  },
+  {
+    "denumire": "Pu\u0163ureni Sat  - Com. Co\u0163u\u015fca",
+    "cod": "273",
+    "codPrimarie": "3372157",
+    "siruta": "36890"
+  },
+  {
+    "denumire": "P\u00e2r\u00e2u Negru Sat  - Com. Mih\u0103ileni",
+    "cod": "274",
+    "codPrimarie": "3672006",
+    "siruta": "38205"
+  },
+  {
+    "denumire": "P\u0103dureni Sat  - Com. Co\u015fula",
+    "cod": "275",
+    "codPrimarie": "15676400",
+    "siruta": "36621"
+  },
+  {
+    "denumire": "P\u0103dureni Sat  - Com. \u015eendriceni",
+    "cod": "277",
+    "codPrimarie": "3571575",
+    "siruta": "39159"
+  },
+  {
+    "denumire": "P\u0103ltini\u015f Sat  - Com. P\u0103ltini\u015f",
+    "cod": "279",
+    "codPrimarie": "3571559",
+    "siruta": "38508"
+  },
+  {
+    "denumire": "P\u0103s\u0103teni Sat  - Com. Tru\u015fe\u015fti",
+    "cod": "280",
+    "codPrimarie": "3373497",
+    "siruta": "39382"
+  },
+  {
+    "denumire": "P\u0103un Sat  - Com. Mih\u0103l\u0103\u015feni",
+    "cod": "281",
+    "codPrimarie": "3373462",
+    "siruta": "38296"
+  },
+  {
+    "denumire": "Racov\u0103\u0163 Sat  - Com. Pom\u00e2rla",
+    "cod": "282",
+    "codPrimarie": "3503678",
+    "siruta": "38571"
+  },
+  {
+    "denumire": "Recia-Verbia Sat  - Com. Dim\u0103cheni",
+    "cod": "283",
+    "codPrimarie": "15676370",
+    "siruta": "36738"
+  },
+  {
+    "denumire": "Rediu Sat  - Com. R\u0103d\u0103u\u0163i-Prut",
+    "cod": "284",
+    "codPrimarie": "3503651",
+    "siruta": "38660"
+  },
+  {
+    "denumire": "Rediu Sat  - Com. R\u0103useni",
+    "cod": "285",
+    "codPrimarie": "3373373",
+    "siruta": "38713"
+  },
+  {
+    "denumire": "Ripiceni Sat  - Com. Ripiceni",
+    "cod": "287",
+    "codPrimarie": "3571605",
+    "siruta": "38740"
+  },
+  {
+    "denumire": "Ripicenii Vechi Sat  - Com. Ripiceni",
+    "cod": "288",
+    "codPrimarie": "3571605",
+    "siruta": "38795"
+  },
+  {
+    "denumire": "Rogoje\u015fti Sat  - Com. Mih\u0103ileni",
+    "cod": "289",
+    "codPrimarie": "3672006",
+    "siruta": "38214"
+  },
+  {
+    "denumire": "Roma Sat  - Com. Roma",
+    "cod": "291",
+    "codPrimarie": "3372114",
+    "siruta": "38820"
+  },
+  {
+    "denumire": "Rom\u00e2ne\u015fti Sat  - Com. Rom\u00e2ne\u015fti",
+    "cod": "293",
+    "codPrimarie": "3373438",
+    "siruta": "38857"
+  },
+  {
+    "denumire": "Rom\u00e2ne\u015fti-Vale Sat  - Com. Rom\u00e2ne\u015fti",
+    "cod": "294",
+    "codPrimarie": "3373438",
+    "siruta": "38875"
+  },
+  {
+    "denumire": "Ro\u015fiori Sat  - Com. R\u0103chi\u0163i",
+    "cod": "295",
+    "codPrimarie": "3372106",
+    "siruta": "35875"
+  },
+  {
+    "denumire": "R\u00e2nghile\u015fti Sat  - Com. Santa Mare",
+    "cod": "296",
+    "codPrimarie": "3373446",
+    "siruta": "38964"
+  },
+  {
+    "denumire": "R\u00e2nghile\u015fti-Deal Sat  - Com. Santa Mare",
+    "cod": "297",
+    "codPrimarie": "3373446",
+    "siruta": "38973"
+  },
+  {
+    "denumire": "R\u00e2\u015fca Sat  - Com. Ripiceni",
+    "cod": "298",
+    "codPrimarie": "3571605",
+    "siruta": "38802"
+  },
+  {
+    "denumire": "R\u0103chi\u0163i Sat  - Com. R\u0103chi\u0163i",
+    "cod": "300",
+    "codPrimarie": "3372106",
+    "siruta": "35848"
+  },
+  {
+    "denumire": "R\u0103deni Sat  - Com. Frumu\u015fica",
+    "cod": "301",
+    "codPrimarie": "3373322",
+    "siruta": "37351"
+  },
+  {
+    "denumire": "R\u0103d\u0103u\u0163i-Prut Sat  - Com. R\u0103d\u0103u\u0163i-Prut",
+    "cod": "303",
+    "codPrimarie": "3503651",
+    "siruta": "38642"
+  },
+  {
+    "denumire": "R\u0103useni Sat  - Com. R\u0103useni",
+    "cod": "304",
+    "codPrimarie": "3373373",
+    "siruta": "38688"
+  },
+  {
+    "denumire": "Sadoveni Sat  - Com. Manoleasa",
+    "cod": "306",
+    "codPrimarie": "3643906",
+    "siruta": "38036"
+  },
+  {
+    "denumire": "Santa Mare Sat  - Com. Santa Mare",
+    "cod": "308",
+    "codPrimarie": "3373446",
+    "siruta": "38900"
+  },
+  {
+    "denumire": "Sarafine\u015fti Sat  - Com. Corni",
+    "cod": "309",
+    "codPrimarie": "3748503",
+    "siruta": "36792"
+  },
+  {
+    "denumire": "Sarata Sat  - Com. Mih\u0103l\u0103\u015feni",
+    "cod": "310",
+    "codPrimarie": "3373462",
+    "siruta": "38303"
+  },
+  {
+    "denumire": "Sarata Sat  - Com. Rom\u00e2ne\u015fti",
+    "cod": "311",
+    "codPrimarie": "3373438",
+    "siruta": "38884"
+  },
+  {
+    "denumire": "Sarata Basarab Sat  - Com. H\u0103ne\u015fti",
+    "cod": "312",
+    "codPrimarie": "3571613",
+    "siruta": "37654"
+  },
+  {
+    "denumire": "Sarata Dr\u0103gu\u015feni Sat  - Com. Dr\u0103gu\u015feni",
+    "cod": "313",
+    "codPrimarie": "3503635",
+    "siruta": "37208"
+  },
+  {
+    "denumire": "Sat Nou Sat  - Or\u015f. S\u0103veni",
+    "cod": "405",
+    "codPrimarie": "3372050",
+    "siruta": "36122"
+  },
+  {
+    "denumire": "Sauceni\u0163a Sat  - Com. V\u0103cule\u015fti",
+    "cod": "314",
+    "codPrimarie": "3503686",
+    "siruta": "39649"
+  },
+  {
+    "denumire": "Schit-Or\u0103\u015feni Sat  - Com. Criste\u015fti",
+    "cod": "315",
+    "codPrimarie": "3672057",
+    "siruta": "36934"
+  },
+  {
+    "denumire": "Scutari Sat  - Com. Mileanca",
+    "cod": "316",
+    "codPrimarie": "3571567",
+    "siruta": "38358"
+  },
+  {
+    "denumire": "Seli\u015ftea Sat  - Com. Mileanca",
+    "cod": "317",
+    "codPrimarie": "3571567",
+    "siruta": "38367"
+  },
+  {
+    "denumire": "Sili\u015fcani Sat  - Com. Gorb\u0103ne\u015fti",
+    "cod": "318",
+    "codPrimarie": "3373527",
+    "siruta": "37501"
+  },
+  {
+    "denumire": "Sili\u015ftea Sat  - Com. St\u0103uceni",
+    "cod": "319",
+    "codPrimarie": "3372084",
+    "siruta": "35900"
+  },
+  {
+    "denumire": "Slobozia Sat  - Com. P\u0103ltini\u015f",
+    "cod": "321",
+    "codPrimarie": "3571559",
+    "siruta": "38535"
+  },
+  {
+    "denumire": "Slobozia Sat  - Com. Brosc\u0103u\u0163i",
+    "cod": "320",
+    "codPrimarie": "4524946",
+    "siruta": "36444"
+  },
+  {
+    "denumire": "Slobozia Sat  - Com. Cord\u0103reni",
+    "cod": "432",
+    "codPrimarie": "8613981",
+    "siruta": "40009"
+  },
+  {
+    "denumire": "Slobozia H\u0103ne\u015fti Sat  - Com. H\u0103ne\u015fti",
+    "cod": "322",
+    "codPrimarie": "3571613",
+    "siruta": "37663"
+  },
+  {
+    "denumire": "Slobozia Sili\u015fcani Sat  - Com. Mih\u0103l\u0103\u015feni",
+    "cod": "323",
+    "codPrimarie": "3373462",
+    "siruta": "38312"
+  },
+  {
+    "denumire": "Sm\u00e2rdan Sat  - Com. Suhar\u0103u",
+    "cod": "324",
+    "codPrimarie": "3433912",
+    "siruta": "39042"
+  },
+  {
+    "denumire": "Socrujeni Sat  - Com. Gorb\u0103ne\u015fti",
+    "cod": "325",
+    "codPrimarie": "3373527",
+    "siruta": "37510"
+  },
+  {
+    "denumire": "Soroceni Sat  - Com. Un\u0163eni",
+    "cod": "326",
+    "codPrimarie": "3433858",
+    "siruta": "39587"
+  },
+  {
+    "denumire": "Stolniceni Sat  - Com. R\u0103useni",
+    "cod": "327",
+    "codPrimarie": "3373373",
+    "siruta": "38722"
+  },
+  {
+    "denumire": "Store\u015fti Sat  - Com. Frumu\u015fica",
+    "cod": "328",
+    "codPrimarie": "3373322",
+    "siruta": "37360"
+  },
+  {
+    "denumire": "Strahotin Sat  - Com. D\u00e2ngeni",
+    "cod": "329",
+    "codPrimarie": "3373535",
+    "siruta": "37093"
+  },
+  {
+    "denumire": "Stroie\u015fti Sat  - Com. Lunca",
+    "cod": "330",
+    "codPrimarie": "3373390",
+    "siruta": "37930"
+  },
+  {
+    "denumire": "Str\u0103teni Sat  - Com. Lozna",
+    "cod": "331",
+    "codPrimarie": "15676389",
+    "siruta": "37048"
+  },
+  {
+    "denumire": "St\u00e2nca Sat  - Com. George Enescu",
+    "cod": "332",
+    "codPrimarie": "8613990",
+    "siruta": "37440"
+  },
+  {
+    "denumire": "St\u00e2nce\u015fti Sat  - Com. Mihai Eminescu",
+    "cod": "334",
+    "codPrimarie": "3503600",
+    "siruta": "38152"
+  },
+  {
+    "denumire": "St\u0103uceni Sat  - Com. St\u0103uceni",
+    "cod": "336",
+    "codPrimarie": "3372084",
+    "siruta": "35893"
+  },
+  {
+    "denumire": "Suhar\u0103u Sat  - Com. Suhar\u0103u",
+    "cod": "337",
+    "codPrimarie": "3433912",
+    "siruta": "38991"
+  },
+  {
+    "denumire": "Suli\u0163a Sat  - Com. Suli\u0163a",
+    "cod": "339",
+    "codPrimarie": "3373357",
+    "siruta": "39060"
+  },
+  {
+    "denumire": "S\u00e2rbi Sat  - Com. Vl\u0103sine\u015fti",
+    "cod": "341",
+    "codPrimarie": "3373349",
+    "siruta": "39827"
+  },
+  {
+    "denumire": "Talpa Sat  - Com. C\u00e2nde\u015fti",
+    "cod": "343",
+    "codPrimarie": "15676397",
+    "siruta": "38223"
+  },
+  {
+    "denumire": "Timu\u015f Sat  - Com. Avr\u0103meni",
+    "cod": "344",
+    "codPrimarie": "3571591",
+    "siruta": "36275"
+  },
+  {
+    "denumire": "Tocileni Sat  - Com. St\u0103uceni",
+    "cod": "345",
+    "codPrimarie": "3372084",
+    "siruta": "35919"
+  },
+  {
+    "denumire": "Todireni Sat  - Com. Todireni",
+    "cod": "347",
+    "codPrimarie": "3373381",
+    "siruta": "39275"
+  },
+  {
+    "denumire": "Tru\u015fe\u015fti Sat  - Com. Tru\u015fe\u015fti",
+    "cod": "349",
+    "codPrimarie": "3373497",
+    "siruta": "39337"
+  },
+  {
+    "denumire": "Tudor Vladimirescu Sat  - Com. Albe\u015fti",
+    "cod": "350",
+    "codPrimarie": "3373519",
+    "siruta": "36195"
+  },
+  {
+    "denumire": "Tudor Vladimirescu Sat  - Com. Avr\u0103meni",
+    "cod": "351",
+    "codPrimarie": "3571591",
+    "siruta": "36284"
+  },
+  {
+    "denumire": "Tudora Sat  - Com. Tudora",
+    "cod": "353",
+    "codPrimarie": "3672030",
+    "siruta": "39408"
+  },
+  {
+    "denumire": "T\u0103t\u0103r\u0103\u015feni Sat  - Com. Hav\u00e2rna",
+    "cod": "354",
+    "codPrimarie": "3643884",
+    "siruta": "37609"
+  },
+  {
+    "denumire": "T\u0103ute\u015fti Sat  - Com. Ungureni",
+    "cod": "355",
+    "codPrimarie": "3571583",
+    "siruta": "39514"
+  },
+  {
+    "denumire": "Ungureni Sat  - Com. Ungureni",
+    "cod": "357",
+    "codPrimarie": "3571583",
+    "siruta": "39426"
+  },
+  {
+    "denumire": "Unguroaia Sat  - Com. Criste\u015fti",
+    "cod": "358",
+    "codPrimarie": "3672057",
+    "siruta": "36943"
+  },
+  {
+    "denumire": "Un\u0163eni Sat  - Com. Un\u0163eni",
+    "cod": "360",
+    "codPrimarie": "3433858",
+    "siruta": "39541"
+  },
+  {
+    "denumire": "Valea Grajdului Sat  - Com. Un\u0163eni",
+    "cod": "361",
+    "codPrimarie": "3433858",
+    "siruta": "39596"
+  },
+  {
+    "denumire": "Vatra Sat  - Com. Hude\u015fti",
+    "cod": "433",
+    "codPrimarie": "3672022",
+    "siruta": "40027"
+  },
+  {
+    "denumire": "Vicoleni Sat  - Com. Ungureni",
+    "cod": "362",
+    "codPrimarie": "3571583",
+    "siruta": "39523"
+  },
+  {
+    "denumire": "Victoria Sat  - Com. St\u0103uceni",
+    "cod": "363",
+    "codPrimarie": "3372084",
+    "siruta": "35928"
+  },
+  {
+    "denumire": "Victoria Sat  - Com. Hlipiceni",
+    "cod": "364",
+    "codPrimarie": "3373365",
+    "siruta": "37761"
+  },
+  {
+    "denumire": "Viforeni Sat  - Com. Gorb\u0103ne\u015fti",
+    "cod": "365",
+    "codPrimarie": "3373527",
+    "siruta": "37529"
+  },
+  {
+    "denumire": "Vii\u015foara Sat  - Com. Vii\u015foara",
+    "cod": "367",
+    "codPrimarie": "3372149",
+    "siruta": "39667"
+  },
+  {
+    "denumire": "Vii\u015foara Mic\u0103 Sat  - Com. Vii\u015foara",
+    "cod": "368",
+    "codPrimarie": "3372149",
+    "siruta": "39685"
+  },
+  {
+    "denumire": "Vi\u0163cani Sat  - Com. C\u00e2nde\u015fti",
+    "cod": "369",
+    "codPrimarie": "15676397",
+    "siruta": "38232"
+  },
+  {
+    "denumire": "Vl\u0103deni Sat  - Com. Vl\u0103deni",
+    "cod": "371",
+    "codPrimarie": "3748490",
+    "siruta": "39747"
+  },
+  {
+    "denumire": "Vl\u0103deni Sat  - Com. Corl\u0103teni",
+    "cod": "372",
+    "codPrimarie": "4524920",
+    "siruta": "36747"
+  },
+  {
+    "denumire": "Vl\u0103deni-Deal Sat  - Com. Frumu\u015fica",
+    "cod": "373",
+    "codPrimarie": "3373322",
+    "siruta": "37388"
+  },
+  {
+    "denumire": "Vl\u0103sine\u015fti Sat  - Com. Vl\u0103sine\u015fti",
+    "cod": "375",
+    "codPrimarie": "3373349",
+    "siruta": "39809"
+  },
+  {
+    "denumire": "Vorniceni Sat  - Com. Vorniceni",
+    "cod": "377",
+    "codPrimarie": "3643914",
+    "siruta": "39845"
+  },
+  {
+    "denumire": "Vorona Sat  - Com. Vorona",
+    "cod": "379",
+    "codPrimarie": "3672049",
+    "siruta": "39881"
+  },
+  {
+    "denumire": "Vorona Mare Sat  - Com. Vorona",
+    "cod": "380",
+    "codPrimarie": "3672049",
+    "siruta": "39925"
+  },
+  {
+    "denumire": "Vorona-Teodoru Sat  - Com. Vorona",
+    "cod": "381",
+    "codPrimarie": "3672049",
+    "siruta": "39934"
+  },
+  {
+    "denumire": "Vultureni Sat  - Com. Un\u0163eni",
+    "cod": "382",
+    "codPrimarie": "3433858",
+    "siruta": "39603"
+  },
+  {
+    "denumire": "V\u00e2lcelele Sat  - Com. Br\u0103e\u015fti",
+    "cod": "383",
+    "codPrimarie": "3503694",
+    "siruta": "36417"
+  },
+  {
+    "denumire": "V\u00e2n\u0103tori Sat  - Com. Gorb\u0103ne\u015fti",
+    "cod": "384",
+    "codPrimarie": "3373527",
+    "siruta": "37538"
+  },
+  {
+    "denumire": "V\u00e2rfu C\u00e2mpului Sat  - Com. V\u00e2rfu C\u00e2mpului",
+    "cod": "386",
+    "codPrimarie": "3503627",
+    "siruta": "39701"
+  },
+  {
+    "denumire": "V\u0103cule\u015fti Sat  - Com. V\u0103cule\u015fti",
+    "cod": "388",
+    "codPrimarie": "3503686",
+    "siruta": "39621"
+  },
+  {
+    "denumire": "Zahoreni Sat  - Com. Manoleasa",
+    "cod": "389",
+    "codPrimarie": "3643906",
+    "siruta": "38054"
+  },
+  {
+    "denumire": "Zl\u0103tunoaia Sat  - Com. Lunca",
+    "cod": "390",
+    "codPrimarie": "3373390",
+    "siruta": "37949"
+  },
+  {
+    "denumire": "Zoi\u0163ani Sat  - Com. Ad\u0103\u015feni",
+    "cod": "391",
+    "codPrimarie": "18382485",
+    "siruta": "36293"
+  },
+  {
+    "denumire": "Z\u0103ice\u015fti Sat  - Com. B\u0103lu\u015feni",
+    "cod": "392",
+    "codPrimarie": "3433890",
+    "siruta": "36364"
+  },
+  {
+    "denumire": "\u015eendreni Sat  - Com. Frumu\u015fica",
+    "cod": "393",
+    "codPrimarie": "3373322",
+    "siruta": "37379"
+  },
+  {
+    "denumire": "\u015eendriceni Sat  - Com. \u015eendriceni",
+    "cod": "395",
+    "codPrimarie": "3571575",
+    "siruta": "39131"
+  },
+  {
+    "denumire": "\u015eerpeni\u0163a Sat  - Com. Manoleasa",
+    "cod": "396",
+    "codPrimarie": "3643906",
+    "siruta": "38045"
+  },
+  {
+    "denumire": "\u015eold\u0103ne\u015fti Sat  - Com. Bl\u00e2nde\u015fti",
+    "cod": "397",
+    "codPrimarie": "16406308",
+    "siruta": "39113"
+  },
+  {
+    "denumire": "\u015etiubieni Sat  - Com. \u015etiubieni",
+    "cod": "402",
+    "codPrimarie": "3643922",
+    "siruta": "39239"
+  },
+  {
+    "denumire": "\u015eupitca Sat  - Com. Co\u015fula",
+    "cod": "403",
+    "codPrimarie": "15676400",
+    "siruta": "36630"
+  }
+]
