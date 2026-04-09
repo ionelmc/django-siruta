@@ -53,10 +53,11 @@ dynamic = [
     "Sources" = "https://github.com/ionelmc/django-siruta"
 
     [project.scripts]
-    import-siruta-csv = "siruta.cli:run"
+    import-anaf-http = "siruta.import_anaf:run"
+    import-siruta-csv = "siruta.import_csv:run"
 
     [project.optional-dependencies]
-    cli = ["msgspec"]
+    cli = ["msgspec", "niquests"]
 
 [build-system]
 requires = [

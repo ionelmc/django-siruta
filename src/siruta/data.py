@@ -1,3 +1,5 @@
+# contains leaf-only data
+
 COUNTY_IDS_BY_CODE = {
     "AB": 1,
     "AR": 2,

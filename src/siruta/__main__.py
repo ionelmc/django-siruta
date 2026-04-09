@@ -9,7 +9,7 @@ Why does this file exist, and why __main__? For more info, read:
 - https://docs.python.org/3/using/cmdline.html#cmdoption-m
 """
 
-from siruta.cli import run
+from siruta.import_csv import run
 
 if __name__ == "__main__":
     run()
