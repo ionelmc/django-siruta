@@ -32,7 +32,7 @@ parser = argparse.ArgumentParser(description="Command description.")
 parser.add_argument(
     dest="localities_file",
     metavar="CSV",
-    default=data_path / "siruta_an_2024.csv",
+    default=data_path / "siruta_s1_2025.csv",
     nargs="?",
     type=Path,
     help="Input CSV file. Default: %(default)s",
@@ -153,7 +153,7 @@ class SirutaRow(msgspec.Struct):
     id: int = msgspec.field(name="SIRUTA")
     name: str = msgspec.field(name="DENLOC")
     county: int = msgspec.field(name="JUD")
-    parent: int = msgspec.field(name="SIRSUP")
+    parent_id: int = msgspec.field(name="SIRSUP")
     type: SirutaTypes = msgspec.field(name="TIP")
     level: SirutaLevel = msgspec.field(name="NIV")
     area: SirutaArea = msgspec.field(name="MED")
@@ -163,6 +163,7 @@ class SirutaRow(msgspec.Struct):
 
     ascii_name: str = None
     children: list = msgspec.field(default_factory=list)
+    parent_row: SirutaRow | None = None
 
     def __post_init__(self):
         self.ascii_name = unidecode(self.name)
@@ -187,9 +188,10 @@ def run(args=None):
         fields = reader.fieldnames
         print(f"Reading {args.localities_file!r} with fields: {fields!r}")
         counties = {}
-        localities_by_county = {}
+        localities_by_county: dict[int, list[SirutaRow]] = {}
         entries = {}
         rows = {}
+        aliases = {}
         for row in reader:
             row = msgspec.convert(row, type=SirutaRow, strict=False)
             rows[row.id] = row
@@ -200,16 +202,20 @@ def run(args=None):
                 localities_by_county[row.county] = []
 
             entries[row.id] = row
-            if row.parent > 1:
-                entries[row.parent].children.append(row)
+            if row.parent_id > 1:
+                entries[row.parent_id].children.append(row)
 
         for row in entries.values():
             if not (row.type == SirutaTypes.judet or row.children):
                 localities_by_county[row.county].append(row)
 
+        for row in entries.values():
+            if row.parent_id in entries:
+                row.parent_row = entries[row.parent_id]
+
         def ordering_key(row):
-            if row.parent > 1:
-                return SIRUTA_TYPE_REORDER.index(row.type), *ordering_key(rows[row.parent]), row.ascii_name
+            if row.parent_id > 1:
+                return SIRUTA_TYPE_REORDER.index(row.type), *ordering_key(rows[row.parent_id]), row.ascii_name
             else:
                 return SIRUTA_TYPE_REORDER.index(row.type), row.ascii_name
 
@@ -217,9 +223,12 @@ def run(args=None):
         for county, localities in localities_by_county.items():
             localities_by_county_by_id[county] = localities_by_id = {}
             localities.sort(key=ordering_key)
+
             for locality in localities:
+                aliases.setdefault(locality.parent_id, locality.id)
                 localities_by_id[locality.id] = locality.name
 
+        # aliases = {k: v for v, k in aliases.items()}
         with args.output_path.joinpath("data.py").open("w") as consts_fh:
             consts_fh.write("COUNTY_IDS_BY_CODE = {\n    ")
             consts_fh.write("\n    ".join(f'"{v}": {k!r},' for k, v in county_codes.items()))
@@ -227,11 +236,14 @@ def run(args=None):
             consts_fh.write("COUNTY_CODES_BY_ID = {code: county_id for county_id, code in COUNTY_IDS_BY_CODE.items()}\n\n")
             consts_fh.write("COUNTIES_BY_ID = {\n    ")
             consts_fh.write("\n    ".join(f'{k!r}: "{v}",' for k, v in counties.items()))
-            consts_fh.write("\n}\n\nLOCALITIES_BY_COUNTY_ID = {")
+            consts_fh.write("\n}\n\nLOCALITIES_BY_COUNTY_ID = {  # contains leaf-only data")
             for county_id, localities in localities_by_county_by_id.items():
                 consts_fh.write(f"\n    {county_id!r}: {{  # {counties[county_id]}\n        ")
                 consts_fh.write("\n        ".join(f'{k!r}: "{v}",' for k, v in localities.items()))
                 consts_fh.write("\n    },")
+            consts_fh.write("\n}\n\nLOCALITY_ALIASES = {  # maps parents to first most important child")
+            for parent_id, concrete_id in aliases.items():
+                consts_fh.write(f"\n    {parent_id!r}: {concrete_id},  # {entries[parent_id].name} -> {entries[concrete_id].name}")
             consts_fh.write("\n}\n")
 
         with args.output_path.joinpath("static", "siruta", "counties.js").open("w") as fh:
