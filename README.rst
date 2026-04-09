@@ -2,7 +2,6 @@
 Overview
 ========
 
-.. start-badges
 
 .. list-table::
     :stub-columns: 1
@@ -10,55 +9,37 @@ Overview
     * - docs
       - |docs|
     * - tests
-      - |github-actions|
-        |coveralls|
-        |codecov|
+      - |github-actions| |coveralls| |codecov|
     * - package
-      - |version|
-        |wheel|
-        |supported-versions|
-        |supported-implementations|
-        |commits-since|
-
+      - |version| |wheel| |supported-versions| |supported-implementations| |commits-since|
 .. |docs| image:: https://readthedocs.org/projects/django-siruta/badge/?style=flat
     :target: https://readthedocs.org/projects/django-siruta/
     :alt: Documentation Status
-
 .. |github-actions| image:: https://github.com/ionelmc/django-siruta/actions/workflows/github-actions.yml/badge.svg
     :alt: GitHub Actions Build Status
     :target: https://github.com/ionelmc/django-siruta/actions
-
 .. |coveralls| image:: https://coveralls.io/repos/github/ionelmc/django-siruta/badge.svg?branch=main
     :alt: Coverage Status
     :target: https://coveralls.io/github/ionelmc/django-siruta?branch=main
-
 .. |codecov| image:: https://codecov.io/gh/ionelmc/django-siruta/branch/main/graphs/badge.svg?branch=main
     :alt: Coverage Status
     :target: https://app.codecov.io/github/ionelmc/django-siruta
-
 .. |version| image:: https://img.shields.io/pypi/v/django-siruta.svg
     :alt: PyPI Package latest release
     :target: https://pypi.org/project/django-siruta
-
 .. |wheel| image:: https://img.shields.io/pypi/wheel/django-siruta.svg
     :alt: PyPI Wheel
     :target: https://pypi.org/project/django-siruta
-
 .. |supported-versions| image:: https://img.shields.io/pypi/pyversions/django-siruta.svg
     :alt: Supported versions
     :target: https://pypi.org/project/django-siruta
-
 .. |supported-implementations| image:: https://img.shields.io/pypi/implementation/django-siruta.svg
     :alt: Supported implementations
     :target: https://pypi.org/project/django-siruta
-
 .. |commits-since| image:: https://img.shields.io/github/commits-since/ionelmc/django-siruta/v0.2.1.svg
     :alt: Commits since latest release
     :target: https://github.com/ionelmc/django-siruta/compare/v0.2.1...main
 
-
-
-.. end-badges
 
 A bunch of form fields and utilities for Romanian counties and localities using SIRUTA codes.
 

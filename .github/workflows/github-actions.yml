@@ -17,65 +17,53 @@ jobs:
             python: '3.13'
             tox_env: 'docs'
             os: 'ubuntu-latest'
-          - name: 'py39 (ubuntu)'
-            python: '3.9'
-            python_arch: 'x64'
-            tox_env: 'py39'
-            os: 'ubuntu-latest'
-            cover: true
-          - name: 'py310 (ubuntu)'
+          - name: 'py310 (ubuntu/x64)'
             python: '3.10'
             python_arch: 'x64'
             tox_env: 'py310'
             os: 'ubuntu-latest'
             cover: true
-          - name: 'py311 (ubuntu)'
+          - name: 'py311 (ubuntu/x64)'
             python: '3.11'
             python_arch: 'x64'
             tox_env: 'py311'
             os: 'ubuntu-latest'
             cover: true
-          - name: 'py312 (ubuntu)'
+          - name: 'py312 (ubuntu/x64)'
             python: '3.12'
             python_arch: 'x64'
             tox_env: 'py312'
             os: 'ubuntu-latest'
             cover: true
-          - name: 'py313 (ubuntu)'
+          - name: 'py313 (ubuntu/x64)'
             python: '3.13'
             python_arch: 'x64'
             tox_env: 'py313'
             os: 'ubuntu-latest'
             cover: true
-          - name: 'py314 (ubuntu)'
+          - name: 'py314 (ubuntu/x64)'
             python: '3.14'
             python_arch: 'x64'
             tox_env: 'py314'
             os: 'ubuntu-latest'
             cover: true
-          - name: 'pypy39 (ubuntu)'
-            python: 'pypy-3.9'
-            python_arch: 'x64'
-            tox_env: 'pypy39'
-            os: 'ubuntu-latest'
-            cover: true
-          - name: 'pypy310 (ubuntu)'
+          - name: 'pypy310 (ubuntu/x64)'
             python: 'pypy-3.10'
             python_arch: 'x64'
             tox_env: 'pypy310'
             os: 'ubuntu-latest'
             cover: true
-          - name: 'pypy311 (ubuntu)'
+          - name: 'pypy311 (ubuntu/x64)'
             python: 'pypy-3.11'
             python_arch: 'x64'
             tox_env: 'pypy311'
             os: 'ubuntu-latest'
             cover: true
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v6
       with:
         fetch-depth: 0
-    - uses: actions/setup-python@v5
+    - uses: actions/setup-python@v6
       with:
         python-version: ${{ matrix.python }}
         architecture: ${{ matrix.python_arch }}

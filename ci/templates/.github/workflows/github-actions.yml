@@ -30,7 +30,7 @@ jobs:
 {% for os, python_arch in [
     ['ubuntu', 'x64'],
 ] %}
-          - name: '{{ env }} ({{ os }})'
+          - name: '{{ env }} ({{ os }}/{{ python_arch }})'
             python: '{{ python }}'
             python_arch: '{{ python_arch }}'
             tox_env: '{{ env }}'
@@ -39,10 +39,10 @@ jobs:
 {% endfor %}
 {% endfor %}
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v6
       with:
         fetch-depth: 0
-    - uses: actions/setup-python@v5
+    - uses: actions/setup-python@v6
       with:
         python-version: {{ '${{ matrix.python }}' }}
         architecture: {{ '${{ matrix.python_arch }}' }}
@@ -76,4 +76,4 @@ jobs:
     - uses: coverallsapp/github-action@v2
       with:
         parallel-finished: true
-{{ '' }}
+{{- '' }}

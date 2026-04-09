@@ -1,32 +1,30 @@
-[build-system]
-requires = [
-    "setuptools>=80",
-]
-build-backend = "setuptools.build_meta"
-
 [project]
-dynamic = [
-    "readme",
-]
 name = "django-siruta"
 version = "0.2.1"
+description = "A bunch of form fields and utilities for Romanian counties and localities using SIRUTA codes."
+requires-python = ">=3.10"
 license = "BSD-2-Clause"
 license-files = ["LICENSE"]
-description = "A bunch of form fields and utilities for Romanian counties and localities using SIRUTA codes."
 authors = [
     { name = "Ionel Cristian Mărieș", email = "contact@ionelmc.ro" },
+]
+keywords = [
+    "counties",
+    "county",
+    "romania",
+    "romanian",
+    "siruta",
 ]
 classifiers = [
     # complete classifier list: http://pypi.python.org/pypi?%3Aaction=list_classifiers
     "Development Status :: 5 - Production/Stable",
     "Intended Audience :: Developers",
-    "Operating System :: Unix",
-    "Operating System :: POSIX",
     "Operating System :: Microsoft :: Windows",
+    "Operating System :: POSIX",
+    "Operating System :: Unix",
     "Programming Language :: Python",
     "Programming Language :: Python :: 3",
     "Programming Language :: Python :: 3 :: Only",
-    "Programming Language :: Python :: 3.9",
     "Programming Language :: Python :: 3.10",
     "Programming Language :: Python :: 3.11",
     "Programming Language :: Python :: 3.12",
@@ -40,85 +38,81 @@ classifiers = [
     # "Programming Language :: Python :: Implementation :: Stackless",
     "Topic :: Utilities",
 ]
-keywords = [
-    "siruta",
-    "romania",
-    "romanian",
-    "counties",
-    "county",
-]
-requires-python = ">=3.9"
 dependencies = [
+    "django",
     "unidecode",
-    "django",
+]
+dynamic = [
+    "readme",
 ]
 
-[project.optional-dependencies]
-msgspec = [
-    "msgspec",
+    [project.urls]
+    "Changelog" = "https://django-siruta.readthedocs.io/en/latest/changelog.html"
+    "Documentation" = "https://django-siruta.readthedocs.io/"
+    "Issue Tracker" = "https://github.com/ionelmc/django-siruta/issues"
+    "Sources" = "https://github.com/ionelmc/django-siruta"
+
+    [project.scripts]
+    import-siruta-csv = "siruta.cli:run"
+
+    [project.optional-dependencies]
+    cli = ["msgspec"]
+
+[build-system]
+requires = [
+    "setuptools>=80",
 ]
-
-[dependency-groups]
-test = [
-    "pytest",
-    "django",
-]
-
-[project.scripts]
-import-siruta-csv = "siruta.cli:run"
-
-[project.urls]
-"Sources" = "https://github.com/ionelmc/django-siruta"
-"Documentation" = "https://django-siruta.readthedocs.io/"
-"Changelog" = "https://django-siruta.readthedocs.io/en/latest/changelog.html"
-"Issue Tracker" = "https://github.com/ionelmc/django-siruta/issues"
+build-backend = "setuptools.build_meta"
 
 [tool.ruff]
 extend-exclude = ["static", "ci/templates"]
 line-length = 140
 src = ["src", "tests"]
-target-version = "py39"
+target-version = "py310"
 
-[tool.ruff.lint.per-file-ignores]
-"ci/*" = ["S"]
+    [tool.ruff.lint]
+    ignore = [
+        "RUF001",  # ruff-specific rules ambiguous-unicode-character-string
+        "S101",  # flake8-bandit assert
+        "S308",  # flake8-bandit suspicious-mark-safe-usage
+        "S603",  # flake8-bandit subprocess-without-shell-equals-true
+        "S607",  # flake8-bandit start-process-with-partial-path
+        "E501",  # pycodestyle line-too-long
+    ]
+    select = [
+        "B",  # flake8-bugbear
+        "C4",  # flake8-comprehensions
+        "DTZ",  # flake8-datetimez
+        "E",  # pycodestyle errors
+        "EXE",  # flake8-executable
+        "F",  # pyflakes
+        "I",  # isort
+        "INT",  # flake8-gettext
+        "PIE",  # flake8-pie
+        "PLC",  # pylint convention
+        "PLE",  # pylint errors
+        "PT",  # flake8-pytest-style
+        "PTH",  # flake8-use-pathlib
+        "RSE",  # flake8-raise
+        "RUF",  # ruff-specific rules
+        "S",  # flake8-bandit
+        "UP",  # pyupgrade
+        "W",  # pycodestyle warnings
+    ]
 
-[tool.ruff.lint]
-ignore = [
-    "RUF001", # ruff-specific rules ambiguous-unicode-character-string
-    "S101",   # flake8-bandit assert
-    "S308",   # flake8-bandit suspicious-mark-safe-usage
-    "S603",   # flake8-bandit subprocess-without-shell-equals-true
-    "S607",   # flake8-bandit start-process-with-partial-path
-    "E501",   # pycodestyle line-too-long
-]
-select = [
-    "B",   # flake8-bugbear
-    "C4",  # flake8-comprehensions
-    "DTZ", # flake8-datetimez
-    "E",   # pycodestyle errors
-    "EXE", # flake8-executable
-    "F",   # pyflakes
-    "I",   # isort
-    "INT", # flake8-gettext
-    "PIE", # flake8-pie
-    "PLC", # pylint convention
-    "PLE", # pylint errors
-    "PT",  # flake8-pytest-style
-    "PTH", # flake8-use-pathlib
-    "RSE", # flake8-raise
-    "RUF", # ruff-specific rules
-    "S",   # flake8-bandit
-    "UP",  # pyupgrade
-    "W",   # pycodestyle warnings
-]
+        [tool.ruff.lint.per-file-ignores]
+        "ci/*" = ["S"]
 
-[tool.ruff.lint.flake8-pytest-style]
-fixture-parentheses = false
-mark-parentheses = false
+        [tool.ruff.lint.flake8-pytest-style]
+        fixture-parentheses = false
+        mark-parentheses = false
 
-[tool.ruff.lint.isort]
-forced-separate = ["conftest"]
-force-single-line = true
+        [tool.ruff.lint.isort]
+        forced-separate = ["conftest"]
+        force-single-line = true
 
-[tool.ruff.format]
-quote-style = "double"
+    [tool.ruff.format]
+    quote-style = "double"
+
+[tool.setuptools.dynamic]
+readme = { file = ["README.rst", "CHANGELOG.rst"] }
