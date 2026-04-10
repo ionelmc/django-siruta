@@ -36,9 +36,9 @@ Overview
 .. |supported-implementations| image:: https://img.shields.io/pypi/implementation/django-siruta.svg
     :alt: Supported implementations
     :target: https://pypi.org/project/django-siruta
-.. |commits-since| image:: https://img.shields.io/github/commits-since/ionelmc/django-siruta/v0.2.1.svg
+.. |commits-since| image:: https://img.shields.io/github/commits-since/ionelmc/django-siruta/v0.3.0.svg
     :alt: Commits since latest release
-    :target: https://github.com/ionelmc/django-siruta/compare/v0.2.1...main
+    :target: https://github.com/ionelmc/django-siruta/compare/v0.3.0...main
 
 
 A bunch of form fields and utilities for Romanian counties and localities using SIRUTA codes.
