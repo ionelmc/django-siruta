@@ -1,185 +1,5 @@
 [
   {
-    "denumire": "Cimpa Loc.  - Or\u015f. Petrila",
-    "cod": "114",
-    "codPrimarie": "4375097",
-    "siruta": "87095"
-  },
-  {
-    "denumire": "C\u00e2mpu lui Neag Loc.  - Or\u015f. Uricani",
-    "cod": "147",
-    "codPrimarie": "4634647",
-    "siruta": "87157"
-  },
-  {
-    "denumire": "Dealu Babii Loc.  - Mun. Vulcan",
-    "cod": "164",
-    "codPrimarie": "4375267",
-    "siruta": "87193"
-  },
-  {
-    "denumire": "D\u00e2lja Mare Loc.  - Mun. Petro\u015fani",
-    "cod": "182",
-    "codPrimarie": "4468943",
-    "siruta": "87013"
-  },
-  {
-    "denumire": "D\u00e2lja Mic\u0103 Loc.  - Mun. Petro\u015fani",
-    "cod": "183",
-    "codPrimarie": "4468943",
-    "siruta": "87022"
-  },
-  {
-    "denumire": "Jie\u0163 Loc.  - Or\u015f. Petrila",
-    "cod": "246",
-    "codPrimarie": "4375097",
-    "siruta": "87102"
-  },
-  {
-    "denumire": "Jiu-Paro\u015feni Loc.  - Mun. Vulcan",
-    "cod": "247",
-    "codPrimarie": "4375267",
-    "siruta": "87200"
-  },
-  {
-    "denumire": "N\u0103la\u0163-Vad Loc.  - Or\u015f. Ha\u0163eg",
-    "cod": "303",
-    "codPrimarie": "5453878",
-    "siruta": "87594"
-  },
-  {
-    "denumire": "Pe\u015ftera Loc.  - Mun. Petro\u015fani",
-    "cod": "333",
-    "codPrimarie": "4468943",
-    "siruta": "87031"
-  },
-  {
-    "denumire": "R\u0103c\u0103\u015ftie Loc.  - Mun. Hunedoara",
-    "cod": "402",
-    "codPrimarie": "2127028",
-    "siruta": "86838"
-  },
-  {
-    "denumire": "R\u0103scoala Loc.  - Or\u015f. Petrila",
-    "cod": "404",
-    "codPrimarie": "4375097",
-    "siruta": "87111"
-  },
-  {
-    "denumire": "Sl\u0103tinioara Loc.  - Mun. Petro\u015fani",
-    "cod": "414",
-    "codPrimarie": "4468943",
-    "siruta": "87040"
-  },
-  {
-    "denumire": "Streis\u00e2ngiorgiu Loc.  - Or\u015f. C\u0103lan",
-    "cod": "422",
-    "codPrimarie": "5742434",
-    "siruta": "87442"
-  },
-  {
-    "denumire": "S\u00e2ntuhalm Loc.  - Mun. Deva",
-    "cod": "435",
-    "codPrimarie": "4374393",
-    "siruta": "86703"
-  },
-  {
-    "denumire": "Tirici Loc.  - Or\u015f. Petrila",
-    "cod": "458",
-    "codPrimarie": "4375097",
-    "siruta": "87120"
-  },
-  {
-    "denumire": "Valea de Brazi Loc.  - Or\u015f. Uricani",
-    "cod": "508",
-    "codPrimarie": "4634647",
-    "siruta": "87166"
-  },
-  {
-    "denumire": "Deva Mun. ",
-    "cod": "170",
-    "codPrimarie": "4374393",
-    "siruta": "86696"
-  },
-  {
-    "denumire": "Brad Mun. ",
-    "cod": "53",
-    "codPrimarie": "4374962",
-    "siruta": "87308"
-  },
-  {
-    "denumire": "Hunedoara Mun. ",
-    "cod": "234",
-    "codPrimarie": "2127028",
-    "siruta": "86829"
-  },
-  {
-    "denumire": "Lupeni Mun. ",
-    "cod": "268",
-    "codPrimarie": "4375046",
-    "siruta": "87068"
-  },
-  {
-    "denumire": "Or\u0103\u015ftie Mun. ",
-    "cod": "316",
-    "codPrimarie": "4634515",
-    "siruta": "87647"
-  },
-  {
-    "denumire": "Petro\u015fani Mun. ",
-    "cod": "330",
-    "codPrimarie": "4468943",
-    "siruta": "87004"
-  },
-  {
-    "denumire": "Vulcan Mun. ",
-    "cod": "519",
-    "codPrimarie": "4375267",
-    "siruta": "87184"
-  },
-  {
-    "denumire": "Aninoasa Or\u015f. ",
-    "cod": "9",
-    "codPrimarie": "4468994",
-    "siruta": "87228"
-  },
-  {
-    "denumire": "C\u0103lan Or\u015f. ",
-    "cod": "156",
-    "codPrimarie": "5742434",
-    "siruta": "87433"
-  },
-  {
-    "denumire": "Geoagiu Or\u015f. ",
-    "cod": "204",
-    "codPrimarie": "5742426",
-    "siruta": "89561"
-  },
-  {
-    "denumire": "Ha\u0163eg Or\u015f. ",
-    "cod": "227",
-    "codPrimarie": "5453878",
-    "siruta": "87585"
-  },
-  {
-    "denumire": "Petrila Or\u015f. ",
-    "cod": "328",
-    "codPrimarie": "4375097",
-    "siruta": "87086"
-  },
-  {
-    "denumire": "Simeria Or\u015f. ",
-    "cod": "412",
-    "codPrimarie": "4375135",
-    "siruta": "87674"
-  },
-  {
-    "denumire": "Uricani Or\u015f. ",
-    "cod": "491",
-    "codPrimarie": "4634647",
-    "siruta": "87148"
-  },
-  {
     "denumire": "Abucea Sat  - Com. Dobra",
     "cod": "1",
     "codPrimarie": "4374113",
@@ -226,6 +46,12 @@
     "cod": "8",
     "codPrimarie": "4521320",
     "siruta": "89044"
+  },
+  {
+    "denumire": "Aninoasa Or\u015f. ",
+    "cod": "9",
+    "codPrimarie": "4468994",
+    "siruta": "87228"
   },
   {
     "denumire": "Archia Sat  - Mun. Deva",
@@ -448,6 +274,12 @@
     "cod": "51",
     "codPrimarie": "4521338",
     "siruta": "88458"
+  },
+  {
+    "denumire": "Brad Mun. ",
+    "cod": "53",
+    "codPrimarie": "4374962",
+    "siruta": "87308"
   },
   {
     "denumire": "Brazi Sat  - Com. R\u00e2u de Mori",
@@ -732,6 +564,12 @@
     "siruta": "89614"
   },
   {
+    "denumire": "Cimpa Loc.  - Or\u015f. Petrila",
+    "cod": "114",
+    "codPrimarie": "4375097",
+    "siruta": "87095"
+  },
+  {
     "denumire": "Cinci\u015f-Cerna Sat  - Com. Teliucu Inferior",
     "cod": "115",
     "codPrimarie": "4727010",
@@ -918,6 +756,12 @@
     "siruta": "90477"
   },
   {
+    "denumire": "C\u00e2mpu lui Neag Loc.  - Or\u015f. Uricani",
+    "cod": "147",
+    "codPrimarie": "4634647",
+    "siruta": "87157"
+  },
+  {
     "denumire": "C\u00e2mpuri de Sus Sat  - Com. Gurasada",
     "cod": "148",
     "codPrimarie": "4374172",
@@ -958,6 +802,12 @@
     "cod": "155",
     "codPrimarie": "4374024",
     "siruta": "88127"
+  },
+  {
+    "denumire": "C\u0103lan Or\u015f. ",
+    "cod": "156",
+    "codPrimarie": "5742434",
+    "siruta": "87433"
   },
   {
     "denumire": "C\u0103lanu Mic Sat  - Or\u015f. C\u0103lan",
@@ -1002,6 +852,12 @@
     "siruta": "91848"
   },
   {
+    "denumire": "Dealu Babii Loc.  - Mun. Vulcan",
+    "cod": "164",
+    "codPrimarie": "4375267",
+    "siruta": "87193"
+  },
+  {
     "denumire": "Dealu Mare Sat  - Com. V\u0103li\u015foara",
     "cod": "165",
     "codPrimarie": "4521419",
@@ -1024,6 +880,12 @@
     "cod": "168",
     "codPrimarie": "5453789",
     "siruta": "89357"
+  },
+  {
+    "denumire": "Deva Mun. ",
+    "cod": "170",
+    "codPrimarie": "4374393",
+    "siruta": "86696"
   },
   {
     "denumire": "Dobra Sat  - Com. Dobra",
@@ -1084,6 +946,18 @@
     "cod": "181",
     "codPrimarie": "4374202",
     "siruta": "88813"
+  },
+  {
+    "denumire": "D\u00e2lja Mare Loc.  - Mun. Petro\u015fani",
+    "cod": "182",
+    "codPrimarie": "4468943",
+    "siruta": "87013"
+  },
+  {
+    "denumire": "D\u00e2lja Mic\u0103 Loc.  - Mun. Petro\u015fani",
+    "cod": "183",
+    "codPrimarie": "4468943",
+    "siruta": "87022"
   },
   {
     "denumire": "D\u00e2ncu Mare Sat  - Com. M\u0103rtine\u015fti",
@@ -1200,16 +1074,16 @@
     "siruta": "89623"
   },
   {
-    "denumire": "General Berthelot Sat  - Com. General Berthelot",
-    "cod": "488",
-    "codPrimarie": "5453835",
-    "siruta": "91740"
-  },
-  {
     "denumire": "Geoagiu Sat  - Or\u015f. Geoagiu",
     "cod": "203",
     "codPrimarie": "5742426",
     "siruta": "89570"
+  },
+  {
+    "denumire": "Geoagiu Or\u015f. ",
+    "cod": "204",
+    "codPrimarie": "5742426",
+    "siruta": "89561"
   },
   {
     "denumire": "Geoagiu-B\u0103i Sat  - Or\u015f. Geoagiu",
@@ -1332,6 +1206,12 @@
     "siruta": "88706"
   },
   {
+    "denumire": "Ha\u0163eg Or\u015f. ",
+    "cod": "227",
+    "codPrimarie": "5453878",
+    "siruta": "87585"
+  },
+  {
     "denumire": "Herepeia Sat  - Com. Ve\u0163el",
     "cod": "228",
     "codPrimarie": "4374105",
@@ -1366,6 +1246,12 @@
     "cod": "233",
     "codPrimarie": "4374083",
     "siruta": "89286"
+  },
+  {
+    "denumire": "Hunedoara Mun. ",
+    "cod": "234",
+    "codPrimarie": "2127028",
+    "siruta": "86829"
   },
   {
     "denumire": "H\u0103r\u0103u Sat  - Com. H\u0103r\u0103u",
@@ -1420,6 +1306,18 @@
     "cod": "245",
     "codPrimarie": "4521362",
     "siruta": "90306"
+  },
+  {
+    "denumire": "Jie\u0163 Loc.  - Or\u015f. Petrila",
+    "cod": "246",
+    "codPrimarie": "4375097",
+    "siruta": "87102"
+  },
+  {
+    "denumire": "Jiu-Paro\u015feni Loc.  - Mun. Vulcan",
+    "cod": "247",
+    "codPrimarie": "4375267",
+    "siruta": "87200"
   },
   {
     "denumire": "Josani Sat  - Com. Pe\u015fti\u015fu Mic",
@@ -1524,6 +1422,12 @@
     "siruta": "92140"
   },
   {
+    "denumire": "Lupeni Mun. ",
+    "cod": "268",
+    "codPrimarie": "4375046",
+    "siruta": "87068"
+  },
+  {
     "denumire": "L\u0103pugiu de Jos Sat  - Com. L\u0103pugiu de Jos",
     "cod": "270",
     "codPrimarie": "4374180",
@@ -1560,16 +1464,16 @@
     "siruta": "90173"
   },
   {
-    "denumire": "Meri\u015for Sat  - Com. Bucure\u015fci",
-    "cod": "277",
-    "codPrimarie": "4521290",
-    "siruta": "88895"
-  },
-  {
     "denumire": "Meri\u015for Sat  - Com. B\u0103ni\u0163a",
     "cod": "276",
     "codPrimarie": "8713590",
     "siruta": "87273"
+  },
+  {
+    "denumire": "Meri\u015for Sat  - Com. Bucure\u015fci",
+    "cod": "277",
+    "codPrimarie": "4521290",
+    "siruta": "88895"
   },
   {
     "denumire": "Meri\u015foru de Munte Sat  - Com. Cerb\u0103l",
@@ -1584,16 +1488,16 @@
     "siruta": "89650"
   },
   {
-    "denumire": "Mesteac\u0103n Sat  - Com. R\u0103chitova",
-    "cod": "281",
-    "codPrimarie": "4521370",
-    "siruta": "90789"
-  },
-  {
     "denumire": "Mesteac\u0103n Sat  - Mun. Brad",
     "cod": "280",
     "codPrimarie": "4374962",
     "siruta": "87317"
+  },
+  {
+    "denumire": "Mesteac\u0103n Sat  - Com. R\u0103chitova",
+    "cod": "281",
+    "codPrimarie": "4521370",
+    "siruta": "90789"
   },
   {
     "denumire": "Mic\u0103ne\u015fti Sat  - Com. Zam",
@@ -1716,6 +1620,12 @@
     "siruta": "87497"
   },
   {
+    "denumire": "N\u0103la\u0163-Vad Loc.  - Or\u015f. Ha\u0163eg",
+    "cod": "303",
+    "codPrimarie": "5453878",
+    "siruta": "87594"
+  },
+  {
     "denumire": "Ob\u00e2r\u015fa Sat  - Com. Tome\u015fti",
     "cod": "304",
     "codPrimarie": "4521303",
@@ -1788,6 +1698,12 @@
     "siruta": "88172"
   },
   {
+    "denumire": "Or\u0103\u015ftie Mun. ",
+    "cod": "316",
+    "codPrimarie": "4634515",
+    "siruta": "87647"
+  },
+  {
     "denumire": "Or\u0103\u015ftioara de Jos Sat  - Com. Beriu",
     "cod": "317",
     "codPrimarie": "4521281",
@@ -1848,10 +1764,22 @@
     "siruta": "89124"
   },
   {
+    "denumire": "Petrila Or\u015f. ",
+    "cod": "328",
+    "codPrimarie": "4375097",
+    "siruta": "87086"
+  },
+  {
     "denumire": "Petros Sat  - Com. Baru",
     "cod": "329",
     "codPrimarie": "4521427",
     "siruta": "88029"
+  },
+  {
+    "denumire": "Petro\u015fani Mun. ",
+    "cod": "330",
+    "codPrimarie": "4468943",
+    "siruta": "87004"
   },
   {
     "denumire": "Pe\u015fteana Sat  - Com. Densu\u015f",
@@ -1864,6 +1792,12 @@
     "cod": "332",
     "codPrimarie": "5453789",
     "siruta": "89393"
+  },
+  {
+    "denumire": "Pe\u015ftera Loc.  - Mun. Petro\u015fani",
+    "cod": "333",
+    "codPrimarie": "4468943",
+    "siruta": "87031"
   },
   {
     "denumire": "Pe\u015ftera Sat  - Com. B\u0103i\u0163a",
@@ -1944,16 +1878,16 @@
     "siruta": "89213"
   },
   {
-    "denumire": "Poieni Sat  - Com. Beriu",
-    "cod": "349",
-    "codPrimarie": "4521281",
-    "siruta": "88323"
-  },
-  {
     "denumire": "Poieni Sat  - Com. Densu\u015f",
     "cod": "348",
     "codPrimarie": "5453789",
     "siruta": "89400"
+  },
+  {
+    "denumire": "Poieni Sat  - Com. Beriu",
+    "cod": "349",
+    "codPrimarie": "4521281",
+    "siruta": "88323"
   },
   {
     "denumire": "Poieni\u0163a Sat  - Com. Bal\u015fa",
@@ -2118,16 +2052,16 @@
     "siruta": "91036"
   },
   {
-    "denumire": "Rovina Sat  - Com. Bucure\u015fci",
-    "cod": "382",
-    "codPrimarie": "4521290",
-    "siruta": "88902"
-  },
-  {
     "denumire": "Rovina Sat  - Com. Br\u0103ni\u015fca",
     "cod": "381",
     "codPrimarie": "4374075",
     "siruta": "88617"
+  },
+  {
+    "denumire": "Rovina Sat  - Com. Bucure\u015fci",
+    "cod": "382",
+    "codPrimarie": "4521290",
+    "siruta": "88902"
   },
   {
     "denumire": "Ro\u015fcani Sat  - Com. Dobra",
@@ -2232,10 +2166,22 @@
     "siruta": "88252"
   },
   {
+    "denumire": "R\u0103c\u0103\u015ftie Loc.  - Mun. Hunedoara",
+    "cod": "402",
+    "codPrimarie": "2127028",
+    "siruta": "86838"
+  },
+  {
     "denumire": "R\u0103dule\u015fti Sat  - Com. Dobra",
     "cod": "403",
     "codPrimarie": "4374113",
     "siruta": "89516"
+  },
+  {
+    "denumire": "R\u0103scoala Loc.  - Or\u015f. Petrila",
+    "cod": "404",
+    "codPrimarie": "4375097",
+    "siruta": "87111"
   },
   {
     "denumire": "Sarmizegetusa Sat  - Com. Sarmizegetusa",
@@ -2250,16 +2196,16 @@
     "siruta": "88332"
   },
   {
-    "denumire": "Sibi\u015fel Sat  - Com. R\u00e2u de Mori",
-    "cod": "409",
-    "codPrimarie": "4633285",
-    "siruta": "90958"
-  },
-  {
     "denumire": "Sibi\u015fel Sat  - Com. Beriu",
     "cod": "408",
     "codPrimarie": "4521281",
     "siruta": "88341"
+  },
+  {
+    "denumire": "Sibi\u015fel Sat  - Com. R\u00e2u de Mori",
+    "cod": "409",
+    "codPrimarie": "4633285",
+    "siruta": "90958"
   },
   {
     "denumire": "Silva\u015fu de Jos Sat  - Or\u015f. Ha\u0163eg",
@@ -2274,10 +2220,22 @@
     "siruta": "87610"
   },
   {
+    "denumire": "Simeria Or\u015f. ",
+    "cod": "412",
+    "codPrimarie": "4375135",
+    "siruta": "87674"
+  },
+  {
     "denumire": "Simeria Veche Sat  - Or\u015f. Simeria",
     "cod": "413",
     "codPrimarie": "4375135",
     "siruta": "87709"
+  },
+  {
+    "denumire": "Sl\u0103tinioara Loc.  - Mun. Petro\u015fani",
+    "cod": "414",
+    "codPrimarie": "4468943",
+    "siruta": "87040"
   },
   {
     "denumire": "Socet Sat  - Com. Cerb\u0103l",
@@ -2320,6 +2278,12 @@
     "cod": "421",
     "codPrimarie": "5742434",
     "siruta": "87549"
+  },
+  {
+    "denumire": "Streis\u00e2ngiorgiu Loc.  - Or\u015f. C\u0103lan",
+    "cod": "422",
+    "codPrimarie": "5742434",
+    "siruta": "87442"
   },
   {
     "denumire": "Stretea Sat  - Com. Dobra",
@@ -2392,6 +2356,12 @@
     "cod": "434",
     "codPrimarie": "4375135",
     "siruta": "87718"
+  },
+  {
+    "denumire": "S\u00e2ntuhalm Loc.  - Mun. Deva",
+    "cod": "435",
+    "codPrimarie": "4374393",
+    "siruta": "86703"
   },
   {
     "denumire": "S\u00e2nt\u0103m\u0103ria de Piatr\u0103 Sat  - Or\u015f. C\u0103lan",
@@ -2506,6 +2476,12 @@
     "cod": "457",
     "codPrimarie": "4521400",
     "siruta": "89008"
+  },
+  {
+    "denumire": "Tirici Loc.  - Or\u015f. Petrila",
+    "cod": "458",
+    "codPrimarie": "4375097",
+    "siruta": "87120"
   },
   {
     "denumire": "Tisa Sat  - Com. Burjuc",
@@ -2658,10 +2634,22 @@
     "siruta": "90976"
   },
   {
+    "denumire": "General Berthelot Sat  - Com. General Berthelot",
+    "cod": "488",
+    "codPrimarie": "5453835",
+    "siruta": "91740"
+  },
+  {
     "denumire": "Uric Sat  - Com. Pui",
     "cod": "490",
     "codPrimarie": "4374059",
     "siruta": "90654"
+  },
+  {
+    "denumire": "Uricani Or\u015f. ",
+    "cod": "491",
+    "codPrimarie": "4634647",
+    "siruta": "87148"
   },
   {
     "denumire": "Uroi Sat  - Or\u015f. Simeria",
@@ -2760,6 +2748,12 @@
     "siruta": "87558"
   },
   {
+    "denumire": "Valea de Brazi Loc.  - Or\u015f. Uricani",
+    "cod": "508",
+    "codPrimarie": "4634647",
+    "siruta": "87166"
+  },
+  {
     "denumire": "Va\u0163a de Jos Sat  - Com. Va\u0163a de Jos",
     "cod": "509",
     "codPrimarie": "4521389",
@@ -2802,6 +2796,12 @@
     "siruta": "92104"
   },
   {
+    "denumire": "Vulcan Mun. ",
+    "cod": "519",
+    "codPrimarie": "4375267",
+    "siruta": "87184"
+  },
+  {
     "denumire": "V\u00e2lcele Sat  - Com. Bretea Rom\u00e2n\u0103",
     "cod": "520",
     "codPrimarie": "4521443",
@@ -2826,16 +2826,16 @@
     "siruta": "91615"
   },
   {
-    "denumire": "V\u0103leni Sat  - Or\u015f. Geoagiu",
-    "cod": "525",
-    "codPrimarie": "5742426",
-    "siruta": "89678"
-  },
-  {
     "denumire": "V\u0103leni Sat  - Com. Baia de Cri\u015f",
     "cod": "524",
     "codPrimarie": "4374008",
     "siruta": "87834"
+  },
+  {
+    "denumire": "V\u0103leni Sat  - Or\u015f. Geoagiu",
+    "cod": "525",
+    "codPrimarie": "5742426",
+    "siruta": "89678"
   },
   {
     "denumire": "V\u0103lioara Sat  - Com. R\u0103chitova",

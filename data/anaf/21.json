@@ -1,77 +1,5 @@
 [
   {
-    "denumire": "Bora Loc.  - Mun. Slobozia",
-    "cod": "21",
-    "codPrimarie": "4365352",
-    "siruta": "92676"
-  },
-  {
-    "denumire": "Buliga Loc.  - Mun. Fete\u015fti",
-    "cod": "34",
-    "codPrimarie": "4365077",
-    "siruta": "92729"
-  },
-  {
-    "denumire": "Fete\u015fti-Gara Loc.  - Mun. Fete\u015fti",
-    "cod": "73",
-    "codPrimarie": "4365077",
-    "siruta": "92738"
-  },
-  {
-    "denumire": "Slobozia Nou\u0103 Loc.  - Mun. Slobozia",
-    "cod": "164",
-    "codPrimarie": "4365352",
-    "siruta": "92685"
-  },
-  {
-    "denumire": "Vla\u015fca Loc.  - Mun. Fete\u015fti",
-    "cod": "185",
-    "codPrimarie": "4365077",
-    "siruta": "92747"
-  },
-  {
-    "denumire": "Slobozia Mun. ",
-    "cod": "163",
-    "codPrimarie": "4365352",
-    "siruta": "92667"
-  },
-  {
-    "denumire": "Fete\u015fti Mun. ",
-    "cod": "72",
-    "codPrimarie": "4365077",
-    "siruta": "92710"
-  },
-  {
-    "denumire": "Urziceni Mun. ",
-    "cod": "179",
-    "codPrimarie": "4364942",
-    "siruta": "100692"
-  },
-  {
-    "denumire": "Amara Or\u015f. ",
-    "cod": "7",
-    "codPrimarie": "4427889",
-    "siruta": "92836"
-  },
-  {
-    "denumire": "C\u0103z\u0103ne\u015fti Or\u015f. ",
-    "cod": "64",
-    "codPrimarie": "4231962",
-    "siruta": "93067"
-  },
-  {
-    "denumire": "Fierbin\u0163i-T\u00e2rg Or\u015f. ",
-    "cod": "75",
-    "codPrimarie": "4428060",
-    "siruta": "102749"
-  },
-  {
-    "denumire": "\u0162\u0103nd\u0103rei Or\u015f. ",
-    "cod": "188",
-    "codPrimarie": "4364888",
-    "siruta": "92774"
-  },
-  {
     "denumire": "Ad\u00e2ncata Sat  - Com. Ad\u00e2ncata",
     "cod": "2",
     "codPrimarie": "4365123",
@@ -88,6 +16,12 @@
     "cod": "6",
     "codPrimarie": "4365085",
     "siruta": "100861"
+  },
+  {
+    "denumire": "Amara Or\u015f. ",
+    "cod": "7",
+    "codPrimarie": "4427889",
+    "siruta": "92836"
   },
   {
     "denumire": "Amara Sat  - Or\u015f. Amara",
@@ -144,6 +78,12 @@
     "siruta": "104305"
   },
   {
+    "denumire": "Bora Loc.  - Mun. Slobozia",
+    "cod": "21",
+    "codPrimarie": "4365352",
+    "siruta": "92676"
+  },
+  {
     "denumire": "Bordu\u015fani Sat  - Com. Bordu\u015fani",
     "cod": "23",
     "codPrimarie": "4428094",
@@ -196,6 +136,12 @@
     "cod": "33",
     "codPrimarie": "16371404",
     "siruta": "92818"
+  },
+  {
+    "denumire": "Buliga Loc.  - Mun. Fete\u015fti",
+    "cod": "34",
+    "codPrimarie": "4365077",
+    "siruta": "92729"
   },
   {
     "denumire": "Butoiu Sat  - Com. Sf\u00e2ntu Gheorghe",
@@ -330,6 +276,12 @@
     "siruta": "105053"
   },
   {
+    "denumire": "C\u0103z\u0103ne\u015fti Or\u015f. ",
+    "cod": "64",
+    "codPrimarie": "4231962",
+    "siruta": "93067"
+  },
+  {
     "denumire": "C\u0103z\u0103ne\u015fti Sat  - Or\u015f. C\u0103z\u0103ne\u015fti",
     "cod": "65",
     "codPrimarie": "4231962",
@@ -360,10 +312,28 @@
     "siruta": "94713"
   },
   {
+    "denumire": "Fete\u015fti Mun. ",
+    "cod": "72",
+    "codPrimarie": "4365077",
+    "siruta": "92710"
+  },
+  {
+    "denumire": "Fete\u015fti-Gara Loc.  - Mun. Fete\u015fti",
+    "cod": "73",
+    "codPrimarie": "4365077",
+    "siruta": "92738"
+  },
+  {
     "denumire": "Fierbin\u0163i-T\u00e2rg Sat  - Or\u015f. Fierbin\u0163i-T\u00e2rg",
     "cod": "74",
     "codPrimarie": "4428060",
     "siruta": "102758"
+  },
+  {
+    "denumire": "Fierbin\u0163i-T\u00e2rg Or\u015f. ",
+    "cod": "75",
+    "codPrimarie": "4428060",
+    "siruta": "102749"
   },
   {
     "denumire": "Fierbin\u0163ii de Jos Sat  - Or\u015f. Fierbin\u0163i-T\u00e2rg",
@@ -768,6 +738,18 @@
     "siruta": "102277"
   },
   {
+    "denumire": "Slobozia Mun. ",
+    "cod": "163",
+    "codPrimarie": "4365352",
+    "siruta": "92667"
+  },
+  {
+    "denumire": "Slobozia Nou\u0103 Loc.  - Mun. Slobozia",
+    "cod": "164",
+    "codPrimarie": "4365352",
+    "siruta": "92685"
+  },
+  {
     "denumire": "Sl\u0103tioarele Sat  - Com. Jilavele",
     "cod": "165",
     "codPrimarie": "4365174",
@@ -828,6 +810,12 @@
     "siruta": "93762"
   },
   {
+    "denumire": "Urziceni Mun. ",
+    "cod": "179",
+    "codPrimarie": "4364942",
+    "siruta": "100692"
+  },
+  {
     "denumire": "Valea Bisericii Sat  - Com. Dr\u0103goe\u015fti",
     "cod": "180",
     "codPrimarie": "4428019",
@@ -846,9 +834,21 @@
     "siruta": "105801"
   },
   {
+    "denumire": "Vla\u015fca Loc.  - Mun. Fete\u015fti",
+    "cod": "185",
+    "codPrimarie": "4365077",
+    "siruta": "92747"
+  },
+  {
     "denumire": "Vl\u0103deni Sat  - Com. Vl\u0103deni",
     "cod": "186",
     "codPrimarie": "4365441",
     "siruta": "94802"
+  },
+  {
+    "denumire": "\u0162\u0103nd\u0103rei Or\u015f. ",
+    "cod": "188",
+    "codPrimarie": "4364888",
+    "siruta": "92774"
   }
 ]

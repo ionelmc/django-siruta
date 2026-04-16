@@ -1,29 +1,5 @@
 [
   {
-    "denumire": "Gala\u0163i Mun. ",
-    "cod": "87",
-    "codPrimarie": "3814810",
-    "siruta": "75105"
-  },
-  {
-    "denumire": "Tecuci Mun. ",
-    "cod": "196",
-    "codPrimarie": "4269312",
-    "siruta": "75212"
-  },
-  {
-    "denumire": "Bere\u015fti Or\u015f. ",
-    "cod": "6",
-    "codPrimarie": "3346883",
-    "siruta": "75347"
-  },
-  {
-    "denumire": "T\u00e2rgu Bujor Or\u015f. ",
-    "cod": "204",
-    "codPrimarie": "4393204",
-    "siruta": "75481"
-  },
-  {
     "denumire": "Adam Sat  - Com. Dr\u0103gu\u015feni",
     "cod": "1",
     "codPrimarie": "4591309",
@@ -46,6 +22,12 @@
     "cod": "4",
     "codPrimarie": "3264589",
     "siruta": "75524"
+  },
+  {
+    "denumire": "Bere\u015fti Or\u015f. ",
+    "cod": "6",
+    "codPrimarie": "3346883",
+    "siruta": "75347"
   },
   {
     "denumire": "Bere\u015fti-Meria Sat  - Com. Bere\u015fti-Meria",
@@ -396,6 +378,12 @@
     "siruta": "76264"
   },
   {
+    "denumire": "Gala\u0163i Mun. ",
+    "cod": "87",
+    "codPrimarie": "3814810",
+    "siruta": "75105"
+  },
+  {
     "denumire": "Gara Berheci Sat  - Com. Gohor",
     "cod": "88",
     "codPrimarie": "3814712",
@@ -522,16 +510,16 @@
     "siruta": "76647"
   },
   {
-    "denumire": "Lie\u015fti Sat  - Com. Lie\u015fti",
-    "cod": "117",
-    "codPrimarie": "3264562",
-    "siruta": "76683"
-  },
-  {
     "denumire": "Lie\u015fti Sat  - Com. Pripone\u015fti",
     "cod": "115",
     "codPrimarie": "4322262",
     "siruta": "77064"
+  },
+  {
+    "denumire": "Lie\u015fti Sat  - Com. Lie\u015fti",
+    "cod": "117",
+    "codPrimarie": "3264562",
+    "siruta": "76683"
   },
   {
     "denumire": "Lozova Sat  - Com. Brani\u015ftea",
@@ -588,16 +576,16 @@
     "siruta": "75490"
   },
   {
-    "denumire": "Movileni Sat  - Com. Movileni",
-    "cod": "130",
-    "codPrimarie": "3814747",
-    "siruta": "76754"
-  },
-  {
     "denumire": "Movileni Sat  - Com. \u015eendreni",
     "cod": "129",
     "codPrimarie": "3553269",
     "siruta": "75132"
+  },
+  {
+    "denumire": "Movileni Sat  - Com. Movileni",
+    "cod": "130",
+    "codPrimarie": "3814747",
+    "siruta": "76754"
   },
   {
     "denumire": "Munteni Sat  - Com. Munteni",
@@ -900,6 +888,12 @@
     "siruta": "75846"
   },
   {
+    "denumire": "Tecuci Mun. ",
+    "cod": "196",
+    "codPrimarie": "4269312",
+    "siruta": "75212"
+  },
+  {
     "denumire": "Toflea Sat  - Com. Br\u0103h\u0103\u015fe\u015fti",
     "cod": "197",
     "codPrimarie": "3602000",
@@ -928,6 +922,12 @@
     "cod": "202",
     "codPrimarie": "3553307",
     "siruta": "77340"
+  },
+  {
+    "denumire": "T\u00e2rgu Bujor Or\u015f. ",
+    "cod": "204",
+    "codPrimarie": "4393204",
+    "siruta": "75481"
   },
   {
     "denumire": "T\u0103lpigi Sat  - Com. Ghidigeni",

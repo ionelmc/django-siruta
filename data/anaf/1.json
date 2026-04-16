@@ -1,363 +1,15 @@
 [
   {
-    "denumire": "Abrud-Sat Loc.  - Or\u015f. Abrud",
-    "cod": "2",
-    "codPrimarie": "4905592",
-    "siruta": "1179"
-  },
-  {
-    "denumire": "Aiudul de Sus Loc.  - Mun. Aiud",
-    "cod": "6",
-    "codPrimarie": "4613636",
-    "siruta": "1231"
-  },
-  {
-    "denumire": "Boc\u015fitura Loc.  - Or\u015f. Cugir",
-    "cod": "47",
-    "codPrimarie": "5146873",
-    "siruta": "1712"
-  },
-  {
-    "denumire": "Bonce\u015fti Loc.  - Or\u015f. C\u00e2mpeni",
-    "cod": "55",
-    "codPrimarie": "4331112",
-    "siruta": "1473"
-  },
-  {
-    "denumire": "Borle\u015fti Loc.  - Or\u015f. C\u00e2mpeni",
-    "cod": "57",
-    "codPrimarie": "4331112",
-    "siruta": "1482"
-  },
-  {
-    "denumire": "Bote\u015fti Loc.  - Or\u015f. C\u00e2mpeni",
-    "cod": "58",
-    "codPrimarie": "4331112",
-    "siruta": "1491"
-  },
-  {
-    "denumire": "Bucuru Loc.  - Or\u015f. Cugir",
-    "cod": "73",
-    "codPrimarie": "5146873",
-    "siruta": "1721"
-  },
-  {
-    "denumire": "B\u0103r\u0103ban\u0163 Loc.  - Mun. Alba Iulia",
-    "cod": "100",
-    "codPrimarie": "4562923",
-    "siruta": "1035"
-  },
-  {
-    "denumire": "Certege Loc.  - Or\u015f. C\u00e2mpeni",
-    "cod": "112",
-    "codPrimarie": "4331112",
-    "siruta": "1507"
-  },
-  {
-    "denumire": "Coasta V\u00e2scului Loc.  - Or\u015f. C\u00e2mpeni",
-    "cod": "140",
-    "codPrimarie": "4331112",
-    "siruta": "1516"
-  },
-  {
-    "denumire": "C\u0103lene Loc.  - Or\u015f. Cugir",
-    "cod": "182",
-    "codPrimarie": "5146873",
-    "siruta": "1730"
-  },
-  {
-    "denumire": "Dealu Bistrii Loc.  - Or\u015f. C\u00e2mpeni",
-    "cod": "196",
-    "codPrimarie": "4331112",
-    "siruta": "1534"
-  },
-  {
-    "denumire": "Dealu Capsei Loc.  - Or\u015f. C\u00e2mpeni",
-    "cod": "197",
-    "codPrimarie": "4331112",
-    "siruta": "1543"
-  },
-  {
-    "denumire": "Deleni-Ob\u00e2r\u015fie Loc.  - Mun. Blaj",
-    "cod": "211",
-    "codPrimarie": "4563007",
-    "siruta": "1366"
-  },
-  {
-    "denumire": "Dric Loc.  - Or\u015f. C\u00e2mpeni",
-    "cod": "227",
-    "codPrimarie": "4331112",
-    "siruta": "1552"
-  },
-  {
-    "denumire": "D\u0103ndu\u0163 Loc.  - Or\u015f. C\u00e2mpeni",
-    "cod": "245",
-    "codPrimarie": "4331112",
-    "siruta": "1525"
-  },
-  {
-    "denumire": "Fa\u0163a Abrudului Loc.  - Or\u015f. C\u00e2mpeni",
-    "cod": "248",
-    "codPrimarie": "4331112",
-    "siruta": "1561"
-  },
-  {
-    "denumire": "Fe\u0163eni Loc.  - Or\u015f. Cugir",
-    "cod": "257",
-    "codPrimarie": "5146873",
-    "siruta": "1749"
-  },
-  {
-    "denumire": "Flite\u015fti Loc.  - Mun. Blaj",
-    "cod": "259",
-    "codPrimarie": "4563007",
-    "siruta": "1375"
-  },
-  {
-    "denumire": "Flore\u015fti Loc.  - Or\u015f. C\u00e2mpeni",
-    "cod": "260",
-    "codPrimarie": "4331112",
-    "siruta": "1570"
-  },
-  {
-    "denumire": "Furduie\u015fti Loc.  - Or\u015f. C\u00e2mpeni",
-    "cod": "264",
-    "codPrimarie": "4331112",
-    "siruta": "1589"
-  },
-  {
-    "denumire": "Goa\u015fele Loc.  - Or\u015f. Cugir",
-    "cod": "290",
-    "codPrimarie": "5146873",
-    "siruta": "1758"
-  },
-  {
-    "denumire": "Gura Cornei Loc.  - Or\u015f. Abrud",
-    "cod": "296",
-    "codPrimarie": "4905592",
-    "siruta": "1188"
-  },
-  {
-    "denumire": "G\u00e2mba\u015f Loc.  - Mun. Aiud",
-    "cod": "301",
-    "codPrimarie": "4613636",
-    "siruta": "1240"
-  },
-  {
-    "denumire": "Izvoarele Loc.  - Mun. Blaj",
-    "cod": "353",
-    "codPrimarie": "4563007",
-    "siruta": "1384"
-  },
-  {
-    "denumire": "Lancr\u0103m Loc.  - Mun. Sebe\u015f",
-    "cod": "364",
-    "codPrimarie": "4331201",
-    "siruta": "1892"
-  },
-  {
-    "denumire": "Mice\u015fti Loc.  - Mun. Alba Iulia",
-    "cod": "413",
-    "codPrimarie": "4562923",
-    "siruta": "1044"
-  },
-  {
-    "denumire": "Mihoe\u015fti Loc.  - Or\u015f. C\u00e2mpeni",
-    "cod": "417",
-    "codPrimarie": "4331112",
-    "siruta": "1598"
-  },
-  {
-    "denumire": "Motor\u0103\u015fti Loc.  - Or\u015f. C\u00e2mpeni",
-    "cod": "428",
-    "codPrimarie": "4331112",
-    "siruta": "1605"
-  },
-  {
-    "denumire": "Muge\u015fti Loc.  - Or\u015f. Cugir",
-    "cod": "429",
-    "codPrimarie": "5146873",
-    "siruta": "1767"
-  },
-  {
-    "denumire": "M\u0103gina Loc.  - Mun. Aiud",
-    "cod": "436",
-    "codPrimarie": "4613636",
-    "siruta": "1259"
-  },
-  {
-    "denumire": "Oarda Loc.  - Mun. Alba Iulia",
-    "cod": "468",
-    "codPrimarie": "4562923",
-    "siruta": "1053"
-  },
-  {
-    "denumire": "Peste Valea Bistrii Loc.  - Or\u015f. C\u00e2mpeni",
-    "cod": "489",
-    "codPrimarie": "4331112",
-    "siruta": "1614"
-  },
-  {
-    "denumire": "Petre\u015fti Loc.  - Mun. Sebe\u015f",
-    "cod": "493",
-    "codPrimarie": "4331201",
-    "siruta": "1909"
-  },
-  {
-    "denumire": "Petrisat Loc.  - Mun. Blaj",
-    "cod": "494",
-    "codPrimarie": "4563007",
-    "siruta": "1393"
-  },
-  {
-    "denumire": "Poduri Loc.  - Or\u015f. C\u00e2mpeni",
-    "cod": "510",
-    "codPrimarie": "4331112",
-    "siruta": "1623"
-  },
-  {
-    "denumire": "P\u00e2cli\u015fa Loc.  - Mun. Alba Iulia",
-    "cod": "545",
-    "codPrimarie": "4562923",
-    "siruta": "1062"
-  },
-  {
-    "denumire": "P\u0103gida Loc.  - Mun. Aiud",
-    "cod": "552",
-    "codPrimarie": "4613636",
-    "siruta": "1268"
-  },
-  {
-    "denumire": "Soharu Loc.  - Or\u015f. Abrud",
-    "cod": "602",
-    "codPrimarie": "4905592",
-    "siruta": "1197"
-  },
-  {
-    "denumire": "Sorlita Loc.  - Or\u015f. C\u00e2mpeni",
-    "cod": "607",
-    "codPrimarie": "4331112",
-    "siruta": "1632"
-  },
-  {
-    "denumire": "Tiur Loc.  - Mun. Blaj",
-    "cod": "650",
-    "codPrimarie": "4563007",
-    "siruta": "1400"
-  },
-  {
-    "denumire": "Tomu\u015fe\u015fti Loc.  - Or\u015f. C\u00e2mpeni",
-    "cod": "654",
-    "codPrimarie": "4331112",
-    "siruta": "1641"
-  },
-  {
-    "denumire": "Uioara de Jos Loc.  - Or\u015f. Ocna Mure\u015f",
-    "cod": "672",
-    "codPrimarie": "4563228",
-    "siruta": "1810"
-  },
-  {
-    "denumire": "Uioara de Sus Loc.  - Or\u015f. Ocna Mure\u015f",
-    "cod": "673",
-    "codPrimarie": "4563228",
-    "siruta": "1829"
-  },
-  {
-    "denumire": "Valea Bistrii Loc.  - Or\u015f. C\u00e2mpeni",
-    "cod": "684",
-    "codPrimarie": "4331112",
-    "siruta": "1650"
-  },
-  {
-    "denumire": "Valea Caselor Loc.  - Or\u015f. C\u00e2mpeni",
-    "cod": "687",
-    "codPrimarie": "4331112",
-    "siruta": "1669"
-  },
-  {
-    "denumire": "Veza Loc.  - Mun. Blaj",
-    "cod": "722",
-    "codPrimarie": "4563007",
-    "siruta": "1419"
-  },
-  {
-    "denumire": "Vinerea Loc.  - Or\u015f. Cugir",
-    "cod": "728",
-    "codPrimarie": "5146873",
-    "siruta": "1776"
-  },
-  {
-    "denumire": "V\u00e2r\u015fi Loc.  - Or\u015f. C\u00e2mpeni",
-    "cod": "744",
-    "codPrimarie": "4331112",
-    "siruta": "1678"
-  },
-  {
-    "denumire": "Alba Iulia Mun. ",
-    "cod": "7",
-    "codPrimarie": "4562923",
-    "siruta": "1026"
-  },
-  {
-    "denumire": "Aiud Mun. ",
-    "cod": "5",
-    "codPrimarie": "4613636",
-    "siruta": "1222"
-  },
-  {
-    "denumire": "Blaj Mun. ",
-    "cod": "40",
-    "codPrimarie": "4563007",
-    "siruta": "1357"
-  },
-  {
-    "denumire": "Sebe\u015f Mun. ",
-    "cod": "592",
-    "codPrimarie": "4331201",
-    "siruta": "1883"
-  },
-  {
     "denumire": "Abrud Or\u015f. ",
     "cod": "1",
     "codPrimarie": "4905592",
     "siruta": "1160"
   },
   {
-    "denumire": "Baia de Arie\u015f Or\u015f. ",
-    "cod": "454",
-    "codPrimarie": "4561898",
-    "siruta": "2915"
-  },
-  {
-    "denumire": "Cugir Or\u015f. ",
-    "cod": "168",
-    "codPrimarie": "5146873",
-    "siruta": "1703"
-  },
-  {
-    "denumire": "C\u00e2mpeni Or\u015f. ",
-    "cod": "177",
-    "codPrimarie": "4331112",
-    "siruta": "1464"
-  },
-  {
-    "denumire": "Ocna Mure\u015f Or\u015f. ",
-    "cod": "470",
-    "codPrimarie": "4563228",
-    "siruta": "1801"
-  },
-  {
-    "denumire": "Teiu\u015f Or\u015f. ",
-    "cod": "646",
-    "codPrimarie": "4561960",
-    "siruta": "8096"
-  },
-  {
-    "denumire": "Zlatna Or\u015f. ",
-    "cod": "753",
-    "codPrimarie": "4331031",
-    "siruta": "1945"
+    "denumire": "Abrud-Sat Loc.  - Or\u015f. Abrud",
+    "cod": "2",
+    "codPrimarie": "4905592",
+    "siruta": "1179"
   },
   {
     "denumire": "Achimete\u015fti Sat  - Com. Avram Iancu",
@@ -370,6 +22,24 @@
     "cod": "4",
     "codPrimarie": "4562303",
     "siruta": "3413"
+  },
+  {
+    "denumire": "Aiud Mun. ",
+    "cod": "5",
+    "codPrimarie": "4613636",
+    "siruta": "1222"
+  },
+  {
+    "denumire": "Aiudul de Sus Loc.  - Mun. Aiud",
+    "cod": "6",
+    "codPrimarie": "4613636",
+    "siruta": "1231"
+  },
+  {
+    "denumire": "Alba Iulia Mun. ",
+    "cod": "7",
+    "codPrimarie": "4562923",
+    "siruta": "1026"
   },
   {
     "denumire": "Albac Sat  - Com. Albac",
@@ -528,6 +198,12 @@
     "siruta": "3048"
   },
   {
+    "denumire": "Blaj Mun. ",
+    "cod": "40",
+    "codPrimarie": "4563007",
+    "siruta": "1357"
+  },
+  {
     "denumire": "Blandiana Sat  - Com. Blandiana",
     "cod": "42",
     "codPrimarie": "4562303",
@@ -556,6 +232,12 @@
     "cod": "46",
     "codPrimarie": "4562460",
     "siruta": "5880"
+  },
+  {
+    "denumire": "Boc\u015fitura Loc.  - Or\u015f. Cugir",
+    "cod": "47",
+    "codPrimarie": "5146873",
+    "siruta": "1712"
   },
   {
     "denumire": "Bode\u015fti Sat  - Com. Vadu Mo\u0163ilor",
@@ -600,22 +282,40 @@
     "siruta": "3869"
   },
   {
+    "denumire": "Bonce\u015fti Loc.  - Or\u015f. C\u00e2mpeni",
+    "cod": "55",
+    "codPrimarie": "4331112",
+    "siruta": "1473"
+  },
+  {
     "denumire": "Borde\u015ftii Poieni Sat  - Com. Vidra",
     "cod": "56",
     "codPrimarie": "4562320",
     "siruta": "8470"
   },
   {
-    "denumire": "Bote\u015fti Sat  - Com. Sc\u0103ri\u015foara",
-    "cod": "60",
-    "codPrimarie": "4562451",
-    "siruta": "7222"
+    "denumire": "Borle\u015fti Loc.  - Or\u015f. C\u00e2mpeni",
+    "cod": "57",
+    "codPrimarie": "4331112",
+    "siruta": "1482"
+  },
+  {
+    "denumire": "Bote\u015fti Loc.  - Or\u015f. C\u00e2mpeni",
+    "cod": "58",
+    "codPrimarie": "4331112",
+    "siruta": "1491"
   },
   {
     "denumire": "Bote\u015fti Sat  - Or\u015f. Zlatna",
     "cod": "59",
     "codPrimarie": "4331031",
     "siruta": "1954"
+  },
+  {
+    "denumire": "Bote\u015fti Sat  - Com. Sc\u0103ri\u015foara",
+    "cod": "60",
+    "codPrimarie": "4562451",
+    "siruta": "7222"
   },
   {
     "denumire": "Boz Sat  - Com. Do\u015ftat",
@@ -684,6 +384,12 @@
     "siruta": "3495"
   },
   {
+    "denumire": "Bucuru Loc.  - Or\u015f. Cugir",
+    "cod": "73",
+    "codPrimarie": "5146873",
+    "siruta": "1721"
+  },
+  {
     "denumire": "Budeni Sat  - Or\u015f. Zlatna",
     "cod": "74",
     "codPrimarie": "4331031",
@@ -744,6 +450,12 @@
     "siruta": "5354"
   },
   {
+    "denumire": "B\u00e2rle\u015fti Sat  - Com. Bistra",
+    "cod": "84",
+    "codPrimarie": "4562346",
+    "siruta": "3084"
+  },
+  {
     "denumire": "B\u00e2rle\u015fti Sat  - Com. Sc\u0103ri\u015foara",
     "cod": "85",
     "codPrimarie": "4562451",
@@ -754,12 +466,6 @@
     "cod": "86",
     "codPrimarie": "4562460",
     "siruta": "5853"
-  },
-  {
-    "denumire": "B\u00e2rle\u015fti Sat  - Com. Bistra",
-    "cod": "84",
-    "codPrimarie": "4562346",
-    "siruta": "3084"
   },
   {
     "denumire": "B\u00e2rle\u015fti-C\u0103tun Sat  - Com. Mogo\u015f",
@@ -840,6 +546,12 @@
     "siruta": "5844"
   },
   {
+    "denumire": "B\u0103r\u0103ban\u0163 Loc.  - Mun. Alba Iulia",
+    "cod": "100",
+    "codPrimarie": "4562923",
+    "siruta": "1035"
+  },
+  {
     "denumire": "B\u0103r\u0103\u015fti Sat  - Com. Albac",
     "cod": "101",
     "codPrimarie": "4562362",
@@ -892,6 +604,12 @@
     "cod": "111",
     "codPrimarie": "4562010",
     "siruta": "3823"
+  },
+  {
+    "denumire": "Certege Loc.  - Or\u015f. C\u00e2mpeni",
+    "cod": "112",
+    "codPrimarie": "4331112",
+    "siruta": "1507"
   },
   {
     "denumire": "Ceru-B\u0103c\u0103in\u0163i Sat  - Com. Ceru-B\u0103c\u0103in\u0163i",
@@ -1030,6 +748,12 @@
     "cod": "139",
     "codPrimarie": "4562290",
     "siruta": "6823"
+  },
+  {
+    "denumire": "Coasta V\u00e2scului Loc.  - Or\u015f. C\u00e2mpeni",
+    "cod": "140",
+    "codPrimarie": "4331112",
+    "siruta": "1516"
   },
   {
     "denumire": "Coble\u015f Sat  - Com. Arie\u015feni",
@@ -1182,6 +906,12 @@
     "siruta": "3887"
   },
   {
+    "denumire": "Cugir Or\u015f. ",
+    "cod": "168",
+    "codPrimarie": "5146873",
+    "siruta": "1703"
+  },
+  {
     "denumire": "Culde\u015fti Sat  - Com. Vidra",
     "cod": "169",
     "codPrimarie": "4562320",
@@ -1224,6 +954,12 @@
     "siruta": "4115"
   },
   {
+    "denumire": "C\u00e2mpeni Or\u015f. ",
+    "cod": "177",
+    "codPrimarie": "4331112",
+    "siruta": "1464"
+  },
+  {
     "denumire": "C\u00e2mpu Goblii Sat  - Com. Vin\u0163u de Jos",
     "cod": "178",
     "codPrimarie": "4562443",
@@ -1246,6 +982,12 @@
     "cod": "181",
     "codPrimarie": "4905550",
     "siruta": "2675"
+  },
+  {
+    "denumire": "C\u0103lene Loc.  - Or\u015f. Cugir",
+    "cod": "182",
+    "codPrimarie": "5146873",
+    "siruta": "1730"
   },
   {
     "denumire": "C\u0103lug\u0103re\u015fti Sat  - Com. Avram Iancu",
@@ -1284,16 +1026,16 @@
     "siruta": "7972"
   },
   {
-    "denumire": "C\u0103rpini\u015f Sat  - Com. Ro\u015fia Montan\u0103",
-    "cod": "190",
-    "codPrimarie": "4562290",
-    "siruta": "6814"
-  },
-  {
     "denumire": "C\u0103rpini\u015f Sat  - Com. G\u00e2rbova",
     "cod": "189",
     "codPrimarie": "4562044",
     "siruta": "4507"
+  },
+  {
+    "denumire": "C\u0103rpini\u015f Sat  - Com. Ro\u015fia Montan\u0103",
+    "cod": "190",
+    "codPrimarie": "4562290",
+    "siruta": "6814"
   },
   {
     "denumire": "C\u0103soaia Sat  - Com. Avram Iancu",
@@ -1320,6 +1062,18 @@
     "siruta": "2443"
   },
   {
+    "denumire": "Dealu Bistrii Loc.  - Or\u015f. C\u00e2mpeni",
+    "cod": "196",
+    "codPrimarie": "4331112",
+    "siruta": "1534"
+  },
+  {
+    "denumire": "Dealu Capsei Loc.  - Or\u015f. C\u00e2mpeni",
+    "cod": "197",
+    "codPrimarie": "4331112",
+    "siruta": "1543"
+  },
+  {
     "denumire": "Dealu Cri\u015fului Sat  - Com. Avram Iancu",
     "cod": "198",
     "codPrimarie": "4905550",
@@ -1338,16 +1092,16 @@
     "siruta": "8871"
   },
   {
-    "denumire": "Dealu Frumos Sat  - Com. Vadu Mo\u0163ilor",
-    "cod": "202",
-    "codPrimarie": "4562192",
-    "siruta": "8265"
-  },
-  {
     "denumire": "Dealu Frumos Sat  - Com. G\u00e2rda de Sus",
     "cod": "201",
     "codPrimarie": "4562494",
     "siruta": "4552"
+  },
+  {
+    "denumire": "Dealu Frumos Sat  - Com. Vadu Mo\u0163ilor",
+    "cod": "202",
+    "codPrimarie": "4562192",
+    "siruta": "8265"
   },
   {
     "denumire": "Dealu Geoagiului Sat  - Com. \u00centregalde",
@@ -1396,6 +1150,12 @@
     "cod": "210",
     "codPrimarie": "4562214",
     "siruta": "5782"
+  },
+  {
+    "denumire": "Deleni-Ob\u00e2r\u015fie Loc.  - Mun. Blaj",
+    "cod": "211",
+    "codPrimarie": "4563007",
+    "siruta": "1366"
   },
   {
     "denumire": "Deonce\u015fti Sat  - Com. Sohodol",
@@ -1458,6 +1218,12 @@
     "siruta": "8504"
   },
   {
+    "denumire": "Do\u015ftat Sat  - Com. Do\u015ftat",
+    "cod": "222",
+    "codPrimarie": "4562265",
+    "siruta": "4277"
+  },
+  {
     "denumire": "Dosu Luncii Sat  - Com. Vidra",
     "cod": "224",
     "codPrimarie": "4562320",
@@ -1470,16 +1236,16 @@
     "siruta": "8522"
   },
   {
-    "denumire": "Do\u015ftat Sat  - Com. Do\u015ftat",
-    "cod": "222",
-    "codPrimarie": "4562265",
-    "siruta": "4277"
-  },
-  {
     "denumire": "Dra\u015fov Sat  - Com. \u015epring",
     "cod": "226",
     "codPrimarie": "4562133",
     "siruta": "7990"
+  },
+  {
+    "denumire": "Dric Loc.  - Or\u015f. C\u00e2mpeni",
+    "cod": "227",
+    "codPrimarie": "4331112",
+    "siruta": "1552"
   },
   {
     "denumire": "Dr\u00e2mbar Sat  - Com. Ciugud",
@@ -1500,6 +1266,18 @@
     "siruta": "6306"
   },
   {
+    "denumire": "Limba Sat  - Com. Ciugud",
+    "cod": "231",
+    "codPrimarie": "4562516",
+    "siruta": "1106"
+  },
+  {
+    "denumire": "Dumbrava Sat  - Or\u015f. Zlatna",
+    "cod": "232",
+    "codPrimarie": "4331031",
+    "siruta": "1990"
+  },
+  {
     "denumire": "Dumbrava Sat  - Com. S\u0103sciori",
     "cod": "233",
     "codPrimarie": "4562109",
@@ -1510,12 +1288,6 @@
     "cod": "234",
     "codPrimarie": "4562087",
     "siruta": "8194"
-  },
-  {
-    "denumire": "Dumbrava Sat  - Or\u015f. Zlatna",
-    "cod": "232",
-    "codPrimarie": "4331031",
-    "siruta": "1990"
   },
   {
     "denumire": "Dumbr\u0103vi\u0163a Sat  - Com. Ceru-B\u0103c\u0103in\u0163i",
@@ -1578,6 +1350,12 @@
     "siruta": "4801"
   },
   {
+    "denumire": "D\u0103ndu\u0163 Loc.  - Or\u015f. C\u00e2mpeni",
+    "cod": "245",
+    "codPrimarie": "4331112",
+    "siruta": "1525"
+  },
+  {
     "denumire": "D\u0103roaia Sat  - Com. Ro\u015fia Montan\u0103",
     "cod": "246",
     "codPrimarie": "4562290",
@@ -1588,6 +1366,12 @@
     "cod": "247",
     "codPrimarie": "4562451",
     "siruta": "7231"
+  },
+  {
+    "denumire": "Fa\u0163a Abrudului Loc.  - Or\u015f. C\u00e2mpeni",
+    "cod": "248",
+    "codPrimarie": "4331112",
+    "siruta": "1561"
   },
   {
     "denumire": "Fa\u0163a Cristesei Sat  - Com. Arie\u015feni",
@@ -1638,10 +1422,34 @@
     "siruta": "4810"
   },
   {
+    "denumire": "Fe\u0163eni Loc.  - Or\u015f. Cugir",
+    "cod": "257",
+    "codPrimarie": "5146873",
+    "siruta": "1749"
+  },
+  {
     "denumire": "Fic\u0103re\u015fti Sat  - Com. Vidra",
     "cod": "258",
     "codPrimarie": "4562320",
     "siruta": "8540"
+  },
+  {
+    "denumire": "Flite\u015fti Loc.  - Mun. Blaj",
+    "cod": "259",
+    "codPrimarie": "4563007",
+    "siruta": "1375"
+  },
+  {
+    "denumire": "Flore\u015fti Loc.  - Or\u015f. C\u00e2mpeni",
+    "cod": "260",
+    "codPrimarie": "4331112",
+    "siruta": "1570"
+  },
+  {
+    "denumire": "Flore\u015fti Sat  - Com. Bucium",
+    "cod": "261",
+    "codPrimarie": "4561979",
+    "siruta": "3556"
   },
   {
     "denumire": "Flore\u015fti Sat  - Com. Sc\u0103ri\u015foara",
@@ -1656,10 +1464,10 @@
     "siruta": "6681"
   },
   {
-    "denumire": "Flore\u015fti Sat  - Com. Bucium",
-    "cod": "261",
-    "codPrimarie": "4561979",
-    "siruta": "3556"
+    "denumire": "Furduie\u015fti Loc.  - Or\u015f. C\u00e2mpeni",
+    "cod": "264",
+    "codPrimarie": "4331112",
+    "siruta": "1589"
   },
   {
     "denumire": "Furduie\u015fti Sat  - Com. Sohodol",
@@ -1800,6 +1608,12 @@
     "siruta": "8381"
   },
   {
+    "denumire": "Goa\u015fele Loc.  - Or\u015f. Cugir",
+    "cod": "290",
+    "codPrimarie": "5146873",
+    "siruta": "1758"
+  },
+  {
     "denumire": "Goie\u015fti Sat  - Com. Vidra",
     "cod": "291",
     "codPrimarie": "4562320",
@@ -1830,6 +1644,12 @@
     "siruta": "5327"
   },
   {
+    "denumire": "Gura Cornei Loc.  - Or\u015f. Abrud",
+    "cod": "296",
+    "codPrimarie": "4905592",
+    "siruta": "1188"
+  },
+  {
     "denumire": "Gura Cu\u0163ului Sat  - Com. Vin\u0163u de Jos",
     "cod": "297",
     "codPrimarie": "4562443",
@@ -1852,6 +1672,12 @@
     "cod": "300",
     "codPrimarie": "4562168",
     "siruta": "7543"
+  },
+  {
+    "denumire": "G\u00e2mba\u015f Loc.  - Mun. Aiud",
+    "cod": "301",
+    "codPrimarie": "4613636",
+    "siruta": "1240"
   },
   {
     "denumire": "G\u00e2rbova Sat  - Com. G\u00e2rbova",
@@ -2010,16 +1836,16 @@
     "siruta": "5407"
   },
   {
-    "denumire": "H\u0103n\u0103\u015fe\u015fti Sat  - Com. Poiana Vadului",
-    "cod": "333",
-    "codPrimarie": "4562222",
-    "siruta": "6333"
-  },
-  {
     "denumire": "H\u0103n\u0103\u015fe\u015fti Sat  - Com. G\u00e2rda de Sus",
     "cod": "332",
     "codPrimarie": "4562494",
     "siruta": "4605"
+  },
+  {
+    "denumire": "H\u0103n\u0103\u015fe\u015fti Sat  - Com. Poiana Vadului",
+    "cod": "333",
+    "codPrimarie": "4562222",
+    "siruta": "6333"
   },
   {
     "denumire": "H\u0103pria Sat  - Com. Ciugud",
@@ -2076,16 +1902,16 @@
     "siruta": "5023"
   },
   {
-    "denumire": "Ince\u015fti Sat  - Com. Po\u015faga",
-    "cod": "345",
-    "codPrimarie": "4934601",
-    "siruta": "6495"
-  },
-  {
     "denumire": "Ince\u015fti Sat  - Com. Avram Iancu",
     "cod": "344",
     "codPrimarie": "4905550",
     "siruta": "2764"
+  },
+  {
+    "denumire": "Ince\u015fti Sat  - Com. Po\u015faga",
+    "cod": "345",
+    "codPrimarie": "4934601",
+    "siruta": "6495"
   },
   {
     "denumire": "Inoc Sat  - Com. Unirea",
@@ -2128,6 +1954,12 @@
     "cod": "352",
     "codPrimarie": "4562419",
     "siruta": "2498"
+  },
+  {
+    "denumire": "Izvoarele Loc.  - Mun. Blaj",
+    "cod": "353",
+    "codPrimarie": "4563007",
+    "siruta": "1384"
   },
   {
     "denumire": "Izvoarele Sat  - Com. G\u00e2rda de Sus",
@@ -2184,10 +2016,10 @@
     "siruta": "3609"
   },
   {
-    "denumire": "Laz Sat  - Com. Vin\u0163u de Jos",
-    "cod": "366",
-    "codPrimarie": "4562443",
-    "siruta": "8915"
+    "denumire": "Lancr\u0103m Loc.  - Mun. Sebe\u015f",
+    "cod": "364",
+    "codPrimarie": "4331201",
+    "siruta": "1892"
   },
   {
     "denumire": "Laz Sat  - Com. S\u0103sciori",
@@ -2196,16 +2028,22 @@
     "siruta": "7133"
   },
   {
-    "denumire": "Lazuri Sat  - Com. Sohodol",
-    "cod": "368",
-    "codPrimarie": "4562168",
-    "siruta": "7570"
+    "denumire": "Laz Sat  - Com. Vin\u0163u de Jos",
+    "cod": "366",
+    "codPrimarie": "4562443",
+    "siruta": "8915"
   },
   {
     "denumire": "Lazuri Sat  - Com. Lup\u015fa",
     "cod": "367",
     "codPrimarie": "4561901",
     "siruta": "5425"
+  },
+  {
+    "denumire": "Lazuri Sat  - Com. Sohodol",
+    "cod": "368",
+    "codPrimarie": "4562168",
+    "siruta": "7570"
   },
   {
     "denumire": "Lehe\u015fti Sat  - Com. Sohodol",
@@ -2224,12 +2062,6 @@
     "cod": "371",
     "codPrimarie": "4562451",
     "siruta": "7268"
-  },
-  {
-    "denumire": "Limba Sat  - Com. Ciugud",
-    "cod": "231",
-    "codPrimarie": "4562516",
-    "siruta": "1106"
   },
   {
     "denumire": "Lipaia Sat  - Com. Bistra",
@@ -2274,16 +2106,16 @@
     "siruta": "7598"
   },
   {
-    "denumire": "Lunca Sat  - Com. Vidra",
-    "cod": "382",
-    "codPrimarie": "4562320",
-    "siruta": "8611"
-  },
-  {
     "denumire": "Lunca Sat  - Com. Valea Lung\u0103",
     "cod": "381",
     "codPrimarie": "4562176",
     "siruta": "8407"
+  },
+  {
+    "denumire": "Lunca Sat  - Com. Vidra",
+    "cod": "382",
+    "codPrimarie": "4562320",
+    "siruta": "8611"
   },
   {
     "denumire": "Lunca Ampoi\u0163ei Sat  - Com. Mete\u015f",
@@ -2376,12 +2208,6 @@
     "siruta": "3618"
   },
   {
-    "denumire": "Lup\u0103ie\u015fti Sat  - Com. Poiana Vadului",
-    "cod": "402",
-    "codPrimarie": "4562222",
-    "siruta": "6342"
-  },
-  {
     "denumire": "Lup\u015fa Sat  - Com. Lup\u015fa",
     "cod": "399",
     "codPrimarie": "4561901",
@@ -2394,16 +2220,22 @@
     "siruta": "4419"
   },
   {
-    "denumire": "L\u0103ze\u015fti Sat  - Com. Vadu Mo\u0163ilor",
-    "cod": "404",
-    "codPrimarie": "4562192",
-    "siruta": "8274"
+    "denumire": "Lup\u0103ie\u015fti Sat  - Com. Poiana Vadului",
+    "cod": "402",
+    "codPrimarie": "4562222",
+    "siruta": "6342"
   },
   {
     "denumire": "L\u0103ze\u015fti Sat  - Com. Sc\u0103ri\u015foara",
     "cod": "403",
     "codPrimarie": "4562451",
     "siruta": "7259"
+  },
+  {
+    "denumire": "L\u0103ze\u015fti Sat  - Com. Vadu Mo\u0163ilor",
+    "cod": "404",
+    "codPrimarie": "4562192",
+    "siruta": "8274"
   },
   {
     "denumire": "Maghierat Sat  - Com. Ohaba",
@@ -2448,6 +2280,12 @@
     "siruta": "5586"
   },
   {
+    "denumire": "Mice\u015fti Loc.  - Mun. Alba Iulia",
+    "cod": "413",
+    "codPrimarie": "4562923",
+    "siruta": "1044"
+  },
+  {
     "denumire": "Mico\u015flaca Sat  - Or\u015f. Ocna Mure\u015f",
     "cod": "414",
     "codPrimarie": "4563228",
@@ -2458,6 +2296,12 @@
     "cod": "415",
     "codPrimarie": "4562338",
     "siruta": "5719"
+  },
+  {
+    "denumire": "Mihoe\u015fti Loc.  - Or\u015f. C\u00e2mpeni",
+    "cod": "417",
+    "codPrimarie": "4331112",
+    "siruta": "1598"
   },
   {
     "denumire": "Mih\u0103ie\u015fti Sat  - Com. Bistra",
@@ -2496,16 +2340,28 @@
     "siruta": "6351"
   },
   {
+    "denumire": "Mor\u0103re\u015fti Sat  - Com. Ciuruleasa",
+    "cod": "426",
+    "codPrimarie": "4562311",
+    "siruta": "4080"
+  },
+  {
     "denumire": "Mor\u0103re\u015fti Sat  - Com. Sohodol",
     "cod": "427",
     "codPrimarie": "4562168",
     "siruta": "7614"
   },
   {
-    "denumire": "Mor\u0103re\u015fti Sat  - Com. Ciuruleasa",
-    "cod": "426",
-    "codPrimarie": "4562311",
-    "siruta": "4080"
+    "denumire": "Motor\u0103\u015fti Loc.  - Or\u015f. C\u00e2mpeni",
+    "cod": "428",
+    "codPrimarie": "4331112",
+    "siruta": "1605"
+  },
+  {
+    "denumire": "Muge\u015fti Loc.  - Or\u015f. Cugir",
+    "cod": "429",
+    "codPrimarie": "5146873",
+    "siruta": "1767"
   },
   {
     "denumire": "Muncelu Sat  - Or\u015f. Baia de Arie\u015f",
@@ -2542,6 +2398,12 @@
     "cod": "435",
     "codPrimarie": "4650197",
     "siruta": "6431"
+  },
+  {
+    "denumire": "M\u0103gina Loc.  - Mun. Aiud",
+    "cod": "436",
+    "codPrimarie": "4613636",
+    "siruta": "1259"
   },
   {
     "denumire": "M\u0103gura Sat  - Com. Bucium",
@@ -2646,6 +2508,12 @@
     "siruta": "5069"
   },
   {
+    "denumire": "Baia de Arie\u015f Or\u015f. ",
+    "cod": "454",
+    "codPrimarie": "4561898",
+    "siruta": "2915"
+  },
+  {
     "denumire": "Nec\u015fe\u015fti Sat  - Com. Vadu Mo\u0163ilor",
     "cod": "455",
     "codPrimarie": "4562192",
@@ -2718,10 +2586,22 @@
     "siruta": "7632"
   },
   {
+    "denumire": "Oarda Loc.  - Mun. Alba Iulia",
+    "cod": "468",
+    "codPrimarie": "4562923",
+    "siruta": "1053"
+  },
+  {
     "denumire": "Obreja Sat  - Com. Mihal\u0163",
     "cod": "469",
     "codPrimarie": "4562338",
     "siruta": "5737"
+  },
+  {
+    "denumire": "Ocna Mure\u015f Or\u015f. ",
+    "cod": "470",
+    "codPrimarie": "4563228",
+    "siruta": "1801"
   },
   {
     "denumire": "Ocni\u015foara Sat  - Com. Lopadea Nou\u0103",
@@ -2820,6 +2700,12 @@
     "siruta": "3253"
   },
   {
+    "denumire": "Peste Valea Bistrii Loc.  - Or\u015f. C\u00e2mpeni",
+    "cod": "489",
+    "codPrimarie": "4331112",
+    "siruta": "1614"
+  },
+  {
     "denumire": "Petelei Sat  - Com. Poiana Vadului",
     "cod": "490",
     "codPrimarie": "4562222",
@@ -2836,6 +2722,18 @@
     "cod": "492",
     "codPrimarie": "4561979",
     "siruta": "3645"
+  },
+  {
+    "denumire": "Petre\u015fti Loc.  - Mun. Sebe\u015f",
+    "cod": "493",
+    "codPrimarie": "4331201",
+    "siruta": "1909"
+  },
+  {
+    "denumire": "Petrisat Loc.  - Mun. Blaj",
+    "cod": "494",
+    "codPrimarie": "4563007",
+    "siruta": "1393"
   },
   {
     "denumire": "Pe\u0163elca Sat  - Or\u015f. Teiu\u015f",
@@ -2856,6 +2754,12 @@
     "siruta": "6226"
   },
   {
+    "denumire": "P\u00e2nca Sat  - Com. Bucerdea Gr\u00e2noas\u0103",
+    "cod": "499",
+    "codPrimarie": "18866256",
+    "siruta": "4231"
+  },
+  {
     "denumire": "Pirita Sat  - Or\u015f. Zlatna",
     "cod": "500",
     "codPrimarie": "4331031",
@@ -2866,12 +2770,6 @@
     "cod": "501",
     "codPrimarie": "4562320",
     "siruta": "8693"
-  },
-  {
-    "denumire": "Pi\u0163iga Sat  - Com. Lup\u015fa",
-    "cod": "549",
-    "codPrimarie": "4561901",
-    "siruta": "5470"
   },
   {
     "denumire": "Plai Sat  - Com. Avram Iancu",
@@ -2922,6 +2820,12 @@
     "siruta": "2069"
   },
   {
+    "denumire": "Poduri Loc.  - Or\u015f. C\u00e2mpeni",
+    "cod": "510",
+    "codPrimarie": "4331112",
+    "siruta": "1623"
+  },
+  {
     "denumire": "Poduri-Brice\u015fti Sat  - Com. Vadu Mo\u0163ilor",
     "cod": "511",
     "codPrimarie": "4562192",
@@ -2934,12 +2838,6 @@
     "siruta": "3271"
   },
   {
-    "denumire": "Poiana Sat  - Com. Sohodol",
-    "cod": "515",
-    "codPrimarie": "4562168",
-    "siruta": "7678"
-  },
-  {
     "denumire": "Poiana Sat  - Com. Bistra",
     "cod": "513",
     "codPrimarie": "4562346",
@@ -2950,6 +2848,12 @@
     "cod": "514",
     "codPrimarie": "4561979",
     "siruta": "3654"
+  },
+  {
+    "denumire": "Poiana Sat  - Com. Sohodol",
+    "cod": "515",
+    "codPrimarie": "4562168",
+    "siruta": "7678"
   },
   {
     "denumire": "Poiana Aiudului Sat  - Com. Livezile",
@@ -3006,16 +2910,16 @@
     "siruta": "5960"
   },
   {
-    "denumire": "Poieni\u0163a Sat  - Com. Vin\u0163u de Jos",
-    "cod": "527",
-    "codPrimarie": "4562443",
-    "siruta": "8951"
-  },
-  {
     "denumire": "Poieni\u0163a Sat  - Com. Arie\u015feni",
     "cod": "526",
     "codPrimarie": "4562419",
     "siruta": "2522"
+  },
+  {
+    "denumire": "Poieni\u0163a Sat  - Com. Vin\u0163u de Jos",
+    "cod": "527",
+    "codPrimarie": "4562443",
+    "siruta": "8951"
   },
   {
     "denumire": "Ponor Sat  - Com. Ponor",
@@ -3108,10 +3012,10 @@
     "siruta": "2826"
   },
   {
-    "denumire": "P\u00e2nca Sat  - Com. Bucerdea Gr\u00e2noas\u0103",
-    "cod": "499",
-    "codPrimarie": "18866256",
-    "siruta": "4231"
+    "denumire": "P\u00e2cli\u015fa Loc.  - Mun. Alba Iulia",
+    "cod": "545",
+    "codPrimarie": "4562923",
+    "siruta": "1062"
   },
   {
     "denumire": "P\u00e2r\u00e2u Gruiului Sat  - Or\u015f. Zlatna",
@@ -3132,6 +3036,12 @@
     "siruta": "5489"
   },
   {
+    "denumire": "Pi\u0163iga Sat  - Com. Lup\u015fa",
+    "cod": "549",
+    "codPrimarie": "4561901",
+    "siruta": "5470"
+  },
+  {
     "denumire": "P\u0103dure Sat  - Com. Bucerdea Gr\u00e2noas\u0103",
     "cod": "550",
     "codPrimarie": "18866256",
@@ -3142,6 +3052,12 @@
     "cod": "551",
     "codPrimarie": "4562150",
     "siruta": "5639"
+  },
+  {
+    "denumire": "P\u0103gida Loc.  - Mun. Aiud",
+    "cod": "552",
+    "codPrimarie": "4613636",
+    "siruta": "1268"
   },
   {
     "denumire": "P\u0103nte\u015fti Sat  - Com. Arie\u015feni",
@@ -3234,16 +3150,16 @@
     "siruta": "6949"
   },
   {
-    "denumire": "Runc Sat  - Com. Ocoli\u015f",
-    "cod": "572",
-    "codPrimarie": "4561910",
-    "siruta": "6146"
-  },
-  {
     "denumire": "Runc Sat  - Or\u015f. Zlatna",
     "cod": "571",
     "codPrimarie": "4331031",
     "siruta": "2078"
+  },
+  {
+    "denumire": "Runc Sat  - Com. Ocoli\u015f",
+    "cod": "572",
+    "codPrimarie": "4561910",
+    "siruta": "6146"
   },
   {
     "denumire": "Runc Sat  - Com. Vidra",
@@ -3342,6 +3258,12 @@
     "siruta": "7204"
   },
   {
+    "denumire": "Sebe\u015f Mun. ",
+    "cod": "592",
+    "codPrimarie": "4331201",
+    "siruta": "1883"
+  },
+  {
     "denumire": "Sebe\u015fel Sat  - Com. S\u0103sciori",
     "cod": "593",
     "codPrimarie": "4562109",
@@ -3396,6 +3318,12 @@
     "siruta": "4696"
   },
   {
+    "denumire": "Soharu Loc.  - Or\u015f. Abrud",
+    "cod": "602",
+    "codPrimarie": "4905592",
+    "siruta": "1197"
+  },
+  {
     "denumire": "Sohodol Sat  - Com. Albac",
     "cod": "603",
     "codPrimarie": "4562362",
@@ -3412,6 +3340,12 @@
     "cod": "606",
     "codPrimarie": "4905550",
     "siruta": "2835"
+  },
+  {
+    "denumire": "Sorlita Loc.  - Or\u015f. C\u00e2mpeni",
+    "cod": "607",
+    "codPrimarie": "4331112",
+    "siruta": "1632"
   },
   {
     "denumire": "Sp\u0103tac Sat  - Mun. Blaj",
@@ -3478,6 +3412,12 @@
     "cod": "619",
     "codPrimarie": "4562494",
     "siruta": "4687"
+  },
+  {
+    "denumire": "\u015eugag Sat  - Com. \u015eugag",
+    "cod": "620",
+    "codPrimarie": "4562427",
+    "siruta": "8023"
   },
   {
     "denumire": "Surde\u015fti Sat  - Com. Sohodol",
@@ -3594,6 +3534,12 @@
     "siruta": "4892"
   },
   {
+    "denumire": "Teiu\u015f Or\u015f. ",
+    "cod": "646",
+    "codPrimarie": "4561960",
+    "siruta": "8096"
+  },
+  {
     "denumire": "Teiu\u015f Sat  - Or\u015f. Teiu\u015f",
     "cod": "647",
     "codPrimarie": "4561960",
@@ -3610,6 +3556,12 @@
     "cod": "649",
     "codPrimarie": "4562508",
     "siruta": "4179"
+  },
+  {
+    "denumire": "Tiur Loc.  - Mun. Blaj",
+    "cod": "650",
+    "codPrimarie": "4563007",
+    "siruta": "1400"
   },
   {
     "denumire": "Toloce\u015fti Sat  - Com. Bistra",
@@ -3630,6 +3582,12 @@
     "siruta": "3333"
   },
   {
+    "denumire": "Tomu\u015fe\u015fti Loc.  - Or\u015f. C\u00e2mpeni",
+    "cod": "654",
+    "codPrimarie": "4331112",
+    "siruta": "1641"
+  },
+  {
     "denumire": "Tomu\u0163e\u015fti Sat  - Com. Vadu Mo\u0163ilor",
     "cod": "655",
     "codPrimarie": "4562192",
@@ -3646,12 +3604,6 @@
     "cod": "657",
     "codPrimarie": "4562192",
     "siruta": "8336"
-  },
-  {
-    "denumire": "Totoi Sat  - Com. S\u00e2ntimbru",
-    "cod": "782",
-    "codPrimarie": "4562095",
-    "siruta": "7437"
   },
   {
     "denumire": "Trife\u015fti Sat  - Com. Horea",
@@ -3738,6 +3690,18 @@
     "siruta": "5684"
   },
   {
+    "denumire": "Uioara de Jos Loc.  - Or\u015f. Ocna Mure\u015f",
+    "cod": "672",
+    "codPrimarie": "4563228",
+    "siruta": "1810"
+  },
+  {
+    "denumire": "Uioara de Sus Loc.  - Or\u015f. Ocna Mure\u015f",
+    "cod": "673",
+    "codPrimarie": "4563228",
+    "siruta": "1829"
+  },
+  {
     "denumire": "Ungurei Sat  - Com. Ro\u015fia de Seca\u015f",
     "cod": "674",
     "codPrimarie": "4562060",
@@ -3786,6 +3750,12 @@
     "siruta": "5997"
   },
   {
+    "denumire": "Valea Bistrii Loc.  - Or\u015f. C\u00e2mpeni",
+    "cod": "684",
+    "codPrimarie": "4331112",
+    "siruta": "1650"
+  },
+  {
     "denumire": "Valea Bucurului Sat  - Com. Ponor",
     "cod": "685",
     "codPrimarie": "4650197",
@@ -3796,6 +3766,12 @@
     "cod": "686",
     "codPrimarie": "4562460",
     "siruta": "5988"
+  },
+  {
+    "denumire": "Valea Caselor Loc.  - Or\u015f. C\u00e2mpeni",
+    "cod": "687",
+    "codPrimarie": "4331112",
+    "siruta": "1669"
   },
   {
     "denumire": "Valea Cerbului Sat  - Com. Bucium",
@@ -3906,16 +3882,16 @@
     "siruta": "3716"
   },
   {
-    "denumire": "Valea Poienii Sat  - Com. R\u00e2me\u0163",
-    "cod": "708",
-    "codPrimarie": "4562389",
-    "siruta": "6734"
-  },
-  {
     "denumire": "Valea Poienii Sat  - Com. Bucium",
     "cod": "707",
     "codPrimarie": "4561979",
     "siruta": "3725"
+  },
+  {
+    "denumire": "Valea Poienii Sat  - Com. R\u00e2me\u0163",
+    "cod": "708",
+    "codPrimarie": "4562389",
+    "siruta": "6734"
   },
   {
     "denumire": "Valea Sasului Sat  - Com. \u015eona",
@@ -3996,6 +3972,12 @@
     "siruta": "5158"
   },
   {
+    "denumire": "Veza Loc.  - Mun. Blaj",
+    "cod": "722",
+    "codPrimarie": "4563007",
+    "siruta": "1419"
+  },
+  {
     "denumire": "Vidolm Sat  - Com. Ocoli\u015f",
     "cod": "723",
     "codPrimarie": "4561910",
@@ -4018,6 +4000,12 @@
     "cod": "727",
     "codPrimarie": "4562079",
     "siruta": "3949"
+  },
+  {
+    "denumire": "Vinerea Loc.  - Or\u015f. Cugir",
+    "cod": "728",
+    "codPrimarie": "5146873",
+    "siruta": "1776"
   },
   {
     "denumire": "Vingard Sat  - Com. \u015epring",
@@ -4080,16 +4068,16 @@
     "siruta": "8791"
   },
   {
-    "denumire": "V\u00e2ltori Sat  - Com. Vadu Mo\u0163ilor",
-    "cod": "741",
-    "codPrimarie": "4562192",
-    "siruta": "8345"
-  },
-  {
     "denumire": "V\u00e2ltori Sat  - Or\u015f. Zlatna",
     "cod": "740",
     "codPrimarie": "4331031",
     "siruta": "2121"
+  },
+  {
+    "denumire": "V\u00e2ltori Sat  - Com. Vadu Mo\u0163ilor",
+    "cod": "741",
+    "codPrimarie": "4562192",
+    "siruta": "8345"
   },
   {
     "denumire": "V\u00e2rtop Sat  - Com. Ro\u015fia Montan\u0103",
@@ -4102,6 +4090,12 @@
     "cod": "743",
     "codPrimarie": "4562320",
     "siruta": "8817"
+  },
+  {
+    "denumire": "V\u00e2r\u015fi Loc.  - Or\u015f. C\u00e2mpeni",
+    "cod": "744",
+    "codPrimarie": "4331112",
+    "siruta": "1678"
   },
   {
     "denumire": "V\u00e2r\u015fi-Rontu Sat  - Com. Bistra",
@@ -4152,6 +4146,12 @@
     "siruta": "8782"
   },
   {
+    "denumire": "Zlatna Or\u015f. ",
+    "cod": "753",
+    "codPrimarie": "4331031",
+    "siruta": "1945"
+  },
+  {
     "denumire": "Z\u00e2nze\u015fti Sat  - Com. Horea",
     "cod": "754",
     "codPrimarie": "4562249",
@@ -4168,12 +4168,6 @@
     "cod": "756",
     "codPrimarie": "4562338",
     "siruta": "5746"
-  },
-  {
-    "denumire": "\u00centregalde Sat  - Com. \u00centregalde",
-    "cod": "776",
-    "codPrimarie": "4562524",
-    "siruta": "4990"
   },
   {
     "denumire": "\u015eard Sat  - Com. Ighiu",
@@ -4272,10 +4266,10 @@
     "siruta": "7320"
   },
   {
-    "denumire": "\u015eugag Sat  - Com. \u015eugag",
-    "cod": "620",
-    "codPrimarie": "4562427",
-    "siruta": "8023"
+    "denumire": "\u00centregalde Sat  - Com. \u00centregalde",
+    "cod": "776",
+    "codPrimarie": "4562524",
+    "siruta": "4990"
   },
   {
     "denumire": "\u0162arina Sat  - Com. Ro\u015fia Montan\u0103",
@@ -4300,6 +4294,12 @@
     "cod": "781",
     "codPrimarie": "4562168",
     "siruta": "7730"
+  },
+  {
+    "denumire": "Totoi Sat  - Com. S\u00e2ntimbru",
+    "cod": "782",
+    "codPrimarie": "4562095",
+    "siruta": "7437"
   },
   {
     "denumire": "\u0162\u0103r\u0103ne\u015fti Sat  - Com. Bistra",

@@ -1,137 +1,5 @@
 [
   {
-    "denumire": "Ciclova Montana Loc.  - Or\u015f. Oravi\u0163a",
-    "cod": "61",
-    "codPrimarie": "3227963",
-    "siruta": "51136"
-  },
-  {
-    "denumire": "Cire\u015fa Loc.  - Or\u015f. O\u0163elu Ro\u015fu",
-    "cod": "65",
-    "codPrimarie": "3227971",
-    "siruta": "51225"
-  },
-  {
-    "denumire": "Cuptoare Loc.  - Mun. Re\u015fi\u0163a",
-    "cod": "93",
-    "codPrimarie": "3228764",
-    "siruta": "50825"
-  },
-  {
-    "denumire": "C\u00e2lnic Loc.  - Mun. Re\u015fi\u0163a",
-    "cod": "96",
-    "codPrimarie": "3228764",
-    "siruta": "50816"
-  },
-  {
-    "denumire": "Doman Loc.  - Mun. Re\u015fi\u0163a",
-    "cod": "117",
-    "codPrimarie": "3228764",
-    "siruta": "50834"
-  },
-  {
-    "denumire": "Jupa Loc.  - Mun. Caransebe\u015f",
-    "cod": "168",
-    "codPrimarie": "3227947",
-    "siruta": "51038"
-  },
-  {
-    "denumire": "Marila Loc.  - Or\u015f. Oravi\u0163a",
-    "cod": "190",
-    "codPrimarie": "3227963",
-    "siruta": "51145"
-  },
-  {
-    "denumire": "Moldova Veche Loc.  - Or\u015f. Moldova Nou\u0103",
-    "cod": "201",
-    "codPrimarie": "3227955",
-    "siruta": "51083"
-  },
-  {
-    "denumire": "Moldovi\u0163a Loc.  - Or\u015f. Moldova Nou\u0103",
-    "cod": "202",
-    "codPrimarie": "3227955",
-    "siruta": "51092"
-  },
-  {
-    "denumire": "M\u0103ce\u015fti Loc.  - Or\u015f. Moldova Nou\u0103",
-    "cod": "205",
-    "codPrimarie": "3227955",
-    "siruta": "51074"
-  },
-  {
-    "denumire": "Pecini\u015fca Loc.  - Or\u015f. B\u0103ile Herculane",
-    "cod": "227",
-    "codPrimarie": "3227920",
-    "siruta": "50941"
-  },
-  {
-    "denumire": "Secu Loc.  - Mun. Re\u015fi\u0163a",
-    "cod": "289",
-    "codPrimarie": "3228764",
-    "siruta": "50843"
-  },
-  {
-    "denumire": "Steierdorf Loc.  - Or\u015f. Anina",
-    "cod": "302",
-    "codPrimarie": "3227912",
-    "siruta": "50905"
-  },
-  {
-    "denumire": "\u0162erova Loc.  - Mun. Re\u015fi\u0163a",
-    "cod": "314",
-    "codPrimarie": "3228764",
-    "siruta": "50852"
-  },
-  {
-    "denumire": "Re\u015fi\u0163a Mun. ",
-    "cod": "264",
-    "codPrimarie": "3228764",
-    "siruta": "50807"
-  },
-  {
-    "denumire": "Caransebe\u015f Mun. ",
-    "cod": "57",
-    "codPrimarie": "3227947",
-    "siruta": "51029"
-  },
-  {
-    "denumire": "Anina Or\u015f. ",
-    "cod": "3",
-    "codPrimarie": "3227912",
-    "siruta": "50898"
-  },
-  {
-    "denumire": "Boc\u015fa Or\u015f. ",
-    "cod": "20",
-    "codPrimarie": "3227939",
-    "siruta": "50978"
-  },
-  {
-    "denumire": "B\u0103ile Herculane Or\u015f. ",
-    "cod": "50",
-    "codPrimarie": "3227920",
-    "siruta": "50932"
-  },
-  {
-    "denumire": "Moldova Nou\u0103 Or\u015f. ",
-    "cod": "200",
-    "codPrimarie": "3227955",
-    "siruta": "51065"
-  },
-  {
-    "denumire": "Oravi\u0163a Or\u015f. ",
-    "cod": "223",
-    "codPrimarie": "3227963",
-    "siruta": "51127"
-  },
-  {
-    "denumire": "O\u0163elu Ro\u015fu Or\u015f. ",
-    "cod": "224",
-    "codPrimarie": "3227971",
-    "siruta": "51216"
-  },
-  {
     "denumire": "23 August Sat  - Com. Z\u0103voi",
     "cod": "1",
     "codPrimarie": "3227335",
@@ -142,6 +10,12 @@
     "cod": "2",
     "codPrimarie": "3227963",
     "siruta": "51154"
+  },
+  {
+    "denumire": "Anina Or\u015f. ",
+    "cod": "3",
+    "codPrimarie": "3227912",
+    "siruta": "50898"
   },
   {
     "denumire": "Apadia Sat  - Com. Brebu",
@@ -160,6 +34,12 @@
     "cod": "7",
     "codPrimarie": "3227742",
     "siruta": "52188"
+  },
+  {
+    "denumire": "B\u0103nia Sat  - Com. B\u0103nia",
+    "cod": "8",
+    "codPrimarie": "3227998",
+    "siruta": "51314"
   },
   {
     "denumire": "Bazia\u015f Sat  - Com. Socol",
@@ -202,6 +82,12 @@
     "cod": "19",
     "codPrimarie": "3227769",
     "siruta": "52678"
+  },
+  {
+    "denumire": "Boc\u015fa Or\u015f. ",
+    "cod": "20",
+    "codPrimarie": "3227939",
+    "siruta": "50978"
   },
   {
     "denumire": "Bogodin\u0163 Sat  - Com. Sasca Montan\u0103",
@@ -342,10 +228,10 @@
     "siruta": "54403"
   },
   {
-    "denumire": "B\u0103nia Sat  - Com. B\u0103nia",
-    "cod": "8",
-    "codPrimarie": "3227998",
-    "siruta": "51314"
+    "denumire": "B\u0103ile Herculane Or\u015f. ",
+    "cod": "50",
+    "codPrimarie": "3227920",
+    "siruta": "50932"
   },
   {
     "denumire": "B\u0103rbosu Sat  - Com. Ramna",
@@ -372,6 +258,18 @@
     "siruta": "53880"
   },
   {
+    "denumire": "C\u0103nicea Sat  - Com. Doma\u015fnea",
+    "cod": "56",
+    "codPrimarie": "3227785",
+    "siruta": "52749"
+  },
+  {
+    "denumire": "Caransebe\u015f Mun. ",
+    "cod": "57",
+    "codPrimarie": "3227947",
+    "siruta": "51029"
+  },
+  {
     "denumire": "Cara\u015fova Sat  - Com. Cara\u015fova",
     "cod": "58",
     "codPrimarie": "3227661",
@@ -384,6 +282,12 @@
     "siruta": "54449"
   },
   {
+    "denumire": "Ciclova Montana Loc.  - Or\u015f. Oravi\u0163a",
+    "cod": "61",
+    "codPrimarie": "3227963",
+    "siruta": "51136"
+  },
+  {
     "denumire": "Ciclova Rom\u00e2n\u0103 Sat  - Com. Ciclova Rom\u00e2n\u0103",
     "cod": "62",
     "codPrimarie": "3227688",
@@ -394,6 +298,12 @@
     "cod": "64",
     "codPrimarie": "3227327",
     "siruta": "54591"
+  },
+  {
+    "denumire": "Cire\u015fa Loc.  - Or\u015f. O\u0163elu Ro\u015fu",
+    "cod": "65",
+    "codPrimarie": "3227971",
+    "siruta": "51225"
   },
   {
     "denumire": "Cire\u015fel Sat  - Com. Cornereva",
@@ -516,6 +426,12 @@
     "siruta": "52133"
   },
   {
+    "denumire": "Cuptoare Loc.  - Mun. Re\u015fi\u0163a",
+    "cod": "93",
+    "codPrimarie": "3228764",
+    "siruta": "50825"
+  },
+  {
     "denumire": "Cuptoare Sat  - Com. Cornea",
     "cod": "94",
     "codPrimarie": "3227734",
@@ -526,6 +442,12 @@
     "cod": "95",
     "codPrimarie": "3227203",
     "siruta": "53924"
+  },
+  {
+    "denumire": "C\u00e2lnic Loc.  - Mun. Re\u015fi\u0163a",
+    "cod": "96",
+    "codPrimarie": "3228764",
+    "siruta": "50816"
   },
   {
     "denumire": "C\u00e2mpia Sat  - Com. Socol",
@@ -556,12 +478,6 @@
     "cod": "101",
     "codPrimarie": "3227777",
     "siruta": "52712"
-  },
-  {
-    "denumire": "C\u0103nicea Sat  - Com. Doma\u015fnea",
-    "cod": "56",
-    "codPrimarie": "3227785",
-    "siruta": "52749"
   },
   {
     "denumire": "C\u0103rbunari Sat  - Com. C\u0103rbunari",
@@ -628,6 +544,12 @@
     "cod": "116",
     "codPrimarie": "3227742",
     "siruta": "52295"
+  },
+  {
+    "denumire": "Doman Loc.  - Mun. Re\u015fi\u0163a",
+    "cod": "117",
+    "codPrimarie": "3228764",
+    "siruta": "50834"
   },
   {
     "denumire": "Doma\u015fnea Sat  - Com. Doma\u015fnea",
@@ -870,6 +792,12 @@
     "siruta": "52053"
   },
   {
+    "denumire": "Jupa Loc.  - Mun. Caransebe\u015f",
+    "cod": "168",
+    "codPrimarie": "3227947",
+    "siruta": "51038"
+  },
+  {
     "denumire": "Lescovi\u0163a Sat  - Com. Naid\u0103\u015f",
     "cod": "169",
     "codPrimarie": "3227521",
@@ -966,6 +894,12 @@
     "siruta": "53229"
   },
   {
+    "denumire": "Marila Loc.  - Or\u015f. Oravi\u0163a",
+    "cod": "190",
+    "codPrimarie": "3227963",
+    "siruta": "51145"
+  },
+  {
     "denumire": "Martinov\u0103\u0163 Sat  - Com. Sichevi\u0163a",
     "cod": "191",
     "codPrimarie": "3227203",
@@ -1008,6 +942,24 @@
     "siruta": "53121"
   },
   {
+    "denumire": "Moldova Nou\u0103 Or\u015f. ",
+    "cod": "200",
+    "codPrimarie": "3227955",
+    "siruta": "51065"
+  },
+  {
+    "denumire": "Moldova Veche Loc.  - Or\u015f. Moldova Nou\u0103",
+    "cod": "201",
+    "codPrimarie": "3227955",
+    "siruta": "51083"
+  },
+  {
+    "denumire": "Moldovi\u0163a Loc.  - Or\u015f. Moldova Nou\u0103",
+    "cod": "202",
+    "codPrimarie": "3227955",
+    "siruta": "51092"
+  },
+  {
     "denumire": "Moniom Sat  - Mun. Re\u015fi\u0163a",
     "cod": "203",
     "codPrimarie": "3228764",
@@ -1018,6 +970,12 @@
     "cod": "204",
     "codPrimarie": "3227718",
     "siruta": "51902"
+  },
+  {
+    "denumire": "M\u0103ce\u015fti Loc.  - Or\u015f. Moldova Nou\u0103",
+    "cod": "205",
+    "codPrimarie": "3227955",
+    "siruta": "51074"
   },
   {
     "denumire": "M\u0103gura Sat  - Com. Z\u0103voi",
@@ -1098,10 +1056,34 @@
     "siruta": "53461"
   },
   {
+    "denumire": "Oravi\u0163a Or\u015f. ",
+    "cod": "223",
+    "codPrimarie": "3227963",
+    "siruta": "51127"
+  },
+  {
+    "denumire": "O\u0163elu Ro\u015fu Or\u015f. ",
+    "cod": "224",
+    "codPrimarie": "3227971",
+    "siruta": "51216"
+  },
+  {
     "denumire": "Padina Matei Sat  - Com. G\u00e2rnic",
     "cod": "225",
     "codPrimarie": "3227831",
     "siruta": "52927"
+  },
+  {
+    "denumire": "P\u0103ta\u015f Sat  - Com. Prigor",
+    "cod": "226",
+    "codPrimarie": "3227580",
+    "siruta": "53611"
+  },
+  {
+    "denumire": "Pecini\u015fca Loc.  - Or\u015f. B\u0103ile Herculane",
+    "cod": "227",
+    "codPrimarie": "3227920",
+    "siruta": "50941"
   },
   {
     "denumire": "Petnic Sat  - Com. Iablani\u0163a",
@@ -1230,16 +1212,16 @@
     "siruta": "51733"
   },
   {
-    "denumire": "Prislop Sat  - Com. Dalbo\u015fe\u0163",
-    "cod": "252",
-    "codPrimarie": "3227750",
-    "siruta": "52623"
-  },
-  {
     "denumire": "Prislop Sat  - Com. Cornereva",
     "cod": "251",
     "codPrimarie": "3227742",
     "siruta": "52446"
+  },
+  {
+    "denumire": "Prislop Sat  - Com. Dalbo\u015fe\u0163",
+    "cod": "252",
+    "codPrimarie": "3227750",
+    "siruta": "52623"
   },
   {
     "denumire": "Putna Sat  - Com. Prigor",
@@ -1264,12 +1246,6 @@
     "cod": "256",
     "codPrimarie": "3227556",
     "siruta": "53434"
-  },
-  {
-    "denumire": "P\u0103ta\u015f Sat  - Com. Prigor",
-    "cod": "226",
-    "codPrimarie": "3227580",
-    "siruta": "53611"
   },
   {
     "denumire": "Radimna Sat  - Com. Pojejena",
@@ -1300,6 +1276,12 @@
     "cod": "263",
     "codPrimarie": "3227815",
     "siruta": "52829"
+  },
+  {
+    "denumire": "Re\u015fi\u0163a Mun. ",
+    "cod": "264",
+    "codPrimarie": "3228764",
+    "siruta": "50807"
   },
   {
     "denumire": "Re\u015fi\u0163a Mic\u0103 Sat  - Com. Dalbo\u015fe\u0163",
@@ -1422,6 +1404,12 @@
     "siruta": "52464"
   },
   {
+    "denumire": "Secu Loc.  - Mun. Re\u015fi\u0163a",
+    "cod": "289",
+    "codPrimarie": "3228764",
+    "siruta": "50843"
+  },
+  {
     "denumire": "Sec\u0103\u015feni Sat  - Com. Ticvaniu Mare",
     "cod": "290",
     "codPrimarie": "3227254",
@@ -1468,6 +1456,18 @@
     "cod": "300",
     "codPrimarie": "3227688",
     "siruta": "51975"
+  },
+  {
+    "denumire": "\u015eo\u015fdea Sat  - Com. M\u0103ureni",
+    "cod": "301",
+    "codPrimarie": "3227491",
+    "siruta": "53265"
+  },
+  {
+    "denumire": "Steierdorf Loc.  - Or\u015f. Anina",
+    "cod": "302",
+    "codPrimarie": "3227912",
+    "siruta": "50905"
   },
   {
     "denumire": "Streneac Sat  - Com. Sichevi\u0163a",
@@ -1528,6 +1528,12 @@
     "cod": "312",
     "codPrimarie": "3227246",
     "siruta": "54289"
+  },
+  {
+    "denumire": "\u0162erova Loc.  - Mun. Re\u015fi\u0163a",
+    "cod": "314",
+    "codPrimarie": "3228764",
+    "siruta": "50852"
   },
   {
     "denumire": "Ticvaniu Mare Sat  - Com. Ticvaniu Mare",
@@ -1822,12 +1828,6 @@
     "cod": "374",
     "codPrimarie": "3227750",
     "siruta": "52641"
-  },
-  {
-    "denumire": "\u015eo\u015fdea Sat  - Com. M\u0103ureni",
-    "cod": "301",
-    "codPrimarie": "3227491",
-    "siruta": "53265"
   },
   {
     "denumire": "\u015etin\u0103pari Sat  - Com. C\u0103rbunari",

@@ -57,6 +57,10 @@ parser.add_argument(
 )
 
 
+def get_int_cod(item):
+    return int(item["cod"])
+
+
 def run(argv=None):
     args = parser.parse_args(args=argv)
     logging.basicConfig(level=args.log_level)
@@ -74,7 +78,7 @@ def run(argv=None):
             url = f"{endpoint}/{county_id}"
             logger.info("Fetching %r", url)
             resp = niquests.get(url)
-            data = resp.json()
+            data = sorted(resp.json(), key=get_int_cod)
             logger.info("Saving %r", county_path)
             county_path.write_text(json.dumps(data, indent=2))
         for entry in data:

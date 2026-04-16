@@ -1,53 +1,5 @@
 [
   {
-    "denumire": "Rev\u0103rsarea Loc.  - Or\u015f. Isaccea",
-    "cod": "136",
-    "codPrimarie": "3721907",
-    "siruta": "159712"
-  },
-  {
-    "denumire": "Tichile\u015fti Loc.  - Or\u015f. Isaccea",
-    "cod": "164",
-    "codPrimarie": "3721907",
-    "siruta": "159703"
-  },
-  {
-    "denumire": "Tudor Vladimirescu Loc.  - Mun. Tulcea",
-    "cod": "169",
-    "codPrimarie": "4321429",
-    "siruta": "159632"
-  },
-  {
-    "denumire": "Tulcea Mun. ",
-    "cod": "170",
-    "codPrimarie": "4321429",
-    "siruta": "159623"
-  },
-  {
-    "denumire": "Babadag Or\u015f. ",
-    "cod": "5",
-    "codPrimarie": "4508533",
-    "siruta": "159669"
-  },
-  {
-    "denumire": "Isaccea Or\u015f. ",
-    "cod": "77",
-    "codPrimarie": "3721907",
-    "siruta": "159696"
-  },
-  {
-    "denumire": "M\u0103cin Or\u015f. ",
-    "cod": "107",
-    "codPrimarie": "3839156",
-    "siruta": "159749"
-  },
-  {
-    "denumire": "Sulina Or\u015f. ",
-    "cod": "158",
-    "codPrimarie": "4321410",
-    "siruta": "159776"
-  },
-  {
     "denumire": "Agighiol Sat  - Com. Valea Nucarilor",
     "cod": "1",
     "codPrimarie": "4508789",
@@ -70,6 +22,12 @@
     "cod": "4",
     "codPrimarie": "4508592",
     "siruta": "160243"
+  },
+  {
+    "denumire": "Babadag Or\u015f. ",
+    "cod": "5",
+    "codPrimarie": "4508533",
+    "siruta": "159669"
   },
   {
     "denumire": "Baia Sat  - Com. Baia",
@@ -384,6 +342,12 @@
     "siruta": "160797"
   },
   {
+    "denumire": "Isaccea Or\u015f. ",
+    "cod": "77",
+    "codPrimarie": "3721907",
+    "siruta": "159696"
+  },
+  {
     "denumire": "Iulia Sat  - Com. Izvoarele",
     "cod": "78",
     "codPrimarie": "4508568",
@@ -502,6 +466,12 @@
     "cod": "105",
     "codPrimarie": "4793979",
     "siruta": "160920"
+  },
+  {
+    "denumire": "M\u0103cin Or\u015f. ",
+    "cod": "107",
+    "codPrimarie": "3839156",
+    "siruta": "159749"
   },
   {
     "denumire": "M\u0103gurele Sat  - Com. Topolog",
@@ -636,6 +606,12 @@
     "siruta": "160010"
   },
   {
+    "denumire": "Rev\u0103rsarea Loc.  - Or\u015f. Isaccea",
+    "cod": "136",
+    "codPrimarie": "3721907",
+    "siruta": "159712"
+  },
+  {
     "denumire": "R\u00e2ndunica Sat  - Com. Mihail Kog\u0103lniceanu",
     "cod": "137",
     "codPrimarie": "4508770",
@@ -726,6 +702,12 @@
     "siruta": "160038"
   },
   {
+    "denumire": "Sulina Or\u015f. ",
+    "cod": "158",
+    "codPrimarie": "4321410",
+    "siruta": "159776"
+  },
+  {
     "denumire": "S\u00e2mb\u0103ta Nou\u0103 Sat  - Com. Topolog",
     "cod": "159",
     "codPrimarie": "4508584",
@@ -756,6 +738,12 @@
     "siruta": "160421"
   },
   {
+    "denumire": "Tichile\u015fti Loc.  - Or\u015f. Isaccea",
+    "cod": "164",
+    "codPrimarie": "3721907",
+    "siruta": "159703"
+  },
+  {
     "denumire": "Topolog Sat  - Com. Topolog",
     "cod": "166",
     "codPrimarie": "4508584",
@@ -772,6 +760,18 @@
     "cod": "168",
     "codPrimarie": "4508681",
     "siruta": "161026"
+  },
+  {
+    "denumire": "Tudor Vladimirescu Loc.  - Mun. Tulcea",
+    "cod": "169",
+    "codPrimarie": "4321429",
+    "siruta": "159632"
+  },
+  {
+    "denumire": "Tulcea Mun. ",
+    "cod": "170",
+    "codPrimarie": "4321429",
+    "siruta": "159623"
   },
   {
     "denumire": "Turcoaia Sat  - Com. Turcoaia",

@@ -1,35 +1,5 @@
 [
   {
-    "denumire": "C\u0103l\u0103ra\u015fi Mun. ",
-    "cod": "41",
-    "codPrimarie": "4445370",
-    "siruta": "92578"
-  },
-  {
-    "denumire": "Olteni\u0163a Mun. ",
-    "cod": "120",
-    "codPrimarie": "4294103",
-    "siruta": "100629"
-  },
-  {
-    "denumire": "Bude\u015fti Or\u015f. ",
-    "cod": "14",
-    "codPrimarie": "4294154",
-    "siruta": "101467"
-  },
-  {
-    "denumire": "Fundulea Or\u015f. ",
-    "cod": "71",
-    "codPrimarie": "3797131",
-    "siruta": "103041"
-  },
-  {
-    "denumire": "Lehliu-Gar\u0103 Or\u015f. ",
-    "cod": "92",
-    "codPrimarie": "16300713",
-    "siruta": "93897"
-  },
-  {
     "denumire": "Alexandru I. Cuza Sat  - Or\u015f. Fundulea",
     "cod": "1",
     "codPrimarie": "3797131",
@@ -90,6 +60,12 @@
     "siruta": "101485"
   },
   {
+    "denumire": "Bude\u015fti Or\u015f. ",
+    "cod": "14",
+    "codPrimarie": "4294154",
+    "siruta": "101467"
+  },
+  {
     "denumire": "Buzoeni Sat  - Or\u015f. Lehliu-Gar\u0103",
     "cod": "15",
     "codPrimarie": "16300713",
@@ -108,16 +84,16 @@
     "siruta": "105277"
   },
   {
-    "denumire": "Chirnogi Sat  - Com. Ulmu",
-    "cod": "20",
-    "codPrimarie": "3796861",
-    "siruta": "94624"
-  },
-  {
     "denumire": "Chirnogi Sat  - Com. Chirnogi",
     "cod": "19",
     "codPrimarie": "3966303",
     "siruta": "101813"
+  },
+  {
+    "denumire": "Chirnogi Sat  - Com. Ulmu",
+    "cod": "20",
+    "codPrimarie": "3796861",
+    "siruta": "94624"
   },
   {
     "denumire": "Chiselet Sat  - Com. Chiselet",
@@ -214,6 +190,12 @@
     "cod": "40",
     "codPrimarie": "3966419",
     "siruta": "101109"
+  },
+  {
+    "denumire": "C\u0103l\u0103ra\u015fi Mun. ",
+    "cod": "41",
+    "codPrimarie": "4445370",
+    "siruta": "92578"
   },
   {
     "denumire": "C\u0103l\u0103ra\u015fii Vechi Sat  - Com. Cuza Vod\u0103",
@@ -336,6 +318,12 @@
     "siruta": "103023"
   },
   {
+    "denumire": "Fundulea Or\u015f. ",
+    "cod": "71",
+    "codPrimarie": "3797131",
+    "siruta": "103041"
+  },
+  {
     "denumire": "F\u00e2nt\u00e2na Doamnei Sat  - Com. Nicolae B\u0103lcescu",
     "cod": "72",
     "codPrimarie": "3966338",
@@ -346,6 +334,12 @@
     "cod": "73",
     "codPrimarie": "3796861",
     "siruta": "94633"
+  },
+  {
+    "denumire": "G\u0103l\u0103\u0163ui Sat  - Com. Alexandru Odobescu",
+    "cod": "74",
+    "codPrimarie": "3966281",
+    "siruta": "94152"
   },
   {
     "denumire": "Gostilele Sat  - Or\u015f. Fundulea",
@@ -384,12 +378,6 @@
     "siruta": "105847"
   },
   {
-    "denumire": "G\u0103l\u0103\u0163ui Sat  - Com. Alexandru Odobescu",
-    "cod": "74",
-    "codPrimarie": "3966281",
-    "siruta": "94152"
-  },
-  {
     "denumire": "Iezeru Sat  - Com. Jeg\u0103lia",
     "cod": "83",
     "codPrimarie": "3796756",
@@ -418,6 +406,12 @@
     "cod": "90",
     "codPrimarie": "3796748",
     "siruta": "93860"
+  },
+  {
+    "denumire": "Lehliu-Gar\u0103 Or\u015f. ",
+    "cod": "92",
+    "codPrimarie": "16300713",
+    "siruta": "93897"
   },
   {
     "denumire": "Libertatea Sat  - Com. Dichiseni",
@@ -538,6 +532,12 @@
     "cod": "119",
     "codPrimarie": "3796730",
     "siruta": "93423"
+  },
+  {
+    "denumire": "Olteni\u0163a Mun. ",
+    "cod": "120",
+    "codPrimarie": "4294103",
+    "siruta": "100629"
   },
   {
     "denumire": "Oltina Sat  - Com. Unirea",
@@ -954,12 +954,6 @@
     "siruta": "94642"
   },
   {
-    "denumire": "\u00cenfr\u0103\u0163irea Sat  - Com. Dor M\u0103runt",
-    "cod": "213",
-    "codPrimarie": "3796730",
-    "siruta": "93414"
-  },
-  {
     "denumire": "\u015eeinoiu Sat  - Com. T\u0103m\u0103d\u0103u Mare",
     "cod": "205",
     "codPrimarie": "3966346",
@@ -988,5 +982,11 @@
     "cod": "212",
     "codPrimarie": "3796950",
     "siruta": "103844"
+  },
+  {
+    "denumire": "\u00cenfr\u0103\u0163irea Sat  - Com. Dor M\u0103runt",
+    "cod": "213",
+    "codPrimarie": "3796730",
+    "siruta": "93414"
   }
 ]

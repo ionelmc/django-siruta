@@ -1,65 +1,5 @@
 [
   {
-    "denumire": "Iancule\u015fti Loc.  - Mun. Carei",
-    "cod": "138",
-    "codPrimarie": "4481160",
-    "siruta": "136544"
-  },
-  {
-    "denumire": "Luna Loc.  - Or\u015f. Negre\u015fti-Oa\u015f",
-    "cod": "152",
-    "codPrimarie": "3963951",
-    "siruta": "136615"
-  },
-  {
-    "denumire": "S\u0103tm\u0103rel Loc.  - Mun. Satu Mare",
-    "cod": "246",
-    "codPrimarie": "4038806",
-    "siruta": "136508"
-  },
-  {
-    "denumire": "Tur Loc.  - Or\u015f. Negre\u015fti-Oa\u015f",
-    "cod": "258",
-    "codPrimarie": "3963951",
-    "siruta": "136624"
-  },
-  {
-    "denumire": "Satu Mare Mun. ",
-    "cod": "223",
-    "codPrimarie": "4038806",
-    "siruta": "136492"
-  },
-  {
-    "denumire": "Carei Mun. ",
-    "cod": "51",
-    "codPrimarie": "4481160",
-    "siruta": "136535"
-  },
-  {
-    "denumire": "Ardud Or\u015f. ",
-    "cod": "17",
-    "codPrimarie": "3897173",
-    "siruta": "136848"
-  },
-  {
-    "denumire": "Livada Or\u015f. ",
-    "cod": "149",
-    "codPrimarie": "3896852",
-    "siruta": "138039"
-  },
-  {
-    "denumire": "Negre\u015fti-Oa\u015f Or\u015f. ",
-    "cod": "174",
-    "codPrimarie": "3963951",
-    "siruta": "136606"
-  },
-  {
-    "denumire": "T\u0103\u015fnad Or\u015f. ",
-    "cod": "269",
-    "codPrimarie": "3897122",
-    "siruta": "136651"
-  },
-  {
     "denumire": "Aciua Sat  - Com. Pomi",
     "cod": "1",
     "codPrimarie": "3963820",
@@ -138,6 +78,12 @@
     "siruta": "136857"
   },
   {
+    "denumire": "Ardud Or\u015f. ",
+    "cod": "17",
+    "codPrimarie": "3897173",
+    "siruta": "136848"
+  },
+  {
     "denumire": "Ardud-Vii Sat  - Or\u015f. Ardud",
     "cod": "18",
     "codPrimarie": "3897173",
@@ -160,6 +106,12 @@
     "cod": "21",
     "codPrimarie": "3896623",
     "siruta": "137158"
+  },
+  {
+    "denumire": "B\u0103tarci Sat  - Com. B\u0103tarci",
+    "cod": "22",
+    "codPrimarie": "3897165",
+    "siruta": "136928"
   },
   {
     "denumire": "Becheni Sat  - Com. S\u0103uca",
@@ -288,10 +240,10 @@
     "siruta": "138100"
   },
   {
-    "denumire": "B\u0103tarci Sat  - Com. B\u0103tarci",
-    "cod": "22",
-    "codPrimarie": "3897165",
-    "siruta": "136928"
+    "denumire": "Carei Mun. ",
+    "cod": "51",
+    "codPrimarie": "4481160",
+    "siruta": "136535"
   },
   {
     "denumire": "Cean Sat  - Com. S\u0103uca",
@@ -714,6 +666,12 @@
     "siruta": "137425"
   },
   {
+    "denumire": "Iancule\u015fti Loc.  - Mun. Carei",
+    "cod": "138",
+    "codPrimarie": "4481160",
+    "siruta": "136544"
+  },
+  {
     "denumire": "Iegheri\u015fte Sat  - Com. Cruci\u015for",
     "cod": "139",
     "codPrimarie": "3963536",
@@ -768,6 +726,12 @@
     "siruta": "138048"
   },
   {
+    "denumire": "Livada Or\u015f. ",
+    "cod": "149",
+    "codPrimarie": "3896852",
+    "siruta": "138039"
+  },
+  {
     "denumire": "Livada Mic\u0103 Sat  - Or\u015f. Livada",
     "cod": "150",
     "codPrimarie": "3896852",
@@ -778,6 +742,12 @@
     "cod": "151",
     "codPrimarie": "3897084",
     "siruta": "137050"
+  },
+  {
+    "denumire": "Luna Loc.  - Or\u015f. Negre\u015fti-Oa\u015f",
+    "cod": "152",
+    "codPrimarie": "3963951",
+    "siruta": "136615"
   },
   {
     "denumire": "Lunca Apei Sat  - Com. Apa",
@@ -886,6 +856,12 @@
     "cod": "173",
     "codPrimarie": "3963781",
     "siruta": "137942"
+  },
+  {
+    "denumire": "Negre\u015fti-Oa\u015f Or\u015f. ",
+    "cod": "174",
+    "codPrimarie": "3963951",
+    "siruta": "136606"
   },
   {
     "denumire": "Nisipeni Sat  - Com. Lazuri",
@@ -1122,6 +1098,12 @@
     "siruta": "138743"
   },
   {
+    "denumire": "Satu Mare Mun. ",
+    "cod": "223",
+    "codPrimarie": "4038806",
+    "siruta": "136492"
+  },
+  {
     "denumire": "Satu Mic Sat  - Com. Craidorol\u0163",
     "cod": "224",
     "codPrimarie": "3897106",
@@ -1236,6 +1218,12 @@
     "siruta": "136697"
   },
   {
+    "denumire": "S\u0103tm\u0103rel Loc.  - Mun. Satu Mare",
+    "cod": "246",
+    "codPrimarie": "4038806",
+    "siruta": "136508"
+  },
+  {
     "denumire": "S\u0103uca Sat  - Com. S\u0103uca",
     "cod": "247",
     "codPrimarie": "3963919",
@@ -1278,6 +1266,12 @@
     "siruta": "137096"
   },
   {
+    "denumire": "Tur Loc.  - Or\u015f. Negre\u015fti-Oa\u015f",
+    "cod": "258",
+    "codPrimarie": "3963951",
+    "siruta": "136624"
+  },
+  {
     "denumire": "Turulung Sat  - Com. Turulung",
     "cod": "259",
     "codPrimarie": "3896569",
@@ -1318,6 +1312,12 @@
     "cod": "268",
     "codPrimarie": "3896640",
     "siruta": "139438"
+  },
+  {
+    "denumire": "T\u0103\u015fnad Or\u015f. ",
+    "cod": "269",
+    "codPrimarie": "3897122",
+    "siruta": "136651"
   },
   {
     "denumire": "Unim\u0103t Sat  - Com. Ac\u00e2\u015f",

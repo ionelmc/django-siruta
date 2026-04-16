@@ -1,155 +1,5 @@
 [
   {
-    "denumire": "Alm\u0103jel Loc.  - Or\u015f. Filia\u015fi",
-    "cod": "7",
-    "codPrimarie": "4553372",
-    "siruta": "70432"
-  },
-  {
-    "denumire": "Balasan Loc.  - Mun. B\u0103ile\u015fti",
-    "cod": "17",
-    "codPrimarie": "5002240",
-    "siruta": "70334"
-  },
-  {
-    "denumire": "Basarabi Loc.  - Mun. Calafat",
-    "cod": "21",
-    "codPrimarie": "4554424",
-    "siruta": "70370"
-  },
-  {
-    "denumire": "Brani\u015fte Loc.  - Or\u015f. Filia\u015fi",
-    "cod": "48",
-    "codPrimarie": "4553372",
-    "siruta": "70450"
-  },
-  {
-    "denumire": "B\u00e2lta Loc.  - Or\u015f. Filia\u015fi",
-    "cod": "70",
-    "codPrimarie": "4553372",
-    "siruta": "70441"
-  },
-  {
-    "denumire": "Cernele Loc.  - Mun. Craiova",
-    "cod": "94",
-    "codPrimarie": "4417214",
-    "siruta": "70058"
-  },
-  {
-    "denumire": "Cernelele de Sus Loc.  - Mun. Craiova",
-    "cod": "95",
-    "codPrimarie": "4417214",
-    "siruta": "70067"
-  },
-  {
-    "denumire": "Ciupercenii Vechi Loc.  - Mun. Calafat",
-    "cod": "112",
-    "codPrimarie": "4554424",
-    "siruta": "70389"
-  },
-  {
-    "denumire": "Frato\u015fti\u0163a Loc.  - Or\u015f. Filia\u015fi",
-    "cod": "174",
-    "codPrimarie": "4553372",
-    "siruta": "70469"
-  },
-  {
-    "denumire": "F\u0103c\u0103i Loc.  - Mun. Craiova",
-    "cod": "179",
-    "codPrimarie": "4417214",
-    "siruta": "69928"
-  },
-  {
-    "denumire": "Golen\u0163i Loc.  - Mun. Calafat",
-    "cod": "211",
-    "codPrimarie": "4554424",
-    "siruta": "70398"
-  },
-  {
-    "denumire": "Izvoru Rece Loc.  - Mun. Craiova",
-    "cod": "233",
-    "codPrimarie": "4417214",
-    "siruta": "70076"
-  },
-  {
-    "denumire": "Mofleni Loc.  - Mun. Craiova",
-    "cod": "272",
-    "codPrimarie": "4417214",
-    "siruta": "69937"
-  },
-  {
-    "denumire": "Popoveni Loc.  - Mun. Craiova",
-    "cod": "346",
-    "codPrimarie": "4417214",
-    "siruta": "69946"
-  },
-  {
-    "denumire": "Rovine Loc.  - Mun. Craiova",
-    "cod": "373",
-    "codPrimarie": "4417214",
-    "siruta": "70085"
-  },
-  {
-    "denumire": "R\u0103carii de Sus Loc.  - Or\u015f. Filia\u015fi",
-    "cod": "377",
-    "codPrimarie": "4553372",
-    "siruta": "70478"
-  },
-  {
-    "denumire": "Usc\u0103ci Loc.  - Or\u015f. Filia\u015fi",
-    "cod": "443",
-    "codPrimarie": "4553372",
-    "siruta": "70487"
-  },
-  {
-    "denumire": "\u015eimnicu de Jos Loc.  - Mun. Craiova",
-    "cod": "471",
-    "codPrimarie": "4417214",
-    "siruta": "69955"
-  },
-  {
-    "denumire": "Craiova Mun. ",
-    "cod": "129",
-    "codPrimarie": "4417214",
-    "siruta": "69919"
-  },
-  {
-    "denumire": "B\u0103ile\u015fti Mun. ",
-    "cod": "75",
-    "codPrimarie": "5002240",
-    "siruta": "70325"
-  },
-  {
-    "denumire": "Calafat Mun. ",
-    "cod": "78",
-    "codPrimarie": "4554424",
-    "siruta": "70361"
-  },
-  {
-    "denumire": "Bechet Or\u015f. ",
-    "cod": "23",
-    "codPrimarie": "4941390",
-    "siruta": "70879"
-  },
-  {
-    "denumire": "D\u0103buleni Or\u015f. ",
-    "cod": "166",
-    "codPrimarie": "5002029",
-    "siruta": "72007"
-  },
-  {
-    "denumire": "Filia\u015fi Or\u015f. ",
-    "cod": "169",
-    "codPrimarie": "4553372",
-    "siruta": "70423"
-  },
-  {
-    "denumire": "Segarcea Or\u015f. ",
-    "cod": "394",
-    "codPrimarie": "4554467",
-    "siruta": "70511"
-  },
-  {
     "denumire": "Ad\u00e2ncata Sat  - Com. Goie\u015fti",
     "cod": "1",
     "codPrimarie": "4554203",
@@ -172,6 +22,12 @@
     "cod": "6",
     "codPrimarie": "4553674",
     "siruta": "70575"
+  },
+  {
+    "denumire": "Alm\u0103jel Loc.  - Or\u015f. Filia\u015fi",
+    "cod": "7",
+    "codPrimarie": "4553372",
+    "siruta": "70432"
   },
   {
     "denumire": "Am\u0103r\u0103\u015fti Sat  - Com. F\u0103rca\u015f",
@@ -204,6 +60,12 @@
     "siruta": "70753"
   },
   {
+    "denumire": "Balasan Loc.  - Mun. B\u0103ile\u015fti",
+    "cod": "17",
+    "codPrimarie": "5002240",
+    "siruta": "70334"
+  },
+  {
     "denumire": "Balota de Jos Sat  - Com. Murga\u015fi",
     "cod": "18",
     "codPrimarie": "4553267",
@@ -222,10 +84,22 @@
     "siruta": "70138"
   },
   {
+    "denumire": "Basarabi Loc.  - Mun. Calafat",
+    "cod": "21",
+    "codPrimarie": "4554424",
+    "siruta": "70370"
+  },
+  {
     "denumire": "Ba\u015fcov Sat  - Com. Sopot",
     "cod": "22",
     "codPrimarie": "4553461",
     "siruta": "74260"
+  },
+  {
+    "denumire": "Bechet Or\u015f. ",
+    "cod": "23",
+    "codPrimarie": "4941390",
+    "siruta": "70879"
   },
   {
     "denumire": "Bechet Sat  - Or\u015f. Bechet",
@@ -348,16 +222,22 @@
     "siruta": "71135"
   },
   {
-    "denumire": "Brani\u015fte Sat  - Com. Dane\u0163i",
-    "cod": "50",
-    "codPrimarie": "4553518",
-    "siruta": "71983"
+    "denumire": "Brani\u015fte Loc.  - Or\u015f. Filia\u015fi",
+    "cod": "48",
+    "codPrimarie": "4553372",
+    "siruta": "70450"
   },
   {
     "denumire": "Brani\u015fte Sat  - Com. Podari",
     "cod": "49",
     "codPrimarie": "4553399",
     "siruta": "70147"
+  },
+  {
+    "denumire": "Brani\u015fte Sat  - Com. Dane\u0163i",
+    "cod": "50",
+    "codPrimarie": "4553518",
+    "siruta": "71983"
   },
   {
     "denumire": "Bratovoe\u015fti Sat  - Com. Bratovoe\u015fti",
@@ -444,6 +324,12 @@
     "siruta": "73406"
   },
   {
+    "denumire": "B\u00e2lta Loc.  - Or\u015f. Filia\u015fi",
+    "cod": "70",
+    "codPrimarie": "4553372",
+    "siruta": "70441"
+  },
+  {
     "denumire": "B\u00e2rca Sat  - Com. B\u00e2rca",
     "cod": "72",
     "codPrimarie": "5002100",
@@ -462,6 +348,12 @@
     "siruta": "71215"
   },
   {
+    "denumire": "B\u0103ile\u015fti Mun. ",
+    "cod": "75",
+    "codPrimarie": "5002240",
+    "siruta": "70325"
+  },
+  {
     "denumire": "B\u0103ranu Sat  - Com. Argetoaia",
     "cod": "76",
     "codPrimarie": "4554190",
@@ -472,6 +364,12 @@
     "cod": "77",
     "codPrimarie": "5046750",
     "siruta": "72837"
+  },
+  {
+    "denumire": "Calafat Mun. ",
+    "cod": "78",
+    "codPrimarie": "4554424",
+    "siruta": "70361"
   },
   {
     "denumire": "Calop\u0103r Sat  - Com. Calop\u0103r",
@@ -532,6 +430,18 @@
     "cod": "93",
     "codPrimarie": "4553461",
     "siruta": "74288"
+  },
+  {
+    "denumire": "Cernele Loc.  - Mun. Craiova",
+    "cod": "94",
+    "codPrimarie": "4417214",
+    "siruta": "70058"
+  },
+  {
+    "denumire": "Cernelele de Sus Loc.  - Mun. Craiova",
+    "cod": "95",
+    "codPrimarie": "4417214",
+    "siruta": "70067"
   },
   {
     "denumire": "Cern\u0103te\u015fti Sat  - Com. Cern\u0103te\u015fti",
@@ -598,6 +508,12 @@
     "cod": "111",
     "codPrimarie": "5001880",
     "siruta": "71867"
+  },
+  {
+    "denumire": "Ciupercenii Vechi Loc.  - Mun. Calafat",
+    "cod": "112",
+    "codPrimarie": "4554424",
+    "siruta": "70389"
   },
   {
     "denumire": "Ciutura Sat  - Com. V\u00e2rvoru de Jos",
@@ -682,6 +598,12 @@
     "cod": "128",
     "codPrimarie": "16397900",
     "siruta": "70600"
+  },
+  {
+    "denumire": "Craiova Mun. ",
+    "cod": "129",
+    "codPrimarie": "4417214",
+    "siruta": "69919"
   },
   {
     "denumire": "Criva Sat  - Com. V\u00e2rvoru de Jos",
@@ -858,6 +780,12 @@
     "siruta": "70236"
   },
   {
+    "denumire": "D\u0103buleni Or\u015f. ",
+    "cod": "166",
+    "codPrimarie": "5002029",
+    "siruta": "72007"
+  },
+  {
     "denumire": "D\u0103buleni Sat  - Or\u015f. D\u0103buleni",
     "cod": "167",
     "codPrimarie": "5002029",
@@ -868,6 +796,12 @@
     "cod": "168",
     "codPrimarie": "5077595",
     "siruta": "72560"
+  },
+  {
+    "denumire": "Filia\u015fi Or\u015f. ",
+    "cod": "169",
+    "codPrimarie": "4553372",
+    "siruta": "70423"
   },
   {
     "denumire": "Floran Sat  - Com. Terpezi\u0163a",
@@ -894,6 +828,12 @@
     "siruta": "73816"
   },
   {
+    "denumire": "Frato\u015fti\u0163a Loc.  - Or\u015f. Filia\u015fi",
+    "cod": "174",
+    "codPrimarie": "4553372",
+    "siruta": "70469"
+  },
+  {
     "denumire": "Fr\u0103\u0163ila Sat  - Com. Bulze\u015fti",
     "cod": "175",
     "codPrimarie": "5001961",
@@ -916,6 +856,12 @@
     "cod": "178",
     "codPrimarie": "4554203",
     "siruta": "72702"
+  },
+  {
+    "denumire": "F\u0103c\u0103i Loc.  - Mun. Craiova",
+    "cod": "179",
+    "codPrimarie": "4417214",
+    "siruta": "69928"
   },
   {
     "denumire": "F\u0103get Sat  - Com. Breasta",
@@ -1050,6 +996,12 @@
     "siruta": "72686"
   },
   {
+    "denumire": "Golen\u0163i Loc.  - Mun. Calafat",
+    "cod": "211",
+    "codPrimarie": "4554424",
+    "siruta": "70398"
+  },
+  {
     "denumire": "Golfin Sat  - Com. Rob\u0103ne\u015fti",
     "cod": "212",
     "codPrimarie": "5002045",
@@ -1156,6 +1108,12 @@
     "cod": "232",
     "codPrimarie": "4553291",
     "siruta": "70254"
+  },
+  {
+    "denumire": "Izvoru Rece Loc.  - Mun. Craiova",
+    "cod": "233",
+    "codPrimarie": "4417214",
+    "siruta": "70076"
   },
   {
     "denumire": "I\u015falni\u0163a Sat  - Com. I\u015falni\u0163a",
@@ -1342,6 +1300,12 @@
     "cod": "271",
     "codPrimarie": "4554157",
     "siruta": "73282"
+  },
+  {
+    "denumire": "Mofleni Loc.  - Mun. Craiova",
+    "cod": "272",
+    "codPrimarie": "4417214",
+    "siruta": "69937"
   },
   {
     "denumire": "Mofle\u015fti Sat  - Com. T\u0103lpa\u015f",
@@ -1698,6 +1662,12 @@
     "siruta": "73200"
   },
   {
+    "denumire": "Popoveni Loc.  - Mun. Craiova",
+    "cod": "346",
+    "codPrimarie": "4417214",
+    "siruta": "69946"
+  },
+  {
     "denumire": "Pop\u00e2nz\u0103le\u015fti Sat  - Com. Dr\u0103gote\u015fti",
     "cod": "347",
     "codPrimarie": "4554297",
@@ -1830,6 +1800,12 @@
     "siruta": "70290"
   },
   {
+    "denumire": "Rovine Loc.  - Mun. Craiova",
+    "cod": "373",
+    "codPrimarie": "4417214",
+    "siruta": "70085"
+  },
+  {
     "denumire": "Ro\u015fieni Sat  - Com. Breasta",
     "cod": "374",
     "codPrimarie": "4554050",
@@ -1846,6 +1822,12 @@
     "cod": "376",
     "codPrimarie": "4553747",
     "siruta": "71108"
+  },
+  {
+    "denumire": "R\u0103carii de Sus Loc.  - Or\u015f. Filia\u015fi",
+    "cod": "377",
+    "codPrimarie": "4553372",
+    "siruta": "70478"
   },
   {
     "denumire": "R\u0103chita de Jos Sat  - Com. Brabova",
@@ -1912,6 +1894,12 @@
     "cod": "393",
     "codPrimarie": "5001961",
     "siruta": "71439"
+  },
+  {
+    "denumire": "Segarcea Or\u015f. ",
+    "cod": "394",
+    "codPrimarie": "4554467",
+    "siruta": "70511"
   },
   {
     "denumire": "Segle\u0163 Sat  - Com. Vela",
@@ -1986,16 +1974,16 @@
     "siruta": "74313"
   },
   {
-    "denumire": "S\u0103lcu\u0163a Sat  - Com. S\u0103lcu\u0163a",
-    "cod": "411",
-    "codPrimarie": "5001996",
-    "siruta": "74037"
-  },
-  {
     "denumire": "S\u0103lcu\u0163a Sat  - Com. Calop\u0103r",
     "cod": "409",
     "codPrimarie": "4554181",
     "siruta": "71509"
+  },
+  {
+    "denumire": "S\u0103lcu\u0163a Sat  - Com. S\u0103lcu\u0163a",
+    "cod": "411",
+    "codPrimarie": "5001996",
+    "siruta": "74037"
   },
   {
     "denumire": "S\u0103li\u015fte Sat  - Com. Bulze\u015fti",
@@ -2154,6 +2142,12 @@
     "siruta": "74563"
   },
   {
+    "denumire": "Usc\u0103ci Loc.  - Or\u015f. Filia\u015fi",
+    "cod": "443",
+    "codPrimarie": "4553372",
+    "siruta": "70487"
+  },
+  {
     "denumire": "Valea F\u00e2nt\u00e2nilor Sat  - Com. Bralo\u015fti\u0163a",
     "cod": "444",
     "codPrimarie": "4554343",
@@ -2286,16 +2280,10 @@
     "siruta": "72490"
   },
   {
-    "denumire": "\u00cenfr\u0103\u0163irea Sat  - Com. Bulze\u015fti",
-    "cod": "478",
-    "codPrimarie": "5001961",
-    "siruta": "71395"
-  },
-  {
-    "denumire": "\u00centorsura Sat  - Com. \u00centorsura",
-    "cod": "479",
-    "codPrimarie": "16380445",
-    "siruta": "73889"
+    "denumire": "\u015eimnicu de Jos Loc.  - Mun. Craiova",
+    "cod": "471",
+    "codPrimarie": "4417214",
+    "siruta": "69955"
   },
   {
     "denumire": "\u015eimnicu de Sus Sat  - Com. \u015eimnicu de Sus",
@@ -2326,6 +2314,18 @@
     "cod": "477",
     "codPrimarie": "5046734",
     "siruta": "74215"
+  },
+  {
+    "denumire": "\u00cenfr\u0103\u0163irea Sat  - Com. Bulze\u015fti",
+    "cod": "478",
+    "codPrimarie": "5001961",
+    "siruta": "71395"
+  },
+  {
+    "denumire": "\u00centorsura Sat  - Com. \u00centorsura",
+    "cod": "479",
+    "codPrimarie": "16380445",
+    "siruta": "73889"
   },
   {
     "denumire": "\u0162and\u0103ra Sat  - Com. Goie\u015fti",

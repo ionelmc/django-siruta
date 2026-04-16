@@ -1,41 +1,5 @@
 [
   {
-    "denumire": "Chiuru\u015f Loc.  - Or\u015f. Covasna",
-    "cod": "49",
-    "codPrimarie": "4404613",
-    "siruta": "63544"
-  },
-  {
-    "denumire": "Sf\u00e2ntu Gheorghe Mun. ",
-    "cod": "126",
-    "codPrimarie": "4404605",
-    "siruta": "63401"
-  },
-  {
-    "denumire": "T\u00e2rgu Secuiesc Mun. ",
-    "cod": "139",
-    "codPrimarie": "4201813",
-    "siruta": "63759"
-  },
-  {
-    "denumire": "Baraolt Or\u015f. ",
-    "cod": "12",
-    "codPrimarie": "4404788",
-    "siruta": "63456"
-  },
-  {
-    "denumire": "Covasna Or\u015f. ",
-    "cod": "52",
-    "codPrimarie": "4404613",
-    "siruta": "63535"
-  },
-  {
-    "denumire": "\u00centorsura Buz\u0103ului Or\u015f. ",
-    "cod": "161",
-    "codPrimarie": "4404370",
-    "siruta": "63599"
-  },
-  {
     "denumire": "Aita Mare Sat  - Com. Aita Mare",
     "cod": "1",
     "codPrimarie": "4201929",
@@ -94,6 +58,12 @@
     "cod": "11",
     "codPrimarie": "4404591",
     "siruta": "64960"
+  },
+  {
+    "denumire": "Baraolt Or\u015f. ",
+    "cod": "12",
+    "codPrimarie": "4404788",
+    "siruta": "63456"
   },
   {
     "denumire": "Barcani Sat  - Com. Barcani",
@@ -210,6 +180,12 @@
     "siruta": "63839"
   },
   {
+    "denumire": "C\u00e2lnic Sat  - Com. Valea Cri\u015fului",
+    "cod": "40",
+    "codPrimarie": "4202207",
+    "siruta": "64933"
+  },
+  {
     "denumire": "Catalina Sat  - Com. Catalina",
     "cod": "42",
     "codPrimarie": "4201783",
@@ -240,10 +216,22 @@
     "siruta": "63410"
   },
   {
+    "denumire": "Chiuru\u015f Loc.  - Or\u015f. Covasna",
+    "cod": "49",
+    "codPrimarie": "4404613",
+    "siruta": "63544"
+  },
+  {
     "denumire": "Comand\u0103u Sat  - Com. Comand\u0103u",
     "cod": "51",
     "codPrimarie": "4201937",
     "siruta": "63562"
+  },
+  {
+    "denumire": "Covasna Or\u015f. ",
+    "cod": "52",
+    "codPrimarie": "4404613",
+    "siruta": "63535"
   },
   {
     "denumire": "Co\u015feni Sat  - Mun. Sf\u00e2ntu Gheorghe",
@@ -256,12 +244,6 @@
     "cod": "54",
     "codPrimarie": "4404460",
     "siruta": "63704"
-  },
-  {
-    "denumire": "C\u00e2lnic Sat  - Com. Valea Cri\u015fului",
-    "cod": "40",
-    "codPrimarie": "4202207",
-    "siruta": "64933"
   },
   {
     "denumire": "C\u0103peni Sat  - Or\u015f. Baraolt",
@@ -618,6 +600,12 @@
     "siruta": "63624"
   },
   {
+    "denumire": "Sf\u00e2ntu Gheorghe Mun. ",
+    "cod": "126",
+    "codPrimarie": "4404605",
+    "siruta": "63401"
+  },
+  {
     "denumire": "Sita Buz\u0103ului Sat  - Com. Sita Buz\u0103ului",
     "cod": "127",
     "codPrimarie": "4404460",
@@ -670,6 +658,12 @@
     "cod": "137",
     "codPrimarie": "4404630",
     "siruta": "64880"
+  },
+  {
+    "denumire": "T\u00e2rgu Secuiesc Mun. ",
+    "cod": "139",
+    "codPrimarie": "4201813",
+    "siruta": "63759"
   },
   {
     "denumire": "T\u0103li\u015foara Sat  - Com. Br\u0103du\u0163",
@@ -760,6 +754,12 @@
     "cod": "160",
     "codPrimarie": "4404621",
     "siruta": "63928"
+  },
+  {
+    "denumire": "\u00centorsura Buz\u0103ului Or\u015f. ",
+    "cod": "161",
+    "codPrimarie": "4404370",
+    "siruta": "63599"
   },
   {
     "denumire": "\u0162ufal\u0103u Sat  - Com. Boro\u015fneu Mare",

@@ -1,179 +1,5 @@
 [
   {
-    "denumire": "Blidari Loc.  - Mun. Baia Mare",
-    "cod": "23",
-    "codPrimarie": "3627692",
-    "siruta": "106336"
-  },
-  {
-    "denumire": "Bu\u015fag Loc.  - Or\u015f. T\u0103u\u0163ii-M\u0103gher\u0103u\u015f",
-    "cod": "44",
-    "codPrimarie": "3627170",
-    "siruta": "106504"
-  },
-  {
-    "denumire": "B\u0103ile Bor\u015fa Loc.  - Or\u015f. Bor\u015fa",
-    "cod": "50",
-    "codPrimarie": "3627544",
-    "siruta": "106764"
-  },
-  {
-    "denumire": "B\u0103i\u0163a Loc.  - Or\u015f. T\u0103u\u0163ii-M\u0103gher\u0103u\u015f",
-    "cod": "53",
-    "codPrimarie": "3627170",
-    "siruta": "106489"
-  },
-  {
-    "denumire": "Chiuzbaia Loc.  - Or\u015f. Baia Sprie",
-    "cod": "64",
-    "codPrimarie": "3694918",
-    "siruta": "106700"
-  },
-  {
-    "denumire": "Firiza Loc.  - Mun. Baia Mare",
-    "cod": "120",
-    "codPrimarie": "3627692",
-    "siruta": "106345"
-  },
-  {
-    "denumire": "Iapa Loc.  - Mun. Sighetu Marma\u0163iei",
-    "cod": "141",
-    "codPrimarie": "3695174",
-    "siruta": "106577"
-  },
-  {
-    "denumire": "Lazu Baciului Loc.  - Mun. Sighetu Marma\u0163iei",
-    "cod": "149",
-    "codPrimarie": "3695174",
-    "siruta": "106586"
-  },
-  {
-    "denumire": "Nistru Loc.  - Or\u015f. T\u0103u\u0163ii-M\u0103gher\u0103u\u015f",
-    "cod": "172",
-    "codPrimarie": "3627170",
-    "siruta": "106522"
-  },
-  {
-    "denumire": "Sug\u0103u Loc.  - Mun. Sighetu Marma\u0163iei",
-    "cod": "243",
-    "codPrimarie": "3695174",
-    "siruta": "106595"
-  },
-  {
-    "denumire": "T\u0103u\u0163ii de Sus Loc.  - Or\u015f. Baia Sprie",
-    "cod": "268",
-    "codPrimarie": "3694918",
-    "siruta": "106719"
-  },
-  {
-    "denumire": "T\u0103u\u0163ii-M\u0103gher\u0103u\u015f Loc.  - Or\u015f. T\u0103u\u0163ii-M\u0103gher\u0103u\u015f",
-    "cod": "270",
-    "codPrimarie": "3627170",
-    "siruta": "106470"
-  },
-  {
-    "denumire": "Valea Cufundoasa Loc.  - Mun. Sighetu Marma\u0163iei",
-    "cod": "282",
-    "codPrimarie": "3695174",
-    "siruta": "106602"
-  },
-  {
-    "denumire": "Valea Hotarului Loc.  - Mun. Sighetu Marma\u0163iei",
-    "cod": "283",
-    "codPrimarie": "3695174",
-    "siruta": "106611"
-  },
-  {
-    "denumire": "Valea Neagr\u0103 Loc.  - Mun. Baia Mare",
-    "cod": "284",
-    "codPrimarie": "3627692",
-    "siruta": "106354"
-  },
-  {
-    "denumire": "Vi\u015feu de Mijloc Loc.  - Or\u015f. Vi\u015feu de Sus",
-    "cod": "294",
-    "codPrimarie": "3627641",
-    "siruta": "106997"
-  },
-  {
-    "denumire": "Baia Mare Mun. ",
-    "cod": "13",
-    "codPrimarie": "3627692",
-    "siruta": "106327"
-  },
-  {
-    "denumire": "Sighetu Marma\u0163iei Mun. ",
-    "cod": "231",
-    "codPrimarie": "3695174",
-    "siruta": "106568"
-  },
-  {
-    "denumire": "Baia Sprie Or\u015f. ",
-    "cod": "14",
-    "codPrimarie": "3694918",
-    "siruta": "106693"
-  },
-  {
-    "denumire": "Bor\u015fa Or\u015f. ",
-    "cod": "34",
-    "codPrimarie": "3627544",
-    "siruta": "106755"
-  },
-  {
-    "denumire": "Cavnic Or\u015f. ",
-    "cod": "58",
-    "codPrimarie": "3627595",
-    "siruta": "106791"
-  },
-  {
-    "denumire": "Dragomire\u015fti Or\u015f. ",
-    "cod": "106",
-    "codPrimarie": "3627560",
-    "siruta": "108017"
-  },
-  {
-    "denumire": "Seini Or\u015f. ",
-    "cod": "230",
-    "codPrimarie": "3627765",
-    "siruta": "108972"
-  },
-  {
-    "denumire": "S\u0103li\u015ftea de Sus Or\u015f. ",
-    "cod": "253",
-    "codPrimarie": "3627382",
-    "siruta": "108892"
-  },
-  {
-    "denumire": "T\u00e2rgu L\u0103pu\u015f Or\u015f. ",
-    "cod": "265",
-    "codPrimarie": "3694861",
-    "siruta": "106826"
-  },
-  {
-    "denumire": "T\u0103u\u0163ii-M\u0103gher\u0103u\u015f Or\u015f. ",
-    "cod": "269",
-    "codPrimarie": "3627170",
-    "siruta": "106461"
-  },
-  {
-    "denumire": "Ulmeni Or\u015f. ",
-    "cod": "271",
-    "codPrimarie": "3694772",
-    "siruta": "109265"
-  },
-  {
-    "denumire": "Vi\u015feu de Sus Or\u015f. ",
-    "cod": "295",
-    "codPrimarie": "3627641",
-    "siruta": "106988"
-  },
-  {
-    "denumire": "\u015eomcuta Mare Or\u015f. ",
-    "cod": "305",
-    "codPrimarie": "3694829",
-    "siruta": "109176"
-  },
-  {
     "denumire": "Ardusat Sat  - Com. Ardusat",
     "cod": "1",
     "codPrimarie": "3627870",
@@ -228,6 +54,18 @@
     "siruta": "107886"
   },
   {
+    "denumire": "Baia Mare Mun. ",
+    "cod": "13",
+    "codPrimarie": "3627692",
+    "siruta": "106327"
+  },
+  {
+    "denumire": "Baia Sprie Or\u015f. ",
+    "cod": "14",
+    "codPrimarie": "3694918",
+    "siruta": "106693"
+  },
+  {
     "denumire": "Berbe\u015fti Sat  - Com. Giule\u015fti",
     "cod": "15",
     "codPrimarie": "3694926",
@@ -262,6 +100,12 @@
     "cod": "21",
     "codPrimarie": "3695000",
     "siruta": "107289"
+  },
+  {
+    "denumire": "Blidari Loc.  - Mun. Baia Mare",
+    "cod": "23",
+    "codPrimarie": "3627692",
+    "siruta": "106336"
   },
   {
     "denumire": "Bocicoel Sat  - Com. Bogdan Vod\u0103",
@@ -306,6 +150,12 @@
     "siruta": "106844"
   },
   {
+    "denumire": "Bor\u015fa Or\u015f. ",
+    "cod": "34",
+    "codPrimarie": "3627544",
+    "siruta": "106755"
+  },
+  {
     "denumire": "Botiza Sat  - Com. Botiza",
     "cod": "35",
     "codPrimarie": "3627196",
@@ -348,6 +198,12 @@
     "siruta": "107528"
   },
   {
+    "denumire": "Bu\u015fag Loc.  - Or\u015f. T\u0103u\u0163ii-M\u0103gher\u0103u\u015f",
+    "cod": "44",
+    "codPrimarie": "3627170",
+    "siruta": "106504"
+  },
+  {
     "denumire": "Buteasa Sat  - Or\u015f. \u015eomcuta Mare",
     "cod": "45",
     "codPrimarie": "3694829",
@@ -372,10 +228,22 @@
     "siruta": "107323"
   },
   {
+    "denumire": "B\u0103ile Bor\u015fa Loc.  - Or\u015f. Bor\u015fa",
+    "cod": "50",
+    "codPrimarie": "3627544",
+    "siruta": "106764"
+  },
+  {
     "denumire": "B\u0103iu\u0163 Sat  - Com. B\u0103iu\u0163",
     "cod": "51",
     "codPrimarie": "3694497",
     "siruta": "107163"
+  },
+  {
+    "denumire": "B\u0103i\u0163a Loc.  - Or\u015f. T\u0103u\u0163ii-M\u0103gher\u0103u\u015f",
+    "cod": "53",
+    "codPrimarie": "3627170",
+    "siruta": "106489"
   },
   {
     "denumire": "B\u0103i\u0163a de Sub Codru Sat  - Com. B\u0103i\u0163a de Sub Codru",
@@ -388,6 +256,12 @@
     "cod": "56",
     "codPrimarie": "3694799",
     "siruta": "107207"
+  },
+  {
+    "denumire": "Cavnic Or\u015f. ",
+    "cod": "58",
+    "codPrimarie": "3627595",
+    "siruta": "106791"
   },
   {
     "denumire": "Cerne\u015fti Sat  - Com. Cerne\u015fti",
@@ -412,6 +286,12 @@
     "cod": "63",
     "codPrimarie": "3694772",
     "siruta": "109292"
+  },
+  {
+    "denumire": "Chiuzbaia Loc.  - Or\u015f. Baia Sprie",
+    "cod": "64",
+    "codPrimarie": "3694918",
+    "siruta": "106700"
   },
   {
     "denumire": "Cic\u00e2rl\u0103u Sat  - Com. Cic\u00e2rl\u0103u",
@@ -618,6 +498,12 @@
     "siruta": "106871"
   },
   {
+    "denumire": "Dragomire\u015fti Or\u015f. ",
+    "cod": "106",
+    "codPrimarie": "3627560",
+    "siruta": "108017"
+  },
+  {
     "denumire": "Dragomire\u015fti Sat  - Or\u015f. Dragomire\u015fti",
     "cod": "107",
     "codPrimarie": "3627560",
@@ -688,6 +574,12 @@
     "cod": "119",
     "codPrimarie": "3626905",
     "siruta": "108758"
+  },
+  {
+    "denumire": "Firiza Loc.  - Mun. Baia Mare",
+    "cod": "120",
+    "codPrimarie": "3627692",
+    "siruta": "106345"
   },
   {
     "denumire": "Fr\u00e2ncenii Boiului Sat  - Com. Boiu Mare",
@@ -792,6 +684,12 @@
     "siruta": "108295"
   },
   {
+    "denumire": "Iapa Loc.  - Mun. Sighetu Marma\u0163iei",
+    "cod": "141",
+    "codPrimarie": "3695174",
+    "siruta": "106577"
+  },
+  {
     "denumire": "Ieud Sat  - Com. Ieud",
     "cod": "143",
     "codPrimarie": "3626956",
@@ -826,6 +724,12 @@
     "cod": "148",
     "codPrimarie": "3695271",
     "siruta": "109078"
+  },
+  {
+    "denumire": "Lazu Baciului Loc.  - Mun. Sighetu Marma\u0163iei",
+    "cod": "149",
+    "codPrimarie": "3695174",
+    "siruta": "106586"
   },
   {
     "denumire": "Leordina Sat  - Com. Leordina",
@@ -934,6 +838,12 @@
     "cod": "171",
     "codPrimarie": "3627277",
     "siruta": "109149"
+  },
+  {
+    "denumire": "Nistru Loc.  - Or\u015f. T\u0103u\u0163ii-M\u0103gher\u0103u\u015f",
+    "cod": "172",
+    "codPrimarie": "3627170",
+    "siruta": "106522"
   },
   {
     "denumire": "N\u0103ne\u015fti Sat  - Com. B\u00e2rsana",
@@ -1188,6 +1098,18 @@
     "siruta": "108721"
   },
   {
+    "denumire": "Seini Or\u015f. ",
+    "cod": "230",
+    "codPrimarie": "3627765",
+    "siruta": "108972"
+  },
+  {
+    "denumire": "Sighetu Marma\u0163iei Mun. ",
+    "cod": "231",
+    "codPrimarie": "3695174",
+    "siruta": "106568"
+  },
+  {
     "denumire": "Sl\u0103tioara Sat  - Com. Str\u00e2mtura",
     "cod": "232",
     "codPrimarie": "3694780",
@@ -1242,22 +1164,22 @@
     "siruta": "109050"
   },
   {
-    "denumire": "S\u00e2l\u0163a Sat  - Com. Rozavlea",
-    "cod": "332",
-    "codPrimarie": "3627862",
-    "siruta": "180073"
-  },
-  {
-    "denumire": "S\u00e2rbi Sat  - Com. F\u0103rca\u015fa",
-    "cod": "245",
-    "codPrimarie": "3694632",
-    "siruta": "108133"
+    "denumire": "Sug\u0103u Loc.  - Mun. Sighetu Marma\u0163iei",
+    "cod": "243",
+    "codPrimarie": "3695174",
+    "siruta": "106595"
   },
   {
     "denumire": "S\u00e2rbi Sat  - Com. Bude\u015fti",
     "cod": "244",
     "codPrimarie": "3694667",
     "siruta": "107537"
+  },
+  {
+    "denumire": "S\u00e2rbi Sat  - Com. F\u0103rca\u015fa",
+    "cod": "245",
+    "codPrimarie": "3694632",
+    "siruta": "108133"
   },
   {
     "denumire": "S\u0103bi\u015fa Sat  - Or\u015f. Seini",
@@ -1288,6 +1210,12 @@
     "cod": "252",
     "codPrimarie": "3627382",
     "siruta": "108909"
+  },
+  {
+    "denumire": "S\u0103li\u015ftea de Sus Or\u015f. ",
+    "cod": "253",
+    "codPrimarie": "3627382",
+    "siruta": "108892"
   },
   {
     "denumire": "S\u0103lni\u0163a Sat  - Com. Vima Mic\u0103",
@@ -1344,6 +1272,12 @@
     "siruta": "108339"
   },
   {
+    "denumire": "T\u00e2rgu L\u0103pu\u015f Or\u015f. ",
+    "cod": "265",
+    "codPrimarie": "3694861",
+    "siruta": "106826"
+  },
+  {
     "denumire": "T\u0103maia Sat  - Com. F\u0103rca\u015fa",
     "cod": "266",
     "codPrimarie": "3694632",
@@ -1354,6 +1288,30 @@
     "cod": "267",
     "codPrimarie": "3627412",
     "siruta": "107074"
+  },
+  {
+    "denumire": "T\u0103u\u0163ii de Sus Loc.  - Or\u015f. Baia Sprie",
+    "cod": "268",
+    "codPrimarie": "3694918",
+    "siruta": "106719"
+  },
+  {
+    "denumire": "T\u0103u\u0163ii-M\u0103gher\u0103u\u015f Or\u015f. ",
+    "cod": "269",
+    "codPrimarie": "3627170",
+    "siruta": "106461"
+  },
+  {
+    "denumire": "T\u0103u\u0163ii-M\u0103gher\u0103u\u015f Loc.  - Or\u015f. T\u0103u\u0163ii-M\u0103gher\u0103u\u015f",
+    "cod": "270",
+    "codPrimarie": "3627170",
+    "siruta": "106470"
+  },
+  {
+    "denumire": "Ulmeni Or\u015f. ",
+    "cod": "271",
+    "codPrimarie": "3694772",
+    "siruta": "109265"
   },
   {
     "denumire": "Ulmeni Sat  - Or\u015f. Ulmeni",
@@ -1404,6 +1362,24 @@
     "siruta": "109363"
   },
   {
+    "denumire": "Valea Cufundoasa Loc.  - Mun. Sighetu Marma\u0163iei",
+    "cod": "282",
+    "codPrimarie": "3695174",
+    "siruta": "106602"
+  },
+  {
+    "denumire": "Valea Hotarului Loc.  - Mun. Sighetu Marma\u0163iei",
+    "cod": "283",
+    "codPrimarie": "3695174",
+    "siruta": "106611"
+  },
+  {
+    "denumire": "Valea Neagr\u0103 Loc.  - Mun. Baia Mare",
+    "cod": "284",
+    "codPrimarie": "3627692",
+    "siruta": "106354"
+  },
+  {
     "denumire": "Valea Stejarului Sat  - Com. Vadu Izei",
     "cod": "285",
     "codPrimarie": "3694802",
@@ -1446,6 +1422,18 @@
     "siruta": "109513"
   },
   {
+    "denumire": "Vi\u015feu de Mijloc Loc.  - Or\u015f. Vi\u015feu de Sus",
+    "cod": "294",
+    "codPrimarie": "3627641",
+    "siruta": "106997"
+  },
+  {
+    "denumire": "Vi\u015feu de Sus Or\u015f. ",
+    "cod": "295",
+    "codPrimarie": "3627641",
+    "siruta": "106988"
+  },
+  {
     "denumire": "V\u0103leni Sat  - Com. C\u0103line\u015fti",
     "cod": "296",
     "codPrimarie": "3694837",
@@ -1468,12 +1456,6 @@
     "cod": "299",
     "codPrimarie": "3694543",
     "siruta": "109416"
-  },
-  {
-    "denumire": "\u00centrer\u00e2uri Sat  - Com. Coa\u015f",
-    "cod": "307",
-    "codPrimarie": "16384641",
-    "siruta": "108865"
   },
   {
     "denumire": "\u015eieu Sat  - Com. \u015eieu",
@@ -1500,15 +1482,33 @@
     "siruta": "109185"
   },
   {
+    "denumire": "\u015eomcuta Mare Or\u015f. ",
+    "cod": "305",
+    "codPrimarie": "3694829",
+    "siruta": "109176"
+  },
+  {
     "denumire": "\u015eurde\u015fti Sat  - Com. \u015ei\u015fe\u015fti",
     "cod": "306",
     "codPrimarie": "3627277",
     "siruta": "109167"
   },
   {
+    "denumire": "\u00centrer\u00e2uri Sat  - Com. Coa\u015f",
+    "cod": "307",
+    "codPrimarie": "16384641",
+    "siruta": "108865"
+  },
+  {
     "denumire": "\u0162ic\u0103u Sat  - Or\u015f. Ulmeni",
     "cod": "308",
     "codPrimarie": "3694772",
     "siruta": "109336"
+  },
+  {
+    "denumire": "S\u00e2l\u0163a Sat  - Com. Rozavlea",
+    "cod": "332",
+    "codPrimarie": "3627862",
+    "siruta": "180073"
   }
 ]

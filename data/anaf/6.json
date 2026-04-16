@@ -1,89 +1,5 @@
 [
   {
-    "denumire": "Cormaia Loc.  - Or\u015f. S\u00e2ngeorz-B\u0103i",
-    "cod": "64",
-    "codPrimarie": "4347321",
-    "siruta": "32615"
-  },
-  {
-    "denumire": "Ghinda Loc.  - Mun. Bistri\u0163a",
-    "cod": "109",
-    "codPrimarie": "4347569",
-    "siruta": "32410"
-  },
-  {
-    "denumire": "Liviu Rebreanu Loc.  - Or\u015f. N\u0103s\u0103ud",
-    "cod": "133",
-    "codPrimarie": "4347887",
-    "siruta": "32562"
-  },
-  {
-    "denumire": "Lu\u015fca Loc.  - Or\u015f. N\u0103s\u0103ud",
-    "cod": "140",
-    "codPrimarie": "4347887",
-    "siruta": "32571"
-  },
-  {
-    "denumire": "Sigmir Loc.  - Mun. Bistri\u0163a",
-    "cod": "222",
-    "codPrimarie": "4347569",
-    "siruta": "32438"
-  },
-  {
-    "denumire": "Sl\u0103tini\u0163a Loc.  - Mun. Bistri\u0163a",
-    "cod": "227",
-    "codPrimarie": "4347569",
-    "siruta": "32447"
-  },
-  {
-    "denumire": "S\u0103rata Loc.  - Mun. Bistri\u0163a",
-    "cod": "243",
-    "codPrimarie": "4347569",
-    "siruta": "32429"
-  },
-  {
-    "denumire": "Unirea Loc.  - Mun. Bistri\u0163a",
-    "cod": "260",
-    "codPrimarie": "4347569",
-    "siruta": "32456"
-  },
-  {
-    "denumire": "Valea Borcutului Loc.  - Or\u015f. S\u00e2ngeorz-B\u0103i",
-    "cod": "266",
-    "codPrimarie": "4347321",
-    "siruta": "32624"
-  },
-  {
-    "denumire": "Vii\u015foara Loc.  - Mun. Bistri\u0163a",
-    "cod": "274",
-    "codPrimarie": "4347569",
-    "siruta": "32465"
-  },
-  {
-    "denumire": "Bistri\u0163a Mun. ",
-    "cod": "18",
-    "codPrimarie": "4347569",
-    "siruta": "32401"
-  },
-  {
-    "denumire": "Beclean Or\u015f. ",
-    "cod": "14",
-    "codPrimarie": "4548821",
-    "siruta": "32492"
-  },
-  {
-    "denumire": "N\u0103s\u0103ud Or\u015f. ",
-    "cod": "177",
-    "codPrimarie": "4347887",
-    "siruta": "32553"
-  },
-  {
-    "denumire": "S\u00e2ngeorz-B\u0103i Or\u015f. ",
-    "cod": "235",
-    "codPrimarie": "4347321",
-    "siruta": "32606"
-  },
-  {
     "denumire": "Agrie\u015f Sat  - Com. T\u00e2rli\u015fua",
     "cod": "1",
     "codPrimarie": "4512356",
@@ -162,6 +78,12 @@
     "siruta": "34191"
   },
   {
+    "denumire": "Beclean Or\u015f. ",
+    "cod": "14",
+    "codPrimarie": "4548821",
+    "siruta": "32492"
+  },
+  {
     "denumire": "Beudiu Sat  - Com. Nu\u015feni",
     "cod": "15",
     "codPrimarie": "4427005",
@@ -178,6 +100,12 @@
     "cod": "17",
     "codPrimarie": "4427056",
     "siruta": "33676"
+  },
+  {
+    "denumire": "Bistri\u0163a Mun. ",
+    "cod": "18",
+    "codPrimarie": "4347569",
+    "siruta": "32401"
   },
   {
     "denumire": "Bistri\u0163a B\u00e2rg\u0103ului Sat  - Com. Bistri\u0163a B\u00e2rg\u0103ului",
@@ -400,6 +328,12 @@
     "cod": "63",
     "codPrimarie": "4427099",
     "siruta": "33907"
+  },
+  {
+    "denumire": "Cormaia Loc.  - Or\u015f. S\u00e2ngeorz-B\u0103i",
+    "cod": "64",
+    "codPrimarie": "4347321",
+    "siruta": "32615"
   },
   {
     "denumire": "Corvine\u015fti Sat  - Com. Matei",
@@ -636,6 +570,12 @@
     "siruta": "33925"
   },
   {
+    "denumire": "Ghinda Loc.  - Mun. Bistri\u0163a",
+    "cod": "109",
+    "codPrimarie": "4347569",
+    "siruta": "32410"
+  },
+  {
     "denumire": "Gledin Sat  - Com. Monor",
     "cod": "110",
     "codPrimarie": "4347356",
@@ -738,6 +678,12 @@
     "siruta": "33550"
   },
   {
+    "denumire": "Liviu Rebreanu Loc.  - Or\u015f. N\u0103s\u0103ud",
+    "cod": "133",
+    "codPrimarie": "4347887",
+    "siruta": "32562"
+  },
+  {
     "denumire": "Lunca Sat  - Com. \u015eieu\u0163",
     "cod": "134",
     "codPrimarie": "4347372",
@@ -766,6 +712,12 @@
     "cod": "139",
     "codPrimarie": "4512356",
     "siruta": "35214"
+  },
+  {
+    "denumire": "Lu\u015fca Loc.  - Or\u015f. N\u0103s\u0103ud",
+    "cod": "140",
+    "codPrimarie": "4347887",
+    "siruta": "32571"
   },
   {
     "denumire": "Maieru Sat  - Com. Maieru",
@@ -928,6 +880,12 @@
     "cod": "176",
     "codPrimarie": "4427005",
     "siruta": "34084"
+  },
+  {
+    "denumire": "N\u0103s\u0103ud Or\u015f. ",
+    "cod": "177",
+    "codPrimarie": "4347887",
+    "siruta": "32553"
   },
   {
     "denumire": "Oarzina Sat  - Com. T\u00e2rli\u015fua",
@@ -1146,6 +1104,12 @@
     "siruta": "34896"
   },
   {
+    "denumire": "Sigmir Loc.  - Mun. Bistri\u0163a",
+    "cod": "222",
+    "codPrimarie": "4347569",
+    "siruta": "32438"
+  },
+  {
     "denumire": "Siliva\u015fu de C\u00e2mpie Sat  - Com. Siliva\u015fu de C\u00e2mpie",
     "cod": "223",
     "codPrimarie": "4512410",
@@ -1162,6 +1126,12 @@
     "cod": "226",
     "codPrimarie": "4512348",
     "siruta": "34592"
+  },
+  {
+    "denumire": "Sl\u0103tini\u0163a Loc.  - Mun. Bistri\u0163a",
+    "cod": "227",
+    "codPrimarie": "4347569",
+    "siruta": "32447"
   },
   {
     "denumire": "Spermezeu Sat  - Com. Spermezeu",
@@ -1200,6 +1170,12 @@
     "siruta": "34253"
   },
   {
+    "denumire": "S\u00e2ngeorz-B\u0103i Or\u015f. ",
+    "cod": "235",
+    "codPrimarie": "4347321",
+    "siruta": "32606"
+  },
+  {
     "denumire": "S\u00e2ngeorzu Nou Sat  - Com. Lechin\u0163a",
     "cod": "236",
     "codPrimarie": "4427064",
@@ -1234,6 +1210,12 @@
     "cod": "242",
     "codPrimarie": "4427072",
     "siruta": "34510"
+  },
+  {
+    "denumire": "S\u0103rata Loc.  - Mun. Bistri\u0163a",
+    "cod": "243",
+    "codPrimarie": "4347569",
+    "siruta": "32429"
   },
   {
     "denumire": "S\u0103r\u0103\u0163el Sat  - Com. \u015eieu-M\u0103gheru\u015f",
@@ -1308,6 +1290,12 @@
     "siruta": "34066"
   },
   {
+    "denumire": "Unirea Loc.  - Mun. Bistri\u0163a",
+    "cod": "260",
+    "codPrimarie": "4347569",
+    "siruta": "32456"
+  },
+  {
     "denumire": "Uriu Sat  - Com. Uriu",
     "cod": "261",
     "codPrimarie": "4512380",
@@ -1326,16 +1314,22 @@
     "siruta": "35401"
   },
   {
-    "denumire": "Valea Mare Sat  - Com. Urmeni\u015f",
-    "cod": "268",
-    "codPrimarie": "4512402",
-    "siruta": "35410"
+    "denumire": "Valea Borcutului Loc.  - Or\u015f. S\u00e2ngeorz-B\u0103i",
+    "cod": "266",
+    "codPrimarie": "4347321",
+    "siruta": "32624"
   },
   {
     "denumire": "Valea Mare Sat  - Com. \u015ean\u0163",
     "cod": "267",
     "codPrimarie": "4512313",
     "siruta": "34636"
+  },
+  {
+    "denumire": "Valea Mare Sat  - Com. Urmeni\u015f",
+    "cod": "268",
+    "codPrimarie": "4512402",
+    "siruta": "35410"
   },
   {
     "denumire": "Valea M\u0103gheru\u015fului Sat  - Com. \u015eieu-M\u0103gheru\u015f",
@@ -1366,6 +1360,12 @@
     "cod": "273",
     "codPrimarie": "4548899",
     "siruta": "35045"
+  },
+  {
+    "denumire": "Vii\u015foara Loc.  - Mun. Bistri\u0163a",
+    "cod": "274",
+    "codPrimarie": "4347569",
+    "siruta": "32465"
   },
   {
     "denumire": "Visuia Sat  - Com. Mice\u015ftii de C\u00e2mpie",

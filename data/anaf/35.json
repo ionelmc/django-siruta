@@ -1,71 +1,5 @@
 [
   {
-    "denumire": "Silagiu Loc.  - Or\u015f. Buzia\u015f",
-    "cod": "319",
-    "codPrimarie": "2502534",
-    "siruta": "155421"
-  },
-  {
-    "denumire": "Timi\u015foara Mun. ",
-    "cod": "355",
-    "codPrimarie": "14756536",
-    "siruta": "155252"
-  },
-  {
-    "denumire": "Lugoj Mun. ",
-    "cod": "223",
-    "codPrimarie": "4527381",
-    "siruta": "155369"
-  },
-  {
-    "denumire": "Buzia\u015f Or\u015f. ",
-    "cod": "56",
-    "codPrimarie": "2502534",
-    "siruta": "155412"
-  },
-  {
-    "denumire": "Ciacova Or\u015f. ",
-    "cod": "81",
-    "codPrimarie": "4483889",
-    "siruta": "156357"
-  },
-  {
-    "denumire": "Deta Or\u015f. ",
-    "cod": "121",
-    "codPrimarie": "2503378",
-    "siruta": "155467"
-  },
-  {
-    "denumire": "F\u0103get Or\u015f. ",
-    "cod": "148",
-    "codPrimarie": "2509958",
-    "siruta": "156801"
-  },
-  {
-    "denumire": "G\u0103taia Or\u015f. ",
-    "cod": "178",
-    "codPrimarie": "4357988",
-    "siruta": "157086"
-  },
-  {
-    "denumire": "Jimbolia Or\u015f. ",
-    "cod": "210",
-    "codPrimarie": "2502763",
-    "siruta": "155500"
-  },
-  {
-    "denumire": "Reca\u015f Or\u015f. ",
-    "cod": "294",
-    "codPrimarie": "2512589",
-    "siruta": "158314"
-  },
-  {
-    "denumire": "S\u00e2nnicolau Mare Or\u015f. ",
-    "cod": "339",
-    "codPrimarie": "4548554",
-    "siruta": "155537"
-  },
-  {
     "denumire": "Albina Sat  - Com. Mo\u015fni\u0163a Nou\u0103",
     "cod": "1",
     "codPrimarie": "4548570",
@@ -330,6 +264,12 @@
     "siruta": "156062"
   },
   {
+    "denumire": "Buzia\u015f Or\u015f. ",
+    "cod": "56",
+    "codPrimarie": "2502534",
+    "siruta": "155412"
+  },
+  {
     "denumire": "B\u00e2rna Sat  - Com. B\u00e2rna",
     "cod": "58",
     "codPrimarie": "4269223",
@@ -448,6 +388,12 @@
     "cod": "80",
     "codPrimarie": "4483889",
     "siruta": "156366"
+  },
+  {
+    "denumire": "Ciacova Or\u015f. ",
+    "cod": "81",
+    "codPrimarie": "4483889",
+    "siruta": "156357"
   },
   {
     "denumire": "Cire\u015fu Sat  - Com. Criciova",
@@ -642,6 +588,12 @@
     "siruta": "156678"
   },
   {
+    "denumire": "Deta Or\u015f. ",
+    "cod": "121",
+    "codPrimarie": "2503378",
+    "siruta": "155467"
+  },
+  {
     "denumire": "Dinias Sat  - Com. Peciu Nou",
     "cod": "122",
     "codPrimarie": "4358207",
@@ -766,6 +718,12 @@
     "cod": "147",
     "codPrimarie": "4357970",
     "siruta": "155573"
+  },
+  {
+    "denumire": "F\u0103get Or\u015f. ",
+    "cod": "148",
+    "codPrimarie": "2509958",
+    "siruta": "156801"
   },
   {
     "denumire": "F\u0103get Sat  - Or\u015f. F\u0103get",
@@ -898,6 +856,12 @@
     "cod": "177",
     "codPrimarie": "4483684",
     "siruta": "157291"
+  },
+  {
+    "denumire": "G\u0103taia Or\u015f. ",
+    "cod": "178",
+    "codPrimarie": "4357988",
+    "siruta": "157086"
   },
   {
     "denumire": "G\u0103taia Sat  - Or\u015f. G\u0103taia",
@@ -1074,16 +1038,22 @@
     "siruta": "157059"
   },
   {
-    "denumire": "Jupani Sat  - Com. Traian Vuia",
-    "cod": "212",
-    "codPrimarie": "4357848",
-    "siruta": "159099"
+    "denumire": "Jimbolia Or\u015f. ",
+    "cod": "210",
+    "codPrimarie": "2502763",
+    "siruta": "155500"
   },
   {
     "denumire": "Jup\u00e2ne\u015fti Sat  - Or\u015f. F\u0103get",
     "cod": "211",
     "codPrimarie": "2509958",
     "siruta": "156892"
+  },
+  {
+    "denumire": "Jupani Sat  - Com. Traian Vuia",
+    "cod": "212",
+    "codPrimarie": "4357848",
+    "siruta": "159099"
   },
   {
     "denumire": "Jure\u015fti Sat  - Com. B\u00e2rna",
@@ -1126,6 +1096,12 @@
     "cod": "222",
     "codPrimarie": "2512554",
     "siruta": "156197"
+  },
+  {
+    "denumire": "Lugoj Mun. ",
+    "cod": "223",
+    "codPrimarie": "4527381",
+    "siruta": "155369"
   },
   {
     "denumire": "Lugojel Sat  - Com. Gavojdia",
@@ -1464,6 +1440,12 @@
     "siruta": "158252"
   },
   {
+    "denumire": "Reca\u015f Or\u015f. ",
+    "cod": "294",
+    "codPrimarie": "2512589",
+    "siruta": "158314"
+  },
+  {
     "denumire": "Reca\u015f Sat  - Or\u015f. Reca\u015f",
     "cod": "295",
     "codPrimarie": "2512589",
@@ -1584,6 +1566,12 @@
     "siruta": "158056"
   },
   {
+    "denumire": "Silagiu Loc.  - Or\u015f. Buzia\u015f",
+    "cod": "319",
+    "codPrimarie": "2502534",
+    "siruta": "155421"
+  },
+  {
     "denumire": "Sinersig Sat  - Com. Boldur",
     "cod": "320",
     "codPrimarie": "4357945",
@@ -1686,6 +1674,12 @@
     "siruta": "158706"
   },
   {
+    "denumire": "S\u00e2nnicolau Mare Or\u015f. ",
+    "cod": "339",
+    "codPrimarie": "4548554",
+    "siruta": "155537"
+  },
+  {
     "denumire": "S\u00e2npetru Mare Sat  - Com. S\u00e2npetru Mare",
     "cod": "341",
     "codPrimarie": "4483862",
@@ -1756,6 +1750,12 @@
     "cod": "354",
     "codPrimarie": "2512554",
     "siruta": "156204"
+  },
+  {
+    "denumire": "Timi\u015foara Mun. ",
+    "cod": "355",
+    "codPrimarie": "14756536",
+    "siruta": "155252"
   },
   {
     "denumire": "Toager Sat  - Com. Giera",
@@ -1854,6 +1854,12 @@
     "siruta": "158724"
   },
   {
+    "denumire": "V\u0103lcani Sat  - Com. V\u0103lcani",
+    "cod": "377",
+    "codPrimarie": "17513000",
+    "siruta": "156758"
+  },
+  {
     "denumire": "Valea Lung\u0103 Rom\u00e2n\u0103 Sat  - Com. Co\u015fteiu",
     "cod": "378",
     "codPrimarie": "4357953",
@@ -1900,12 +1906,6 @@
     "cod": "388",
     "codPrimarie": "5815226",
     "siruta": "156348"
-  },
-  {
-    "denumire": "V\u0103lcani Sat  - Com. V\u0103lcani",
-    "cod": "377",
-    "codPrimarie": "17513000",
-    "siruta": "156758"
   },
   {
     "denumire": "Zgribe\u015fti Sat  - Com. \u015etiuca",

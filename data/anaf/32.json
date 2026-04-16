@@ -1,111 +1,15 @@
 [
   {
-    "denumire": "Cisn\u0103dioara Loc.  - Or\u015f. Cisn\u0103die",
-    "cod": "53",
-    "codPrimarie": "4406002",
-    "siruta": "143753"
-  },
-  {
-    "denumire": "Cove\u015f Loc.  - Or\u015f. Agnita",
-    "cod": "60",
-    "codPrimarie": "4270716",
-    "siruta": "143708"
-  },
-  {
-    "denumire": "Ernea Loc.  - Or\u015f. Dumbr\u0103veni",
-    "cod": "76",
-    "codPrimarie": "4240740",
-    "siruta": "143824"
-  },
-  {
-    "denumire": "P\u0103ltini\u015f Loc.  - Mun. Sibiu",
-    "cod": "159",
-    "codPrimarie": "4270740",
-    "siruta": "143478"
-  },
-  {
-    "denumire": "Ruja Loc.  - Or\u015f. Agnita",
-    "cod": "172",
-    "codPrimarie": "4270716",
-    "siruta": "143717"
-  },
-  {
-    "denumire": "\u015earo\u015f pe T\u00e2rnave Loc.  - Or\u015f. Dumbr\u0103veni",
-    "cod": "224",
-    "codPrimarie": "4240740",
-    "siruta": "143833"
-  },
-  {
-    "denumire": "Sibiu Mun. ",
-    "cod": "186",
-    "codPrimarie": "4270740",
-    "siruta": "143469"
-  },
-  {
-    "denumire": "Media\u015f Mun. ",
-    "cod": "112",
-    "codPrimarie": "4240677",
-    "siruta": "143628"
+    "denumire": "Aciliu Sat  - Or\u015f. S\u0103li\u015fte",
+    "cod": "1",
+    "codPrimarie": "4306950",
+    "siruta": "145514"
   },
   {
     "denumire": "Agnita Or\u015f. ",
     "cod": "2",
     "codPrimarie": "4270716",
     "siruta": "143691"
-  },
-  {
-    "denumire": "Avrig Or\u015f. ",
-    "cod": "19",
-    "codPrimarie": "4241087",
-    "siruta": "144063"
-  },
-  {
-    "denumire": "Cisn\u0103die Or\u015f. ",
-    "cod": "52",
-    "codPrimarie": "4406002",
-    "siruta": "143744"
-  },
-  {
-    "denumire": "Cop\u015fa Mic\u0103 Or\u015f. ",
-    "cod": "58",
-    "codPrimarie": "4406207",
-    "siruta": "143780"
-  },
-  {
-    "denumire": "Dumbr\u0103veni Or\u015f. ",
-    "cod": "72",
-    "codPrimarie": "4240740",
-    "siruta": "143815"
-  },
-  {
-    "denumire": "Miercurea Sibiului Or\u015f. ",
-    "cod": "118",
-    "codPrimarie": "4406266",
-    "siruta": "144928"
-  },
-  {
-    "denumire": "Ocna Sibiului Or\u015f. ",
-    "cod": "141",
-    "codPrimarie": "4480149",
-    "siruta": "143860"
-  },
-  {
-    "denumire": "S\u0103li\u015fte Or\u015f. ",
-    "cod": "195",
-    "codPrimarie": "4306950",
-    "siruta": "145499"
-  },
-  {
-    "denumire": "T\u0103lmaciu Or\u015f. ",
-    "cod": "206",
-    "codPrimarie": "4270732",
-    "siruta": "145836"
-  },
-  {
-    "denumire": "Aciliu Sat  - Or\u015f. S\u0103li\u015fte",
-    "cod": "1",
-    "codPrimarie": "4306950",
-    "siruta": "145514"
   },
   {
     "denumire": "Ag\u00e2rbiciu Sat  - Com. Axente Sever",
@@ -184,6 +88,12 @@
     "cod": "18",
     "codPrimarie": "4270708",
     "siruta": "143977"
+  },
+  {
+    "denumire": "Avrig Or\u015f. ",
+    "cod": "19",
+    "codPrimarie": "4241087",
+    "siruta": "144063"
   },
   {
     "denumire": "Axente Sever Sat  - Com. Axente Sever",
@@ -318,6 +228,18 @@
     "siruta": "144465"
   },
   {
+    "denumire": "Cisn\u0103die Or\u015f. ",
+    "cod": "52",
+    "codPrimarie": "4406002",
+    "siruta": "143744"
+  },
+  {
+    "denumire": "Cisn\u0103dioara Loc.  - Or\u015f. Cisn\u0103die",
+    "cod": "53",
+    "codPrimarie": "4406002",
+    "siruta": "143753"
+  },
+  {
     "denumire": "Colonia T\u00e2rnava Sat  - Com. T\u00e2rnava",
     "cod": "54",
     "codPrimarie": "4406029",
@@ -342,10 +264,22 @@
     "siruta": "144214"
   },
   {
+    "denumire": "Cop\u015fa Mic\u0103 Or\u015f. ",
+    "cod": "58",
+    "codPrimarie": "4406207",
+    "siruta": "143780"
+  },
+  {
     "denumire": "Corn\u0103\u0163el Sat  - Com. Ro\u015fia",
     "cod": "59",
     "codPrimarie": "4480165",
     "siruta": "145435"
+  },
+  {
+    "denumire": "Cove\u015f Loc.  - Or\u015f. Agnita",
+    "cod": "60",
+    "codPrimarie": "4270716",
+    "siruta": "143708"
   },
   {
     "denumire": "Crin\u0163 Sat  - Or\u015f. S\u0103li\u015fte",
@@ -366,16 +300,16 @@
     "siruta": "144571"
   },
   {
-    "denumire": "C\u00e2r\u0163a Sat  - Com. C\u00e2r\u0163a",
-    "cod": "67",
-    "codPrimarie": "4241249",
-    "siruta": "144517"
-  },
-  {
     "denumire": "C\u00e2r\u0163i\u015foara Sat  - Com. C\u00e2r\u0163i\u015foara",
     "cod": "65",
     "codPrimarie": "4405929",
     "siruta": "144544"
+  },
+  {
+    "denumire": "C\u00e2r\u0163a Sat  - Com. C\u00e2r\u0163a",
+    "cod": "67",
+    "codPrimarie": "4241249",
+    "siruta": "144517"
   },
   {
     "denumire": "Daia Sat  - Com. Ro\u015fia",
@@ -396,6 +330,12 @@
     "siruta": "144955"
   },
   {
+    "denumire": "Dumbr\u0103veni Or\u015f. ",
+    "cod": "72",
+    "codPrimarie": "4240740",
+    "siruta": "143815"
+  },
+  {
     "denumire": "Dupu\u015f Sat  - Com. A\u0163el",
     "cod": "73",
     "codPrimarie": "4406118",
@@ -406,6 +346,12 @@
     "cod": "74",
     "codPrimarie": "4406010",
     "siruta": "144562"
+  },
+  {
+    "denumire": "Ernea Loc.  - Or\u015f. Dumbr\u0103veni",
+    "cod": "76",
+    "codPrimarie": "4240740",
+    "siruta": "143824"
   },
   {
     "denumire": "Flore\u015fti Sat  - Com. Laslea",
@@ -570,6 +516,12 @@
     "siruta": "144900"
   },
   {
+    "denumire": "Media\u015f Mun. ",
+    "cod": "112",
+    "codPrimarie": "4240677",
+    "siruta": "143628"
+  },
+  {
     "denumire": "Merghindeal Sat  - Com. Merghindeal",
     "cod": "114",
     "codPrimarie": "5192942",
@@ -586,6 +538,12 @@
     "cod": "117",
     "codPrimarie": "4405945",
     "siruta": "145006"
+  },
+  {
+    "denumire": "Miercurea Sibiului Or\u015f. ",
+    "cod": "118",
+    "codPrimarie": "4406266",
+    "siruta": "144928"
   },
   {
     "denumire": "Miercurea Sibiului Sat  - Or\u015f. Miercurea Sibiului",
@@ -702,6 +660,12 @@
     "siruta": "145462"
   },
   {
+    "denumire": "Ocna Sibiului Or\u015f. ",
+    "cod": "141",
+    "codPrimarie": "4480149",
+    "siruta": "143860"
+  },
+  {
     "denumire": "Orlat Sat  - Com. Orlat",
     "cod": "143",
     "codPrimarie": "4240952",
@@ -780,6 +744,12 @@
     "siruta": "145630"
   },
   {
+    "denumire": "P\u0103ltini\u015f Loc.  - Mun. Sibiu",
+    "cod": "159",
+    "codPrimarie": "4270740",
+    "siruta": "143478"
+  },
+  {
     "denumire": "P\u0103uca Sat  - Com. P\u0103uca",
     "cod": "161",
     "codPrimarie": "4241206",
@@ -832,6 +802,12 @@
     "cod": "170",
     "codPrimarie": "4480165",
     "siruta": "145417"
+  },
+  {
+    "denumire": "Ruja Loc.  - Or\u015f. Agnita",
+    "cod": "172",
+    "codPrimarie": "4270716",
+    "siruta": "143717"
   },
   {
     "denumire": "Rusciori Sat  - Com. \u015eura Mic\u0103",
@@ -894,6 +870,12 @@
     "siruta": "145587"
   },
   {
+    "denumire": "Sibiu Mun. ",
+    "cod": "186",
+    "codPrimarie": "4270740",
+    "siruta": "143469"
+  },
+  {
     "denumire": "Slimnic Sat  - Com. Slimnic",
     "cod": "188",
     "codPrimarie": "4405988",
@@ -936,6 +918,12 @@
     "siruta": "144857"
   },
   {
+    "denumire": "S\u0103li\u015fte Or\u015f. ",
+    "cod": "195",
+    "codPrimarie": "4306950",
+    "siruta": "145499"
+  },
+  {
     "denumire": "S\u0103li\u015fte Sat  - Or\u015f. S\u0103li\u015fte",
     "cod": "196",
     "codPrimarie": "4306950",
@@ -976,6 +964,12 @@
     "cod": "204",
     "codPrimarie": "4406029",
     "siruta": "143655"
+  },
+  {
+    "denumire": "T\u0103lmaciu Or\u015f. ",
+    "cod": "206",
+    "codPrimarie": "4270732",
+    "siruta": "145836"
   },
   {
     "denumire": "T\u0103lm\u0103cel Sat  - Or\u015f. T\u0103lmaciu",
@@ -1066,6 +1060,12 @@
     "cod": "223",
     "codPrimarie": "4700090",
     "siruta": "145097"
+  },
+  {
+    "denumire": "\u015earo\u015f pe T\u00e2rnave Loc.  - Or\u015f. Dumbr\u0103veni",
+    "cod": "224",
+    "codPrimarie": "4240740",
+    "siruta": "143833"
   },
   {
     "denumire": "\u015eeica Mare Sat  - Com. \u015eeica Mare",

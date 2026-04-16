@@ -1,65 +1,5 @@
 [
   {
-    "denumire": "Bahnari Loc.  - Mun. Vaslui",
-    "cod": "17",
-    "codPrimarie": "3337532",
-    "siruta": "161963"
-  },
-  {
-    "denumire": "Brodoc Loc.  - Mun. Vaslui",
-    "cod": "49",
-    "codPrimarie": "3337532",
-    "siruta": "161972"
-  },
-  {
-    "denumire": "Moara Grecilor Loc.  - Mun. Vaslui",
-    "cod": "287",
-    "codPrimarie": "3337532",
-    "siruta": "161981"
-  },
-  {
-    "denumire": "Rediu Loc.  - Mun. Vaslui",
-    "cod": "380",
-    "codPrimarie": "3337532",
-    "siruta": "161990"
-  },
-  {
-    "denumire": "Vii\u015foara Loc.  - Mun. Vaslui",
-    "cod": "494",
-    "codPrimarie": "3337532",
-    "siruta": "162005"
-  },
-  {
-    "denumire": "Vaslui Mun. ",
-    "cod": "490",
-    "codPrimarie": "3337532",
-    "siruta": "161954"
-  },
-  {
-    "denumire": "B\u00e2rlad Mun. ",
-    "cod": "66",
-    "codPrimarie": "4539912",
-    "siruta": "161801"
-  },
-  {
-    "denumire": "Hu\u015fi Mun. ",
-    "cod": "245",
-    "codPrimarie": "3602736",
-    "siruta": "161838"
-  },
-  {
-    "denumire": "Murgeni Or\u015f. ",
-    "cod": "296",
-    "codPrimarie": "3337710",
-    "siruta": "164981"
-  },
-  {
-    "denumire": "Negre\u015fti Or\u015f. ",
-    "cod": "311",
-    "codPrimarie": "13407333",
-    "siruta": "161865"
-  },
-  {
     "denumire": "1 Decembrie Sat  - Com. Banca",
     "cod": "1",
     "codPrimarie": "4446708",
@@ -138,6 +78,12 @@
     "siruta": "166887"
   },
   {
+    "denumire": "Bahnari Loc.  - Mun. Vaslui",
+    "cod": "17",
+    "codPrimarie": "3337532",
+    "siruta": "161963"
+  },
+  {
     "denumire": "Banca Sat  - Com. Banca",
     "cod": "19",
     "codPrimarie": "4446708",
@@ -210,16 +156,16 @@
     "siruta": "165997"
   },
   {
-    "denumire": "Bogd\u0103ne\u015fti Sat  - Com. F\u0103lciu",
-    "cod": "36",
-    "codPrimarie": "4540003",
-    "siruta": "163850"
-  },
-  {
     "denumire": "Bogd\u0103ne\u015fti Sat  - Com. Bogd\u0103ne\u015fti",
     "cod": "34",
     "codPrimarie": "4446686",
     "siruta": "162700"
+  },
+  {
+    "denumire": "Bogd\u0103ne\u015fti Sat  - Com. F\u0103lciu",
+    "cod": "36",
+    "codPrimarie": "4540003",
+    "siruta": "163850"
   },
   {
     "denumire": "Bogd\u0103ni\u0163a Sat  - Com. Bogd\u0103ni\u0163a",
@@ -280,6 +226,12 @@
     "cod": "48",
     "codPrimarie": "3552042",
     "siruta": "166084"
+  },
+  {
+    "denumire": "Brodoc Loc.  - Mun. Vaslui",
+    "cod": "49",
+    "codPrimarie": "3337532",
+    "siruta": "161972"
   },
   {
     "denumire": "Brosco\u015fe\u015fti Sat  - Com. Lunca Banului",
@@ -370,6 +322,12 @@
     "cod": "65",
     "codPrimarie": "3337699",
     "siruta": "167099"
+  },
+  {
+    "denumire": "B\u00e2rlad Mun. ",
+    "cod": "66",
+    "codPrimarie": "4539912",
+    "siruta": "161801"
   },
   {
     "denumire": "B\u00e2rl\u0103le\u015fti Sat  - Com. Epureni",
@@ -888,12 +846,6 @@
     "siruta": "164008"
   },
   {
-    "denumire": "Draxeni Sat  - Com. Rebricea",
-    "cod": "169",
-    "codPrimarie": "3394228",
-    "siruta": "165755"
-  },
-  {
     "denumire": "Druje\u015fti Sat  - Com. B\u0103cani",
     "cod": "164",
     "codPrimarie": "3394120",
@@ -916,6 +868,12 @@
     "cod": "168",
     "codPrimarie": "4975970",
     "siruta": "164017"
+  },
+  {
+    "denumire": "Draxeni Sat  - Com. Rebricea",
+    "cod": "169",
+    "codPrimarie": "3394228",
+    "siruta": "165755"
   },
   {
     "denumire": "Duda Sat  - Com. Duda-Epureni",
@@ -960,16 +918,16 @@
     "siruta": "163299"
   },
   {
-    "denumire": "Epureni Sat  - Com. Duda-Epureni",
-    "cod": "182",
-    "codPrimarie": "3394350",
-    "siruta": "163690"
-  },
-  {
     "denumire": "Epureni Sat  - Com. Epureni",
     "cod": "181",
     "codPrimarie": "3394112",
     "siruta": "163798"
+  },
+  {
+    "denumire": "Epureni Sat  - Com. Duda-Epureni",
+    "cod": "182",
+    "codPrimarie": "3394350",
+    "siruta": "163690"
   },
   {
     "denumire": "Fede\u015fti Sat  - Com. \u015euletea",
@@ -1026,16 +984,16 @@
     "siruta": "165559"
   },
   {
-    "denumire": "Fundu V\u0103ii Sat  - Com. Poiene\u015fti",
-    "cod": "193",
-    "codPrimarie": "4539971",
-    "siruta": "165381"
-  },
-  {
     "denumire": "Fundu V\u0103ii Sat  - Com. Lipov\u0103\u0163",
     "cod": "192",
     "codPrimarie": "3394244",
     "siruta": "164730"
+  },
+  {
+    "denumire": "Fundu V\u0103ii Sat  - Com. Poiene\u015fti",
+    "cod": "193",
+    "codPrimarie": "4539971",
+    "siruta": "165381"
   },
   {
     "denumire": "Fund\u0103tura Sat  - Com. Arsura",
@@ -1122,16 +1080,16 @@
     "siruta": "163976"
   },
   {
-    "denumire": "Gherm\u0103ne\u015fti Sat  - Com. Dr\u00e2nceni",
-    "cod": "211",
-    "codPrimarie": "3394333",
-    "siruta": "163654"
-  },
-  {
     "denumire": "Gherm\u0103ne\u015fti Sat  - Com. Banca",
     "cod": "210",
     "codPrimarie": "4446708",
     "siruta": "162229"
+  },
+  {
+    "denumire": "Gherm\u0103ne\u015fti Sat  - Com. Dr\u00e2nceni",
+    "cod": "211",
+    "codPrimarie": "3394333",
+    "siruta": "163654"
   },
   {
     "denumire": "Ghicani Sat  - Com. Alexandru Vlahu\u0163\u0103",
@@ -1308,6 +1266,12 @@
     "siruta": "164286"
   },
   {
+    "denumire": "Hu\u015fi Mun. ",
+    "cod": "245",
+    "codPrimarie": "3602736",
+    "siruta": "161838"
+  },
+  {
     "denumire": "H\u00e2r\u015fova Sat  - Com. Dele\u015fti",
     "cod": "246",
     "codPrimarie": "3337664",
@@ -1374,16 +1338,16 @@
     "siruta": "164552"
   },
   {
-    "denumire": "Iv\u0103ne\u015fti Sat  - Com. P\u0103dureni",
-    "cod": "261",
-    "codPrimarie": "3394341",
-    "siruta": "165229"
-  },
-  {
     "denumire": "Iv\u0103ne\u015fti Sat  - Com. Iv\u0103ne\u015fti",
     "cod": "260",
     "codPrimarie": "4446627",
     "siruta": "164400"
+  },
+  {
+    "denumire": "Iv\u0103ne\u015fti Sat  - Com. P\u0103dureni",
+    "cod": "261",
+    "codPrimarie": "3394341",
+    "siruta": "165229"
   },
   {
     "denumire": "Jig\u0103lia Sat  - Com. \u015euletea",
@@ -1512,6 +1476,12 @@
     "siruta": "166663"
   },
   {
+    "denumire": "Moara Grecilor Loc.  - Mun. Vaslui",
+    "cod": "287",
+    "codPrimarie": "3337532",
+    "siruta": "161981"
+  },
+  {
     "denumire": "Moreni Sat  - Com. Deleni",
     "cod": "288",
     "codPrimarie": "3394252",
@@ -1552,6 +1522,12 @@
     "cod": "295",
     "codPrimarie": "3337710",
     "siruta": "164990"
+  },
+  {
+    "denumire": "Murgeni Or\u015f. ",
+    "cod": "296",
+    "codPrimarie": "3337710",
+    "siruta": "164981"
   },
   {
     "denumire": "Mu\u015fata Sat  - Com. Berezeni",
@@ -1630,6 +1606,12 @@
     "cod": "310",
     "codPrimarie": "3552069",
     "siruta": "165452"
+  },
+  {
+    "denumire": "Negre\u015fti Or\u015f. ",
+    "cod": "311",
+    "codPrimarie": "13407333",
+    "siruta": "161865"
   },
   {
     "denumire": "Ob\u00e2r\u015feni Sat  - Com. Vinderei",
@@ -1920,16 +1902,16 @@
     "siruta": "163128"
   },
   {
-    "denumire": "P\u0103dureni Sat  - Com. P\u0103dureni",
-    "cod": "368",
-    "codPrimarie": "3394341",
-    "siruta": "165194"
-  },
-  {
     "denumire": "P\u0103dureni Sat  - Com. O\u015fe\u015fti",
     "cod": "367",
     "codPrimarie": "3337656",
     "siruta": "165167"
+  },
+  {
+    "denumire": "P\u0103dureni Sat  - Com. P\u0103dureni",
+    "cod": "368",
+    "codPrimarie": "3394341",
+    "siruta": "165194"
   },
   {
     "denumire": "P\u0103ltini\u015f Sat  - Com. B\u0103ce\u015fti",
@@ -1986,16 +1968,22 @@
     "siruta": "164366"
   },
   {
-    "denumire": "Rediu Sat  - Com. Ro\u015fie\u015fti",
-    "cod": "382",
-    "codPrimarie": "5117550",
-    "siruta": "165871"
+    "denumire": "Rediu Loc.  - Mun. Vaslui",
+    "cod": "380",
+    "codPrimarie": "3337532",
+    "siruta": "161990"
   },
   {
     "denumire": "Rediu Sat  - Com. Hoceni",
     "cod": "381",
     "codPrimarie": "3394309",
     "siruta": "164240"
+  },
+  {
+    "denumire": "Rediu Sat  - Com. Ro\u015fie\u015fti",
+    "cod": "382",
+    "codPrimarie": "5117550",
+    "siruta": "165871"
   },
   {
     "denumire": "Rediu Galian Sat  - Com. Cod\u0103e\u015fti",
@@ -2094,16 +2082,16 @@
     "siruta": "162844"
   },
   {
-    "denumire": "R\u0103\u015fcani Sat  - Com. \u015euletea",
-    "cod": "401",
-    "codPrimarie": "3394287",
-    "siruta": "166173"
-  },
-  {
     "denumire": "R\u0103\u015fcani Sat  - Com. D\u0103ne\u015fti",
     "cod": "400",
     "codPrimarie": "4627313",
     "siruta": "163306"
+  },
+  {
+    "denumire": "R\u0103\u015fcani Sat  - Com. \u015euletea",
+    "cod": "401",
+    "codPrimarie": "3394287",
+    "siruta": "166173"
   },
   {
     "denumire": "Sasova Sat  - Com. Rebricea",
@@ -2112,28 +2100,10 @@
     "siruta": "165782"
   },
   {
-    "denumire": "Satu Nou Sat  - Com. Sole\u015fti",
-    "cod": "408",
-    "codPrimarie": "3337583",
-    "siruta": "165933"
-  },
-  {
-    "denumire": "Satu Nou Sat  - Com. Pochidia",
-    "cod": "407",
-    "codPrimarie": "16396425",
-    "siruta": "166609"
-  },
-  {
-    "denumire": "Satu Nou Sat  - Com. Muntenii de Sus",
-    "cod": "406",
-    "codPrimarie": "16476770",
-    "siruta": "166226"
-  },
-  {
-    "denumire": "Satu Nou Sat  - Com. Cre\u0163e\u015fti",
-    "cod": "405",
-    "codPrimarie": "3667921",
-    "siruta": "163244"
+    "denumire": "Satu Nou Sat  - Com. Banca",
+    "cod": "403",
+    "codPrimarie": "4446708",
+    "siruta": "162256"
   },
   {
     "denumire": "Satu Nou Sat  - Com. Berezeni",
@@ -2142,10 +2112,28 @@
     "siruta": "162531"
   },
   {
-    "denumire": "Satu Nou Sat  - Com. Banca",
-    "cod": "403",
-    "codPrimarie": "4446708",
-    "siruta": "162256"
+    "denumire": "Satu Nou Sat  - Com. Cre\u0163e\u015fti",
+    "cod": "405",
+    "codPrimarie": "3667921",
+    "siruta": "163244"
+  },
+  {
+    "denumire": "Satu Nou Sat  - Com. Muntenii de Sus",
+    "cod": "406",
+    "codPrimarie": "16476770",
+    "siruta": "166226"
+  },
+  {
+    "denumire": "Satu Nou Sat  - Com. Pochidia",
+    "cod": "407",
+    "codPrimarie": "16396425",
+    "siruta": "166609"
+  },
+  {
+    "denumire": "Satu Nou Sat  - Com. Sole\u015fti",
+    "cod": "408",
+    "codPrimarie": "3337583",
+    "siruta": "165933"
   },
   {
     "denumire": "Schineni Sat  - Or\u015f. Murgeni",
@@ -2178,12 +2166,6 @@
     "siruta": "163583"
   },
   {
-    "denumire": "Sili\u015ftea Sat  - Com. Punge\u015fti",
-    "cod": "416",
-    "codPrimarie": "4359393",
-    "siruta": "165684"
-  },
-  {
     "denumire": "Sili\u015ftea Sat  - Com. Iana",
     "cod": "414",
     "codPrimarie": "3394325",
@@ -2194,6 +2176,12 @@
     "cod": "415",
     "codPrimarie": "3337630",
     "siruta": "166486"
+  },
+  {
+    "denumire": "Sili\u015ftea Sat  - Com. Punge\u015fti",
+    "cod": "416",
+    "codPrimarie": "4359393",
+    "siruta": "165684"
   },
   {
     "denumire": "Simila Sat  - Com. Zorleni",
@@ -2592,6 +2580,12 @@
     "siruta": "165880"
   },
   {
+    "denumire": "Vaslui Mun. ",
+    "cod": "490",
+    "codPrimarie": "3337532",
+    "siruta": "161954"
+  },
+  {
     "denumire": "Verde\u015f Sat  - Com. Bogdana",
     "cod": "491",
     "codPrimarie": "4359407",
@@ -2604,16 +2598,22 @@
     "siruta": "166681"
   },
   {
-    "denumire": "Vii\u015foara Sat  - Com. Todire\u015fti",
-    "cod": "497",
-    "codPrimarie": "3337630",
-    "siruta": "166510"
+    "denumire": "Vii\u015foara Loc.  - Mun. Vaslui",
+    "cod": "494",
+    "codPrimarie": "3337532",
+    "siruta": "162005"
   },
   {
     "denumire": "Vii\u015foara Sat  - Com. Vii\u015foara",
     "cod": "495",
     "codPrimarie": "4446694",
     "siruta": "166716"
+  },
+  {
+    "denumire": "Vii\u015foara Sat  - Com. Todire\u015fti",
+    "cod": "497",
+    "codPrimarie": "3337630",
+    "siruta": "166510"
   },
   {
     "denumire": "Viltote\u015fti Sat  - Com. Vii\u015foara",

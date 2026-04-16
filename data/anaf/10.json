@@ -1,41 +1,5 @@
 [
   {
-    "denumire": "C\u0103ld\u0103r\u0103\u015fti Loc.  - Or\u015f. Pogoanele",
-    "cod": "148",
-    "codPrimarie": "3607644",
-    "siruta": "48762"
-  },
-  {
-    "denumire": "Buz\u0103u Mun. ",
-    "cod": "55",
-    "codPrimarie": "4233874",
-    "siruta": "44827"
-  },
-  {
-    "denumire": "R\u00e2mnicu S\u0103rat Mun. ",
-    "cod": "412",
-    "codPrimarie": "2406871",
-    "siruta": "44854"
-  },
-  {
-    "denumire": "Nehoiu Or\u015f. ",
-    "cod": "313",
-    "codPrimarie": "4055807",
-    "siruta": "47925"
-  },
-  {
-    "denumire": "Pogoanele Or\u015f. ",
-    "cod": "363",
-    "codPrimarie": "3607644",
-    "siruta": "48753"
-  },
-  {
-    "denumire": "P\u0103t\u00e2rlagele Or\u015f. ",
-    "cod": "396",
-    "codPrimarie": "4055866",
-    "siruta": "48325"
-  },
-  {
     "denumire": "Albe\u015fti Sat  - Com. Smeeni",
     "cod": "1",
     "codPrimarie": "4154380",
@@ -286,6 +250,12 @@
     "cod": "54",
     "codPrimarie": "4154339",
     "siruta": "45405"
+  },
+  {
+    "denumire": "Buz\u0103u Mun. ",
+    "cod": "55",
+    "codPrimarie": "4233874",
+    "siruta": "44827"
   },
   {
     "denumire": "Bu\u015ftea Sat  - Com. M\u00e2nz\u0103le\u015fti",
@@ -624,16 +594,16 @@
     "siruta": "50433"
   },
   {
-    "denumire": "Corbu Sat  - Com. Glodeanu-Sili\u015ftea",
-    "cod": "123",
-    "codPrimarie": "4088219",
-    "siruta": "46965"
-  },
-  {
     "denumire": "Corbu Sat  - Com. C\u0103tina",
     "cod": "122",
     "codPrimarie": "4055785",
     "siruta": "45977"
+  },
+  {
+    "denumire": "Corbu Sat  - Com. Glodeanu-Sili\u015ftea",
+    "cod": "123",
+    "codPrimarie": "4088219",
+    "siruta": "46965"
   },
   {
     "denumire": "Corneanu Sat  - Com. Od\u0103ile",
@@ -766,6 +736,12 @@
     "cod": "147",
     "codPrimarie": "3724385",
     "siruta": "46885"
+  },
+  {
+    "denumire": "C\u0103ld\u0103r\u0103\u015fti Loc.  - Or\u015f. Pogoanele",
+    "cod": "148",
+    "codPrimarie": "3607644",
+    "siruta": "48762"
   },
   {
     "denumire": "C\u0103l\u0163una Sat  - Com. Smeeni",
@@ -1374,16 +1350,16 @@
     "siruta": "47319"
   },
   {
-    "denumire": "Lunca Sat  - Com. C. A. Rosetti",
-    "cod": "263",
-    "codPrimarie": "3662681",
-    "siruta": "45860"
-  },
-  {
     "denumire": "Lunca Sat  - Com. Amaru",
     "cod": "262",
     "codPrimarie": "4234047",
     "siruta": "44916"
+  },
+  {
+    "denumire": "Lunca Sat  - Com. C. A. Rosetti",
+    "cod": "263",
+    "codPrimarie": "3662681",
+    "siruta": "45860"
   },
   {
     "denumire": "Lunca Sat  - Or\u015f. P\u0103t\u00e2rlagele",
@@ -1432,6 +1408,12 @@
     "cod": "271",
     "codPrimarie": "3662622",
     "siruta": "46073"
+  },
+  {
+    "denumire": "M\u0103te\u015fti Sat  - Com. S\u0103poca",
+    "cod": "272",
+    "codPrimarie": "3662487",
+    "siruta": "49224"
   },
   {
     "denumire": "Maxenu Sat  - Com. \u0162inte\u015fti",
@@ -1614,12 +1596,6 @@
     "siruta": "47382"
   },
   {
-    "denumire": "M\u0103te\u015fti Sat  - Com. S\u0103poca",
-    "cod": "272",
-    "codPrimarie": "3662487",
-    "siruta": "49224"
-  },
-  {
     "denumire": "Nego\u015fina Sat  - Com. C\u0103ne\u015fti",
     "cod": "311",
     "codPrimarie": "3662673",
@@ -1630,6 +1606,12 @@
     "cod": "312",
     "codPrimarie": "4055807",
     "siruta": "47989"
+  },
+  {
+    "denumire": "Nehoiu Or\u015f. ",
+    "cod": "313",
+    "codPrimarie": "4055807",
+    "siruta": "47925"
   },
   {
     "denumire": "Nemertea Sat  - Com. Gura Teghii",
@@ -1702,12 +1684,6 @@
     "cod": "327",
     "codPrimarie": "3662541",
     "siruta": "47541"
-  },
-  {
-    "denumire": "Ojasca Sat  - Com. Unguriu",
-    "cod": "577",
-    "codPrimarie": "16312033",
-    "siruta": "50558"
   },
   {
     "denumire": "Olari Sat  - Com. Calvini",
@@ -1896,6 +1872,12 @@
     "siruta": "46242"
   },
   {
+    "denumire": "Pogoanele Or\u015f. ",
+    "cod": "363",
+    "codPrimarie": "3607644",
+    "siruta": "48753"
+  },
+  {
     "denumire": "Pogonele Sat  - Com. \u0162inte\u015fti",
     "cod": "364",
     "codPrimarie": "4088227",
@@ -1950,16 +1932,16 @@
     "siruta": "48815"
   },
   {
-    "denumire": "Po\u015fta Sat  - Com. Topliceni",
-    "cod": "374",
-    "codPrimarie": "3662436",
-    "siruta": "49821"
-  },
-  {
     "denumire": "Po\u015fta Sat  - Com. Cilibia",
     "cod": "373",
     "codPrimarie": "3724423",
     "siruta": "46304"
+  },
+  {
+    "denumire": "Po\u015fta Sat  - Com. Topliceni",
+    "cod": "374",
+    "codPrimarie": "3662436",
+    "siruta": "49821"
   },
   {
     "denumire": "Po\u015fta C\u00e2ln\u0103u Sat  - Com. Po\u015fta C\u00e2ln\u0103u",
@@ -2064,6 +2046,12 @@
     "siruta": "48334"
   },
   {
+    "denumire": "P\u0103t\u00e2rlagele Or\u015f. ",
+    "cod": "396",
+    "codPrimarie": "4055866",
+    "siruta": "48325"
+  },
+  {
     "denumire": "Racovi\u0163eni Sat  - Com. Racovi\u0163eni",
     "cod": "397",
     "codPrimarie": "3724539",
@@ -2128,6 +2116,12 @@
     "cod": "410",
     "codPrimarie": "2407907",
     "siruta": "48977"
+  },
+  {
+    "denumire": "R\u00e2mnicu S\u0103rat Mun. ",
+    "cod": "412",
+    "codPrimarie": "2406871",
+    "siruta": "44854"
   },
   {
     "denumire": "R\u00e2pile Sat  - Com. P\u0103n\u0103t\u0103u",
@@ -2932,5 +2926,11 @@
     "cod": "567",
     "codPrimarie": "4088227",
     "siruta": "49858"
+  },
+  {
+    "denumire": "Ojasca Sat  - Com. Unguriu",
+    "cod": "577",
+    "codPrimarie": "16312033",
+    "siruta": "50558"
   }
 ]

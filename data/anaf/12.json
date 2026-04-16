@@ -1,89 +1,5 @@
 [
   {
-    "denumire": "Bic\u0103latu Loc.  - Or\u015f. Huedin",
-    "cod": "31",
-    "codPrimarie": "4485642",
-    "siruta": "55464"
-  },
-  {
-    "denumire": "B\u0103i\u0163a Loc.  - Mun. Gherla",
-    "cod": "69",
-    "codPrimarie": "4349071",
-    "siruta": "55400"
-  },
-  {
-    "denumire": "H\u0103\u015fdate Loc.  - Mun. Gherla",
-    "cod": "229",
-    "codPrimarie": "4349071",
-    "siruta": "55419"
-  },
-  {
-    "denumire": "Ocna Dejului Loc.  - Mun. Dej",
-    "cod": "326",
-    "codPrimarie": "4349179",
-    "siruta": "55026"
-  },
-  {
-    "denumire": "Pe\u015ftera Loc.  - Mun. Dej",
-    "cod": "341",
-    "codPrimarie": "4349179",
-    "siruta": "55035"
-  },
-  {
-    "denumire": "Pintic Loc.  - Mun. Dej",
-    "cod": "343",
-    "codPrimarie": "4349179",
-    "siruta": "55044"
-  },
-  {
-    "denumire": "Siliva\u015f Loc.  - Mun. Gherla",
-    "cod": "390",
-    "codPrimarie": "4349071",
-    "siruta": "55428"
-  },
-  {
-    "denumire": "\u015eomcutu Mic Loc.  - Mun. Dej",
-    "cod": "505",
-    "codPrimarie": "4349179",
-    "siruta": "55053"
-  },
-  {
-    "denumire": "Cluj-Napoca Mun. ",
-    "cod": "103",
-    "codPrimarie": "4305857",
-    "siruta": "54984"
-  },
-  {
-    "denumire": "C\u00e2mpia Turzii Mun. ",
-    "cod": "133",
-    "codPrimarie": "4354566",
-    "siruta": "55366"
-  },
-  {
-    "denumire": "Dej Mun. ",
-    "cod": "160",
-    "codPrimarie": "4349179",
-    "siruta": "55017"
-  },
-  {
-    "denumire": "Gherla Mun. ",
-    "cod": "207",
-    "codPrimarie": "4349071",
-    "siruta": "55393"
-  },
-  {
-    "denumire": "Turda Mun. ",
-    "cod": "452",
-    "codPrimarie": "4378930",
-    "siruta": "55268"
-  },
-  {
-    "denumire": "Huedin Or\u015f. ",
-    "cod": "227",
-    "codPrimarie": "4485642",
-    "siruta": "55455"
-  },
-  {
     "denumire": "Aghire\u015fu Sat  - Com. Aghire\u015fu",
     "cod": "2",
     "codPrimarie": "4722374",
@@ -220,6 +136,12 @@
     "cod": "30",
     "codPrimarie": "5698096",
     "siruta": "58437"
+  },
+  {
+    "denumire": "Bic\u0103latu Loc.  - Or\u015f. Huedin",
+    "cod": "31",
+    "codPrimarie": "4485642",
+    "siruta": "55464"
   },
   {
     "denumire": "Blid\u0103re\u015fti Sat  - Com. Bob\u00e2lna",
@@ -414,6 +336,12 @@
     "siruta": "55927"
   },
   {
+    "denumire": "B\u0103i\u0163a Loc.  - Mun. Gherla",
+    "cod": "69",
+    "codPrimarie": "4349071",
+    "siruta": "55400"
+  },
+  {
     "denumire": "B\u0103lce\u015fti Sat  - Com. Beli\u015f",
     "cod": "70",
     "codPrimarie": "4485260",
@@ -436,6 +364,12 @@
     "cod": "73",
     "codPrimarie": "4546952",
     "siruta": "58053"
+  },
+  {
+    "denumire": "C\u0103lata Sat  - Com. C\u0103l\u0103\u0163ele",
+    "cod": "74",
+    "codPrimarie": "5626626",
+    "siruta": "56489"
   },
   {
     "denumire": "Calna Sat  - Com. Vad",
@@ -574,6 +508,12 @@
     "cod": "102",
     "codPrimarie": "4426263",
     "siruta": "59719"
+  },
+  {
+    "denumire": "Cluj-Napoca Mun. ",
+    "cod": "103",
+    "codPrimarie": "4305857",
+    "siruta": "54984"
   },
   {
     "denumire": "Coasta Sat  - Com. Bon\u0163ida",
@@ -732,6 +672,12 @@
     "siruta": "55712"
   },
   {
+    "denumire": "C\u00e2mpia Turzii Mun. ",
+    "cod": "133",
+    "codPrimarie": "4354566",
+    "siruta": "55366"
+  },
+  {
     "denumire": "C\u00e2\u0163c\u0103u Sat  - Com. C\u00e2\u0163c\u0103u",
     "cod": "135",
     "codPrimarie": "4378808",
@@ -754,12 +700,6 @@
     "cod": "139",
     "codPrimarie": "4288217",
     "siruta": "56390"
-  },
-  {
-    "denumire": "C\u0103lata Sat  - Com. C\u0103l\u0103\u0163ele",
-    "cod": "74",
-    "codPrimarie": "5626626",
-    "siruta": "56489"
   },
   {
     "denumire": "C\u0103l\u0103ra\u015fi Sat  - Com. C\u0103l\u0103ra\u015fi",
@@ -844,6 +784,12 @@
     "cod": "159",
     "codPrimarie": "5626626",
     "siruta": "56498"
+  },
+  {
+    "denumire": "Dej Mun. ",
+    "cod": "160",
+    "codPrimarie": "4349179",
+    "siruta": "55017"
   },
   {
     "denumire": "Deleni Sat  - Com. Petre\u015ftii de Jos",
@@ -1086,6 +1032,12 @@
     "siruta": "57617"
   },
   {
+    "denumire": "Gherla Mun. ",
+    "cod": "207",
+    "codPrimarie": "4349071",
+    "siruta": "55393"
+  },
+  {
     "denumire": "Ghiri\u015fu Rom\u00e2n Sat  - Com. Mociu",
     "cod": "208",
     "codPrimarie": "4485472",
@@ -1188,10 +1140,22 @@
     "siruta": "57403"
   },
   {
+    "denumire": "Huedin Or\u015f. ",
+    "cod": "227",
+    "codPrimarie": "4485642",
+    "siruta": "55455"
+  },
+  {
     "denumire": "Huta Sat  - Com. Chiuie\u015fti",
     "cod": "228",
     "codPrimarie": "4486230",
     "siruta": "57118"
+  },
+  {
+    "denumire": "H\u0103\u015fdate Loc.  - Mun. Gherla",
+    "cod": "229",
+    "codPrimarie": "4349071",
+    "siruta": "55419"
   },
   {
     "denumire": "H\u0103\u015fdate Sat  - Com. S\u0103v\u0103disla",
@@ -1314,16 +1278,16 @@
     "siruta": "59372"
   },
   {
-    "denumire": "Livada Sat  - Com. Petre\u015ftii de Jos",
-    "cod": "256",
-    "codPrimarie": "5507056",
-    "siruta": "58954"
-  },
-  {
     "denumire": "Livada Sat  - Com. Iclod",
     "cod": "255",
     "codPrimarie": "4288241",
     "siruta": "58188"
+  },
+  {
+    "denumire": "Livada Sat  - Com. Petre\u015ftii de Jos",
+    "cod": "256",
+    "codPrimarie": "5507056",
+    "siruta": "58954"
   },
   {
     "denumire": "Li\u0163a Sat  - Com. S\u0103v\u0103disla",
@@ -1416,16 +1380,16 @@
     "siruta": "55865"
   },
   {
-    "denumire": "Mica Sat  - Com. Mica",
-    "cod": "275",
-    "codPrimarie": "4485456",
-    "siruta": "55179"
-  },
-  {
     "denumire": "Mice\u015fti Sat  - Com. Tureni",
     "cod": "273",
     "codPrimarie": "4378840",
     "siruta": "59817"
+  },
+  {
+    "denumire": "Mica Sat  - Com. Mica",
+    "cod": "275",
+    "codPrimarie": "4485456",
+    "siruta": "55179"
   },
   {
     "denumire": "Mihai Viteazu Sat  - Com. Mihai Viteazu",
@@ -1680,6 +1644,12 @@
     "siruta": "57779"
   },
   {
+    "denumire": "Ocna Dejului Loc.  - Mun. Dej",
+    "cod": "326",
+    "codPrimarie": "4349179",
+    "siruta": "55026"
+  },
+  {
     "denumire": "Ocoli\u015fel Sat  - Com. Iara",
     "cod": "327",
     "codPrimarie": "4546952",
@@ -1752,10 +1722,22 @@
     "siruta": "58972"
   },
   {
+    "denumire": "Pe\u015ftera Loc.  - Mun. Dej",
+    "cod": "341",
+    "codPrimarie": "4349179",
+    "siruta": "55035"
+  },
+  {
     "denumire": "Pietroasa Sat  - Com. Moldovene\u015fti",
     "cod": "342",
     "codPrimarie": "4426239",
     "siruta": "58758"
+  },
+  {
+    "denumire": "Pintic Loc.  - Mun. Dej",
+    "cod": "343",
+    "codPrimarie": "4349179",
+    "siruta": "55044"
   },
   {
     "denumire": "Plaiuri Sat  - Com. Petre\u015ftii de Jos",
@@ -1866,16 +1848,16 @@
     "siruta": "57038"
   },
   {
-    "denumire": "P\u0103dureni Sat  - Com. Tritenii de Jos",
-    "cod": "365",
-    "codPrimarie": "4426263",
-    "siruta": "59737"
-  },
-  {
     "denumire": "P\u0103dureni Sat  - Com. Ciurila",
     "cod": "364",
     "codPrimarie": "4924004",
     "siruta": "57261"
+  },
+  {
+    "denumire": "P\u0103dureni Sat  - Com. Tritenii de Jos",
+    "cod": "365",
+    "codPrimarie": "4426263",
+    "siruta": "59737"
   },
   {
     "denumire": "P\u0103durenii Sat  - Com. Mintiu Gherlii",
@@ -1996,6 +1978,18 @@
     "cod": "388",
     "codPrimarie": "4617689",
     "siruta": "59425"
+  },
+  {
+    "denumire": "Siliva\u015f Loc.  - Mun. Gherla",
+    "cod": "390",
+    "codPrimarie": "4349071",
+    "siruta": "55428"
+  },
+  {
+    "denumire": "S\u00e2mboleni Sat  - Com. C\u0103m\u0103ra\u015fu",
+    "cod": "391",
+    "codPrimarie": "4426166",
+    "siruta": "56559"
   },
   {
     "denumire": "Smida Sat  - Com. Beli\u015f",
@@ -2124,16 +2118,16 @@
     "siruta": "59568"
   },
   {
-    "denumire": "S\u00e2mboleni Sat  - Com. C\u0103m\u0103ra\u015fu",
-    "cod": "391",
-    "codPrimarie": "4426166",
-    "siruta": "56559"
-  },
-  {
     "denumire": "S\u00e2ncraiu Sat  - Com. S\u00e2ncraiu",
     "cod": "415",
     "codPrimarie": "5612868",
     "siruta": "59443"
+  },
+  {
+    "denumire": "S\u00e2nm\u0103rtin Sat  - Com. S\u00e2nm\u0103rtin",
+    "cod": "417",
+    "codPrimarie": "6528995",
+    "siruta": "59504"
   },
   {
     "denumire": "S\u00e2nmartin Sat  - Com. Chinteni",
@@ -2146,12 +2140,6 @@
     "cod": "419",
     "codPrimarie": "4485456",
     "siruta": "55213"
-  },
-  {
-    "denumire": "S\u00e2nm\u0103rtin Sat  - Com. S\u00e2nm\u0103rtin",
-    "cod": "417",
-    "codPrimarie": "6528995",
-    "siruta": "59504"
   },
   {
     "denumire": "S\u00e2nnicoar\u0103 Sat  - Com. Apahida",
@@ -2292,12 +2280,6 @@
     "siruta": "57537"
   },
   {
-    "denumire": "Topa Mic\u0103 Sat  - Com. S\u00e2npaul",
-    "cod": "508",
-    "codPrimarie": "4546987",
-    "siruta": "59648"
-  },
-  {
     "denumire": "Trani\u015fu Sat  - Com. Poieni",
     "cod": "447",
     "codPrimarie": "5979229",
@@ -2320,6 +2302,12 @@
     "cod": "451",
     "codPrimarie": "4426263",
     "siruta": "59755"
+  },
+  {
+    "denumire": "Turda Mun. ",
+    "cod": "452",
+    "codPrimarie": "4378930",
+    "siruta": "55268"
   },
   {
     "denumire": "Turea Sat  - Com. G\u00e2rb\u0103u",
@@ -2598,9 +2586,21 @@
     "siruta": "60151"
   },
   {
+    "denumire": "\u015eomcutu Mic Loc.  - Mun. Dej",
+    "cod": "505",
+    "codPrimarie": "4349179",
+    "siruta": "55053"
+  },
+  {
     "denumire": "\u0162aga Sat  - Com. \u0162aga",
     "cod": "506",
     "codPrimarie": "4288055",
     "siruta": "59835"
+  },
+  {
+    "denumire": "Topa Mic\u0103 Sat  - Com. S\u00e2npaul",
+    "cod": "508",
+    "codPrimarie": "4546987",
+    "siruta": "59648"
   }
 ]

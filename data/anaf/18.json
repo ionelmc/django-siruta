@@ -1,185 +1,5 @@
 [
   {
-    "denumire": "B\u00e2rse\u015fti Loc.  - Mun. T\u00e2rgu Jiu",
-    "cod": "80",
-    "codPrimarie": "4956065",
-    "siruta": "77830"
-  },
-  {
-    "denumire": "Curti\u015foara Loc.  - Or\u015f. Bumbe\u015fti-Jiu",
-    "cod": "140",
-    "codPrimarie": "4666002",
-    "siruta": "79326"
-  },
-  {
-    "denumire": "Dealu Pomilor Loc.  - Mun. Motru",
-    "cod": "162",
-    "codPrimarie": "5455844",
-    "siruta": "78169"
-  },
-  {
-    "denumire": "Dr\u0103goeni Loc.  - Mun. T\u00e2rgu Jiu",
-    "cod": "172",
-    "codPrimarie": "4956065",
-    "siruta": "77849"
-  },
-  {
-    "denumire": "Hor\u0103\u015fti Loc.  - Mun. Motru",
-    "cod": "218",
-    "codPrimarie": "5455844",
-    "siruta": "78178"
-  },
-  {
-    "denumire": "Iezureni Loc.  - Mun. T\u00e2rgu Jiu",
-    "cod": "225",
-    "codPrimarie": "4956065",
-    "siruta": "77858"
-  },
-  {
-    "denumire": "Leurda Loc.  - Mun. Motru",
-    "cod": "241",
-    "codPrimarie": "5455844",
-    "siruta": "78196"
-  },
-  {
-    "denumire": "Lupoi\u0163a Loc.  - Mun. Motru",
-    "cod": "249",
-    "codPrimarie": "5455844",
-    "siruta": "78212"
-  },
-  {
-    "denumire": "L\u0103z\u0103re\u015fti Loc.  - Or\u015f. Bumbe\u015fti-Jiu",
-    "cod": "250",
-    "codPrimarie": "4666002",
-    "siruta": "79335"
-  },
-  {
-    "denumire": "Ple\u015fa Loc.  - Or\u015f. Bumbe\u015fti-Jiu",
-    "cod": "312",
-    "codPrimarie": "4666002",
-    "siruta": "79344"
-  },
-  {
-    "denumire": "Plo\u015ftina Loc.  - Mun. Motru",
-    "cod": "316",
-    "codPrimarie": "5455844",
-    "siruta": "78203"
-  },
-  {
-    "denumire": "Polata Loc.  - Mun. T\u00e2rgu Jiu",
-    "cod": "325",
-    "codPrimarie": "4956065",
-    "siruta": "77867"
-  },
-  {
-    "denumire": "Preajba Mare Loc.  - Mun. T\u00e2rgu Jiu",
-    "cod": "330",
-    "codPrimarie": "4956065",
-    "siruta": "77876"
-  },
-  {
-    "denumire": "Romane\u015fti Loc.  - Mun. T\u00e2rgu Jiu",
-    "cod": "351",
-    "codPrimarie": "4956065",
-    "siruta": "77885"
-  },
-  {
-    "denumire": "Ro\u015fiu\u0163a Loc.  - Mun. Motru",
-    "cod": "356",
-    "codPrimarie": "5455844",
-    "siruta": "78221"
-  },
-  {
-    "denumire": "R\u00e2pa Loc.  - Mun. Motru",
-    "cod": "362",
-    "codPrimarie": "5455844",
-    "siruta": "78230"
-  },
-  {
-    "denumire": "Slobozia Loc.  - Mun. T\u00e2rgu Jiu",
-    "cod": "382",
-    "codPrimarie": "4956065",
-    "siruta": "77894"
-  },
-  {
-    "denumire": "Tetila Loc.  - Or\u015f. Bumbe\u015fti-Jiu",
-    "cod": "417",
-    "codPrimarie": "4666002",
-    "siruta": "79353"
-  },
-  {
-    "denumire": "Ursa\u0163i Loc.  - Mun. T\u00e2rgu Jiu",
-    "cod": "447",
-    "codPrimarie": "4956065",
-    "siruta": "77901"
-  },
-  {
-    "denumire": "V\u00e2r\u0163 Loc.  - Or\u015f. Rovinari",
-    "cod": "475",
-    "codPrimarie": "5057520",
-    "siruta": "82902"
-  },
-  {
-    "denumire": "\u00censur\u0103\u0163ei Loc.  - Mun. Motru",
-    "cod": "494",
-    "codPrimarie": "5455844",
-    "siruta": "78187"
-  },
-  {
-    "denumire": "T\u00e2rgu Jiu Mun. ",
-    "cod": "436",
-    "codPrimarie": "4956065",
-    "siruta": "77821"
-  },
-  {
-    "denumire": "Motru Mun. ",
-    "cod": "266",
-    "codPrimarie": "5455844",
-    "siruta": "78150"
-  },
-  {
-    "denumire": "Bumbe\u015fti-Jiu Or\u015f. ",
-    "cod": "67",
-    "codPrimarie": "4666002",
-    "siruta": "79317"
-  },
-  {
-    "denumire": "Novaci Or\u015f. ",
-    "cod": "283",
-    "codPrimarie": "4666126",
-    "siruta": "78267"
-  },
-  {
-    "denumire": "Rovinari Or\u015f. ",
-    "cod": "352",
-    "codPrimarie": "5057520",
-    "siruta": "79059"
-  },
-  {
-    "denumire": "Tismana Or\u015f. ",
-    "cod": "421",
-    "codPrimarie": "4956189",
-    "siruta": "82430"
-  },
-  {
-    "denumire": "Turceni Or\u015f. ",
-    "cod": "431",
-    "codPrimarie": "4813480",
-    "siruta": "82617"
-  },
-  {
-    "denumire": "T\u00e2rgu C\u0103rbune\u015fti Or\u015f. ",
-    "cod": "435",
-    "codPrimarie": "4898681",
-    "siruta": "78338"
-  },
-  {
-    "denumire": "\u0162icleni Or\u015f. ",
-    "cod": "495",
-    "codPrimarie": "4898657",
-    "siruta": "78463"
-  },
-  {
     "denumire": "Albeni Sat  - Com. Albeni",
     "cod": "2",
     "codPrimarie": "4448202",
@@ -516,6 +336,12 @@
     "siruta": "79530"
   },
   {
+    "denumire": "Bumbe\u015fti-Jiu Or\u015f. ",
+    "cod": "67",
+    "codPrimarie": "4666002",
+    "siruta": "79317"
+  },
+  {
     "denumire": "Bumbe\u015fti-Pi\u0163ic Sat  - Com. Bumbe\u015fti-Pi\u0163ic",
     "cod": "68",
     "codPrimarie": "4718888",
@@ -568,6 +394,12 @@
     "cod": "79",
     "codPrimarie": "4898754",
     "siruta": "80935"
+  },
+  {
+    "denumire": "B\u00e2rse\u015fti Loc.  - Mun. T\u00e2rgu Jiu",
+    "cod": "80",
+    "codPrimarie": "4956065",
+    "siruta": "77830"
   },
   {
     "denumire": "B\u00e2rzeiu Sat  - Com. Berle\u015fti",
@@ -888,6 +720,12 @@
     "siruta": "78383"
   },
   {
+    "denumire": "Curti\u015foara Loc.  - Or\u015f. Bumbe\u015fti-Jiu",
+    "cod": "140",
+    "codPrimarie": "4666002",
+    "siruta": "79326"
+  },
+  {
     "denumire": "C\u00e2lce\u015fti Sat  - Com. Godine\u015fti",
     "cod": "141",
     "codPrimarie": "4898819",
@@ -996,6 +834,12 @@
     "siruta": "82289"
   },
   {
+    "denumire": "Dealu Pomilor Loc.  - Mun. Motru",
+    "cod": "162",
+    "codPrimarie": "5455844",
+    "siruta": "78169"
+  },
+  {
     "denumire": "Dealu Spirei Sat  - Com. C\u0103preni",
     "cod": "163",
     "codPrimarie": "4898800",
@@ -1048,6 +892,12 @@
     "cod": "171",
     "codPrimarie": "4448202",
     "siruta": "78515"
+  },
+  {
+    "denumire": "Dr\u0103goeni Loc.  - Mun. T\u00e2rgu Jiu",
+    "cod": "172",
+    "codPrimarie": "4956065",
+    "siruta": "77849"
   },
   {
     "denumire": "Dr\u0103goie\u015fti Sat  - Com. Crasna",
@@ -1278,6 +1128,12 @@
     "siruta": "78114"
   },
   {
+    "denumire": "Hor\u0103\u015fti Loc.  - Mun. Motru",
+    "cod": "218",
+    "codPrimarie": "5455844",
+    "siruta": "78178"
+  },
+  {
     "denumire": "Hot\u0103roasa Sat  - Com. Urdari",
     "cod": "219",
     "codPrimarie": "4666410",
@@ -1306,6 +1162,12 @@
     "cod": "224",
     "codPrimarie": "4510436",
     "siruta": "78052"
+  },
+  {
+    "denumire": "Iezureni Loc.  - Mun. T\u00e2rgu Jiu",
+    "cod": "225",
+    "codPrimarie": "4956065",
+    "siruta": "77858"
   },
   {
     "denumire": "Igirosu Sat  - Com. Bolbo\u015fi",
@@ -1380,6 +1242,12 @@
     "siruta": "80686"
   },
   {
+    "denumire": "Leurda Loc.  - Mun. Motru",
+    "cod": "241",
+    "codPrimarie": "5455844",
+    "siruta": "78196"
+  },
+  {
     "denumire": "Licurici Sat  - Com. Licurici",
     "cod": "243",
     "codPrimarie": "4956146",
@@ -1408,6 +1276,18 @@
     "cod": "248",
     "codPrimarie": "5455879",
     "siruta": "79610"
+  },
+  {
+    "denumire": "Lupoi\u0163a Loc.  - Mun. Motru",
+    "cod": "249",
+    "codPrimarie": "5455844",
+    "siruta": "78212"
+  },
+  {
+    "denumire": "L\u0103z\u0103re\u015fti Loc.  - Or\u015f. Bumbe\u015fti-Jiu",
+    "cod": "250",
+    "codPrimarie": "4666002",
+    "siruta": "79335"
   },
   {
     "denumire": "Maghere\u015fti Sat  - Com. S\u0103celu",
@@ -1500,6 +1380,12 @@
     "siruta": "79433"
   },
   {
+    "denumire": "Motru Mun. ",
+    "cod": "266",
+    "codPrimarie": "5455844",
+    "siruta": "78150"
+  },
+  {
     "denumire": "Motru Sec Sat  - Com. Pade\u015f",
     "cod": "267",
     "codPrimarie": "4898932",
@@ -1576,6 +1462,12 @@
     "cod": "282",
     "codPrimarie": "4666436",
     "siruta": "78588"
+  },
+  {
+    "denumire": "Novaci Or\u015f. ",
+    "cod": "283",
+    "codPrimarie": "4666126",
+    "siruta": "78267"
   },
   {
     "denumire": "Nucetu Sat  - Com. Negomir",
@@ -1734,6 +1626,12 @@
     "siruta": "81978"
   },
   {
+    "denumire": "Ple\u015fa Loc.  - Or\u015f. Bumbe\u015fti-Jiu",
+    "cod": "312",
+    "codPrimarie": "4666002",
+    "siruta": "79344"
+  },
+  {
     "denumire": "Plopu Sat  - Com. Hurezani",
     "cod": "313",
     "codPrimarie": "4510444",
@@ -1744,6 +1642,12 @@
     "cod": "315",
     "codPrimarie": "4718969",
     "siruta": "81273"
+  },
+  {
+    "denumire": "Plo\u015ftina Loc.  - Mun. Motru",
+    "cod": "316",
+    "codPrimarie": "5455844",
+    "siruta": "78203"
   },
   {
     "denumire": "Pociovali\u015ftea Sat  - Or\u015f. Novaci",
@@ -1794,6 +1698,12 @@
     "siruta": "78418"
   },
   {
+    "denumire": "Polata Loc.  - Mun. T\u00e2rgu Jiu",
+    "cod": "325",
+    "codPrimarie": "4956065",
+    "siruta": "77867"
+  },
+  {
     "denumire": "Polovragi Sat  - Com. Polovragi",
     "cod": "327",
     "codPrimarie": "4718977",
@@ -1810,6 +1720,12 @@
     "cod": "329",
     "codPrimarie": "4898886",
     "siruta": "82305"
+  },
+  {
+    "denumire": "Preajba Mare Loc.  - Mun. T\u00e2rgu Jiu",
+    "cod": "330",
+    "codPrimarie": "4956065",
+    "siruta": "77876"
   },
   {
     "denumire": "Prigoria Sat  - Com. Prigoria",
@@ -1926,6 +1842,18 @@
     "siruta": "78427"
   },
   {
+    "denumire": "Romane\u015fti Loc.  - Mun. T\u00e2rgu Jiu",
+    "cod": "351",
+    "codPrimarie": "4956065",
+    "siruta": "77885"
+  },
+  {
+    "denumire": "Rovinari Or\u015f. ",
+    "cod": "352",
+    "codPrimarie": "5057520",
+    "siruta": "79059"
+  },
+  {
     "denumire": "Ro\u015fia Jiu Sat  - Com. F\u0103rc\u0103\u015fe\u015fti",
     "cod": "353",
     "codPrimarie": "4718950",
@@ -1936,6 +1864,12 @@
     "cod": "355",
     "codPrimarie": "4898487",
     "siruta": "81503"
+  },
+  {
+    "denumire": "Ro\u015fiu\u0163a Loc.  - Mun. Motru",
+    "cod": "356",
+    "codPrimarie": "5455844",
+    "siruta": "78221"
   },
   {
     "denumire": "Ruget Sat  - Com. Ro\u015fia de Amaradia",
@@ -1960,6 +1894,12 @@
     "cod": "361",
     "codPrimarie": "4448385",
     "siruta": "80891"
+  },
+  {
+    "denumire": "R\u00e2pa Loc.  - Mun. Motru",
+    "cod": "362",
+    "codPrimarie": "5455844",
+    "siruta": "78230"
   },
   {
     "denumire": "R\u0103chi\u0163i Sat  - Com. Runcu",
@@ -2050,6 +1990,12 @@
     "cod": "380",
     "codPrimarie": "4352069",
     "siruta": "82056"
+  },
+  {
+    "denumire": "Slobozia Loc.  - Mun. T\u00e2rgu Jiu",
+    "cod": "382",
+    "codPrimarie": "4956065",
+    "siruta": "77894"
   },
   {
     "denumire": "Sl\u0103mne\u015fti Sat  - Com. Cru\u015fe\u0163",
@@ -2166,12 +2112,6 @@
     "siruta": "82145"
   },
   {
-    "denumire": "Sura Sat  - Com. Slivile\u015fti",
-    "cod": "493",
-    "codPrimarie": "4352069",
-    "siruta": "82109"
-  },
-  {
     "denumire": "Suseni Sat  - Com. Runcu",
     "cod": "405",
     "codPrimarie": "4448229",
@@ -2226,6 +2166,12 @@
     "siruta": "82403"
   },
   {
+    "denumire": "Tetila Loc.  - Or\u015f. Bumbe\u015fti-Jiu",
+    "cod": "417",
+    "codPrimarie": "4666002",
+    "siruta": "79353"
+  },
+  {
     "denumire": "Timi\u015feni Sat  - Com. F\u0103rc\u0103\u015fe\u015fti",
     "cod": "418",
     "codPrimarie": "4718950",
@@ -2242,6 +2188,12 @@
     "cod": "420",
     "codPrimarie": "4956189",
     "siruta": "82449"
+  },
+  {
+    "denumire": "Tismana Or\u015f. ",
+    "cod": "421",
+    "codPrimarie": "4956189",
+    "siruta": "82430"
   },
   {
     "denumire": "Toiaga Sat  - Com. Stoina",
@@ -2292,6 +2244,12 @@
     "siruta": "82626"
   },
   {
+    "denumire": "Turceni Or\u015f. ",
+    "cod": "431",
+    "codPrimarie": "4813480",
+    "siruta": "82617"
+  },
+  {
     "denumire": "Turcine\u015fti Sat  - Com. Turcine\u015fti",
     "cod": "432",
     "codPrimarie": "4898924",
@@ -2302,6 +2260,18 @@
     "cod": "434",
     "codPrimarie": "4510436",
     "siruta": "78061"
+  },
+  {
+    "denumire": "T\u00e2rgu C\u0103rbune\u015fti Or\u015f. ",
+    "cod": "435",
+    "codPrimarie": "4898681",
+    "siruta": "78338"
+  },
+  {
+    "denumire": "T\u00e2rgu Jiu Mun. ",
+    "cod": "436",
+    "codPrimarie": "4956065",
+    "siruta": "77821"
   },
   {
     "denumire": "T\u00e2rgu Logre\u015fti Sat  - Com. Logre\u015fti",
@@ -2356,6 +2326,12 @@
     "cod": "446",
     "codPrimarie": "4510436",
     "siruta": "78070"
+  },
+  {
+    "denumire": "Ursa\u0163i Loc.  - Mun. T\u00e2rgu Jiu",
+    "cod": "447",
+    "codPrimarie": "4956065",
+    "siruta": "77901"
   },
   {
     "denumire": "Ursoaia Sat  - Com. Negomir",
@@ -2514,6 +2490,12 @@
     "siruta": "79718"
   },
   {
+    "denumire": "V\u00e2r\u0163 Loc.  - Or\u015f. Rovinari",
+    "cod": "475",
+    "codPrimarie": "5057520",
+    "siruta": "82902"
+  },
+  {
     "denumire": "V\u0103carea Sat  - Com. D\u0103ne\u015fti",
     "cod": "476",
     "codPrimarie": "4510452",
@@ -2608,6 +2590,24 @@
     "cod": "492",
     "codPrimarie": "4352069",
     "siruta": "82083"
+  },
+  {
+    "denumire": "Sura Sat  - Com. Slivile\u015fti",
+    "cod": "493",
+    "codPrimarie": "4352069",
+    "siruta": "82109"
+  },
+  {
+    "denumire": "\u00censur\u0103\u0163ei Loc.  - Mun. Motru",
+    "cod": "494",
+    "codPrimarie": "5455844",
+    "siruta": "78187"
+  },
+  {
+    "denumire": "\u0162icleni Or\u015f. ",
+    "cod": "495",
+    "codPrimarie": "4898657",
+    "siruta": "78463"
   },
   {
     "denumire": "\u0162\u00e2n\u0163\u0103reni Sat  - Com. \u0162\u00e2n\u0163\u0103reni",

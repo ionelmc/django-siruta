@@ -1,77 +1,5 @@
 [
   {
-    "denumire": "Cireasov Loc.  - Mun. Slatina",
-    "cod": "86",
-    "codPrimarie": "4394811",
-    "siruta": "125365"
-  },
-  {
-    "denumire": "Corbeni Loc.  - Or\u015f. Bal\u015f",
-    "cod": "98",
-    "codPrimarie": "4286437",
-    "siruta": "125436"
-  },
-  {
-    "denumire": "Rom\u00e2n\u0103 Loc.  - Or\u015f. Bal\u015f",
-    "cod": "340",
-    "codPrimarie": "4286437",
-    "siruta": "125445"
-  },
-  {
-    "denumire": "Tudor Vladimirescu Loc.  - Or\u015f. Corabia",
-    "cod": "418",
-    "codPrimarie": "4716810",
-    "siruta": "125560"
-  },
-  {
-    "denumire": "Slatina Mun. ",
-    "cod": "369",
-    "codPrimarie": "4394811",
-    "siruta": "125356"
-  },
-  {
-    "denumire": "Caracal Mun. ",
-    "cod": "65",
-    "codPrimarie": "4395175",
-    "siruta": "125481"
-  },
-  {
-    "denumire": "Bal\u015f Or\u015f. ",
-    "cod": "11",
-    "codPrimarie": "4286437",
-    "siruta": "125427"
-  },
-  {
-    "denumire": "Corabia Or\u015f. ",
-    "cod": "97",
-    "codPrimarie": "4716810",
-    "siruta": "125551"
-  },
-  {
-    "denumire": "Dr\u0103g\u0103ne\u015fti-Olt Or\u015f. ",
-    "cod": "153",
-    "codPrimarie": "5209912",
-    "siruta": "125631"
-  },
-  {
-    "denumire": "Piatra-Olt Or\u015f. ",
-    "cod": "299",
-    "codPrimarie": "4491237",
-    "siruta": "128114"
-  },
-  {
-    "denumire": "Potcoava Or\u015f. ",
-    "cod": "316",
-    "codPrimarie": "4716780",
-    "siruta": "128374"
-  },
-  {
-    "denumire": "Scornice\u015fti Or\u015f. ",
-    "cod": "361",
-    "codPrimarie": "4491369",
-    "siruta": "128720"
-  },
-  {
     "denumire": "Afuma\u0163i Sat  - Com. Leleasca",
     "cod": "1",
     "codPrimarie": "5139825",
@@ -126,6 +54,12 @@
     "siruta": "125695"
   },
   {
+    "denumire": "Bal\u015f Or\u015f. ",
+    "cod": "11",
+    "codPrimarie": "4286437",
+    "siruta": "125427"
+  },
+  {
     "denumire": "Barza Sat  - Com. Tufeni",
     "cod": "12",
     "codPrimarie": "4655887",
@@ -178,6 +112,12 @@
     "cod": "20",
     "codPrimarie": "4491369",
     "siruta": "128748"
+  },
+  {
+    "denumire": "B\u00e2rse\u015ftii de Sus Sat  - Com. Spr\u00e2ncenata",
+    "cod": "21",
+    "codPrimarie": "4491318",
+    "siruta": "129068"
   },
   {
     "denumire": "Bistri\u0163a Nou\u0103 Sat  - Or\u015f. Piatra-Olt",
@@ -312,12 +252,6 @@
     "siruta": "129674"
   },
   {
-    "denumire": "B\u00e2rse\u015ftii de Sus Sat  - Com. Spr\u00e2ncenata",
-    "cod": "21",
-    "codPrimarie": "4491318",
-    "siruta": "129068"
-  },
-  {
     "denumire": "B\u00e2rza Sat  - Com. B\u00e2rza",
     "cod": "49",
     "codPrimarie": "4395019",
@@ -394,6 +328,12 @@
     "cod": "64",
     "codPrimarie": "4394501",
     "siruta": "126255"
+  },
+  {
+    "denumire": "Caracal Mun. ",
+    "cod": "65",
+    "codPrimarie": "4395175",
+    "siruta": "125481"
   },
   {
     "denumire": "Catanele Sat  - Com. Schitu",
@@ -504,6 +444,12 @@
     "siruta": "129521"
   },
   {
+    "denumire": "Cireasov Loc.  - Mun. Slatina",
+    "cod": "86",
+    "codPrimarie": "4394811",
+    "siruta": "125365"
+  },
+  {
     "denumire": "Ciure\u015fti Sat  - Com. Corbu",
     "cod": "87",
     "codPrimarie": "4716747",
@@ -540,22 +486,34 @@
     "siruta": "125640"
   },
   {
-    "denumire": "Com\u0103ne\u015fti Sat  - Com. Bobice\u015fti",
-    "cod": "95",
-    "codPrimarie": "4491148",
-    "siruta": "125926"
-  },
-  {
     "denumire": "Com\u0103ni\u0163a Sat  - Com. Teslui",
     "cod": "94",
     "codPrimarie": "5139728",
     "siruta": "129424"
   },
   {
+    "denumire": "Com\u0103ne\u015fti Sat  - Com. Bobice\u015fti",
+    "cod": "95",
+    "codPrimarie": "4491148",
+    "siruta": "125926"
+  },
+  {
     "denumire": "Constantine\u015fti Sat  - Or\u015f. Scornice\u015fti",
     "cod": "96",
     "codPrimarie": "4491369",
     "siruta": "128766"
+  },
+  {
+    "denumire": "Corabia Or\u015f. ",
+    "cod": "97",
+    "codPrimarie": "4716810",
+    "siruta": "125551"
+  },
+  {
+    "denumire": "Corbeni Loc.  - Or\u015f. Bal\u015f",
+    "cod": "98",
+    "codPrimarie": "4286437",
+    "siruta": "125436"
   },
   {
     "denumire": "Corbu Sat  - Com. Corbu",
@@ -810,6 +768,12 @@
     "siruta": "125506"
   },
   {
+    "denumire": "Dr\u0103g\u0103ne\u015fti-Olt Or\u015f. ",
+    "cod": "153",
+    "codPrimarie": "5209912",
+    "siruta": "125631"
+  },
+  {
     "denumire": "Dumitre\u015fti Sat  - Com. Verguleasa",
     "cod": "154",
     "codPrimarie": "4984510",
@@ -870,16 +834,16 @@
     "siruta": "126987"
   },
   {
-    "denumire": "F\u0103rca\u015fele Sat  - Com. F\u0103rca\u015fele",
-    "cod": "169",
-    "codPrimarie": "4491334",
-    "siruta": "127028"
-  },
-  {
     "denumire": "F\u0103rca\u015fu de Jos Sat  - Com. F\u0103rca\u015fele",
     "cod": "167",
     "codPrimarie": "4491334",
     "siruta": "127037"
+  },
+  {
+    "denumire": "F\u0103rca\u015fele Sat  - Com. F\u0103rca\u015fele",
+    "cod": "169",
+    "codPrimarie": "4491334",
+    "siruta": "127028"
   },
   {
     "denumire": "Ghimpa\u0163i Sat  - Com. F\u0103rca\u015fele",
@@ -1506,6 +1470,12 @@
     "siruta": "128169"
   },
   {
+    "denumire": "Piatra-Olt Or\u015f. ",
+    "cod": "299",
+    "codPrimarie": "4491237",
+    "siruta": "128114"
+  },
+  {
     "denumire": "Pielcani Sat  - Com. F\u0103ge\u0163elu",
     "cod": "300",
     "codPrimarie": "4395124",
@@ -1588,6 +1558,12 @@
     "cod": "315",
     "codPrimarie": "5102265",
     "siruta": "129790"
+  },
+  {
+    "denumire": "Potcoava Or\u015f. ",
+    "cod": "316",
+    "codPrimarie": "4716780",
+    "siruta": "128374"
   },
   {
     "denumire": "Potcoava Sat  - Or\u015f. Potcoava",
@@ -1704,6 +1680,12 @@
     "siruta": "126763"
   },
   {
+    "denumire": "Rom\u00e2n\u0103 Loc.  - Or\u015f. Bal\u015f",
+    "cod": "340",
+    "codPrimarie": "4286437",
+    "siruta": "125445"
+  },
+  {
     "denumire": "Rotunda Sat  - Com. Rotunda",
     "cod": "342",
     "codPrimarie": "4550058",
@@ -1806,22 +1788,28 @@
     "siruta": "126200"
   },
   {
+    "denumire": "Scornice\u015fti Or\u015f. ",
+    "cod": "361",
+    "codPrimarie": "4491369",
+    "siruta": "128720"
+  },
+  {
     "denumire": "Sc\u0103ri\u015foara Sat  - Com. Sc\u0103ri\u015foara",
     "cod": "362",
     "codPrimarie": "4491164",
     "siruta": "128622"
   },
   {
-    "denumire": "Seaca Sat  - Com. Seaca",
-    "cod": "365",
-    "codPrimarie": "5209904",
-    "siruta": "128873"
-  },
-  {
     "denumire": "Seaca Sat  - Com. Poboru",
     "cod": "364",
     "codPrimarie": "5139698",
     "siruta": "128356"
+  },
+  {
+    "denumire": "Seaca Sat  - Com. Seaca",
+    "cod": "365",
+    "codPrimarie": "5209904",
+    "siruta": "128873"
   },
   {
     "denumire": "Simniceni Sat  - Com. Vulpeni",
@@ -1834,6 +1822,12 @@
     "cod": "368",
     "codPrimarie": "4716780",
     "siruta": "128409"
+  },
+  {
+    "denumire": "Slatina Mun. ",
+    "cod": "369",
+    "codPrimarie": "4394811",
+    "siruta": "125356"
   },
   {
     "denumire": "Sl\u0103tioara Sat  - Com. Sl\u0103tioara",
@@ -1926,16 +1920,16 @@
     "siruta": "126219"
   },
   {
-    "denumire": "St\u0103nuleasa Sat  - Com. Vitomire\u015fti",
-    "cod": "393",
-    "codPrimarie": "4394951",
-    "siruta": "129969"
-  },
-  {
     "denumire": "St\u0103nuleasa Sat  - Com. S\u00e2mbure\u015fti",
     "cod": "392",
     "codPrimarie": "5475221",
     "siruta": "128944"
+  },
+  {
+    "denumire": "St\u0103nuleasa Sat  - Com. Vitomire\u015fti",
+    "cod": "393",
+    "codPrimarie": "4394951",
+    "siruta": "129969"
   },
   {
     "denumire": "St\u0103varu Sat  - Com. Urzica",
@@ -2050,6 +2044,12 @@
     "cod": "417",
     "codPrimarie": "4716780",
     "siruta": "128418"
+  },
+  {
+    "denumire": "Tudor Vladimirescu Loc.  - Or\u015f. Corabia",
+    "cod": "418",
+    "codPrimarie": "4716810",
+    "siruta": "125560"
   },
   {
     "denumire": "Tufaru Sat  - Com. Leleasca",

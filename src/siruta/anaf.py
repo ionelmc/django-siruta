@@ -1,67 +1,12 @@
 LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
     1: {  # ALBA
-        2: 1179,  # Abrud-Sat Loc.  - Orş. Abrud -> ABRUD-SAT
-        6: 1231,  # Aiudul de Sus Loc.  - Mun. Aiud -> AIUDUL DE SUS
-        47: 1712,  # Bocşitura Loc.  - Orş. Cugir -> BOCŞITURA
-        55: 1473,  # Bonceşti Loc.  - Orş. Câmpeni -> BONCEŞTI
-        57: 1482,  # Borleşti Loc.  - Orş. Câmpeni -> BORLEŞTI
-        58: 1491,  # Boteşti Loc.  - Orş. Câmpeni -> BOTEŞTI
-        73: 1721,  # Bucuru Loc.  - Orş. Cugir -> BUCURU
-        100: 1035,  # Bărăbanţ Loc.  - Mun. Alba Iulia -> BĂRĂBANŢ
-        112: 1507,  # Certege Loc.  - Orş. Câmpeni -> CERTEGE
-        140: 1516,  # Coasta Vâscului Loc.  - Orş. Câmpeni -> COASTA VÂSCULUI
-        182: 1730,  # Călene Loc.  - Orş. Cugir -> CĂLENE
-        196: 1534,  # Dealu Bistrii Loc.  - Orş. Câmpeni -> DEALU BISTRII
-        197: 1543,  # Dealu Capsei Loc.  - Orş. Câmpeni -> DEALU CAPSEI
-        211: 1366,  # Deleni-Obârşie Loc.  - Mun. Blaj -> DELENI-OBÂRŞIE
-        227: 1552,  # Dric Loc.  - Orş. Câmpeni -> DRIC
-        245: 1525,  # Dănduţ Loc.  - Orş. Câmpeni -> DĂNDUŢ
-        248: 1561,  # Faţa Abrudului Loc.  - Orş. Câmpeni -> FAŢA ABRUDULUI
-        257: 1749,  # Feţeni Loc.  - Orş. Cugir -> FEŢENI
-        259: 1375,  # Fliteşti Loc.  - Mun. Blaj -> FLITEŞTI
-        260: 1570,  # Floreşti Loc.  - Orş. Câmpeni -> FLOREŞTI
-        264: 1589,  # Furduieşti Loc.  - Orş. Câmpeni -> FURDUIEŞTI
-        290: 1758,  # Goaşele Loc.  - Orş. Cugir -> GOAŞELE
-        296: 1188,  # Gura Cornei Loc.  - Orş. Abrud -> GURA CORNEI
-        301: 1240,  # Gâmbaş Loc.  - Mun. Aiud -> GÂMBAŞ
-        353: 1384,  # Izvoarele Loc.  - Mun. Blaj -> IZVOARELE
-        364: 1892,  # Lancrăm Loc.  - Mun. Sebeş -> LANCRĂM
-        413: 1044,  # Miceşti Loc.  - Mun. Alba Iulia -> MICEŞTI
-        417: 1598,  # Mihoeşti Loc.  - Orş. Câmpeni -> MIHOEŞTI
-        428: 1605,  # Motorăşti Loc.  - Orş. Câmpeni -> MOTORĂŞTI
-        429: 1767,  # Mugeşti Loc.  - Orş. Cugir -> MUGEŞTI
-        436: 1259,  # Măgina Loc.  - Mun. Aiud -> MĂGINA
-        468: 1053,  # Oarda Loc.  - Mun. Alba Iulia -> OARDA
-        489: 1614,  # Peste Valea Bistrii Loc.  - Orş. Câmpeni -> PESTE VALEA BISTRII
-        493: 1909,  # Petreşti Loc.  - Mun. Sebeş -> PETREŞTI
-        494: 1393,  # Petrisat Loc.  - Mun. Blaj -> PETRISAT
-        510: 1623,  # Poduri Loc.  - Orş. Câmpeni -> PODURI
-        545: 1062,  # Pâclişa Loc.  - Mun. Alba Iulia -> PÂCLIŞA
-        552: 1268,  # Păgida Loc.  - Mun. Aiud -> PĂGIDA
-        602: 1197,  # Soharu Loc.  - Orş. Abrud -> SOHARU
-        607: 1632,  # Sorlita Loc.  - Orş. Câmpeni -> SORLIŢA
-        650: 1400,  # Tiur Loc.  - Mun. Blaj -> TIUR
-        654: 1641,  # Tomuşeşti Loc.  - Orş. Câmpeni -> TOMUŞEŞTI
-        672: 1810,  # Uioara de Jos Loc.  - Orş. Ocna Mureş -> UIOARA DE JOS
-        673: 1829,  # Uioara de Sus Loc.  - Orş. Ocna Mureş -> UIOARA DE SUS
-        684: 1650,  # Valea Bistrii Loc.  - Orş. Câmpeni -> VALEA BISTRII
-        687: 1669,  # Valea Caselor Loc.  - Orş. Câmpeni -> VALEA CASELOR
-        722: 1419,  # Veza Loc.  - Mun. Blaj -> VEZA
-        728: 1776,  # Vinerea Loc.  - Orş. Cugir -> VINEREA
-        744: 1678,  # Vârşi Loc.  - Orş. Câmpeni -> VÂRŞI
-        7: 1026,  # Alba Iulia Mun.  -> ALBA IULIA
-        5: 1222,  # Aiud Mun.  -> AIUD
-        40: 1357,  # Blaj Mun.  -> BLAJ
-        592: 1883,  # Sebeş Mun.  -> SEBEŞ
         1: 1160,  # Abrud Orş.  -> ABRUD
-        454: 2924,  # Baia de Arieş Orş.  -> BAIA DE ARIEŞ
-        168: 1703,  # Cugir Orş.  -> CUGIR
-        177: 1464,  # Câmpeni Orş.  -> CÂMPENI
-        470: 1801,  # Ocna Mureş Orş.  -> OCNA MUREŞ
-        646: 8103,  # Teiuş Orş.  -> TEIUŞ
-        753: 1945,  # Zlatna Orş.  -> ZLATNA
+        2: 1179,  # Abrud-Sat Loc.  - Orş. Abrud -> ABRUD-SAT
         3: 2595,  # Achimeteşti Sat  - Com. Avram Iancu -> ACHIMEŢEŞTI
         4: 3413,  # Acmariu Sat  - Com. Blandiana -> ACMARIU
+        5: 1222,  # Aiud Mun.  -> AIUD
+        6: 1231,  # Aiudul de Sus Loc.  - Mun. Aiud -> AIUDUL DE SUS
+        7: 1026,  # Alba Iulia Mun.  -> ALBA IULIA
         9: 2149,  # Albac Sat  - Com. Albac -> ALBAC
         10: 7883,  # Alecuş Sat  - Com. Şona -> ALECUŞ
         12: 2318,  # Almaşu Mare Sat  - Com. Almaşu Mare -> ALMAŞU MARE
@@ -88,11 +33,13 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         36: 7473,  # Bilăneşti Sat  - Com. Sohodol -> BILĂNEŞTI
         37: 3486,  # Bisericani Sat  - Com. Bucium -> BISERICANI
         39: 3048,  # Bistra Sat  - Com. Bistra -> BISTRA
+        40: 1357,  # Blaj Mun.  -> BLAJ
         42: 3404,  # Blandiana Sat  - Com. Blandiana -> BLANDIANA
         43: 6798,  # Blideşti Sat  - Com. Roşia Montană -> BLIDEŞTI
         44: 8452,  # Bobareşti Sat  - Com. Vidra -> BOBĂREŞTI
         45: 7482,  # Bobăreşti Sat  - Com. Sohodol -> BOBĂREŞTI
         46: 5880,  # Boceşti Sat  - Com. Mogoş -> BOCEŞTI
+        47: 1712,  # Bocşitura Loc.  - Orş. Cugir -> BOCŞITURA
         48: 8247,  # Bodeşti Sat  - Com. Vadu Moţilor -> BODEŞTI
         49: 4035,  # Bodreşti Sat  - Com. Ciuruleasa -> BODREŞTI
         50: 5899,  # Bogdăneşti Sat  - Com. Mogoş -> BOGDĂNEŞTI
@@ -100,9 +47,12 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         52: 4044,  # Bogleşti Sat  - Com. Ciuruleasa -> BOGLEŞTI
         53: 2620,  # Boldeşti Sat  - Com. Avram Iancu -> BOLDEŞTI
         54: 3869,  # Bolovăneşti Sat  - Com. Ceru-Băcăinţi -> BOLOVĂNEŞTI
+        55: 1473,  # Bonceşti Loc.  - Orş. Câmpeni -> BONCEŞTI
         56: 8470,  # Bordeştii Poieni Sat  - Com. Vidra -> BORDEŞTII POIENI
-        60: 7222,  # Boteşti Sat  - Com. Scărişoara -> BOTEŞTI
+        57: 1482,  # Borleşti Loc.  - Orş. Câmpeni -> BORLEŞTI
+        58: 1491,  # Boteşti Loc.  - Orş. Câmpeni -> BOTEŞTI
         59: 1954,  # Boteşti Sat  - Orş. Zlatna -> BOTEŞTI
+        60: 7222,  # Boteşti Sat  - Com. Scărişoara -> BOTEŞTI
         61: 4286,  # Boz Sat  - Com. Doştat -> BOZ
         62: 6645,  # Boţani Sat  - Com. Râmeţ -> BOŢANI
         63: 7491,  # Brădeana Sat  - Com. Sohodol -> BRĂDEANA
@@ -114,6 +64,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         69: 4945,  # Bucerdea Vinoasa Sat  - Com. Ighiu -> BUCERDEA VINOASĂ
         71: 3468,  # Bucium Sat  - Com. Bucium -> BUCIUM
         72: 3495,  # Bucium-Sat Sat  - Com. Bucium -> BUCIUM-SAT
+        73: 1721,  # Bucuru Loc.  - Orş. Cugir -> BUCURU
         74: 1963,  # Budeni Sat  - Orş. Zlatna -> BUDENI
         75: 2167,  # Budăieşti Sat  - Com. Albac -> BUDĂIEŞTI
         76: 3878,  # Bulbuc Sat  - Com. Ceru-Băcăinţi -> BULBUC
@@ -124,9 +75,9 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         81: 4794,  # Buteşti Sat  - Com. Horea -> BUTEŞTI
         82: 5906,  # Buteşti Sat  - Com. Mogoş -> BUTEŞTI
         83: 5354,  # Bârdeşti Sat  - Com. Lupşa -> BÂRDEŞTI
+        84: 3084,  # Bârleşti Sat  - Com. Bistra -> BÂRLEŞTI
         85: 7213,  # Bârleşti Sat  - Com. Scărişoara -> BÂRLEŞTI
         86: 5853,  # Bârleşti Sat  - Com. Mogoş -> BÂRLEŞTI
-        84: 3084,  # Bârleşti Sat  - Com. Bistra -> BÂRLEŞTI
         87: 5862,  # Bârleşti-Cătun Sat  - Com. Mogoş -> BÂRLEŞTI-CĂTUN
         88: 8041,  # Bârsana Sat  - Com. Şugag -> BÂRSANA
         89: 5363,  # Bârzani Sat  - Com. Lupşa -> BÂRZAN
@@ -140,6 +91,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         97: 3075,  # Băleşti-Cătun Sat  - Com. Bistra -> BĂLEŞTI-CĂTUN
         98: 6789,  # Bălmoşeşti Sat  - Com. Roşia Montană -> BĂLMOŞEŞTI
         99: 5844,  # Bărbeşti Sat  - Com. Mogoş -> BĂRBEŞTI
+        100: 1035,  # Bărăbanţ Loc.  - Mun. Alba Iulia -> BĂRĂBANŢ
         101: 2158,  # Bărăşti Sat  - Com. Albac -> BĂRĂŞTI
         102: 7464,  # Băzeşti Sat  - Com. Sohodol -> BĂZEŞTI
         103: 3789,  # Capu Dealului Sat  - Com. Cenade -> CAPU DEALULUI
@@ -149,6 +101,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         108: 3501,  # Cerbu Sat  - Com. Bucium -> CERBU
         110: 3814,  # Cergău Mare Sat  - Com. Cergău -> CERGĂU MARE
         111: 3823,  # Cergău Mic Sat  - Com. Cergău -> CERGĂU MIC
+        112: 1507,  # Certege Loc.  - Orş. Câmpeni -> CERTEGE
         113: 3850,  # Ceru-Băcăinţi Sat  - Com. Ceru-Băcăinţi -> CERU-BĂCĂINŢI
         115: 3967,  # Cetatea de Balta Sat  - Com. Cetatea de Balta -> CETATEA DE BALTĂ
         117: 4393,  # Cetea Sat  - Com. Galda de Jos -> CETEA
@@ -172,6 +125,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         136: 1277,  # Ciumbrud Sat  - Mun. Aiud -> CIUMBRUD
         137: 4017,  # Ciuruleasa Sat  - Com. Ciuruleasa -> CIURULEASA
         139: 6823,  # Coasta Henţii Sat  - Com. Roşia Montană -> COASTA HENŢII
+        140: 1516,  # Coasta Vâscului Loc.  - Orş. Câmpeni -> COASTA VÂSCULUI
         141: 2434,  # Cobleş Sat  - Com. Arieşeni -> COBLEŞ
         142: 2684,  # Coceşti Sat  - Com. Avram Iancu -> COCEŞTI
         143: 2693,  # Cocoşeşti Sat  - Com. Avram Iancu -> COCOŞEŞTI
@@ -197,6 +151,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         164: 4197,  # Crăciunelu de Jos Sat  - Com. Crăciunelu de Jos -> CRĂCIUNELU DE JOS
         166: 3976,  # Crăciunelu de Sus Sat  - Com. Cetatea de Balta -> CRACIUNELU DE SUS
         167: 3887,  # Cucută Sat  - Com. Ceru-Băcăinţi -> CUCUTA
+        168: 1703,  # Cugir Orş.  -> CUGIR
         169: 8489,  # Culdeşti Sat  - Com. Vidra -> CULDEŞTI
         170: 7981,  # Cunţa Sat  - Com. Şpring -> CUNŢA
         171: 5372,  # Curmătura Sat  - Com. Lupşa -> CURMĂTURĂ
@@ -204,27 +159,31 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         173: 6841,  # Curături Sat  - Com. Roşia Montană -> CURĂTURI
         174: 4124,  # Cut Sat  - Com. Cut -> CUT
         175: 4115,  # Câlnic Sat  - Com. Câlnic -> CÂLNIC
+        177: 1464,  # Câmpeni Orş.  -> CÂMPENI
         178: 8853,  # Câmpu Goblii Sat  - Com. Vinţu de Jos -> CÂMPU GOBLII
         179: 2657,  # Cândeşti Sat  - Com. Avram Iancu -> CÂNDEŞTI
         180: 2666,  # Cârăşti Sat  - Com. Avram Iancu -> CÂRĂŞTI
         181: 2675,  # Cârţuleşti Sat  - Com. Avram Iancu -> CÂRŢULEŞTI
+        182: 1730,  # Călene Loc.  - Orş. Cugir -> CĂLENE
         183: 2639,  # Călugăreşti Sat  - Com. Avram Iancu -> CĂLUGĂREŞTI
         184: 6066,  # Căptălan Sat  - Com. Noşlac -> CĂPTĂLAN
         185: 8121,  # Căpud Sat  - Orş. Teiuş -> CĂPUD
         186: 7115,  # Căpâlna Sat  - Com. Săsciori -> CĂPÂLNA
         187: 5130,  # Căpâlna de Jos Sat  - Com. Jidvei -> CĂPÂLNA DE JOS
         188: 7972,  # Cărpenii de Sus Sat  - Com. Şpring -> CARPENII DE SUS
-        190: 6814,  # Cărpiniş Sat  - Com. Roşia Montană -> CĂRPINIŞ
         189: 4507,  # Cărpiniş Sat  - Com. Gârbova -> CĂRPINIŞ
+        190: 6814,  # Cărpiniş Sat  - Com. Roşia Montană -> CĂRPINIŞ
         191: 2648,  # Căsoaia Sat  - Com. Avram Iancu -> CĂSOAIA
         192: 4259,  # Daia Română Sat  - Com. Daia Română -> DAIA ROMÂNĂ
         194: 4133,  # Deal Sat  - Com. Câlnic -> DEAL
         195: 2443,  # Dealu Bajului Sat  - Com. Arieşeni -> DEALU BAJULUI
+        196: 1534,  # Dealu Bistrii Loc.  - Orş. Câmpeni -> DEALU BISTRII
+        197: 1543,  # Dealu Capsei Loc.  - Orş. Câmpeni -> DEALU CAPSEI
         198: 2719,  # Dealu Crişului Sat  - Com. Avram Iancu -> DEALU CRIŞULUI
         199: 4295,  # Dealu Doştatului Sat  - Com. Doştat -> DEALU DOŞTATULUI
         200: 8871,  # Dealu Ferului Sat  - Com. Vinţu de Jos -> DEALU FERULUI
-        202: 8265,  # Dealu Frumos Sat  - Com. Vadu Moţilor -> DEALU FRUMOS
         201: 4552,  # Dealu Frumos Sat  - Com. Gârda de Sus -> DEALU FRUMOS
+        202: 8265,  # Dealu Frumos Sat  - Com. Vadu Moţilor -> DEALU FRUMOS
         203: 5005,  # Dealu Geoagiului Sat  - Com. Întregalde -> DEALU GEOAGIULUI
         204: 8498,  # Dealu Goieşti Sat  - Com. Vidra -> DEALU GOIEŞTI
         205: 2194,  # Dealu Lămăşoi Sat  - Com. Albac -> DEALU LĂMĂŞOI
@@ -233,6 +192,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         208: 6994,  # Dealul Caselor Sat  - Com. Sălciua -> DEALU CASELOR
         209: 1972,  # Dealul Roatei Sat  - Orş. Zlatna -> DEALU ROATEI
         210: 5782,  # Decea Sat  - Com. Mirăslău -> DECEA
+        211: 1366,  # Deleni-Obârşie Loc.  - Mun. Blaj -> DELENI-OBÂRŞIE
         212: 7516,  # Deonceşti Sat  - Com. Sohodol -> DEONCEŞTI
         213: 2201,  # Deve Sat  - Com. Albac -> DEVE
         214: 7525,  # Dilimani Sat  - Com. Sohodol -> DILIMANI
@@ -243,16 +203,18 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         219: 2728,  # Doleşti Sat  - Com. Avram Iancu -> DOLEŞTI
         220: 7909,  # Doptău Sat  - Com. Şona -> DOPTĂU
         221: 8504,  # Dos Sat  - Com. Vidra -> DOS
+        222: 4277,  # Doştat Sat  - Com. Doştat -> DOŞTAT
         224: 8513,  # Dosu Luncii Sat  - Com. Vidra -> DOSU LUNCII
         225: 8522,  # Dosu Văseşti Sat  - Com. Vidra -> DOSU VĂSEŞTI
-        222: 4277,  # Doştat Sat  - Com. Doştat -> DOŞTAT
         226: 7990,  # Draşov Sat  - Com. Şpring -> DRAŞOV
+        227: 1552,  # Dric Loc.  - Orş. Câmpeni -> DRIC
         228: 1099,  # Drâmbar Sat  - Com. Ciugud -> DRÂMBAR
         229: 8531,  # Drăgoieşti-Lunca Sat  - Com. Vidra -> DRĂGOIEŞTI-LUNCĂ
         230: 6306,  # Duduieni Sat  - Com. Poiana Vadului -> DUDUIENI
+        231: 1106,  # Limba Sat  - Com. Ciugud -> LIMBA
+        232: 1990,  # Dumbrava Sat  - Orş. Zlatna -> DUMBRAVA
         233: 7124,  # Dumbrava Sat  - Com. Săsciori -> DUMBRAVA
         234: 8194,  # Dumbrava Sat  - Com. Unirea -> DUMBRAVA
-        232: 1990,  # Dumbrava Sat  - Orş. Zlatna -> DUMBRAVA
         235: 3903,  # Dumbrăviţa Sat  - Com. Ceru-Băcăinţi -> DUMBRĂVIŢA
         236: 7008,  # Dumeşti Sat  - Com. Sălciua -> DUMEŞTI
         237: 7419,  # Dumitra Sat  - Com. Sântimbru -> DUMITRA
@@ -263,8 +225,10 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         242: 3146,  # Durăşti Sat  - Com. Bistra -> DURĂŞTI
         243: 3137,  # Dâmbureni Sat  - Com. Bistra -> DÂMBURENI
         244: 4801,  # Dârleşti Sat  - Com. Horea -> DÂRLEŞTI
+        245: 1525,  # Dănduţ Loc.  - Orş. Câmpeni -> DĂNDUŢ
         246: 6850,  # Dăroaia Sat  - Com. Roşia Montană -> DĂROAIA
         247: 7231,  # Fata-Lăzeşti Sat  - Com. Scărişoara -> FAŢA-LĂZEŞTI
+        248: 1561,  # Faţa Abrudului Loc.  - Orş. Câmpeni -> FAŢA ABRUDULUI
         249: 2452,  # Faţa Cristesei Sat  - Com. Arieşeni -> FAŢA CRISTESEI
         250: 2461,  # Faţa Lăpuşului Sat  - Com. Arieşeni -> FAŢA LĂPUŞULUI
         251: 7785,  # Faţa Pietrii Sat  - Com. Stremţ -> FAŢA PIETRII
@@ -273,10 +237,14 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         254: 2005,  # Feneş Sat  - Orş. Zlatna -> FENEŞ
         255: 3547,  # Fereşti Sat  - Com. Bucium -> FEREŞTI
         256: 4810,  # Fericet Sat  - Com. Horea -> FERICET
+        257: 1749,  # Feţeni Loc.  - Orş. Cugir -> FEŢENI
         258: 8540,  # Ficăreşti Sat  - Com. Vidra -> FICĂREŞTI
+        259: 1375,  # Fliteşti Loc.  - Mun. Blaj -> FLITEŞTI
+        260: 1570,  # Floreşti Loc.  - Orş. Câmpeni -> FLOREŞTI
+        261: 3556,  # Floreşti Sat  - Com. Bucium -> FLOREŞTI
         262: 7240,  # Floreşti Sat  - Com. Scărişoara -> FLOREŞTI
         263: 6681,  # Floreşti Sat  - Com. Râmeţ -> FLOREŞTI
-        261: 3556,  # Floreşti Sat  - Com. Bucium -> FLOREŞTI
+        264: 1589,  # Furduieşti Loc.  - Orş. Câmpeni -> FURDUIEŞTI
         265: 7534,  # Furduieşti Sat  - Com. Sohodol -> FURDUIEŞTI
         266: 3912,  # Fântânele Sat  - Com. Ceru-Băcăinţi -> FÂNTÂNELE
         267: 8372,  # Făget Sat  - Com. Valea Lungă -> FĂGET
@@ -300,15 +268,18 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         287: 8559,  # Gligoreşti Sat  - Com. Vidra -> GLIGOREŞTI
         288: 2363,  # Glod Sat  - Com. Almaşu Mare -> GLOD
         289: 8381,  # Glogoveţ Sat  - Com. Valea Lungă -> GLOGOVEŢ
+        290: 1758,  # Goaşele Loc.  - Orş. Cugir -> GOAŞELE
         291: 8568,  # Goieşti Sat  - Com. Vidra -> GOIEŞTI
         292: 2746,  # Gojeieşti Sat  - Com. Avram Iancu -> GOJEIEŞTI
         293: 3798,  # Gorgan Sat  - Com. Cenade -> GORGAN
         294: 3921,  # Groşi Sat  - Com. Ceru-Băcăinţi -> GROŞI
         295: 5327,  # Gura Arieşului Sat  - Com. Lunca Mureşului -> GURA ARIEŞULUI
+        296: 1188,  # Gura Cornei Loc.  - Orş. Abrud -> GURA CORNEI
         297: 8880,  # Gura Cuţului Sat  - Com. Vinţu de Jos -> GURA CUŢULUI
         298: 3565,  # Gura Izbitei Sat  - Com. Bucium -> GURA IZBITEI
         299: 6878,  # Gura Roşiei Sat  - Com. Roşia Montană -> GURA ROŞIEI
         300: 7543,  # Gura Sohodol Sat  - Com. Sohodol -> GURA SOHODOL
+        301: 1240,  # Gâmbaş Loc.  - Mun. Aiud -> GÂMBAŞ
         302: 4491,  # Gârbova Sat  - Com. Gârbova -> GÂRBOVA
         304: 1286,  # Gârbova de Jos Sat  - Mun. Aiud -> GÂRBOVA DE JOS
         305: 1295,  # Gârbova de Sus Sat  - Mun. Aiud -> GÂRBOVA DE SUS
@@ -335,8 +306,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         329: 3182,  # Hudriceşti Sat  - Com. Bistra -> HUDRICEŞTI
         330: 4614,  # Huzăreşti Sat  - Com. Gârda de Sus -> HUZĂREŞTI
         331: 5407,  # Hădărău Sat  - Com. Lupşa -> HĂDĂRĂU
-        333: 6333,  # Hănăşeşti Sat  - Com. Poiana Vadului -> HĂNĂŞEŞTI
         332: 4605,  # Hănăşeşti Sat  - Com. Gârda de Sus -> HANĂŞEŞTI
+        333: 6333,  # Hănăşeşti Sat  - Com. Poiana Vadului -> HĂNĂŞEŞTI
         334: 1115,  # Hăpria Sat  - Com. Ciugud -> HĂPRIA
         335: 8586,  # Hărăşti Sat  - Com. Vidra -> HĂRĂŞTI
         336: 6887,  # Iacobeşti Sat  - Com. Roşia Montană -> IACOBEŞTI
@@ -346,8 +317,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         340: 4936,  # Ighiu Sat  - Com. Ighiu -> IGHIU
         342: 6896,  # Ignăţeşti Sat  - Com. Roşia Montană -> IGNĂŢEŞTI
         343: 5023,  # Ilieşti Sat  - Com. Întregalde -> ILIEŞTI
-        345: 6495,  # Inceşti Sat  - Com. Poşaga -> INCEŞTI
         344: 2764,  # Inceşti Sat  - Com. Avram Iancu -> INCEŞTI
+        345: 6495,  # Inceşti Sat  - Com. Poşaga -> INCEŞTI
         346: 8201,  # Inoc Sat  - Com. Unirea -> INOC
         347: 8906,  # Inuri Sat  - Com. Vinţu de Jos -> INURI
         348: 5602,  # Isca Sat  - Com. Meteş -> ISCA
@@ -355,6 +326,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         350: 3583,  # Izbicioara Sat  - Com. Bucium -> IZBICIOARA
         351: 3592,  # Izbita Sat  - Com. Bucium -> IZBITA
         352: 2498,  # Izlaz Sat  - Com. Arieşeni -> IZLAZ
+        353: 1384,  # Izvoarele Loc.  - Mun. Blaj -> IZVOARELE
         354: 4623,  # Izvoarele Sat  - Com. Gârda de Sus -> IZVOARELE
         355: 5185,  # Izvoarele Sat  - Com. Livezile -> IZVOARELE
         356: 2023,  # Izvorul Ampoiului Sat  - Orş. Zlatna -> IZVORU AMPOIULUI
@@ -364,14 +336,14 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         361: 2773,  # Jojei Sat  - Com. Avram Iancu -> JOJEI
         362: 7561,  # Joldişeşti Sat  - Com. Sohodol -> JOLDIŞEŞTI
         363: 3609,  # Jurcuieşti Sat  - Com. Bucium -> JURCUIEŞTI
-        366: 8915,  # Laz Sat  - Com. Vinţu de Jos -> LAZ
+        364: 1892,  # Lancrăm Loc.  - Mun. Sebeş -> LANCRĂM
         365: 7133,  # Laz Sat  - Com. Săsciori -> LAZ
-        368: 7570,  # Lazuri Sat  - Com. Sohodol -> LAZURI
+        366: 8915,  # Laz Sat  - Com. Vinţu de Jos -> LAZ
         367: 5425,  # Lazuri Sat  - Com. Lupşa -> LAZURI
+        368: 7570,  # Lazuri Sat  - Com. Sohodol -> LAZURI
         369: 7589,  # Leheşti Sat  - Com. Sohodol -> LEHEŞTI
         370: 6565,  # Leorint Sat  - Com. Rădeşti -> LEORINŢ
         371: 7268,  # Lespezea Sat  - Com. Scărişoara -> LESPEZEA
-        231: 1106,  # Limba Sat  - Com. Ciugud -> LIMBA
         372: 3191,  # Lipaia Sat  - Com. Bistra -> LIPAIA
         373: 5176,  # Livezile Sat  - Com. Livezile -> LIVEZILE
         375: 8390,  # Lodroman Sat  - Com. Valea Lungă -> LODROMAN
@@ -379,8 +351,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         377: 5229,  # Lopadea Nouă Sat  - Com. Lopadea Nouă -> LOPADEA NOUĂ
         379: 5791,  # Lopadea Veche Sat  - Com. Mirăslău -> LOPADEA VECHE
         380: 7598,  # Lumineşti Sat  - Com. Sohodol -> LUMINEŞTI
-        382: 8611,  # Lunca Sat  - Com. Vidra -> LUNCA
         381: 8407,  # Lunca Sat  - Com. Valea Lungă -> LUNCA
+        382: 8611,  # Lunca Sat  - Com. Vidra -> LUNCA
         383: 5611,  # Lunca Ampoiţei Sat  - Com. Meteş -> LUNCA AMPOIŢEI
         384: 6501,  # Lunca Arieşului Sat  - Com. Poşaga -> LUNCA
         385: 8620,  # Lunca Bisericii Sat  - Com. Vidra -> LUNCA BISERICII
@@ -396,11 +368,11 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         396: 5434,  # Luncă Sat  - Com. Lupşa -> LUNCA
         397: 3832,  # Lupu Sat  - Com. Cergău -> LUPU
         398: 3618,  # Lupuleşti Sat  - Com. Bucium -> LUPULEŞTI
-        402: 6342,  # Lupăieşti Sat  - Com. Poiana Vadului -> LUPĂIEŞTI
         399: 5345,  # Lupşa Sat  - Com. Lupşa -> LUPŞA
         401: 4419,  # Lupşeni Sat  - Com. Galda de Jos -> LUPŞENI
-        404: 8274,  # Lăzeşti Sat  - Com. Vadu Moţilor -> LĂZEŞTI
+        402: 6342,  # Lupăieşti Sat  - Com. Poiana Vadului -> LUPĂIEŞTI
         403: 7259,  # Lăzeşti Sat  - Com. Scărişoara -> LĂZEŞTI
+        404: 8274,  # Lăzeşti Sat  - Com. Vadu Moţilor -> LĂZEŞTI
         405: 6191,  # Maghierat Sat  - Com. Ohaba -> MĂGHIERAT
         406: 7605,  # Medreşti Sat  - Com. Sohodol -> MEDREŞTI
         407: 4339,  # Medves Sat  - Com. Fărău -> MEDVEŞ
@@ -408,22 +380,27 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         409: 6574,  # Mescreac Sat  - Com. Rădeşti -> MEŞCREAC
         410: 4437,  # Mesentea Sat  - Com. Galda de Jos -> MESENTEA
         411: 5586,  # Meteş Sat  - Com. Meteş -> METEŞ
+        413: 1044,  # Miceşti Loc.  - Mun. Alba Iulia -> MICEŞTI
         414: 1847,  # Micoşlaca Sat  - Orş. Ocna Mureş -> MICOŞLACA
         415: 5719,  # Mihalţ Sat  - Com. Mihalţ -> MIHALŢ
+        417: 1598,  # Mihoeşti Loc.  - Orş. Câmpeni -> MIHOEŞTI
         418: 3226,  # Mihăieşti Sat  - Com. Bistra -> MIHĂIEŞTI
         419: 5764,  # Mirăslău Sat  - Com. Mirăslău -> MIRĂSLĂU
         421: 5050,  # Modoleşti Sat  - Com. Întregalde -> MODOLEŞTI
         422: 8666,  # Modoleşti Sat  - Com. Vidra -> MODOLEŞTI
         423: 5835,  # Mogoş Sat  - Com. Mogoş -> MOGOŞ
         425: 6351,  # Morcăneşti Sat  - Com. Poiana Vadului -> MORCĂNEŞTI
-        427: 7614,  # Morăreşti Sat  - Com. Sohodol -> MORĂREŞTI
         426: 4080,  # Morăreşti Sat  - Com. Ciuruleasa -> MORĂREŞTI
+        427: 7614,  # Morăreşti Sat  - Com. Sohodol -> MORĂREŞTI
+        428: 1605,  # Motorăşti Loc.  - Orş. Câmpeni -> MOTORĂŞTI
+        429: 1767,  # Mugeşti Loc.  - Orş. Cugir -> MUGEŞTI
         430: 2951,  # Muncelu Sat  - Orş. Baia de Arieş -> MUNCELU
         431: 7623,  # Muneşti Sat  - Com. Sohodol -> MUNEŞTI
         432: 3636,  # Muntari Sat  - Com. Bucium -> MUNTARI
         433: 4632,  # Munună Sat  - Com. Gârda de Sus -> MUNUNĂ
         434: 5461,  # Muşca Sat  - Com. Lupşa -> MUŞCA
         435: 6431,  # Măcăreşti Sat  - Com. Ponor -> MĂCĂREŞTI
+        436: 1259,  # Măgina Loc.  - Mun. Aiud -> MĂGINA
         437: 3627,  # Măgura Sat  - Com. Bucium -> MĂGURA
         438: 4428,  # Măgura Sat  - Com. Galda de Jos -> MĂGURA
         439: 8210,  # Măhăceni Sat  - Com. Unirea -> MĂHĂCENI
@@ -441,6 +418,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         451: 8924,  # Mătăcina Sat  - Com. Vinţu de Jos -> MĂTĂCINA
         452: 7277,  # Măţei Sat  - Com. Scărişoara -> MAŢEI
         453: 5069,  # Necrileşti Sat  - Com. Întregalde -> NECRILEŞTI
+        454: 2924,  # Baia de Arieş Orş.  -> BAIA DE ARIEŞ
         455: 8283,  # Necşeşti Sat  - Com. Vadu Moţilor -> NECŞEŞTI
         456: 7286,  # Negeşti Sat  - Com. Scărişoara -> NEGEŞTI
         457: 5942,  # Negreşti Sat  - Com. Mogoş -> NEGREŞTI
@@ -453,7 +431,9 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         465: 2372,  # Nădăştia Sat  - Com. Almaşu Mare -> NĂDĂŞTIA
         466: 3235,  # Nămas Sat  - Com. Bistra -> NĂMAŞ
         467: 7632,  # Năpăieşti Sat  - Com. Sohodol -> NĂPĂIEŞTI
+        468: 1053,  # Oarda Loc.  - Mun. Alba Iulia -> OARDA
         469: 5737,  # Obreja Sat  - Com. Mihalţ -> OBREJA
+        470: 1801,  # Ocna Mureş Orş.  -> OCNA MUREŞ
         471: 5283,  # Ocnişoara Sat  - Com. Lopadea Nouă -> OCNIŞOARA
         472: 4641,  # Ocoale Sat  - Com. Gârda de Sus -> OCOALE
         473: 6128,  # Ocoliş Sat  - Com. Ocoliş -> OCOLIŞ
@@ -470,15 +450,18 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         486: 2032,  # Patrângeni Sat  - Orş. Zlatna -> PĂTRÂNGENI
         487: 7669,  # Peleş Sat  - Com. Sohodol -> PELEŞ
         488: 3253,  # Perjeşti Sat  - Com. Bistra -> PERJEŞTI
+        489: 1614,  # Peste Valea Bistrii Loc.  - Orş. Câmpeni -> PESTE VALEA BISTRII
         490: 6379,  # Petelei Sat  - Com. Poiana Vadului -> PETELEI
         491: 4874,  # Petreasa Sat  - Com. Horea -> PETREASA
         492: 3645,  # Petreni Sat  - Com. Bucium -> PETRENI
+        493: 1909,  # Petreşti Loc.  - Mun. Sebeş -> PETREŞTI
+        494: 1393,  # Petrisat Loc.  - Mun. Blaj -> PETRISAT
         495: 8149,  # Peţelca Sat  - Orş. Teiuş -> PEŢELCA
         497: 6235,  # Pianu de Jos Sat  - Com. Pianu -> PIANU DE JOS
         498: 6226,  # Pianu de Sus Sat  - Com. Pianu -> PIANU DE SUS
+        499: 4231,  # Pânca Sat  - Com. Bucerdea Grânoasă -> PÂNCA
         500: 2041,  # Pirita Sat  - Orş. Zlatna -> PIRITA
         501: 8693,  # Pitărceşti Sat  - Com. Vidra -> PITĂRCEŞTI
-        549: 5470,  # Piţiga Sat  - Com. Lupşa -> PIŢIGA
         502: 2817,  # Plai Sat  - Com. Avram Iancu -> PLAI
         503: 4650,  # Plai Sat  - Com. Gârda de Sus -> PLAI
         504: 6244,  # Plaiuri Sat  - Com. Pianu -> PLAIURI
@@ -487,11 +470,12 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         507: 7151,  # Pleşi Sat  - Com. Săsciori -> PLEŞI
         508: 4669,  # Plişti Sat  - Com. Gârda de Sus -> PLIŞTI
         509: 2069,  # Podul lui Paul Sat  - Orş. Zlatna -> PODU LUI PAUL
+        510: 1623,  # Poduri Loc.  - Orş. Câmpeni -> PODURI
         511: 8292,  # Poduri-Briceşti Sat  - Com. Vadu Moţilor -> PODURI-BRICEŞTI
         512: 3271,  # Poi Sat  - Com. Bistra -> POIU
-        515: 7678,  # Poiana Sat  - Com. Sohodol -> POIANA
         513: 3262,  # Poiana Sat  - Com. Bistra -> POIANA
         514: 3654,  # Poiana Sat  - Com. Bucium -> POIANA
+        515: 7678,  # Poiana Sat  - Com. Sohodol -> POIANA
         516: 5194,  # Poiana Aiudului Sat  - Com. Livezile -> POIANA AIUDULUI
         517: 5648,  # Poiana Ampoiului Sat  - Com. Meteş -> POIANA AMPOIULUI
         518: 4455,  # Poiana Galdei Sat  - Com. Galda de Jos -> POIANA GALDEI
@@ -501,8 +485,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         523: 3663,  # Poieni Sat  - Com. Bucium -> POIENI
         524: 8719,  # Poieni Sat  - Com. Vidra -> POIENI
         525: 5960,  # Poienile-Mogoş Sat  - Com. Mogoş -> POIENILE-MOGOŞ
-        527: 8951,  # Poieniţa Sat  - Com. Vinţu de Jos -> POIENIŢA
         526: 2522,  # Poieniţa Sat  - Com. Arieşeni -> POIENIŢA
+        527: 8951,  # Poieniţa Sat  - Com. Vinţu de Jos -> POIENIŢA
         528: 6404,  # Ponor Sat  - Com. Ponor -> PONOR
         530: 8728,  # Ponorel Sat  - Com. Vidra -> PONOREL
         531: 5078,  # Popeşti Sat  - Com. Întregalde -> POPEŞTI
@@ -518,12 +502,14 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         542: 8737,  # Puiuleteşti Sat  - Com. Vidra -> PUIULEŢEŞTI
         543: 6253,  # Purcăreţi Sat  - Com. Pianu -> PURCĂREŢI
         544: 2826,  # Puşeleşti Sat  - Com. Avram Iancu -> PUŞELEŞTI
-        499: 4231,  # Pânca Sat  - Com. Bucerdea Grânoasă -> PÂNCA
+        545: 1062,  # Pâclişa Loc.  - Mun. Alba Iulia -> PÂCLIŞA
         546: 2050,  # Pârâu Gruiului Sat  - Orş. Zlatna -> PÂRĂU GRUIULUI
         547: 8942,  # Pârâu lui Mihai Sat  - Com. Vinţu de Jos -> PÂRĂU LUI MIHAI
         548: 5489,  # Pârâu-Cărbunări Sat  - Com. Lupşa -> PÂRÂU-CĂRBUNĂRI
+        549: 5470,  # Piţiga Sat  - Com. Lupşa -> PIŢIGA
         550: 4222,  # Pădure Sat  - Com. Bucerdea Grânoasă -> PĂDURE
         551: 5639,  # Pădurea Tăuţi Sat  - Com. Meteş -> PĂDUREA
+        552: 1268,  # Păgida Loc.  - Mun. Aiud -> PĂGIDA
         553: 2504,  # Pănteşti Sat  - Com. Arieşeni -> PĂNTEŞTI
         554: 4865,  # Pătruşeşti Sat  - Com. Horea -> PĂTRUŞEŞTI
         555: 2808,  # Pătruţeşti Sat  - Com. Avram Iancu -> PĂTRUŢEŞTI
@@ -539,8 +525,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         566: 2265,  # Roşeşti Sat  - Com. Albac -> ROŞEŞTI
         567: 6770,  # Roşia Montană Sat  - Com. Roşia Montană -> ROŞIA MONTANĂ
         569: 6949,  # Roşia de Secaş Sat  - Com. Roşia de Secaş -> ROŞA DE SECAŞ
-        572: 6146,  # Runc Sat  - Com. Ocoliş -> RUNC
         571: 2078,  # Runc Sat  - Orş. Zlatna -> RUNC
+        572: 6146,  # Runc Sat  - Com. Ocoliş -> RUNC
         573: 8746,  # Runc Sat  - Com. Vidra -> RUNC
         574: 7302,  # Runc Sat  - Com. Scărişoara -> RUNC
         575: 3299,  # Runcuri Sat  - Com. Bistra -> RUNCURI
@@ -557,6 +543,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         588: 2960,  # Sartăş Sat  - Orş. Baia de Arieş -> SARTĂŞ
         589: 4678,  # Scoarţa Sat  - Com. Gârda de Sus -> SCOARŢA
         590: 7204,  # Scărişoara Sat  - Com. Scărişoara -> SCĂRIŞOARA
+        592: 1883,  # Sebeş Mun.  -> SEBEŞ
         593: 7179,  # Sebeşel Sat  - Com. Săsciori -> SEBEŞEL
         594: 6208,  # Secăşel Sat  - Com. Ohaba -> SECĂŞEL
         595: 8755,  # Segaj Sat  - Com. Vidra -> SEGAJ
@@ -566,9 +553,11 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         599: 4721,  # Silivaş Sat  - Com. Hopârta -> SILIVAŞ
         600: 2979,  # Simuleşti Sat  - Orş. Baia de Arieş -> SIMULEŞTI
         601: 4696,  # Snide Sat  - Com. Gârda de Sus -> SNIDE
+        602: 1197,  # Soharu Loc.  - Orş. Abrud -> SOHARU
         603: 2283,  # Sohodol Sat  - Com. Albac -> SOHODOL
         605: 7455,  # Sohodol Sat  - Com. Sohodol -> SOHODOL
         606: 2835,  # Soiceşti Sat  - Com. Avram Iancu -> ŞOICEŞTI
+        607: 1632,  # Sorlita Loc.  - Orş. Câmpeni -> SORLIŢA
         608: 1437,  # Spătac Sat  - Mun. Blaj -> SPĂTAC
         609: 3020,  # Straja Sat  - Com. Berghin -> STRAJA
         610: 7776,  # Stremţ Sat  - Com. Stremţ -> STREMŢ
@@ -580,6 +569,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         617: 8960,  # Stăuini Sat  - Com. Vinţu de Jos -> STĂUINI
         618: 7026,  # Sub Piatra Sat  - Com. Sălciua -> SUB PIATRĂ
         619: 4687,  # Suceşti Sat  - Com. Gârda de Sus -> SUCEŞTI
+        620: 8023,  # Şugag Sat  - Com. Şugag -> ŞUGAG
         622: 7703,  # Surdeşti Sat  - Com. Sohodol -> SURDEŞTI
         623: 2096,  # Suseni Sat  - Orş. Zlatna -> SUSENI
         624: 4348,  # Sânbenedic Sat  - Com. Fărău -> SÂNBENEDIC
@@ -599,16 +589,18 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         643: 2292,  # Tamboreşti Sat  - Com. Albac -> TAMBOREŞTI
         644: 5096,  # Tecşeşti Sat  - Com. Întregalde -> TECŞEŞTI
         645: 4892,  # Teiu Sat  - Com. Horea -> TEIU
+        646: 8103,  # Teiuş Orş.  -> TEIUŞ
         647: 8103,  # Teiuş Sat  - Orş. Teiuş -> TEIUŞ
         648: 1133,  # Teleac Sat  - Com. Ciugud -> TELEAC
         649: 4179,  # Tibru Sat  - Com. Cricău -> TIBRU
+        650: 1400,  # Tiur Loc.  - Mun. Blaj -> TIUR
         651: 3324,  # Toloceşti Sat  - Com. Bistra -> TOLĂCEŞTI
         652: 5979,  # Tomeşti Sat  - Com. Mogoş -> TOMEŞTI
         653: 3333,  # Tomnatec Sat  - Com. Bistra -> TOMNATEC
+        654: 1641,  # Tomuşeşti Loc.  - Orş. Câmpeni -> TOMUŞEŞTI
         655: 8327,  # Tomuţeşti Sat  - Com. Vadu Moţilor -> TOMUŢEŞTI
         656: 7188,  # Tonea Sat  - Com. Săsciori -> TONEA
         657: 8336,  # Toteşti Sat  - Com. Vadu Moţilor -> TOŢEŞTI
-        782: 7437,  # Totoi Sat  - Com. Sântimbru -> TOTOI
         658: 4909,  # Trifeşti Sat  - Com. Horea -> TRIFEŞTI
         659: 5513,  # Trifeşti Sat  - Com. Lupşa -> TRIFEŞTI
         660: 3342,  # Trişoreşti Sat  - Com. Bistra -> TRIŞOREŞTI
@@ -623,6 +615,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         669: 8087,  # Tău Bistra Sat  - Com. Şugag -> TĂU BISTRA
         670: 8416,  # Tăuni Sat  - Com. Valea Lungă -> TĂUNI
         671: 5684,  # Tăuţi Sat  - Com. Meteş -> TĂUŢI
+        672: 1810,  # Uioara de Jos Loc.  - Orş. Ocna Mureş -> UIOARA DE JOS
+        673: 1829,  # Uioara de Sus Loc.  - Orş. Ocna Mureş -> UIOARA DE SUS
         674: 6967,  # Ungurei Sat  - Com. Roşia de Secaş -> UNGUREI
         676: 8167,  # Unirea Sat  - Com. Unirea -> UNIREA
         677: 8764,  # Urdeş Sat  - Com. Vidra -> URDEŞ
@@ -631,8 +625,10 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         681: 3681,  # Valea Abruzel Sat  - Com. Bucium -> VALEA ABRUZEL
         682: 3690,  # Valea Alba Sat  - Com. Bucium -> VALEA ALBĂ
         683: 5997,  # Valea Barnii Sat  - Com. Mogoş -> VALEA BARNII
+        684: 1650,  # Valea Bistrii Loc.  - Orş. Câmpeni -> VALEA BISTRII
         685: 6440,  # Valea Bucurului Sat  - Com. Ponor -> VALEA BUCURULUI
         686: 5988,  # Valea Bârluţeşti Sat  - Com. Mogoş -> VALEA BÂRLUŢEŞTI
+        687: 1669,  # Valea Caselor Loc.  - Orş. Câmpeni -> VALEA CASELOR
         688: 3707,  # Valea Cerbului Sat  - Com. Bucium -> VALEA CERBULUI
         689: 6100,  # Valea Ciuciului Sat  - Com. Noşlac -> VALEA CIUCIULUI
         690: 6002,  # Valea Coceşti Sat  - Com. Mogoş -> VALEA COCEŞTI
@@ -651,8 +647,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         704: 8773,  # Valea Morii Sat  - Com. Vidra -> VALEA MORII
         705: 6725,  # Valea Mănăstirii Sat  - Com. Râmeţ -> VALEA MĂNĂSTIRII
         706: 3716,  # Valea Negrilesii Sat  - Com. Bucium -> VALEA NEGRILESII
-        708: 6734,  # Valea Poienii Sat  - Com. Râmeţ -> VALEA POIENII
         707: 3725,  # Valea Poienii Sat  - Com. Bucium -> VALEA POIENII
+        708: 6734,  # Valea Poienii Sat  - Com. Râmeţ -> VALEA POIENII
         709: 7936,  # Valea Sasului Sat  - Com. Şona -> VALEA SASULUI
         710: 6743,  # Valea Uzei Sat  - Com. Râmeţ -> VALEA UZEI
         711: 2880,  # Valea Uţului Sat  - Com. Avram Iancu -> VALEA UŢULUI
@@ -666,10 +662,12 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         719: 2568,  # Vanvuceşti Sat  - Com. Arieşeni -> VANVUCEŞTI
         720: 2899,  # Verdeşti Sat  - Com. Avram Iancu -> VERDEŞTI
         721: 5158,  # Veseuş Sat  - Com. Jidvei -> VESEUŞ
+        722: 1419,  # Veza Loc.  - Mun. Blaj -> VEZA
         723: 6155,  # Vidolm Sat  - Com. Ocoliş -> VIDOLM
         724: 8434,  # Vidra Sat  - Com. Vidra -> VIDRA
         726: 2906,  # Vidrişoara Sat  - Com. Avram Iancu -> VIDRIŞOARA
         727: 3949,  # Viezuri Sat  - Com. Ceru-Băcăinţi -> VIEZURI
+        728: 1776,  # Vinerea Loc.  - Orş. Cugir -> VINEREA
         729: 8005,  # Vingard Sat  - Com. Şpring -> VINGARD
         730: 5568,  # Vinţa Sat  - Com. Lupşa -> VINŢA
         731: 8835,  # Vinţu de Jos Sat  - Com. Vinţu de Jos -> VINŢU DE JOS
@@ -680,10 +678,11 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         737: 3752,  # Vâlcea Sat  - Com. Bucium -> VÂLCEA
         738: 8808,  # Vâlceşti Sat  - Com. Vidra -> VÂLCEŞTI
         739: 8791,  # Vâlcăneasa Sat  - Com. Vidra -> VÂLCĂNEASA
-        741: 8345,  # Vâltori Sat  - Com. Vadu Moţilor -> VÂLTORI
         740: 2121,  # Vâltori Sat  - Orş. Zlatna -> VÂLTORI
+        741: 8345,  # Vâltori Sat  - Com. Vadu Moţilor -> VÂLTORI
         742: 6921,  # Vârtop Sat  - Com. Roşia Montană -> VÂRTOP
         743: 8817,  # Vârtăneşti Sat  - Com. Vidra -> VÂRTĂNEŞTI
+        744: 1678,  # Vârşi Loc.  - Orş. Câmpeni -> VÂRŞI
         745: 3360,  # Vârşi-Rontu Sat  - Com. Bistra -> VÂRŞI-RONTU
         746: 3379,  # Vârşii Mari Sat  - Com. Bistra -> VÂRŞII MARI
         747: 3388,  # Vârşii Mici Sat  - Com. Bistra -> VÂRŞII MICI
@@ -692,10 +691,10 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         750: 5693,  # Văleni Sat  - Com. Meteş -> VĂLENI
         751: 5201,  # Vălişoara Sat  - Com. Livezile -> VĂLIŞOARA
         752: 8782,  # Văseşti Sat  - Com. Vidra -> VĂSEŞTI
+        753: 1945,  # Zlatna Orş.  -> ZLATNA
         754: 4918,  # Zânzeşti Sat  - Com. Horea -> ZÂNZEŞTI
         755: 4473,  # Zăgriş Sat  - Com. Galda de Jos -> ZĂGRIŞ
         756: 5746,  # Zărieş Sat  - Com. Mihalţ -> ZĂRIEŞ
-        776: 4990,  # Întregalde Sat  - Com. Întregalde -> ÎNTREGALDE
         757: 4963,  # Şard Sat  - Com. Ighiu -> ŞARD
         758: 5504,  # Şasa Sat  - Com. Lupşa -> ŞASA
         759: 7712,  # Şebişeşti Sat  - Com. Sohodol -> SEBIŞEŞTI
@@ -712,26 +711,15 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         773: 2559,  # Ştei-Arieşeni Sat  - Com. Arieşeni -> ŞTEI-ARIEŞENI
         774: 2844,  # Şterteşti Sat  - Com. Avram Iancu -> ŞTERTEŞTI
         775: 7320,  # Ştiuleţi Sat  - Com. Scărişoara -> ŞTIULEŢI
-        620: 8023,  # Şugag Sat  - Com. Şugag -> ŞUGAG
+        776: 4990,  # Întregalde Sat  - Com. Întregalde -> ÎNTREGALDE
         778: 6912,  # Ţarina Sat  - Com. Roşia Montană -> ŢARINA
         779: 4972,  # Ţelna Sat  - Com. Ighiu -> ŢELNA
         780: 1320,  # Ţifra Sat  - Mun. Aiud -> ŢIFRA
         781: 7730,  # Ţoci Sat  - Com. Sohodol -> ŢOCI
+        782: 7437,  # Totoi Sat  - Com. Sântimbru -> TOTOI
         783: 3351,  # Ţărăneşti Sat  - Com. Bistra -> ŢĂRĂNEŞTI
     },
     2: {  # ARAD
-        231: 9592,  # Radna Loc.  - Orş. Lipova -> RADNA
-        346: 9609,  # Şoimoş Loc.  - Orş. Lipova -> ŞOIMOŞ
-        12: 9271,  # Arad Mun.  -> ARAD
-        68: 9468,  # Chişineu-Criş Orş.  -> CHIŞINEU-CRIŞ
-        91: 9501,  # Curtici Orş.  -> CURTICI
-        149: 9547,  # Ineu Orş.  -> INEU
-        162: 9583,  # Lipova Orş.  -> LIPOVA
-        202: 9636,  # Nădlac Orş.  -> NĂDLAC
-        212: 11593,  # Pecica Orş.  -> PECICA
-        226: 9663,  # Pâncota Orş.  -> PÂNCOTA
-        243: 9707,  # Sebiş Orş.  -> SEBIŞ
-        272: 12108,  # Sântana Orş.  -> SÂNTANA
         1: 11780,  # Aciuţa Sat  - Com. Pleşcuţa -> ACIUŢA
         2: 12073,  # Adea Sat  - Com. Sintea Mare -> ADEA
         3: 12527,  # Agrişu Mare Sat  - Com. Târnova -> AGRIŞU MARE
@@ -741,10 +729,11 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         8: 9306,  # Aluniş Sat  - Com. Frumuşeni -> ALUNIŞ
         9: 12894,  # Andrei Şaguna Sat  - Com. Zimandu Nou -> ANDREI ŞAGUNA
         10: 9805,  # Apateu Sat  - Com. Apateu -> APATEU
+        12: 9271,  # Arad Mun.  -> ARAD
         13: 9841,  # Archiş Sat  - Com. Archiş -> ARCHIŞ
         15: 12536,  # Arăneag Sat  - Com. Târnova -> ARĂNEAG
-        17: 12705,  # Avram Iancu Sat  - Com. Vârfurile -> AVRAM IANCU
         16: 10391,  # Avram Iancu Sat  - Com. Cermei -> AVRAM IANCU
+        17: 12705,  # Avram Iancu Sat  - Com. Vârfurile -> AVRAM IANCU
         18: 9903,  # Bacău de Mijloc Sat  - Com. Bata -> BACĂU DE MIJLOC
         19: 12590,  # Baia Sat  - Com. Vărădia de Mureş -> BAIA
         20: 11557,  # Baraţca Sat  - Com. Păuliş -> BARAŢCA
@@ -777,12 +766,14 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         55: 10122,  # Bătuţa Sat  - Com. Bârzava -> BĂTUŢA
         56: 12304,  # Camna Sat  - Com. Şilindia -> CAMNA
         57: 12117,  # Caporal Alexa Sat  - Orş. Sântana -> CAPORAL ALEXA
+        58: 10355,  # Cărand Sat  - Com. Cărand -> CĂRAND
         60: 10382,  # Cermei Sat  - Com. Cermei -> CERMEI
         62: 10480,  # Chelmac Sat  - Com. Conop -> CHELMAC
         63: 12260,  # Chereluş Sat  - Com. Şicula -> CHERELUŞ
         64: 12796,  # Chesint Sat  - Com. Zăbrani -> CHESINŢ
         65: 12545,  # Chier Sat  - Com. Târnova -> CHIER
         66: 10426,  # Chisindia Sat  - Com. Chisindia -> CHISINDIA
+        68: 9468,  # Chişineu-Criş Orş.  -> CHIŞINEU-CRIŞ
         69: 10550,  # Chişlaca Sat  - Com. Craiva -> CHIŞLACA
         70: 9413,  # Cicir Sat  - Com. Vladimirescu -> CICIR
         71: 9761,  # Cil Sat  - Com. Almaş -> CIL
@@ -802,13 +793,13 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         88: 12162,  # Cruceni Sat  - Com. Şagu -> CRUCENI
         89: 11879,  # Cuiaş Sat  - Com. Săvârşin -> CUIAŞ
         90: 10328,  # Cuied Sat  - Com. Buteni -> CUIED
+        91: 9501,  # Curtici Orş.  -> CURTICI
         92: 12420,  # Cuveşdia Sat  - Com. Şiştarovăţ -> CUVEŞDIA
         93: 10890,  # Cuvin Sat  - Com. Ghioroc -> CUVIN
         94: 10854,  # Călugăreni Sat  - Com. Felnac -> CĂLUGĂRENI
         95: 11860,  # Căprioara Sat  - Com. Săvârşin -> CĂPRIOARA
         96: 10131,  # Căpruţa Sat  - Com. Bârzava -> CĂPRUŢA
         97: 10024,  # Căpâlnaş Sat  - Com. Birchiş -> CĂPĂLNAŞ
-        58: 10355,  # Cărand Sat  - Com. Cărand -> CĂRAND
         98: 10658,  # Dezna Sat  - Com. Dezna -> DEZNA
         100: 10710,  # Dieci Sat  - Com. Dieci -> DIECI
         102: 9716,  # Donceni Sat  - Orş. Sebiş -> DONCENI
@@ -848,6 +839,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         145: 12867,  # Iermata Neagră Sat  - Com. Zerind -> IERMATA NEAGRĂ
         147: 11316,  # Igneşti Sat  - Com. Igneşti -> IGNEŞTI
         148: 11691,  # Ilteu Sat  - Com. Petriş -> ILTEU
+        149: 9547,  # Ineu Orş.  -> INEU
         150: 11110,  # Ioneşti Sat  - Com. Hălmagiu -> IONEŞTI
         151: 11003,  # Iosaş Sat  - Com. Gurahonţ -> IOSAŞ
         153: 11361,  # Iratosu Sat  - Com. Iratosu -> IRATOŞU
@@ -859,8 +851,10 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         159: 12723,  # Lazuri Sat  - Com. Vârfurile -> LAZURI
         160: 11129,  # Leasa Sat  - Com. Hălmagiu -> LEASA
         161: 11138,  # Leştioara Sat  - Com. Hălmagiu -> LEŞTIOARA
+        162: 9583,  # Lipova Orş.  -> LIPOVA
         163: 9342,  # Livada Sat  - Com. Livada -> LIVADA
         165: 12322,  # Luguzău Sat  - Com. Şilindia -> LUGUZĂU
+        166: 9976,  # Vasile Goldiş Sat  - Com. Beliu -> VASILE GOLDIŞ
         167: 11192,  # Luncşoara Sat  - Com. Hălmăgel -> LUNCŞOARA
         168: 12616,  # Lupeşti Sat  - Com. Vărădia de Mureş -> LUPEŞTI
         169: 11405,  # Macea Sat  - Com. Macea -> MACEA
@@ -893,12 +887,16 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         199: 12803,  # Neudorf Sat  - Com. Zăbrani -> NEUDORF
         200: 12625,  # Nicolae Bălcescu Sat  - Com. Vărădia de Mureş -> NICOLAE BĂLCESCU
         201: 9477,  # Nădab Sat  - Orş. Chişineu-Criş -> NĂDAB
+        202: 9636,  # Nădlac Orş.  -> NĂDLAC
         203: 11334,  # Nădălbeşti Sat  - Com. Igneşti -> NĂDĂLBEŞTI
         204: 11708,  # Obârşia Sat  - Com. Petriş -> OBÂRŞIA
         205: 10505,  # Odvoş Sat  - Com. Conop -> ODVOŞ
         206: 11511,  # Olari Sat  - Com. Olari -> OLARI
         208: 10033,  # Ostrov Sat  - Com. Birchiş -> OSTROV
+        209: 10435,  # Păiuşeni Sat  - Com. Chisindia -> PĂIUŞENI
+        210: 10337,  # Păulian Sat  - Com. Buteni -> PĂULIAN
         211: 11593,  # Pecica Sat  - Orş. Pecica -> PECICA
+        212: 11593,  # Pecica Orş.  -> PECICA
         213: 11646,  # Peregu Mare Sat  - Com. Peregu Mare -> PEREGU MARE
         215: 11655,  # Peregu Mic Sat  - Com. Peregu Mare -> PEREGU MIC
         216: 11021,  # Pescari Sat  - Com. Gurahonţ -> PESCARI
@@ -908,11 +906,11 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         223: 12750,  # Poiana Sat  - Com. Vârfurile -> POIANA
         224: 11147,  # Poienari Sat  - Com. Hălmagiu -> POIENARI
         225: 9725,  # Prunişor Sat  - Orş. Sebiş -> PRUNIŞOR
+        226: 9663,  # Pâncota Orş.  -> PÂNCOTA
         227: 11897,  # Pârneşti Sat  - Com. Săvârşin -> PÂRNEŞTI
-        209: 10435,  # Păiuşeni Sat  - Com. Chisindia -> PĂIUŞENI
         228: 10792,  # Pătârs Sat  - Com. Ususău -> PĂTÂRŞ
-        210: 10337,  # Păulian Sat  - Com. Buteni -> PĂULIAN
         229: 11548,  # Păuliş Sat  - Com. Păuliş -> PĂULIŞ
+        231: 9592,  # Radna Loc.  - Orş. Lipova -> RADNA
         232: 10747,  # Revetiş Sat  - Com. Dieci -> REVETIŞ
         233: 10596,  # Rogoz de Beliu Sat  - Com. Craiva -> ROGOZ DE BELIU
         234: 11824,  # Rostoci Sat  - Com. Pleşcuţa -> ROSTOCI
@@ -924,6 +922,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         240: 11977,  # Satu Mare Sat  - Com. Secusigiu -> SATU MARE
         241: 12331,  # Satu Mic Sat  - Com. Şilindia -> SATU MIC
         242: 11441,  # Satu Nou Sat  - Com. Mişca -> SATU NOU
+        243: 9707,  # Sebiş Orş.  -> SEBIŞ
         244: 9985,  # Secaci Sat  - Com. Beliu -> SECACI
         245: 10284,  # Secaş Sat  - Com. Brazii -> SECAŞ
         246: 11959,  # Secusigiu Sat  - Com. Secusigiu -> SECUSIGIU
@@ -941,13 +940,13 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         263: 12634,  # Stejar Sat  - Com. Vărădia de Mureş -> STEJAR
         264: 10603,  # Stoineşti Sat  - Com. Craiva -> STOINEŞTI
         265: 10612,  # Susag Sat  - Com. Craiva -> SUSAG
-        347: 11343,  # Susani Sat  - Com. Igneşti -> SUSANI
         266: 11575,  # Sâmbăteni Sat  - Com. Păuliş -> SÂMBĂTENI
         267: 9351,  # Sânleani Sat  - Com. Livada -> SÂNLEANI
         268: 11414,  # Sânmartin Sat  - Com. Macea -> SÂNMARTIN
         269: 9388,  # Sânpaul Sat  - Com. Şofronea -> SÂNPAUL
         270: 11986,  # Sânpetru German Sat  - Com. Secusigiu -> SÂNPETRU GERMAN
         271: 12108,  # Sântana Sat  - Orş. Sântana -> SÂNTANA
+        272: 12108,  # Sântana Orş.  -> SÂNTANA
         273: 11209,  # Sârbi Sat  - Com. Hălmăgel -> SÂRBI
         274: 9734,  # Sălăjeni Sat  - Orş. Sebiş -> SĂLĂJENI
         275: 11851,  # Săvârşin Sat  - Com. Săvârşin -> SĂVÂRŞIN
@@ -956,6 +955,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         280: 11156,  # Tisa Sat  - Com. Hălmagiu -> TISA
         281: 9324,  # Tisa Nouă Sat  - Com. Fântânele -> TISA NOUĂ
         282: 11913,  # Toc Sat  - Com. Săvârşin -> TOC
+        283: 11227,  # Ţoheşti Sat  - Com. Hălmăgel -> ŢOHEŞTI
         284: 11922,  # Troaş Sat  - Com. Săvârşin -> TROAŞ
         285: 11628,  # Turnu Sat  - Orş. Pecica -> TURNU
         286: 11218,  # Târnaviţa Sat  - Com. Hălmăgel -> TÂRNĂVIŢA
@@ -970,7 +970,6 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         296: 11370,  # Variaşu Mare Sat  - Com. Iratosu -> VARIAŞU MARE
         297: 11389,  # Variaşu Mic Sat  - Com. Iratosu -> VARIAŞU MIC
         298: 12448,  # Varniţa Sat  - Com. Şiştarovăţ -> VARNIŢA
-        166: 9976,  # Vasile Goldiş Sat  - Com. Beliu -> VASILE GOLDIŞ
         299: 12769,  # Vidra Sat  - Com. Vârfurile -> VIDRA
         300: 12652,  # Vinga Sat  - Com. Vinga -> VINGA
         302: 10042,  # Virişmort Sat  - Com. Birchiş -> VIRISMORT
@@ -978,8 +977,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         305: 10097,  # Voivodeni Sat  - Com. Bârsa -> VOIVODENI
         306: 11450,  # Vânători Sat  - Com. Mişca -> VÂNĂTORI
         307: 12698,  # Vârfurile Sat  - Com. Vârfurile -> VÂRFURILE
-        310: 12581,  # Vărădia de Mureş Sat  - Com. Vărădia de Mureş -> VĂRĂDIA DE MUREŞ
         309: 11753,  # Vărşand Sat  - Com. Pilu -> VĂRŞAND
+        310: 12581,  # Vărădia de Mureş Sat  - Com. Vărădia de Mureş -> VĂRĂDIA DE MUREŞ
         312: 10444,  # Văsoaia Sat  - Com. Chisindia -> VĂSOAIA
         313: 12858,  # Zerind Sat  - Com. Zerind -> ZERIND
         315: 11469,  # Zerindu Mic Sat  - Com. Mişca -> ZERINDU MIC
@@ -1001,22 +1000,13 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         340: 12377,  # Şiria Sat  - Com. Şiria -> ŞIRIA
         342: 12411,  # Şiştarovăţ Sat  - Com. Şiştarovăţ -> ŞIŞTAROVĂŢ
         344: 9379,  # Şofronea Sat  - Com. Şofronea -> ŞOFRONEA
+        346: 9609,  # Şoimoş Loc.  - Orş. Lipova -> ŞOIMOŞ
+        347: 11343,  # Susani Sat  - Com. Igneşti -> SUSANI
         348: 9921,  # Ţela Sat  - Com. Bata -> ŢELA
         349: 12082,  # Ţipar Sat  - Com. Sintea Mare -> ŢIPAR
-        283: 11227,  # Ţoheşti Sat  - Com. Hălmăgel -> ŢOHEŞTI
         350: 11165,  # Ţărmure Sat  - Com. Hălmagiu -> ŢĂRMURE
     },
     3: {  # ARGEŞ
-        379: 13310,  # Mioveni Loc.  - Orş. Mioveni -> MIOVENI
-        448: 13711,  # Podu Broşteni Loc.  - Orş. Costeşti -> PODU BROŞTENI
-        620: 13515,  # Valea Rumăneştilor Loc.  - Mun. Câmpulung -> VALEA RUMÂNEŞTILOR
-        443: 13178,  # Piteşti Mun.  -> PITEŞTI
-        202: 13631,  # Curtea de Argeş Mun.  -> CURTEA DE ARGEŞ
-        204: 13506,  # Câmpulung Mun.  -> CÂMPULUNG
-        180: 13677,  # Costeşti Orş.  -> COSTEŞTI
-        380: 13310,  # Mioveni Orş.  -> MIOVENI
-        572: 13766,  # Topoloveni Orş.  -> TOPOLOVENI
-        670: 13409,  # Ştefăneşti Orş.  -> ŞTEFĂNEŞTI
         1: 18180,  # Adunaţi Sat  - Com. Râca -> ADUNAŢI
         2: 14478,  # Afrimeşti Sat  - Com. Bârla -> AFRIMEŞTI
         3: 13917,  # Albeşti Sat  - Com. Albeştii de Muşcel -> ALBEŞTI
@@ -1033,7 +1023,6 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         19: 14209,  # Argeşani Sat  - Com. Băiculeşti -> ARGEŞANI
         20: 13383,  # Argeşelu Sat  - Com. Mărăcineni -> ARGEŞELU
         21: 17593,  # Babaroaga Sat  - Com. Mozăceni -> BABAROAGA
-        113: 14691,  # Balabani Sat  - Com. Boteni -> BALABANI
         22: 16775,  # Baloteasca Sat  - Com. Leordeni -> BALOTEASCA
         23: 13196,  # Bascov Sat  - Com. Bascov -> BASCOV
         25: 16007,  # Bascovele Sat  - Com. Cotmeana -> BASCOVELE
@@ -1042,6 +1031,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         29: 14414,  # Berevoeşti Sat  - Com. Berevoeşti -> BEREVOEŞTI
         31: 15769,  # Berindeşti Sat  - Com. Corbeni -> BERINDEŞTI
         32: 13542,  # Bilceşti Sat  - Com. Valea Mare Pravăţ -> BILCEŞTI
+        33: 19294,  # Bârseştii de Jos Sat  - Com. Tigveni -> BÂRSEŞTII DE JOS
+        34: 19301,  # Bârseştii de Sus Sat  - Com. Tigveni -> BÂRSEŞTII DE SUS
         35: 19310,  # Blaju Sat  - Com. Tigveni -> BLAJU
         36: 19828,  # Blejani Sat  - Com. Vedea -> BLEJANI
         37: 14593,  # Bogaţi Sat  - Com. Bogaţi -> BOGAŢI
@@ -1056,7 +1047,6 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         49: 13775,  # Boţârcani Sat  - Orş. Topoloveni -> BOŢÂRCANI
         50: 14496,  # Brabeţi Sat  - Com. Bârla -> BRABEŢI
         51: 13285,  # Bradu Sat  - Com. Bradu -> BRADU
-        62: 19436,  # Braniştea Sat  - Com. Uda -> BRANIŞTEA
         53: 14423,  # Bratia Sat  - Com. Berevoeşti -> BRATIA
         54: 15581,  # Bratia Sat  - Com. Ciomăgeşti -> BRATIA
         55: 13686,  # Broşteni Sat  - Orş. Costeşti -> BROŞTENI
@@ -1065,6 +1055,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         58: 14780,  # Brădetu Sat  - Com. Brăduleţ -> BRĂDETU
         59: 14762,  # Brăduleţ Sat  - Com. Brăduleţ -> BRĂDULEŢ
         61: 13203,  # Brăileni Sat  - Com. Bascov -> BRĂILENI
+        62: 19436,  # Braniştea Sat  - Com. Uda -> BRANIŞTEA
         63: 17138,  # Brăteasca Sat  - Com. Merişani -> BRĂTEASCA
         64: 13846,  # Brăteşti Sat  - Com. Albeştii de Argeş -> BRĂTEŞTI
         65: 18199,  # Bucov Sat  - Com. Râca -> BUCOV
@@ -1091,14 +1082,12 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         89: 14469,  # Bârla Sat  - Com. Bârla -> BÂRLA
         91: 17744,  # Bârlogu Sat  - Com. Negraşi -> BÂRLOGU
         92: 14600,  # Bârloi Sat  - Com. Bogaţi -> BÂRLOI
-        33: 19294,  # Bârseştii de Jos Sat  - Com. Tigveni -> BÂRSEŞTII DE JOS
-        34: 19301,  # Bârseştii de Sus Sat  - Com. Tigveni -> BÂRSEŞTII DE SUS
         93: 16677,  # Bârzeşti Sat  - Com. Vultureşti -> BÂRZEŞTI
         94: 14094,  # Băbana Sat  - Com. Băbana -> BĂBANA
         96: 16524,  # Băceşti Sat  - Com. Drăganu -> BĂCEŞTI
         97: 18876,  # Bădeni Sat  - Com. Stoeneşti -> BĂDENI
-        99: 17879,  # Bădeşti Sat  - Com. Pietroşani -> BĂDEŞTI
         98: 14487,  # Bădeşti Sat  - Com. Bârla -> BĂDEŞTI
+        99: 17879,  # Bădeşti Sat  - Com. Pietroşani -> BĂDEŞTI
         100: 19819,  # Bădicea Sat  - Com. Vedea -> BĂDICEA
         101: 19711,  # Bădila Sat  - Com. Valea Iaşului -> BĂDILA
         102: 19267,  # Bădislava Sat  - Com. Tigveni -> BĂDISLAVA
@@ -1110,6 +1099,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         109: 14281,  # Bălileşti Sat  - Com. Bălileşti -> BĂLILEŞTI
         110: 19276,  # Bălileşti Sat  - Com. Tigveni -> BĂLILEŞTI
         112: 19285,  # Bălteni Sat  - Com. Tigveni -> BĂLTENI
+        113: 14691,  # Balabani Sat  - Com. Boteni -> BALABANI
         114: 16150,  # Bălţata Sat  - Com. Cuca -> BĂLŢATA
         115: 19659,  # Băniceşti Sat  - Com. Valea Danului -> BĂNICEŞTI
         116: 18607,  # Bănăreşti Sat  - Com. Săpata -> BĂNĂREŞTI
@@ -1120,10 +1110,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         121: 15466,  # Bărăşti Sat  - Com. Cicăneşti -> BĂRĂŞTI
         122: 17511,  # Bătrâni Sat  - Com. Moşoaia -> BĂTRÂNI
         123: 14888,  # Caloteşti Sat  - Com. Budeasa -> CALOTEŞTI
-        125: 17147,  # Capu Piscului Sat  - Com. Merişani -> CAPU PISCULUI
         124: 16588,  # Capu Piscului Sat  - Com. Godeni -> CAPU PISCULUI
-        216: 16971,  # Catane Sat  - Com. Lunca Corbului -> CATANE
-        217: 15251,  # Catanele Sat  - Com. Căteasca -> CATANELE
+        125: 17147,  # Capu Piscului Sat  - Com. Merişani -> CAPU PISCULUI
         126: 17931,  # Ceaureşti Sat  - Com. Poienarii de Argeş -> CEAUREŞTI
         127: 17842,  # Ceauşeşti Sat  - Com. Oarja -> CEAUŞEŞTI
         129: 18055,  # Cepari Sat  - Com. Poiana Lacului -> CEPARI
@@ -1137,8 +1125,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         138: 19043,  # Chiriţeşti Sat  - Com. Suseni -> CHIRIŢEŞTI
         139: 19846,  # Chiriţeşti Sat  - Com. Vedea -> CHIRIŢEŞTI
         140: 19445,  # Chiriţeşti Sat  - Com. Uda -> CHIRIŢEŞTI
-        142: 19855,  # Chiţani Sat  - Com. Vedea -> CHIŢANI
         141: 14628,  # Chiţeşti Sat  - Com. Bogaţi -> CHIŢEŞTI
+        142: 19855,  # Chiţani Sat  - Com. Vedea -> CHIŢANI
         144: 15457,  # Cicăneşti Sat  - Com. Cicăneşti -> CICĂNEŞTI
         145: 16980,  # Cieşti Sat  - Com. Lunca Corbului -> CIEŞTI
         146: 16631,  # Ciobani Sat  - Com. Hârseşti -> CIOBANI
@@ -1168,7 +1156,9 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         175: 15858,  # Corbşori Sat  - Com. Corbi -> CORBŞORI
         176: 14986,  # Cornăţel Sat  - Com. Buzoeşti -> CORNĂŢEL
         177: 14799,  # Cosaci Sat  - Com. Brăduleţ -> COSACI
+        178: 15279,  # Coşeri Sat  - Com. Căteasca -> COŞERI
         179: 16025,  # Costeşti Sat  - Com. Cotmeana -> COSTEŞTI
+        180: 13677,  # Costeşti Orş.  -> COSTEŞTI
         181: 17646,  # Costeşti-Vâlsan Sat  - Com. Muşăteşti -> COSTEŞTI-VÂLSAN
         182: 18705,  # Costiţă Sat  - Com. Schitu Goleşti -> COSTIŢĂ
         183: 20019,  # Coteasca Sat  - Com. Vlădeşti -> COTEASCA
@@ -1177,10 +1167,9 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         186: 15992,  # Cotmeana Sat  - Com. Cotmeana -> COTMEANA
         187: 18965,  # Cotmeana Sat  - Com. Stolnici -> COTMEANA
         189: 14129,  # Cotmeniţa Sat  - Com. Băbana -> COTMENIŢA
-        191: 19454,  # Cotu Sat  - Com. Uda -> COTU
         190: 16187,  # Cotu Sat  - Com. Cuca -> COTU
+        191: 19454,  # Cotu Sat  - Com. Uda -> COTU
         192: 16846,  # Cotu Malului Sat  - Com. Leordeni -> COTU MALULUI
-        178: 15279,  # Coşeri Sat  - Com. Căteasca -> COŞERI
         193: 15910,  # Coşeşti Sat  - Com. Coşeşti -> COŞEŞTI
         195: 13784,  # Crinteşti Sat  - Orş. Topoloveni -> CRINTEŞTI
         196: 16196,  # Crivăţu Sat  - Com. Cuca -> CRIVĂŢU
@@ -1188,7 +1177,9 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         198: 17156,  # Crâmpotani Sat  - Com. Merişani -> CRÂMPOTANI
         199: 16141,  # Cuca Sat  - Com. Cuca -> CUCA
         201: 15607,  # Cungrea Sat  - Com. Ciomăgeşti -> CUNGREA
+        202: 13631,  # Curtea de Argeş Mun.  -> CURTEA DE ARGEŞ
         203: 14995,  # Curteanca Sat  - Com. Buzoeşti -> CURTEANCA
+        204: 13506,  # Câmpulung Mun.  -> CÂMPULUNG
         205: 13926,  # Cândeşti Sat  - Com. Albeştii de Muşcel -> CÂNDEŞTI
         206: 16178,  # Cârceşti Sat  - Com. Cuca -> CÂRCEŞTI
         207: 16837,  # Cârciumăreşti Sat  - Com. Leordeni -> CÂRCIUMĂREŞTI
@@ -1198,6 +1189,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         213: 14058,  # Căpăţânenii Pământeni Sat  - Com. Arefu -> CĂPĂŢÂNENII PĂMÂNTENI
         214: 14076,  # Căpăţânenii Ungureni Sat  - Com. Arefu -> CĂPĂŢÂNENII UNGURENI
         215: 15331,  # Cărpeniş Sat  - Com. Cepari -> CĂRPENIŞ
+        216: 16971,  # Catane Sat  - Com. Lunca Corbului -> CATANE
+        217: 15251,  # Catanele Sat  - Com. Căteasca -> CATANELE
         219: 15242,  # Căteasca Sat  - Com. Căteasca -> CĂTEASCA
         220: 18046,  # Cătunaşi Sat  - Com. Poiana Lacului -> CĂTUNAŞI
         221: 16294,  # Davideşti Sat  - Com. Davideşti -> DAVIDEŞTI
@@ -1209,10 +1202,10 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         228: 18796,  # Dealu Frumos Sat  - Com. Stâlpeni -> DEALU FRUMOS
         229: 17450,  # Dealu Obejdeanului Sat  - Com. Morăreşti -> DEALU OBEJDEANULUI
         230: 18064,  # Dealu Oraşului Sat  - Com. Poiana Lacului -> DEALU ORAŞULUI
-        232: 19472,  # Dealu Tolcesii Sat  - Com. Uda -> DEALU TOLCESII
-        234: 18073,  # Dealu Viilor Sat  - Com. Poiana Lacului -> DEALU VIILOR
-        233: 17539,  # Dealu Viilor Sat  - Com. Moşoaia -> DEALU VIILOR
         231: 16034,  # Dealul Pădurii Sat  - Com. Cotmeana -> DEALU PĂDURII
+        232: 19472,  # Dealu Tolcesii Sat  - Com. Uda -> DEALU TOLCESII
+        233: 17539,  # Dealu Viilor Sat  - Com. Moşoaia -> DEALU VIILOR
+        234: 18073,  # Dealu Viilor Sat  - Com. Poiana Lacului -> DEALU VIILOR
         235: 17441,  # Deduleşti Sat  - Com. Morăreşti -> DEDULEŞTI
         236: 19481,  # Diconeşti Sat  - Com. Uda -> DICONEŞTI
         237: 19873,  # Dincani Sat  - Com. Vedea -> DINCANI
@@ -1247,19 +1240,20 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         272: 13560,  # Fântânea Sat  - Com. Valea Mare Pravăţ -> FÂNTÂNEA
         273: 15705,  # Făcăleţeşti Sat  - Com. Cocu -> FĂCĂLEŢEŞTI
         274: 13347,  # Făgetu Sat  - Orş. Mioveni -> FĂGETU
+        275: 14897,  # Gălăşeşti Sat  - Com. Budeasa -> GĂLĂŞEŞTI
         276: 14806,  # Galeşu Sat  - Com. Brăduleţ -> GALEŞU
         277: 13294,  # Geamăna Sat  - Com. Bradu -> GEAMĂNA
         278: 15634,  # Giuclani Sat  - Com. Ciomăgeşti -> GIUCLANI
         279: 19132,  # Glavacioc Sat  - Com. Ştefan cel Mare -> GLAVACIOC
         280: 18493,  # Gliganu de Jos Sat  - Com. Rociu -> GLIGANU DE JOS
         281: 18509,  # Gliganu de Sus Sat  - Com. Rociu -> GLIGANU DE SUS
-        284: 16873,  # Glodu Sat  - Com. Leordeni -> GLODU
+        282: 13212,  # Glâmbocu Sat  - Com. Bascov -> GLÂMBOCU
         283: 15153,  # Glodu Sat  - Com. Călineşti -> GLODU
+        284: 16873,  # Glodu Sat  - Com. Leordeni -> GLODU
         285: 16855,  # Glâmbocata Sat  - Com. Leordeni -> GLÂMBOCATA
         286: 16864,  # Glâmbocata-Deal Sat  - Com. Leordeni -> GLÂMBOCATA-DEAL
         287: 14646,  # Glâmbocel Sat  - Com. Bogaţi -> GLÂMBOCEL
         288: 14655,  # Glâmbocelu Sat  - Com. Bogaţi -> GLÂMBOCELU
-        282: 13212,  # Glâmbocu Sat  - Com. Bascov -> GLÂMBOCU
         289: 16560,  # Godeni Sat  - Com. Godeni -> GODENI
         291: 19604,  # Goia Sat  - Com. Ungheni -> GOIA
         292: 18457,  # Goleasca Sat  - Com. Recea -> GOLEASCA
@@ -1272,15 +1266,14 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         299: 15714,  # Greabănu Sat  - Com. Cocu -> GREABĂNU
         300: 17986,  # Groşani Sat  - Com. Poienarii de Muscel -> GROŞANI
         301: 14138,  # Groşi Sat  - Com. Băbana -> GROŞI
-        303: 17799,  # Gruiu Sat  - Com. Nucşoara -> GRUIU
         302: 15288,  # Gruiu Sat  - Com. Căteasca -> GRUIU
+        303: 17799,  # Gruiu Sat  - Com. Nucşoara -> GRUIU
         304: 13579,  # Gura Pravăţ Sat  - Com. Valea Mare Pravăţ -> GURA PRAVĂŢ
         305: 13971,  # Gura Văii Sat  - Com. Albota -> GURA VĂII
         306: 18117,  # Gâlceşti Sat  - Com. Poiana Lacului -> GÂLCEŞTI
         307: 18634,  # Găinuşa Sat  - Com. Săpata -> GĂINUŞA
         308: 19052,  # Găleşeşti Sat  - Com. Suseni -> GĂLEŞEŞTI
         309: 18091,  # Găleţeanu Sat  - Com. Poiana Lacului -> GĂLEŢEANU
-        275: 14897,  # Gălăşeşti Sat  - Com. Budeasa -> GĂLĂŞEŞTI
         310: 14432,  # Gămăceşti Sat  - Com. Berevoeşti -> GĂMĂCEŞTI
         311: 17888,  # Găneşti Sat  - Com. Pietroşani -> GĂNEŞTI
         312: 18108,  # Gărdineşti Sat  - Com. Poiana Lacului -> GĂRDINEŞTI
@@ -1288,8 +1281,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         314: 17548,  # Hinţeşti Sat  - Com. Moşoaia -> HINŢEŞTI
         315: 16695,  # Huluba Sat  - Com. Vultureşti -> HULUBA
         316: 19613,  # Humele Sat  - Com. Ungheni -> HUMELE
-        319: 16622,  # Hârseşti Sat  - Com. Hârseşti -> HÂRSEŞTI
         317: 16668,  # Hârtieşti Sat  - Com. Hârtieşti -> HÂRTIEŞTI
+        319: 16622,  # Hârseşti Sat  - Com. Hârseşti -> HÂRSEŞTI
         321: 19169,  # Ianculeşti Sat  - Com. Şuici -> IANCULEŞTI
         322: 17940,  # Ioaniceşti Sat  - Com. Poienarii de Argeş -> IOANICEŞTI
         323: 15000,  # Ioneşti Sat  - Com. Buzoeşti -> IONEŞTI
@@ -1335,24 +1328,26 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         367: 18377,  # Mavrodolu Sat  - Com. Răteşti -> MAVRODOLU
         368: 17110,  # Merişani Sat  - Com. Merişani -> MERIŞANI
         370: 18126,  # Metofu Sat  - Com. Poiana Lacului -> METOFU
-        373: 13221,  # Mica Sat  - Com. Bascov -> MICA
         371: 17218,  # Miceşti Sat  - Com. Miceşti -> MICEŞTI
+        373: 13221,  # Mica Sat  - Com. Bascov -> MICA
         374: 19524,  # Miercani Sat  - Com. Uda -> MIERCANI
         375: 17263,  # Mihăeşti Sat  - Com. Mihăeşti -> MIHĂEŞTI
         377: 15475,  # Mioarele Sat  - Com. Cicăneşti -> MIOARELE
+        379: 13310,  # Mioveni Loc.  - Orş. Mioveni -> MIOVENI
+        380: 13310,  # Mioveni Orş.  -> MIOVENI
         381: 17405,  # Miroşi Sat  - Com. Miroşi -> MIROŞI
         383: 16882,  # Moara Mocanului Sat  - Com. Leordeni -> MOARA MOCANULUI
         384: 19935,  # Mogoşeşti Sat  - Com. Vedea -> MOGOŞEŞTI
-        386: 17432,  # Morăreşti Sat  - Com. Morăreşti -> MORĂREŞTI
         385: 15359,  # Morăşti Sat  - Com. Cepari -> MORĂŞTI
+        386: 17432,  # Morăreşti Sat  - Com. Morăreşti -> MORĂREŞTI
         388: 17762,  # Mozacu Sat  - Com. Negraşi -> MOZACU
         389: 17584,  # Mozăceni Sat  - Com. Mozăceni -> MOZĂCENI
         391: 14539,  # Mozăceni-Vale Sat  - Com. Bârla -> MOZĂCENII-VALE
         392: 17502,  # Moşoaia Sat  - Com. Moşoaia -> MOŞOAIA
         394: 14744,  # Moşteni-Greci Sat  - Com. Boţeşti -> MOŞTENI-GRECI
         395: 19757,  # Mustăţeşti Sat  - Com. Valea Iaşului -> MUSTĂŢEŞTI
-        398: 14717,  # Muşcel Sat  - Com. Boteni -> MUŞCEL
         396: 17655,  # Muşăteşti Sat  - Com. Muşăteşti -> MUŞĂŢEŞTI
+        398: 14717,  # Muşcel Sat  - Com. Boteni -> MUŞCEL
         399: 14520,  # Mândra Sat  - Com. Bârla -> MÂNDRA
         400: 17003,  # Mârghia de Jos Sat  - Com. Lunca Corbului -> MÂRGHIA DE JOS
         401: 17012,  # Mârghia de Sus Sat  - Com. Lunca Corbului -> MÂRGHIA DE SUS
@@ -1368,8 +1363,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         413: 17735,  # Negraşi Sat  - Com. Negraşi -> NEGRAŞI
         415: 16383,  # Negreni Sat  - Com. Dârmăneşti -> NEGRENI
         416: 14398,  # Negreşti Sat  - Com. Beleţi-Negreşti -> NEGREŞTI
-        418: 18386,  # Nejlovelu Sat  - Com. Răteşti -> NEJLOVELU
         417: 18769,  # Nigrişoara Sat  - Com. Slobozia -> NIGRIŞOARA
+        418: 18386,  # Nejlovelu Sat  - Com. Răteşti -> NEJLOVELU
         419: 17780,  # Nucşoara Sat  - Com. Nucşoara -> NUCŞOARA
         421: 13588,  # Nămăeşti Sat  - Com. Valea Mare Pravăţ -> NĂMĂEŞTI
         422: 17833,  # Oarja Sat  - Com. Oarja -> OARJA
@@ -1384,29 +1379,31 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         432: 19178,  # Paltenu Sat  - Com. Şuici -> PALTENU
         433: 18279,  # Paraschiveşti Sat  - Com. Priboieni -> PARASCHIVEŞTI
         434: 15965,  # Petreşti Sat  - Com. Coşeşti -> PETREŞTI
+        435: 14815,  # Piatra Sat  - Com. Brăduleţ -> PIATRA
         436: 18901,  # Piatra Sat  - Com. Stoeneşti -> PIATRA
         437: 15536,  # Piatra Sat  - Com. Ciofrângeni -> PIATRA
-        435: 14815,  # Piatra Sat  - Com. Brăduleţ -> PIATRA
         438: 16070,  # Pieleşti Sat  - Com. Cotmeana -> PIELEŞTI
         439: 13597,  # Pietroasa Sat  - Com. Valea Mare Pravăţ -> PIETROASA
         440: 17860,  # Pietroşani Sat  - Com. Pietroşani -> PIETROŞANI
         442: 16392,  # Piscani Sat  - Com. Dârmăneşti -> PISCANI
+        443: 13178,  # Piteşti Mun.  -> PITEŞTI
         444: 18297,  # Pitoi Sat  - Com. Priboieni -> PITOI
         445: 18830,  # Piţigaia Sat  - Com. Stâlpeni -> PIŢIGAIA
         446: 15019,  # Podeni Sat  - Com. Buzoeşti -> PODENI
         447: 14548,  # Podişoru Sat  - Com. Bârla -> PODIŞORU
+        448: 13711,  # Podu Broşteni Loc.  - Orş. Costeşti -> PODU BROŞTENI
         449: 16356,  # Podu Dâmboviţei Sat  - Com. Dâmbovicioara -> PODU DÂMBOVIŢEI
         450: 15876,  # Poduri Sat  - Com. Corbi -> PODURI
         451: 18037,  # Poiana Lacului Sat  - Com. Poiana Lacului -> POIANA LACULUI
-        455: 17977,  # Poienari Sat  - Com. Poienarii de Muscel -> POIENARI
         453: 15803,  # Poienari Sat  - Com. Corbeni -> POIENARI
         454: 17922,  # Poienari Sat  - Com. Poienarii de Argeş -> POIENARI
+        455: 17977,  # Poienari Sat  - Com. Poienarii de Muscel -> POIENARI
         458: 14316,  # Poieniţa Sat  - Com. Bălileşti -> POIENIŢA
         459: 15885,  # Poienărei Sat  - Com. Corbi -> POIENĂREI
         460: 16926,  # Pojorâta Sat  - Com. Lereşti -> POJORÂTA
-        464: 15723,  # Popeşti Sat  - Com. Cocu -> POPEŞTI
-        463: 18652,  # Popeşti Sat  - Com. Săpata -> POPEŞTI
         461: 18171,  # Popeşti Sat  - Com. Popeşti -> POPEŞTI
+        463: 18652,  # Popeşti Sat  - Com. Săpata -> POPEŞTI
+        464: 15723,  # Popeşti Sat  - Com. Cocu -> POPEŞTI
         465: 14325,  # Priboaia Sat  - Com. Bălileşti -> PRIBOAIA
         466: 18251,  # Priboieni Sat  - Com. Priboieni -> PRIBOIENI
         468: 15974,  # Priseaca Sat  - Com. Coşeşti -> PRISEACA
@@ -1452,6 +1449,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         511: 15563,  # Răduţeşti Sat  - Com. Ciomăgeşti -> RĂDUŢEŞTI
         512: 18340,  # Răteşti Sat  - Com. Răteşti -> RĂTEŞTI
         514: 19953,  # Răţoi Sat  - Com. Vedea -> RĂŢOI
+        515: 18153,  # Sămara Sat  - Com. Poiana Lacului -> SĂMARA
         516: 19622,  # Satu Nou Sat  - Com. Ungheni -> SATU NOU
         517: 17806,  # Sboghiţeşti Sat  - Com. Nucşoara -> SBOGHIŢEŞTI
         518: 13249,  # Schiau Sat  - Com. Bascov -> SCHIAU
@@ -1462,9 +1460,9 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         524: 17030,  # Silişteni Sat  - Com. Lunca Corbului -> SILIŞTENI
         525: 16230,  # Sineşti Sat  - Com. Cuca -> SINEŞTI
         526: 17815,  # Slatina Sat  - Com. Nucşoara -> SLATINA
+        527: 18233,  # Slobozia Sat  - Com. Popeşti -> SLOBOZIA
         528: 18750,  # Slobozia Sat  - Com. Slobozia -> SLOBOZIA
         529: 18910,  # Slobozia Sat  - Com. Stoeneşti -> SLOBOZIA
-        527: 18233,  # Slobozia Sat  - Com. Popeşti -> SLOBOZIA
         531: 14824,  # Slămneşti Sat  - Com. Brăduleţ -> SLĂMNEŞTI
         532: 14021,  # Slănic Sat  - Com. Aninoasa -> SLĂNIC
         533: 14156,  # Slătioarele Sat  - Com. Băbana -> SLĂTIOARELE
@@ -1475,8 +1473,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         538: 18867,  # Stoeneşti Sat  - Com. Stoeneşti -> STOENEŞTI
         540: 18947,  # Stolnici Sat  - Com. Stolnici -> STOLNICI
         542: 17682,  # Stroeşti Sat  - Com. Muşăteşti -> STROEŞTI
-        544: 19089,  # Strâmbeni Sat  - Com. Suseni -> STRÂMBENI
         543: 15091,  # Strâmbeni Sat  - Com. Căldăraru -> STRÂMBENI
+        544: 19089,  # Strâmbeni Sat  - Com. Suseni -> STRÂMBENI
         545: 18787,  # Stâlpeni Sat  - Com. Stâlpeni -> STÂLPENI
         547: 13739,  # Stârci Sat  - Orş. Costeşti -> STÂRCI
         548: 15894,  # Stăneşti Sat  - Com. Corbi -> STĂNEŞTI
@@ -1487,7 +1485,6 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         554: 17389,  # Suslăneşti Sat  - Com. Mioarele -> SUSLĂNEŞTI
         555: 19551,  # Săliştea Sat  - Com. Uda -> SĂLIŞTEA
         556: 18563,  # Sălătrucu Sat  - Com. Sălătrucu -> SĂLĂTRUCU
-        515: 18153,  # Sămara Sat  - Com. Poiana Lacului -> SĂMARA
         558: 18288,  # Sămăila Sat  - Com. Priboieni -> SĂMĂILA
         559: 16089,  # Sănduleşti Sat  - Com. Cotmeana -> SĂNDULEŞTI
         561: 17487,  # Săpunari Sat  - Com. Morăreşti -> SĂPUNARI
@@ -1499,6 +1496,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         569: 17959,  # Tomuleşti Sat  - Com. Poienarii de Argeş -> TOMULEŞTI
         570: 15046,  # Tomşanca Sat  - Com. Buzoeşti -> TOMŞANCA
         571: 17085,  # Topliţa Sat  - Com. Mălureni -> TOPLIŢA
+        572: 13766,  # Topoloveni Orş.  -> TOPOLOVENI
         573: 15821,  # Turburea Sat  - Com. Corbeni -> TURBUREA
         574: 18661,  # Turceşti Sat  - Com. Săpata -> TURCEŞTI
         575: 14236,  # Tutana Sat  - Com. Băiculeşti -> TUTANA
@@ -1508,8 +1506,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         580: 14833,  # Uleni Sat  - Com. Brăduleţ -> ULENI
         581: 14334,  # Ulita Sat  - Com. Bălileşti -> ULITA
         582: 19579,  # Ungheni Sat  - Com. Ungheni -> UNGHENI
-        585: 19775,  # Ungureni Sat  - Com. Valea Iaşului -> UNGURENI
         584: 14842,  # Ungureni Sat  - Com. Brăduleţ -> UNGURENI
+        585: 19775,  # Ungureni Sat  - Com. Valea Iaşului -> UNGURENI
         586: 15484,  # Urecheşti Sat  - Com. Cicăneşti -> URECHEŞTI
         587: 15206,  # Urlucea Sat  - Com. Călineşti -> URLUCEA
         588: 14566,  # Urlueni Sat  - Com. Bârla -> URLUENI
@@ -1526,6 +1524,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         600: 17691,  # Valea Faurului Sat  - Com. Muşăteşti -> VALEA FAURULUI
         601: 16490,  # Valea Hotarului Sat  - Com. Dragoslavele -> VALEA HOTARULUI
         602: 19702,  # Valea Iaşului Sat  - Com. Valea Iaşului -> VALEA IAŞULUI
+        604: 18019,  # Valea Îndărăt Sat  - Com. Poienarii de Muscel -> VALEA ÎNDĂRĂT
         605: 18304,  # Valea Mare Sat  - Com. Priboieni -> VALEA MARE
         606: 13533,  # Valea Mare Pravăţ Sat  - Com. Valea Mare Pravăţ -> VALEA MARE PRAVĂŢ
         608: 14343,  # Valea Mare-Bratia Sat  - Com. Bălileşti -> VALEA MARE-BRATIA
@@ -1537,16 +1536,16 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         614: 16409,  # Valea Nandrii Sat  - Com. Dârmăneşti -> VALEA NANDRII
         615: 18313,  # Valea Nenii Sat  - Com. Priboieni -> VALEA NENII
         616: 18732,  # Valea Pechii Sat  - Com. Schitu Goleşti -> VALEA PECHII
-        618: 18322,  # Valea Popii Sat  - Com. Priboieni -> VALEA POPII
         617: 17316,  # Valea Popii Sat  - Com. Mihăeşti -> VALEA POPII
+        618: 18322,  # Valea Popii Sat  - Com. Priboieni -> VALEA POPII
         619: 16418,  # Valea Rizii Sat  - Com. Dârmăneşti -> VALEA RIZII
+        620: 13515,  # Valea Rumăneştilor Loc.  - Mun. Câmpulung -> VALEA RUMÂNEŞTILOR
         621: 14030,  # Valea Siliştii Sat  - Com. Aninoasa -> VALEA SILIŞTII
         622: 19383,  # Valea Stânii Sat  - Com. Ţiţeşti -> VALEA STÂNII
         623: 19784,  # Valea Uleiului Sat  - Com. Valea Iaşului -> VALEA ULEIULUI
         624: 13267,  # Valea Ursului Sat  - Com. Bascov -> VALEA URSULUI
         625: 14254,  # Valea lui Enache Sat  - Com. Băiculeşti -> VALEA LUI ENACHE
         626: 17708,  # Valea lui Maş Sat  - Com. Muşăteşti -> VALEA LUI MAŞ
-        604: 18019,  # Valea Îndărăt Sat  - Com. Poienarii de Muscel -> VALEA ÎNDĂRĂT
         627: 19962,  # Vaţa Sat  - Com. Vedea -> VAŢA
         628: 19800,  # Vedea Sat  - Com. Vedea -> VEDEA
         630: 19686,  # Verneşti Sat  - Com. Valea Danului -> VERNEŞTI
@@ -1579,14 +1578,15 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         658: 14575,  # Zuvelcaţi Sat  - Com. Bârla -> ZUVELCAŢI
         659: 17094,  # Zărneşti Sat  - Com. Mălureni -> ZĂRNEŞTI
         660: 13472,  # Zăvoi Sat  - Orş. Ştefăneşti -> ZĂVOI
-        662: 13604,  # Şelari Sat  - Com. Valea Mare Pravăţ -> ŞELARI
         661: 14557,  # Şelăreasca Sat  - Com. Bârla -> ŞELĂREASCA
+        662: 13604,  # Şelari Sat  - Com. Valea Mare Pravăţ -> ŞELARI
         663: 15368,  # Şendruleşti Sat  - Com. Cepari -> ŞENDRULEŞTI
         664: 15037,  # Şerboeni Sat  - Com. Buzoeşti -> ŞERBOENI
-        666: 18518,  # Şerbăneşti Sat  - Com. Rociu -> ŞERBĂNEŞTI
         665: 18000,  # Şerbăneşti Sat  - Com. Poienarii de Muscel -> ŞERBĂNEŞTI
+        666: 18518,  # Şerbăneşti Sat  - Com. Rociu -> ŞERBĂNEŞTI
         667: 19123,  # Ştefan cel Mare Sat  - Com. Ştefan cel Mare -> ŞTEFAN CEL MARE
         669: 13409,  # Ştefăneşti Sat  - Orş. Ştefăneşti -> ŞTEFĂNEŞTI
+        670: 13409,  # Ştefăneşti Orş.  -> ŞTEFĂNEŞTI
         671: 19098,  # Ştefăneşti Sat  - Com. Suseni -> STEFĂNEŞTI
         672: 13445,  # Ştefăneştii Noi Sat  - Orş. Ştefăneşti -> ŞTEFĂNEŞTII NOI
         673: 19150,  # Şuici Sat  - Com. Şuici -> ŞUICI
@@ -1595,20 +1595,6 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         678: 19105,  # Ţuţuleşti Sat  - Com. Suseni -> ŢUŢULEŞTI
     },
     4: {  # BACĂU
-        52: 20581,  # Borzeşti Loc.  - Mun. Oneşti -> BORZEŞTI
-        106: 20938,  # Cerdac Loc.  - Orş. Slănic Moldova -> CERDAC
-        115: 20947,  # Cireşoaia Loc.  - Orş. Slănic Moldova -> CIREŞOAIA
-        386: 20983,  # Poieni Loc.  - Orş. Târgu Ocna -> POIENI
-        471: 20590,  # Slobozia Loc.  - Mun. Oneşti -> SLOBOZIA
-        561: 20992,  # Vâlcele Loc.  - Orş. Târgu Ocna -> VÂLCELE
-        11: 20304,  # Bacău Mun.  -> BACĂU
-        312: 20885,  # Moineşti Mun.  -> MOINEŞTI
-        351: 20572,  # Oneşti Mun.  -> ONEŞTI
-        77: 20787,  # Buhuşi Orş.  -> BUHUŞI
-        127: 20830,  # Comăneşti Orş.  -> COMĂNEŞTI
-        188: 22175,  # Dărmăneşti Orş.  -> DĂRMĂNEŞTI
-        476: 20929,  # Slănic Moldova Orş.  -> SLĂNIC-MOLDOVA
-        517: 20974,  # Târgu Ocna Orş.  -> TÂRGU OCNA
         2: 21016,  # Agăş Sat  - Com. Agăş -> AGĂŞ
         3: 21472,  # Albele Sat  - Com. Bârsăneşti -> ALBELE
         4: 23145,  # Antoheşti Sat  - Com. Izvoru Berheciului -> ANTOHEŞTI
@@ -1616,6 +1602,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         7: 21105,  # Ardeoani Sat  - Com. Ardeoani -> ARDEOANI
         8: 22683,  # Arini Sat  - Com. Găiceana -> ARINI
         10: 21132,  # Asău Sat  - Com. Asău -> ASĂU
+        11: 20304,  # Bacău Mun.  -> BACĂU
         12: 24294,  # Bahna Sat  - Com. Pârgareşti -> BAHNA
         14: 21203,  # Balcani Sat  - Com. Balcani -> BALCANI
         15: 25549,  # Baloteşti Sat  - Com. Stănişeşti -> BALOTEŞTI
@@ -1650,6 +1637,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         49: 22086,  # Boiştea de Jos Sat  - Com. Coţofăneşti -> BOIŞTEA DE JOS
         50: 22736,  # Bolovăniş Sat  - Com. Ghimeş-Făget -> BOLOVĂNIŞ
         51: 26305,  # Bolătău Sat  - Com. Zemeş -> BOLĂTĂU
+        52: 20581,  # Borzeşti Loc.  - Mun. Oneşti -> BORZEŞTI
         53: 22095,  # Borşani Sat  - Com. Coţofăneşti -> BORŞANI
         54: 26136,  # Bosia Sat  - Com. Vultureni -> BOSIA
         55: 22308,  # Bostăneşti Sat  - Com. Dealu Morii -> BOSTĂNEŞTI
@@ -1666,12 +1654,13 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         67: 20705,  # Buciumi Sat  - Com. Buciumi -> BUCIUMI
         68: 24864,  # Bucşa Sat  - Com. Răchitoasa -> BUCŞA
         69: 24659,  # Bucşeşti Sat  - Com. Poduri -> BUCŞEŞTI
-        71: 24873,  # Buda Sat  - Com. Răchitoasa -> BUDA
         70: 21436,  # Buda Sat  - Com. Berzunţi -> BUDA
+        71: 24873,  # Buda Sat  - Com. Răchitoasa -> BUDA
         72: 21524,  # Buda Sat  - Com. Blăgeşti -> BUDA
         73: 24445,  # Budeşti Sat  - Com. Plopana -> BUDEŞTI
         74: 21695,  # Buhocel Sat  - Com. Buhoci -> BUHOCEL
         75: 21677,  # Buhoci Sat  - Com. Buhoci -> BUHOCI
+        77: 20787,  # Buhuşi Orş.  -> BUHUŞI
         78: 24882,  # Burdusaci Sat  - Com. Răchitoasa -> BURDUSACI
         79: 21613,  # Buruieniş Sat  - Com. Brusturoasa -> BURUIENIŞ
         80: 21622,  # Buruienişu de Sus Sat  - Com. Brusturoasa -> BURUIENIŞU DE SUS
@@ -1698,6 +1687,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         102: 20625,  # Capăta Sat  - Com. Gura Văii -> CAPĂTA
         103: 21490,  # Caraclău Sat  - Com. Bârsăneşti -> CARACLĂU
         105: 21739,  # Caşin Sat  - Com. Caşin -> CAŞIN
+        106: 20938,  # Cerdac Loc.  - Orş. Slănic Moldova -> CERDAC
         107: 24668,  # Cernu Sat  - Com. Poduri -> CERNU
         108: 25647,  # Cetăţuia Sat  - Com. Strugari -> CETĂŢUIA
         109: 23528,  # Chetreni Sat  - Com. Motoşeni -> CHETRENI
@@ -1706,6 +1696,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         112: 24203,  # Chilia Benei Sat  - Com. Pânceşti -> CHILIA BENEI
         113: 25406,  # Chiticeni Sat  - Com. Secuieni -> CHITICENI
         114: 21150,  # Ciobănuş Sat  - Com. Asău -> CIOBĂNUŞ
+        115: 20947,  # Cireşoaia Loc.  - Orş. Slănic Moldova -> CIREŞOAIA
         116: 24784,  # Ciucani Sat  - Com. Răcăciuni -> CIUCANI
         117: 24007,  # Ciugheş Sat  - Com. Palanca -> CIUGHEŞ
         118: 21276,  # Ciumaşi Sat  - Com. Iteşti -> CIUMAŞI
@@ -1715,6 +1706,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         123: 23546,  # Cociu Sat  - Com. Motoşeni -> COCIU
         125: 21908,  # Coloneşti Sat  - Com. Coloneşti -> COLONEŞTI
         126: 25175,  # Coman Sat  - Com. Sănduleni -> COMAN
+        127: 20830,  # Comăneşti Orş.  -> COMĂNEŞTI
         128: 25095,  # Conţeşti Sat  - Com. Sascut -> CONŢEŞTI
         130: 21980,  # Corbasca Sat  - Com. Corbasca -> CORBASCA
         131: 24677,  # Cornet Sat  - Com. Poduri -> CORNET
@@ -1753,8 +1745,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         167: 21052,  # Diaconeşti Sat  - Com. Agăş -> DIACONEŞTI
         168: 24212,  # Dieneţ Sat  - Com. Pânceşti -> DIENEŢ
         170: 22399,  # Dofteana Sat  - Com. Dofteana -> DOFTEANA
-        172: 26154,  # Dorneni Sat  - Com. Vultureni -> DORNENI
         171: 24454,  # Dorneni Sat  - Com. Plopana -> DORNENI
+        172: 26154,  # Dorneni Sat  - Com. Vultureni -> DORNENI
         173: 22335,  # Dorofei Sat  - Com. Dealu Morii -> DOROFEI
         174: 21711,  # Dospineşti Sat  - Com. Buhoci -> DOSPINEŞTI
         175: 21445,  # Dragomir Sat  - Com. Berzunţi -> DRAGOMIR
@@ -1762,24 +1754,24 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         177: 25781,  # Drăgeşti Sat  - Com. Tătărăşti -> DRĂGEŞTI
         178: 22932,  # Drăgugeşti Sat  - Com. Helegiu -> DRĂGUGEŞTI
         179: 24052,  # Drăguşani Sat  - Com. Parava -> DRĂGUŞANI
-        182: 24908,  # Dumbrava Sat  - Com. Răchitoasa -> DUMBRAVA
-        181: 21294,  # Dumbrava Sat  - Com. Iteşti -> DUMBRAVA
         180: 20634,  # Dumbrava Sat  - Com. Gura Văii -> DUMBRAVA
+        181: 21294,  # Dumbrava Sat  - Com. Iteşti -> DUMBRAVA
+        182: 24908,  # Dumbrava Sat  - Com. Răchitoasa -> DUMBRAVA
         183: 26145,  # Dădeşti Sat  - Com. Vultureni -> DĂDEŞTI
         185: 22120,  # Dămieneşti Sat  - Com. Dămieneşti -> DĂMIENEŞTI
         186: 24891,  # Dănăila Sat  - Com. Răchitoasa -> DĂNĂILA
         187: 22184,  # Dărmăneasca Sat  - Orş. Dărmăneşti -> DĂRMĂNEASCA
+        188: 22175,  # Dărmăneşti Orş.  -> DĂRMĂNEŞTI
         189: 21365,  # Enăcheşti Sat  - Com. Bereşti-Tazlău -> ENĂCHEŞTI
-        220: 22479,  # Faraoani Sat  - Com. Faraoani -> FARAOANI
         190: 24917,  # Farcaşa Sat  - Com. Răchitoasa -> FARCAŞA
         191: 23822,  # Ferestrău-Oituz Sat  - Com. Oituz -> FERESTRĂU-OITUZ
         192: 24560,  # Fichiteşti Sat  - Com. Podu Turcului -> FICHITEŞTI
         194: 22497,  # Filipeni Sat  - Com. Filipeni -> FILIPENI
-        197: 21588,  # Filipeşti Sat  - Com. Bogdăneşti -> FILIPEŞTI
         196: 22585,  # Filipeşti Sat  - Com. Filipeşti -> FILIPEŞTI
-        200: 25326,  # Floreşti Sat  - Com. Scorţeni -> FLOREŞTI
-        199: 23074,  # Floreşti Sat  - Com. Huruieşti -> FLOREŞTI
+        197: 21588,  # Filipeşti Sat  - Com. Bogdăneşti -> FILIPEŞTI
         198: 21793,  # Floreşti Sat  - Com. Căiuţi -> FLOREŞTI
+        199: 23074,  # Floreşti Sat  - Com. Huruieşti -> FLOREŞTI
+        200: 25326,  # Floreşti Sat  - Com. Scorţeni -> FLOREŞTI
         201: 21212,  # Frumoasa Sat  - Com. Balcani -> FRUMOASA
         202: 22852,  # Frumuşelu Sat  - Com. Glăvăneşti -> FRUMUŞELU
         203: 22521,  # Frunteşti Sat  - Com. Filipeni -> FRUNTEŞTI
@@ -1798,8 +1790,9 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         216: 22745,  # Făgetu de Sus Sat  - Com. Ghimeş-Făget -> FĂGETU DE SUS
         217: 21301,  # Făgeţel Sat  - Com. Iteşti -> FĂGEŢEL
         218: 23163,  # Făghieni Sat  - Com. Izvoru Berheciului -> FĂGHIENI
-        222: 23751,  # Galbeni Sat  - Com. Nicolae Bălcescu -> GALBENI
+        220: 22479,  # Faraoani Sat  - Com. Faraoani -> FARAOANI
         221: 22638,  # Galbeni Sat  - Com. Filipeşti -> GALBENI
+        222: 23751,  # Galbeni Sat  - Com. Nicolae Bălcescu -> GALBENI
         223: 22978,  # Galeri Sat  - Com. Horgeşti -> GALERI
         224: 24800,  # Gheorghe Doja Sat  - Com. Răcăciuni -> GHEORGHE DOJA
         225: 25790,  # Gherdana Sat  - Com. Tătărăşti -> GHERDANA
@@ -1818,8 +1811,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         240: 25335,  # Grigoreni Sat  - Com. Scorţeni -> GRIGORENI
         241: 22353,  # Grădeşti Sat  - Com. Dealu Morii -> GRĂDEŞTI
         242: 23582,  # Gura Crăieşti Sat  - Com. Motoşeni -> GURA CRĂIEŞTI
-        245: 20616,  # Gura Văii Sat  - Com. Gura Văii -> GURA VĂII
         244: 24739,  # Gura Văii Sat  - Com. Racova -> GURA VĂII
+        245: 20616,  # Gura Văii Sat  - Com. Gura Văii -> GURA VĂII
         246: 20714,  # Gutinaş Sat  - Com. Ştefan cel Mare -> GUTINAŞ
         247: 25996,  # Gârla Anei Sat  - Com. Ungureni -> GÂRLA ANEI
         249: 22807,  # Gârleni Sat  - Com. Gârleni -> GÂRLENI
@@ -1832,7 +1825,6 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         258: 22905,  # Helegiu Sat  - Com. Helegiu -> HELEGIU
         259: 21800,  # Heltiu Sat  - Com. Căiuţi -> HELTIU
         261: 20322,  # Hemeiuş Sat  - Com. Hemeiuş -> HEMEIUŞ
-        # 604: 26314,  # 'Hemieni Sat  - Com. Pârjol' is unknown
         262: 25898,  # Hertioana de Jos Sat  - Com. Traian -> HERTIOANA DE JOS
         263: 25905,  # Hertioana-Răzeşi Sat  - Com. Traian -> HERTIOANA-RĂZEŞI
         264: 20377,  # Holt Sat  - Com. Letea Veche -> HOLT
@@ -1846,9 +1838,9 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         274: 24748,  # Hălmăcioaia Sat  - Com. Racova -> HĂLMĂCIOAIA
         275: 25656,  # Iaz Sat  - Com. Strugari -> IAZ
         276: 24757,  # Ilieşi Sat  - Com. Racova -> ILIEŞI
-        280: 21310,  # Iteşti Sat  - Com. Iteşti -> ITEŞTI
         278: 23136,  # Izvoru Berheciului Sat  - Com. Izvoru Berheciului -> IZVORU BERHECIULUI
         279: 24472,  # Iţcani Sat  - Com. Plopana -> IŢCANI
+        280: 21310,  # Iteşti Sat  - Com. Iteşti -> ITEŞTI
         281: 22193,  # Lapoş Sat  - Orş. Dărmăneşti -> LAPOŞ
         282: 22433,  # Larga Sat  - Com. Dofteana -> LARGA
         283: 24597,  # Lehancea Sat  - Com. Podu Turcului -> LEHANCEA
@@ -1871,16 +1863,17 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         304: 22004,  # Marvila Sat  - Com. Corbasca -> MARVILA
         305: 25184,  # Mateieşti Sat  - Com. Sănduleni -> MATEIEŞTI
         306: 26190,  # Medeleni Sat  - Com. Vultureni -> MEDELENI
+        307: 23680,  # Mâgla Sat  - Com. Negri -> MÂGLA
         308: 24114,  # Mileştii de Jos Sat  - Com. Parincea -> MILEŞTII DE JOS
         309: 24123,  # Mileştii de Sus Sat  - Com. Parincea -> MILEŞTII DE SUS
+        310: 23225,  # Mâlosu Sat  - Com. Lipova -> MÂLOSU
         311: 25013,  # Misihăneşti Sat  - Com. Roşiori -> MISIHĂNEŞTI
+        312: 20885,  # Moineşti Mun.  -> MOINEŞTI
         313: 20643,  # Motoceşti Sat  - Com. Gura Văii -> MOTOCEŞTI
         315: 23500,  # Motoşeni Sat  - Com. Motoşeni -> MOTOŞENI
         316: 24953,  # Moviliţa Sat  - Com. Răchitoasa -> MOVILIŢA
         317: 24249,  # Moţoc Sat  - Com. Pânceşti -> MOTOC
         318: 22861,  # Muncelu Sat  - Com. Glăvăneşti -> MUNCELU
-        307: 23680,  # Mâgla Sat  - Com. Negri -> MÂGLA
-        310: 23225,  # Mâlosu Sat  - Com. Lipova -> MÂLOSU
         319: 23396,  # Măgireşti Sat  - Com. Măgireşti -> MĂGIREŞTI
         321: 20420,  # Măgura Sat  - Com. Măgura -> MĂGURA
         323: 23458,  # Mănăstirea Caşin Sat  - Com. Mănăstirea Caşin -> MĂNĂSTIREA CAŞIN
@@ -1905,6 +1898,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         346: 23804,  # Oituz Sat  - Com. Oituz -> OITUZ
         348: 23877,  # Onceşti Sat  - Com. Onceşti -> ONCEŞTI
         350: 23902,  # Onceştii Vechi Sat  - Com. Onceşti -> ONCEŞTII VECHI
+        351: 20572,  # Oneşti Mun.  -> ONEŞTI
         352: 22656,  # Onişcani Sat  - Com. Filipeşti -> ONIŞCANI
         353: 24962,  # Oprişeşti Sat  - Com. Răchitoasa -> OPRIŞEŞTI
         354: 23957,  # Orbeni Sat  - Com. Orbeni -> ORBENI
@@ -1925,13 +1919,14 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         374: 24533,  # Podu Turcului Sat  - Com. Podu Turcului -> PODU TURCULUI
         376: 24640,  # Poduri Sat  - Com. Poduri -> PODURI
         378: 22013,  # Pogleţ Sat  - Com. Corbasca -> POGLEŢ
+        379: 20527,  # Poiana Sat  - Com. Mărgineni -> POIANA
         380: 23323,  # Poiana Sat  - Com. Livezi -> POIANA
         381: 23699,  # Poiana Sat  - Com. Negri -> POIANA
         382: 23591,  # Poiana Sat  - Com. Motoşeni -> POIANA
-        379: 20527,  # Poiana Sat  - Com. Mărgineni -> POIANA
         383: 21926,  # Poiana Sat  - Com. Coloneşti -> POIANA
         384: 21533,  # Poiana Negustorului Sat  - Com. Blăgeşti -> POIANA NEGUSTORULUI
         385: 23859,  # Poiana Sărată Sat  - Com. Oituz -> POIANA SĂRATĂ
+        386: 20983,  # Poieni Loc.  - Orş. Târgu Ocna -> POIENI
         387: 24150,  # Poieni Sat  - Com. Parincea -> POIENI
         388: 25031,  # Poieni Sat  - Com. Roşiori -> POIENI
         389: 21828,  # Popeni Sat  - Com. Căiuţi -> POPENI
@@ -1954,11 +1949,11 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         408: 24347,  # Pârjol Sat  - Com. Pârjol -> PÂRJOL
         410: 23476,  # Pârvuleşti Sat  - Com. Mănăstirea Caşin -> PÂRVULEŞTI
         411: 24310,  # Pârâu Boghii Sat  - Com. Pârgareşti -> PÂRÂU BOGHII
-        413: 21329,  # Pădureni Sat  - Com. Bereşti-Bistriţa -> PĂDURENI
         412: 20509,  # Pădureni Sat  - Com. Mărgineni -> PĂDURENI
+        413: 21329,  # Pădureni Sat  - Com. Bereşti-Bistriţa -> PĂDURENI
         414: 22157,  # Pădureni Sat  - Com. Dămieneşti -> PĂDURENI
-        416: 22549,  # Pădureni Sat  - Com. Filipeni -> PĂDURENI
         415: 23190,  # Pădureni Sat  - Com. Izvoru Berheciului -> PĂDURENI
+        416: 22549,  # Pădureni Sat  - Com. Filipeni -> PĂDURENI
         417: 22200,  # Păgubeni Sat  - Orş. Dărmăneşti -> PĂGUBENI
         418: 20652,  # Păltinata Sat  - Com. Gura Văii -> PĂLTINATA
         419: 21178,  # Păltiniş Sat  - Com. Asău -> PĂLTINIŞ
@@ -1988,10 +1983,10 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         447: 22889,  # Răzeşu Sat  - Com. Glăvăneşti -> RĂZEŞU
         448: 25077,  # Sascut Sat  - Com. Sascut -> SASCUT
         450: 25111,  # Sascut-Sat Sat  - Com. Sascut -> SASCUT-SAT
+        451: 21935,  # Satu Nou Sat  - Com. Coloneşti -> SATU NOU
+        452: 23234,  # Satu Nou Sat  - Com. Lipova -> SATU NOU
         453: 24329,  # Satu Nou Sat  - Com. Pârgareşti -> SATU NOU
         454: 24169,  # Satu Nou Sat  - Com. Parincea -> SATU NOU
-        452: 23234,  # Satu Nou Sat  - Com. Lipova -> SATU NOU
-        451: 21935,  # Satu Nou Sat  - Com. Coloneşti -> SATU NOU
         455: 23911,  # Satu Nou Sat  - Com. Onceşti -> SATU NOU
         456: 26065,  # Satu Nou Sat  - Com. Urecheşti -> SATU NOU
         457: 25120,  # Schineni Sat  - Com. Sascut -> SCHINENI
@@ -2004,12 +1999,14 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         465: 22031,  # Scărişoara Sat  - Com. Corbasca -> SCĂRIŞOARA
         466: 22442,  # Seaca Sat  - Com. Dofteana -> SEACA
         467: 25371,  # Secuieni Sat  - Com. Secuieni -> SECUIENI
-        470: 25273,  # Siretu Sat  - Com. Săuceşti -> SIRETU
         469: 20402,  # Siretu Sat  - Com. Letea Veche -> SIRETU
+        470: 25273,  # Siretu Sat  - Com. Săuceşti -> SIRETU
+        471: 20590,  # Slobozia Loc.  - Mun. Oneşti -> SLOBOZIA
         472: 22558,  # Slobozia Sat  - Com. Filipeni -> SLOBOZIA
         473: 25594,  # Slobozia Sat  - Com. Stănişeşti -> SLOBOZIA
         474: 26074,  # Slobozia Sat  - Com. Urecheşti -> SLOBOZIA
         475: 25601,  # Slobozia Nouă Sat  - Com. Stănişeşti -> SLOBOZIA NOUĂ
+        476: 20929,  # Slănic Moldova Orş.  -> SLĂNIC-MOLDOVA
         477: 24267,  # Soci Sat  - Com. Pânceşti -> SOCI
         478: 20457,  # Sohodol Sat  - Com. Măgura -> SOHODOL
         479: 23029,  # Sohodor Sat  - Com. Horgeşti -> SOHODOR
@@ -2026,8 +2023,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         493: 21089,  # Sulţa Sat  - Com. Agăş -> SULŢA
         494: 24622,  # Sârbi Sat  - Com. Podu Turcului -> SÂRBI
         495: 25157,  # Sănduleni Sat  - Com. Sănduleni -> SĂNDULENI
-        498: 25512,  # Sărata Sat  - Com. Solonţ -> SĂRATA
         497: 23779,  # Sărata Sat  - Com. Sărata -> SĂRATA
+        498: 25512,  # Sărata Sat  - Com. Solonţ -> SĂRATA
         499: 25237,  # Săuceşti Sat  - Com. Săuceşti -> SĂUCEŞTI
         501: 25709,  # Tamaşi Sat  - Com. Tamaşi -> TAMAŞI
         503: 23920,  # Tarniţa Sat  - Com. Onceşti -> TARNIŢA
@@ -2043,6 +2040,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         514: 20536,  # Trebeş Sat  - Com. Mărgineni -> TREBEŞ
         515: 21409,  # Turluianu Sat  - Com. Bereşti-Tazlău -> TURLUIANU
         516: 25843,  # Tuta Sat  - Com. Târgu Trotuş -> TUTA
+        517: 20974,  # Târgu Ocna Orş.  -> TÂRGU OCNA
         518: 25834,  # Târgu Trotuş Sat  - Com. Târgu Trotuş -> TÂRGU TROTUŞ
         520: 22102,  # Tămăşoaia Sat  - Com. Coţofăneşti -> TĂMĂŞOAIA
         521: 22772,  # Tărhauşi Sat  - Com. Ghimeş-Făget -> TĂRHĂUŞI
@@ -2060,11 +2058,11 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         536: 25460,  # Valea Fânaţului Sat  - Com. Secuieni -> VALEA FÂNAŢULUI
         537: 23252,  # Valea Hogei Sat  - Com. Lipova -> VALEA HOGEI
         538: 26243,  # Valea Lupului Sat  - Com. Vultureni -> VALEA LUPULUI
-        540: 25040,  # Valea Mare Sat  - Com. Roşiori -> VALEA MARE
         539: 21953,  # Valea Mare Sat  - Com. Coloneşti -> VALEA MARE
+        540: 25040,  # Valea Mare Sat  - Com. Roşiori -> VALEA MARE
         541: 26252,  # Valea Merilor Sat  - Com. Vultureni -> VALEA MERILOR
-        543: 25059,  # Valea Mică Sat  - Com. Roşiori -> VALEA MICĂ
         542: 21882,  # Valea Mică Sat  - Com. Cleja -> VALEA MICĂ
+        543: 25059,  # Valea Mică Sat  - Com. Roşiori -> VALEA MICĂ
         544: 23270,  # Valea Moşneagului Sat  - Com. Lipova -> VALEA MOŞNEAGULUI
         545: 23261,  # Valea Mărului Sat  - Com. Lipova -> VALEA MĂRULUI
         546: 25139,  # Valea Nacului Sat  - Com. Sascut -> VALEA NACULUI
@@ -2080,6 +2078,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         557: 24178,  # Vladnic Sat  - Com. Parincea -> VLADNIC
         558: 21846,  # Vrânceni Sat  - Com. Căiuţi -> VRÂNCENI
         560: 26270,  # Vultureni Sat  - Com. Vultureni -> VULTURENI
+        561: 20992,  # Vâlcele Loc.  - Orş. Târgu Ocna -> VÂLCELE
         562: 22040,  # Vâlcele Sat  - Com. Corbasca -> VÂLCELE
         563: 23038,  # Văleni Sat  - Com. Parincea -> VĂLENI
         564: 25479,  # Văleni Sat  - Com. Secuieni -> VĂLENI
@@ -2099,36 +2098,15 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         580: 24515,  # Ţigâra Sat  - Com. Plopana -> ŢÂGÂRA
         581: 26234,  # Ţigăneşti Sat  - Com. Vultureni -> ŢIGĂNEŞTI
         582: 21542,  # Ţârdenii Mari Sat  - Com. Blăgeşti -> ŢÂRDENII MARI
+        # 604: 26314,  # 'Hemieni Sat  - Com. Pârjol' is unknown
     },
     5: {  # BIHOR
-        77: 26948,  # Băiţa Loc.  - Orş. Nucet -> BĂIŢA
-        78: 26957,  # Băiţa-Plai Loc.  - Orş. Nucet -> BĂIŢA-PLAI
-        103: 26895,  # Cheţ Loc.  - Mun. Marghita -> CHEŢ
-        127: 27043,  # Coleşti Loc.  - Orş. Vaşcău -> COLEŞTI
-        153: 27025,  # Câmp Loc.  - Orş. Vaşcău -> CÂMP
-        154: 27034,  # Câmp-Moţi Loc.  - Orş. Vaşcău -> CÂMP-MOŢI
-        173: 26822,  # Delani Loc.  - Mun. Beiuş -> DELANI
-        215: 26902,  # Ghenetea Loc.  - Mun. Marghita -> GHENETEA
-        332: 26724,  # Peştiş Loc.  - Orş. Aleşd -> PEŞTIŞ
-        354: 26715,  # Pădurea Neagră Loc.  - Orş. Aleşd -> PĂDUREA NEAGRĂ
-        458: 26733,  # Tinăud Loc.  - Orş. Aleşd -> TINĂUD
-        514: 27052,  # Vărzarii de Jos Loc.  - Orş. Vaşcău -> VĂRZARII DE JOS
-        515: 27061,  # Vărzarii de Sus Loc.  - Orş. Vaşcău -> VĂRZARII DE SUS
-        316: 26573,  # Oradea Mun.  -> ORADEA
-        27: 26813,  # Beiuş Mun.  -> BEIUŞ
-        288: 26886,  # Marghita Mun.  -> MARGHITA
-        380: 26984,  # Salonta Mun.  -> SALONTA
-        8: 26706,  # Aleşd Orş.  -> ALEŞD
-        310: 26939,  # Nucet Orş.  -> NUCET
-        427: 30924,  # Săcueni Orş.  -> SĂCUENI
-        499: 32036,  # Valea lui Mihai Orş.  -> VALEA LUI MIHAI
-        502: 27016,  # Vaşcău Orş.  -> VAŞCĂU
-        532: 26859,  # Ştei Orş.  -> ŞTEI
         1: 27089,  # Abram Sat  - Com. Abram -> ABRAM
         3: 27178,  # Abrămuţ Sat  - Com. Petreu -> ABRĂMUŢ
         5: 31583,  # Adoni Sat  - Com. Tarcea -> ADONI
         6: 30666,  # Albeşti Sat  - Com. Răbăgani -> ALBEŞTI
         7: 27926,  # Albiş Sat  - Com. Buduslău -> ALBIŞ
+        8: 26706,  # Aleşd Orş.  -> ALEŞD
         9: 27347,  # Almaşu Mare Sat  - Com. Balc -> ALMAŞU MARE
         10: 27356,  # Almaşu Mic Sat  - Com. Balc -> ALMAŞU MIC
         11: 31146,  # Almaşu Mic Sat  - Com. Sârbi -> ALMAŞU MIC
@@ -2142,6 +2120,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         21: 26751,  # Aştileu Sat  - Com. Aştileu -> AŞTILEU
         23: 27338,  # Balc Sat  - Com. Balc -> BALC
         25: 27392,  # Batăr Sat  - Com. Batăr -> BATĂR
+        27: 26813,  # Beiuş Mun.  -> BEIUŞ
         28: 28969,  # Beiuşele Sat  - Com. Curăţele -> BEIUŞELE
         29: 29261,  # Belejeni Sat  - Com. Drăgăneşti -> BELEJENI
         30: 31805,  # Belfir Sat  - Com. Tinca -> BELFIR
@@ -2181,6 +2160,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         74: 30087,  # Butani Sat  - Com. Măgeşti -> BUTANI
         75: 28905,  # Bâlc Sat  - Com. Criştioru de Jos -> BÂLC
         76: 32143,  # Băile Felix Sat  - Com. Sânmartin -> BĂILE FELIX
+        77: 26948,  # Băiţa Loc.  - Orş. Nucet -> BĂIŢA
+        78: 26957,  # Băiţa-Plai Loc.  - Orş. Nucet -> BĂIŢA-PLAI
         79: 31734,  # Bălaia Sat  - Com. Tileagd -> BĂLAIA
         80: 29788,  # Băleni Sat  - Com. Lazuri de Beiuş -> BĂLENI
         81: 31538,  # Bălnaca Sat  - Com. Şuncuiuş -> BĂLNACA
@@ -2199,8 +2180,9 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         98: 28503,  # Cherechiu Sat  - Com. Cherechiu -> CHERECHIU
         99: 29485,  # Cheresig Sat  - Com. Toboliu -> CHERESIG
         100: 30309,  # Cheriu Sat  - Com. Oşorhei -> CHERIU
-        102: 28790,  # Cheşa Sat  - Com. Cociuba Mare -> CHEŞA
         101: 28512,  # Cheşereu Sat  - Com. Cherechiu -> CHEŞEREU
+        102: 28790,  # Cheşa Sat  - Com. Cociuba Mare -> CHEŞA
+        103: 26895,  # Cheţ Loc.  - Mun. Marghita -> CHEŢ
         104: 28843,  # Chijic Sat  - Com. Copăcel -> CHIJIC
         105: 31164,  # Chioag Sat  - Com. Sârbi -> CHIOAG
         106: 28558,  # Chiraleu Sat  - Com. Chişlaz -> CHIRALEU
@@ -2220,6 +2202,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         124: 27249,  # Codrişoru Sat  - Com. Auşeu -> CODRIŞORU
         125: 31459,  # Codru Sat  - Com. Şoimi -> CODRU
         126: 27098,  # Cohani Sat  - Com. Abram -> COHANI
+        127: 27043,  # Coleşti Loc.  - Orş. Vaşcău -> COLEŞTI
         129: 28825,  # Copăcel Sat  - Com. Copăcel -> COPĂCEL
         130: 31075,  # Copăceni Sat  - Com. Sâmbăta -> COPĂCENI
         131: 28371,  # Corbeşti Sat  - Com. Ceica -> CORBEŞTI
@@ -2241,6 +2224,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         150: 28950,  # Curăţele Sat  - Com. Curăţele -> CURĂŢELE
         151: 29797,  # Cusuiuş Sat  - Com. Lazuri de Beiuş -> CUSUIUŞ
         152: 30602,  # Cuzap Sat  - Com. Popeşti -> CUZAP
+        153: 27025,  # Câmp Loc.  - Orş. Vaşcău -> CÂMP
+        154: 27034,  # Câmp-Moţi Loc.  - Orş. Vaşcău -> CÂMP-MOŢI
         156: 28718,  # Câmpani Sat  - Com. Câmpani -> CÂMPANI
         157: 30498,  # Câmpani de Pomezeu Sat  - Com. Pomezeu -> CÂMPANI DE POMEZEU
         158: 28086,  # Căbeşti Sat  - Com. Căbeşti -> CĂBEŞTI
@@ -2255,6 +2240,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         170: 28781,  # Cărăsau Sat  - Com. Cociuba Mare -> CĂRĂSĂU
         171: 31869,  # Căuaşd Sat  - Com. Tulca -> CĂUAŞD
         172: 27702,  # Damiş Sat  - Com. Bratca -> DAMIŞ
+        173: 26822,  # Delani Loc.  - Mun. Beiuş -> DELANI
         174: 29047,  # Derna Sat  - Com. Derna -> DERNA
         176: 29056,  # Dernişoara Sat  - Com. Derna -> DERNIŞOARA
         177: 29369,  # Dicăneşti Sat  - Com. Drăgeşti -> DICĂNEŞTI
@@ -2290,6 +2276,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         212: 28291,  # Gepiu Sat  - Com. Gepiu -> GEPIU
         213: 29877,  # Gepiş Sat  - Com. Lăzăreni -> GEPIŞ
         214: 27258,  # Gheghie Sat  - Com. Auşeu -> GHEGHIE
+        215: 26902,  # Ghenetea Loc.  - Mun. Marghita -> GHENETEA
         216: 27365,  # Ghida Sat  - Com. Balc -> GHIDA
         217: 30808,  # Ghighişeni Sat  - Com. Rieni -> GHIGHIŞENI
         218: 28692,  # Ghiorac Sat  - Com. Ciumeghiu -> GHIORAC
@@ -2303,8 +2290,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         227: 29270,  # Grădinari Sat  - Com. Drăgăneşti -> GRĂDINARI
         228: 30381,  # Gurani Sat  - Com. Pietroasa -> GURANI
         229: 31823,  # Gurbediu Sat  - Com. Tinca -> GURBEDIU
-        231: 31235,  # Gurbeşti Sat  - Com. Spinuş -> GURBEŞTI
         230: 28102,  # Gurbeşti Sat  - Com. Căbeşti -> GURBEŞTI
+        231: 31235,  # Gurbeşti Sat  - Com. Spinuş -> GURBEŞTI
         232: 30112,  # Gălăşeni Sat  - Com. Măgeşti -> GĂLĂŞENI
         233: 26635,  # Haieu Sat  - Com. Sânmartin -> HAIEU
         234: 30513,  # Hidiş Sat  - Com. Pomezeu -> HIDIŞ
@@ -2334,8 +2321,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         262: 27123,  # Iteu Nou Sat  - Com. Abram -> ITEU NOU
         263: 28219,  # Izbuc Sat  - Com. Cărpinet -> IZBUC
         264: 32063,  # Izvoarele Sat  - Com. Viişoara -> IZVOARELE
-        266: 30121,  # Josani Sat  - Com. Măgeşti -> JOSANI
         265: 28111,  # Josani Sat  - Com. Căbeşti -> JOSANI
+        266: 30121,  # Josani Sat  - Com. Măgeşti -> JOSANI
         267: 30522,  # Lacu Sărat Sat  - Com. Pomezeu -> LACU SĂRAT
         268: 30862,  # Lazuri Sat  - Com. Roşia -> LAZURI
         270: 29779,  # Lazuri de Beiuş Sat  - Com. Lazuri de Beiuş -> LAZURI DE BEIUŞ
@@ -2353,6 +2340,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         284: 27276,  # Luncşoara Sat  - Com. Auşeu -> LUNCŞOARA
         285: 29635,  # Lupoaia Sat  - Com. Holod -> LUPOAIA
         287: 29822,  # Lăzăreni Sat  - Com. Lăzăreni -> LĂZĂRENI
+        288: 26886,  # Marghita Mun.  -> MARGHITA
         289: 27132,  # Margine Sat  - Com. Abram -> MARGINE
         290: 30050,  # Marţihaz Sat  - Com. Mădăras -> MARŢIHAZ
         291: 30746,  # Meziad Sat  - Com. Remetea -> MEZIAD
@@ -2371,10 +2359,12 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         306: 28987,  # Nimăieşti Sat  - Com. Curăţele -> NIMĂIEŞTI
         307: 27463,  # Niuved Sat  - Com. Tămăşeu -> NIUVED
         309: 30158,  # Nojorid Sat  - Com. Nojorid -> NOJORID
+        310: 26939,  # Nucet Orş.  -> NUCET
         311: 31244,  # Nădar Sat  - Com. Spinuş -> NĂDAR
         312: 31084,  # Ogeşti Sat  - Com. Sâmbăta -> OGEŞTI
         314: 30238,  # Olcea Sat  - Com. Olcea -> OLCEA
         315: 30960,  # Olosig Sat  - Orş. Săcueni -> OLOSIG
+        316: 26573,  # Oradea Mun.  -> ORADEA
         317: 30130,  # Ortiteag Sat  - Com. Măgeşti -> ORTITEAG
         318: 27793,  # Orvişele Sat  - Com. Brusturi -> ORVIŞELE
         319: 31002,  # Otomani Sat  - Com. Sălacea -> OTOMANI
@@ -2389,6 +2379,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         329: 27203,  # Petreu Sat  - Com. Petreu -> PETREU
         330: 30817,  # Petrileni Sat  - Com. Rieni -> PETRILENI
         331: 26788,  # Peştere Sat  - Com. Aştileu -> PEŞTERE
+        332: 26724,  # Peştiş Loc.  - Orş. Aleşd -> PEŞTIŞ
         333: 27819,  # Picleu Sat  - Com. Brusturi -> PICLEU
         334: 30345,  # Pietroasa Sat  - Com. Pietroasa -> PIETROASA
         336: 28996,  # Pociovelişte Sat  - Com. Curăţele -> POCIOVELIŞTE
@@ -2406,7 +2397,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         351: 30577,  # Popeşti Sat  - Com. Popeşti -> POPEŞTI
         352: 31752,  # Poşoloaca Sat  - Com. Tileagd -> POŞOLOACA
         353: 31958,  # Prisaca Sat  - Com. Uileacu de Beiuş -> PRISACA
-        # 567: 32214,  # 'Păcăleşti Sat  - Com. Drăgăneşti' is unknown
+        354: 26715,  # Pădurea Neagră Loc.  - Orş. Aleşd -> PĂDUREA NEAGRĂ
         355: 32072,  # Pădureni Sat  - Com. Viişoara -> PĂDURENI
         356: 27542,  # Păgaia Sat  - Com. Boianu Mare -> PĂGAIA
         357: 29305,  # Păntăşeşti Sat  - Com. Drăgăneşti -> PĂNTĂŞEŞTI
@@ -2428,6 +2419,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         377: 30657,  # Răbăgani Sat  - Com. Răbăgani -> RĂBĂGANI
         378: 29216,  # Răcaş Sat  - Com. Dobreşti -> RĂCAŞ
         379: 27873,  # Saca Sat  - Com. Budureasa -> SACA
+        380: 26984,  # Salonta Mun.  -> SALONTA
         381: 27659,  # Santăul Mare Sat  - Com. Borş -> SANTĂUL MARE
         382: 27668,  # Santăul Mic Sat  - Com. Borş -> SANTĂUL MIC
         383: 31191,  # Sarcău Sat  - Com. Sârbi -> SARCĂU
@@ -2468,6 +2460,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         423: 31137,  # Sârbi Sat  - Com. Sârbi -> SÂRBI
         425: 30906,  # Săbolciu Sat  - Com. Săcădat -> SĂBOLCIU
         426: 30924,  # Săcueni Sat  - Orş. Săcueni -> SĂCUENI
+        427: 30924,  # Săcueni Orş.  -> SĂCUENI
         428: 30880,  # Săcădat Sat  - Com. Săcădat -> SĂCĂDAT
         430: 29065,  # Săcălăsău Sat  - Com. Derna -> SACALASĂU
         431: 29074,  # Săcălăsău Nou Sat  - Com. Derna -> SACALASĂU NOU
@@ -2492,6 +2485,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         454: 31725,  # Tileagd Sat  - Com. Tileagd -> TILEAGD
         455: 31761,  # Tilecuş Sat  - Com. Tileagd -> TILECUŞ
         457: 31798,  # Tinca Sat  - Com. Tinca -> TINCA
+        458: 26733,  # Tinăud Loc.  - Orş. Aleşd -> TINĂUD
         459: 29500,  # Toboliu Sat  - Com. Toboliu -> TOBOLIU
         460: 32009,  # Tomnatic Sat  - Com. Vadu Crişului -> TOMNATIC
         461: 32018,  # Topa de Criş Sat  - Com. Vadu Crişului -> TOPA DE CRIŞ
@@ -2527,17 +2521,21 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         496: 31413,  # Valea Târnei Sat  - Com. Şinteu -> VALEA TÂRNEI
         497: 30835,  # Valea de Jos Sat  - Com. Rieni -> VALEA DE JOS
         498: 28754,  # Valea de Sus Sat  - Com. Câmpani -> VALEA DE SUS
+        499: 32036,  # Valea lui Mihai Orş.  -> VALEA LUI MIHAI
         500: 27837,  # Varasău Sat  - Com. Brusturi -> VARASĂU
         501: 30611,  # Varviz Sat  - Com. Popeşti -> VARVIZ
+        502: 27016,  # Vaşcău Orş.  -> VAŞCĂU
         503: 32054,  # Viişoara Sat  - Com. Viişoara -> VIIŞOARA
         505: 29653,  # Vintere Sat  - Com. Holod -> VINTERE
-        507: 31360,  # Voivozi Sat  - Com. Şimian -> VOIVOZI
         506: 30639,  # Voivozi Sat  - Com. Popeşti -> VOIVOZI
+        507: 31360,  # Voivozi Sat  - Com. Şimian -> VOIVOZI
         508: 31324,  # Vâlcelele Sat  - Com. Suplacu de Barcău -> VÂLCELELE
         509: 32107,  # Vârciorog Sat  - Com. Vârciorog -> VÂRCIOROG
         511: 30559,  # Vălani de Pomezeu Sat  - Com. Pomezeu -> VĂLANI DE POMEZEU
         512: 31967,  # Vălanii de Beiuş Sat  - Com. Uileacu de Beiuş -> VĂLANII DE BEIUŞ
         513: 30620,  # Vărzari Sat  - Com. Popeşti -> VĂRZARI
+        514: 27052,  # Vărzarii de Jos Loc.  - Orş. Vaşcău -> VĂRZARII DE JOS
+        515: 27061,  # Vărzarii de Sus Loc.  - Orş. Vaşcău -> VĂRZARII DE SUS
         516: 30700,  # Vărăşeni Sat  - Com. Răbăgani -> VĂRĂŞENI
         517: 29029,  # Văşad Sat  - Com. Curtuişeni -> VĂŞAD
         518: 31556,  # Zece Hotare Sat  - Com. Şuncuiuş -> ZECE HOTARE
@@ -2551,6 +2549,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         528: 28451,  # Şişterea Sat  - Com. Cetariu -> ŞIŞTEREA
         529: 31431,  # Şoimi Sat  - Com. Şoimi -> ŞOIMI
         531: 30764,  # Şoimuş Sat  - Com. Remetea -> ŞOIMUŞ
+        532: 26859,  # Ştei Orş.  -> ŞTEI
         533: 29564,  # Şumugiu Sat  - Com. Hidişelu de Sus -> ŞUMUGIU
         534: 31529,  # Şuncuiuş Sat  - Com. Şuncuiuş -> ŞUNCUIUŞ
         536: 29458,  # Şuncuiş Sat  - Com. Finiş -> ŞUNCUIŞ
@@ -2559,22 +2558,9 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         539: 31887,  # Ţeţchea Sat  - Com. Ţeţchea -> ŢEŢCHEA
         541: 29332,  # Ţigăneştii de Beiuş Sat  - Com. Drăgăneşti -> ŢIGĂNEŞTII DE BEIUŞ
         542: 27828,  # Ţigăneştii de Criş Sat  - Com. Brusturi -> ŢIGĂNEŞTII DE CRIŞ
+        # 567: 32214,  # 'Păcăleşti Sat  - Com. Drăgăneşti' is unknown
     },
     6: {  # BISTRIŢA-NĂSĂUD
-        64: 32615,  # Cormaia Loc.  - Orş. Sângeorz-Băi -> CORMAIA
-        109: 32410,  # Ghinda Loc.  - Mun. Bistriţa -> GHINDA
-        133: 32562,  # Liviu Rebreanu Loc.  - Orş. Năsăud -> LIVIU REBREANU
-        140: 32571,  # Luşca Loc.  - Orş. Năsăud -> LUŞCA
-        222: 32438,  # Sigmir Loc.  - Mun. Bistriţa -> SIGMIR
-        227: 32447,  # Slătiniţa Loc.  - Mun. Bistriţa -> SLĂTINIŢA
-        243: 32429,  # Sărata Loc.  - Mun. Bistriţa -> SĂRATA
-        260: 32456,  # Unirea Loc.  - Mun. Bistriţa -> UNIREA
-        266: 32624,  # Valea Borcutului Loc.  - Orş. Sângeorz-Băi -> VALEA BORCUTULUI
-        274: 32465,  # Viişoara Loc.  - Mun. Bistriţa -> VIIŞOARA
-        18: 32401,  # Bistriţa Mun.  -> BISTRIŢA
-        14: 32492,  # Beclean Orş.  -> BECLEAN
-        177: 32553,  # Năsăud Orş.  -> NĂSĂUD
-        235: 32606,  # Sângeorz-Băi Orş.  -> SÂNGEORZ-BĂI
         1: 35170,  # Agrieş Sat  - Com. Târlişua -> AGRIEŞ
         2: 35189,  # Agrieşel Sat  - Com. Târlişua -> AGRIEŞEL
         3: 34798,  # Agrişu de Jos Sat  - Com. Şieu-Odorhei -> AGRIŞU DE JOS
@@ -2588,9 +2574,11 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         11: 34663,  # Ardan Sat  - Com. Şieu -> ARDAN
         12: 33747,  # Arşiţa Sat  - Com. Măgura Ilvei -> ARŞIŢA
         13: 34191,  # Baţa Sat  - Com. Petru Rareş -> BAŢA
+        14: 32492,  # Beclean Orş.  -> BECLEAN
         15: 34093,  # Beudiu Sat  - Com. Nuşeni -> BEUDIU
         16: 33195,  # Bichigiu Sat  - Com. Telciu -> BICHIGIU
         17: 33676,  # Bidiu Sat  - Com. Matei -> BIDIU
+        18: 32401,  # Bistriţa Mun.  -> BISTRIŢA
         19: 32642,  # Bistriţa Bârgăului Sat  - Com. Bistriţa Bârgăului -> BISTRIŢA BÂRGĂULUI
         21: 34921,  # Blăjenii de Jos Sat  - Com. Şintereag -> BLĂJENII DE JOS
         22: 34930,  # Blăjenii de Sus Sat  - Com. Şintereag -> BLĂJENII DE SUS
@@ -2628,6 +2616,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         61: 32508,  # Coldău Sat  - Orş. Beclean -> COLDĂU
         62: 32651,  # Colibiţa Sat  - Com. Bistriţa Bârgăului -> COLIBIŢA
         63: 33907,  # Comlod Sat  - Com. Milaş -> COMLOD
+        64: 32615,  # Cormaia Loc.  - Orş. Sângeorz-Băi -> CORMAIA
         65: 33685,  # Corvineşti Sat  - Com. Matei -> CORVINEŞTI
         66: 33186,  # Coşbuc Sat  - Com. Coşbuc -> COŞBUC
         68: 35349,  # Coşeriu Sat  - Com. Urmeniş -> COŞERIU
@@ -2667,6 +2656,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         106: 34306,  # Gersa I Sat  - Com. Rebrişoara -> GERSA I
         107: 34315,  # Gersa II Sat  - Com. Rebrişoara -> GERSA II
         108: 33925,  # Ghemeş Sat  - Com. Milaş -> GHEMEŞ
+        109: 32410,  # Ghinda Loc.  - Mun. Bistriţa -> GHINDA
         110: 33970,  # Gledin Sat  - Com. Monor -> GLEDIN
         111: 33319,  # Herina Sat  - Com. Galaţii Bistriţei -> HERINA
         112: 33934,  # Hirean Sat  - Com. Milaş -> HIREAN
@@ -2684,11 +2674,13 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         128: 34226,  # Leleşti Sat  - Com. Ciceu-Mihăieşti -> LELEŞTI
         129: 33523,  # Leşu Sat  - Com. Leşu -> LEŞU
         131: 33550,  # Livezile Sat  - Com. Livezile -> LIVEZILE
+        133: 32562,  # Liviu Rebreanu Loc.  - Orş. Năsăud -> LIVIU REBREANU
         134: 34878,  # Lunca Sat  - Com. Şieuţ -> LUNCA
         135: 34574,  # Lunca Borlesei Sat  - Com. Spermezeu -> LUNCA BORLESEI
         136: 33612,  # Lunca Ilvei Sat  - Com. Lunca Ilvei -> LUNCA ILVEI
         138: 33532,  # Lunca Leşului Sat  - Com. Leşu -> LUNCA LEŞULUI
         139: 35214,  # Lunca Săteasca Sat  - Com. Târlişua -> LUNCA SĂTEASCA
+        140: 32571,  # Luşca Loc.  - Orş. Năsăud -> LUŞCA
         142: 33630,  # Maieru Sat  - Com. Maieru -> MAIERU
         143: 34128,  # Malin Sat  - Com. Nuşeni -> MALIN
         144: 33088,  # Manic Sat  - Com. Chiochiş -> MANIC
@@ -2716,6 +2708,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         173: 33998,  # Nimigea de Jos Sat  - Com. Nimigea -> NIMIGEA DE JOS
         174: 34057,  # Nimigea de Sus Sat  - Com. Nimigea -> NIMIGEA DE SUS
         176: 34084,  # Nuşeni Sat  - Com. Nuşeni -> NUŞENI
+        177: 32553,  # Năsăud Orş.  -> NĂSĂUD
         178: 35232,  # Oarzina Sat  - Com. Târlişua -> OARZINA
         179: 35027,  # Ocniţa Sat  - Com. Teaca -> OCNIŢA
         180: 32928,  # Orheiu Bistriţei Sat  - Com. Cetate -> ORHEIU BISTRIŢEI
@@ -2752,21 +2745,25 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         219: 32893,  # Satu Nou Sat  - Com. Cetate -> SATU NOU
         220: 35385,  # Scoabe Sat  - Com. Urmeniş -> SCOABE
         221: 34896,  # Sebiş Sat  - Com. Şieuţ -> SEBIŞ
+        222: 32438,  # Sigmir Loc.  - Mun. Bistriţa -> SIGMIR
         223: 34431,  # Silivaşu de Câmpie Sat  - Com. Silivaşu de Câmpie -> SILIVAŞU DE CÂMPIE
         225: 32759,  # Simioneşti Sat  - Com. Budacu de Jos -> SIMIONEŞTI
         226: 34592,  # Sita Sat  - Com. Spermezeu -> SITA
+        227: 32447,  # Slătiniţa Loc.  - Mun. Bistriţa -> SLĂTINIŢA
         228: 34556,  # Spermezeu Sat  - Com. Spermezeu -> SPERMEZEU
         230: 33104,  # Strugureni Sat  - Com. Chiochiş -> STRUGURENI
         231: 33426,  # Strâmba Sat  - Com. Josenii Bârgăului -> STRÂMBA
         232: 34529,  # Stupini Sat  - Com. Sânmihaiu de Câmpie -> STUPINI
         233: 35474,  # Suplai Sat  - Com. Zagra -> SUPLAI
         234: 34253,  # Susenii Bârgăului Sat  - Com. Prundu Bârgăului -> SUSENII BÂRGĂULUI
+        235: 32606,  # Sângeorz-Băi Orş.  -> SÂNGEORZ-BĂI
         236: 33471,  # Sângeorzu Nou Sat  - Com. Lechinţa -> SÂNGEORZU NOU
         237: 33480,  # Sâniacob Sat  - Com. Lechinţa -> SÂNIACOB
         238: 34486,  # Sânmihaiu de Câmpie Sat  - Com. Sânmihaiu de Câmpie -> SÂNMIHAIU DE CÂMPIE
         240: 33097,  # Sânnicoară Sat  - Com. Chiochiş -> SÂNNICOARĂ
         241: 33836,  # Sântioana Sat  - Com. Mărişelu -> SÂNTIOANA
         242: 34510,  # Sălcuţa Sat  - Com. Sânmihaiu de Câmpie -> SĂLCUŢA
+        243: 32429,  # Sărata Loc.  - Mun. Bistriţa -> SĂRATA
         244: 34752,  # Sărăţel Sat  - Com. Şieu-Măgheruş -> SĂRĂŢEL
         245: 33168,  # Săsarm Sat  - Com. Chiuza -> SĂSARM
         246: 34994,  # Teaca Sat  - Com. Teaca -> TEACA
@@ -2779,16 +2776,19 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         257: 32802,  # Tăgşoru Sat  - Com. Budeşti -> ŢĂGŞORU
         258: 33239,  # Tărpiu Sat  - Com. Dumitra -> TĂRPIU
         259: 34066,  # Tăure Sat  - Com. Nimigea -> TĂURE
+        260: 32456,  # Unirea Loc.  - Mun. Bistriţa -> UNIREA
         261: 35278,  # Uriu Sat  - Com. Uriu -> URIU
         263: 35321,  # Urmeniş Sat  - Com. Urmeniş -> URMENIŞ
         265: 35401,  # Valea Sat  - Com. Urmeniş -> VALEA
-        268: 35410,  # Valea Mare Sat  - Com. Urmeniş -> VALEA MARE
+        266: 32624,  # Valea Borcutului Loc.  - Orş. Sângeorz-Băi -> VALEA BORCUTULUI
         267: 34636,  # Valea Mare Sat  - Com. Şanţ -> VALEA MARE
+        268: 35410,  # Valea Mare Sat  - Com. Urmeniş -> VALEA MARE
         269: 34761,  # Valea Măgheruşului Sat  - Com. Şieu-Măgheruş -> VALEA MĂGHERUŞULUI
         270: 33596,  # Valea Poenii Sat  - Com. Livezile -> VALEA POENII
         271: 34351,  # Valea Vinului Sat  - Com. Rodna -> VALEA VINULUI
         272: 33505,  # Vermeş Sat  - Com. Lechinţa -> VERMEŞ
         273: 35045,  # Viile Tecii Sat  - Com. Teaca -> VIILE TECII
+        274: 32465,  # Viişoara Loc.  - Mun. Bistriţa -> VIIŞOARA
         275: 33872,  # Visuia Sat  - Com. Miceştii de Câmpie -> VISUIA
         276: 34146,  # Viţa Sat  - Com. Nuşeni -> VIŢA
         277: 35438,  # Zagra Sat  - Com. Zagra -> ZAGRA
@@ -2812,26 +2812,6 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         302: 33499,  # Ţigău Sat  - Com. Lechinţa -> ŢIGĂU
     },
     7: {  # BOTOŞANI
-        20: 39195,  # Bobuleşti Loc.  - Orş. Ştefăneşti -> BOBULEŞTI
-        35: 36462,  # Bucecea Loc.  - Orş. Bucecea -> BUCECEA
-        44: 39186,  # Bădiuţi Loc.  - Orş. Ştefăneşti -> BĂDIUŢI
-        99: 36480,  # Călineşti Loc.  - Orş. Bucecea -> CĂLINEŞTI
-        111: 36024,  # Dealu Mare Loc.  - Mun. Dorohoi -> DEALU MARE
-        141: 37299,  # Flămânzi Loc.  - Orş. Flămânzi -> FLĂMÂNZI
-        201: 36033,  # Loturi Enescu Loc.  - Mun. Dorohoi -> LOTURI ENESCU
-        243: 38410,  # Nicolae Bălcescu Loc.  - Orş. Flămânzi -> NICOLAE BĂLCESCU
-        261: 37315,  # Poiana Loc.  - Orş. Flămânzi -> POIANA
-        270: 36042,  # Progresul Loc.  - Mun. Dorohoi -> PROGRESUL
-        333: 39202,  # Stânca Loc.  - Orş. Ştefăneşti -> STÂNCA
-        399: 39177,  # Ştefăneşti Loc.  - Orş. Ştefăneşti -> ŞTEFĂNEŞTI
-        400: 39211,  # Ştefăneşti-Sat Loc.  - Orş. Ştefăneşti -> ŞTEFĂNEŞTI-SAT
-        27: 35740,  # Botoşani Mun.  -> BOTOŞANI
-        121: 36015,  # Dorohoi Mun.  -> DOROHOI
-        34: 36462,  # Bucecea Orş.  -> BUCECEA
-        108: 35955,  # Darabani Orş.  -> DARABANI
-        140: 37299,  # Flămânzi Orş.  -> FLĂMÂNZI
-        342: 36079,  # Săveni Orş.  -> SĂVENI
-        398: 39177,  # Ştefăneşti Orş.  -> ŞTEFĂNEŞTI
         1: 36220,  # Adăşeni Sat  - Com. Adăşeni -> ADĂŞENI
         2: 35777,  # Agafton Sat  - Com. Curteşti -> AGAFTON
         3: 37798,  # Alba Sat  - Com. Hudeşti -> ALBA
@@ -2841,29 +2821,28 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         8: 36827,  # Avram Iancu Sat  - Com. Coţuşca -> AVRAM IANCU
         10: 36211,  # Avrămeni Sat  - Com. Avrămeni -> AVRĂMENI
         11: 38081,  # Baisa Sat  - Com. Mihai Eminescu -> BAISA
-        411: 35964,  # Bajura Sat  - Orş. Darabani -> BAJURA
         12: 37565,  # Balinţi Sat  - Com. Havârna -> BALINŢI
         13: 36774,  # Balta Arsă Sat  - Com. Corni -> BALTA ARSĂ
-        15: 37805,  # Baranca Sat  - Com. Hudeşti -> BARANCA
         14: 36970,  # Baranca Sat  - Com. Cristineşti -> BARANCA
-        # 435: 40018,  # 'Başeu Sat  - Com. Hudeşti' is unknown
+        15: 37805,  # Baranca Sat  - Com. Hudeşti -> BARANCA
         16: 37878,  # Belcea Sat  - Com. Leorda -> BELCEA
         17: 38928,  # Berza Sat  - Com. Santa Mare -> BERZA
         18: 37128,  # Bivolari Sat  - Com. Dobârceni -> BIVOLARI
         19: 39079,  # Blândeşti Sat  - Com. Blândeşti -> BLÂNDEŞTI
-        409: 36088,  # Bodeasa Sat  - Orş. Săveni -> BODEASA
+        20: 39195,  # Bobuleşti Loc.  - Orş. Ştefăneşti -> BOBULEŞTI
         21: 38937,  # Bogdăneşti Sat  - Com. Santa Mare -> BOGDĂNEŞTI
         22: 36471,  # Bohoghina Sat  - Orş. Bucecea -> BOHOGHINA
         23: 37976,  # Bold Sat  - Com. Manoleasa -> BOLD
         24: 37636,  # Borolea Sat  - Com. Hăneşti -> BOROLEA
         25: 39435,  # Borzeşti Sat  - Com. Ungureni -> BORZEŞTI
         26: 37342,  # Boscoteni Sat  - Com. Frumuşica -> BOSCOTENI
-        410: 36097,  # Bozieni Sat  - Orş. Săveni -> BOZIENI
+        27: 35740,  # Botoşani Mun.  -> BOTOŞANI
         28: 39756,  # Brehuieşti Sat  - Com. Vlădeni -> BREHUIEŞTI
         30: 36435,  # Broscăuţi Sat  - Com. Broscăuţi -> BROSCĂUŢI
         31: 37253,  # Broşteni Sat  - Com. Durneşti -> BROŞTENI
         33: 36382,  # Brăeşti Sat  - Com. Brăeşti -> BRĂEŞTI
-        276: 37164,  # Brăteni Sat  - Com. Dobârceni -> BRĂTENI
+        34: 36462,  # Bucecea Orş.  -> BUCECEA
+        35: 36462,  # Bucecea Loc.  - Orş. Bucecea -> BUCECEA
         36: 36587,  # Buda Sat  - Com. Coşula -> BUDA
         37: 39346,  # Buhăceni Sat  - Com. Truşeşti -> BUHĂCENI
         38: 36159,  # Buimăceni Sat  - Com. Albeşti -> BUIMĂCENI
@@ -2872,6 +2851,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         41: 36337,  # Buzeni Sat  - Com. Băluşeni -> BUZENI
         42: 37244,  # Bârsăneşti Sat  - Com. Durneşti -> BÂRSĂNEŞTI
         43: 37235,  # Băbiceni Sat  - Com. Durneşti -> BĂBICENI
+        44: 39186,  # Bădiuţi Loc.  - Orş. Ştefăneşti -> BĂDIUŢI
         45: 38919,  # Bădărăi Sat  - Com. Santa Mare -> BĂDĂRĂI
         46: 35786,  # Băiceni Sat  - Com. Curteşti -> BĂICENI
         48: 36319,  # Băluşeni Sat  - Com. Băluşeni -> BĂLUŞENI
@@ -2885,7 +2865,6 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         56: 38116,  # Cerviceşti Sat  - Com. Mihai Eminescu -> CERVICEŞTI
         57: 38125,  # Cerviceşti-Deal Sat  - Com. Mihai Eminescu -> CERVICEŞTI-DEAL
         58: 39097,  # Cheliş Sat  - Com. Suliţa -> CHELIŞ
-        408: 36104,  # Chişcăreni Sat  - Orş. Săveni -> CHIŞCĂRENI
         59: 38438,  # Chiţoveni Sat  - Orş. Flămânzi -> CHIŢOVENI
         60: 38759,  # Cinghinia Sat  - Com. Ripiceni -> CINGHINIIA
         61: 39355,  # Ciritei Sat  - Com. Truşeşti -> CIRITEI
@@ -2917,6 +2896,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         96: 38517,  # Cuzlău Sat  - Com. Păltiniş -> CUZLĂU
         97: 38606,  # Câmpeni Sat  - Com. Prăjeni -> CÂMPENI
         98: 38198,  # Cândeşti Sat  - Com. Cândeşti -> CÂNDEŞTI
+        99: 36480,  # Călineşti Loc.  - Orş. Bucecea -> CĂLINEŞTI
         100: 38189,  # Călineşti Sat  - Com. Cândeşti -> CĂLINEŞTI
         101: 39444,  # Călugăreni Sat  - Com. Ungureni -> CĂLUGĂRENI
         102: 39453,  # Călugărenii Noi Sat  - Com. Ungureni -> CĂLUGĂRENII NOI
@@ -2924,33 +2904,35 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         105: 38090,  # Cătămăreşti Sat  - Com. Mihai Eminescu -> CĂTĂMĂREŞTI
         106: 38107,  # Cătămăreşti-Deal Sat  - Com. Mihai Eminescu -> CĂTĂMĂREŞTI-DEAL
         107: 38474,  # Dacia Sat  - Com. Nicşeni -> DACIA
+        108: 35955,  # Darabani Orş.  -> DARABANI
         109: 39854,  # Davidoaia Sat  - Com. Vorniceni -> DAVIDOAIA
         110: 39863,  # Dealu Crucii Sat  - Com. Vorniceni -> DEALU CRUCII
+        111: 36024,  # Dealu Mare Loc.  - Mun. Dorohoi -> DEALU MARE
         113: 37020,  # Dersca Sat  - Com. Dersca -> DERSCA
         114: 36248,  # Dimitrie Cantemir Sat  - Com. Avrămeni -> DIMITRIE CANTEMIR
         115: 36701,  # Dimăcheni Sat  - Com. Dimăcheni -> DIMĂCHENI
-        # 440: 40045,  # 'Dobrinăuţi-Hapăi Sat  - Com. Vârfu Câmpului' is unknown
         117: 37119,  # Dobârceni Sat  - Com. Dobârceni -> DOBÂRCENI
         118: 38697,  # Doina Sat  - Com. Răuseni -> DOINA
         119: 37896,  # Dolina Sat  - Com. Leorda -> DOLINA
         120: 38483,  # Dorobanţi Sat  - Com. Nicşeni -> DOROBANŢI
+        121: 36015,  # Dorohoi Mun.  -> DOROHOI
         122: 39104,  # Dracşani Sat  - Com. Suliţa -> DRACŞANI
-        124: 37752,  # Dragalina Sat  - Com. Hlipiceni -> DRAGALINA
         123: 36989,  # Dragalina Sat  - Com. Cristineşti -> DRAGALINA
+        124: 37752,  # Dragalina Sat  - Com. Hlipiceni -> DRAGALINA
         125: 36355,  # Draxini Sat  - Com. Băluşeni -> DRAXINI
         126: 39364,  # Drislea Sat  - Com. Truşeşti -> DRISLEA
         128: 37182,  # Drăguşeni Sat  - Com. Drăguşeni -> DRĂGUŞENI
         129: 37841,  # Dumbrăviţa Sat  - Com. Ibăneşti -> DUMBRĂVIŢA
         130: 37404,  # Dumeni Sat  - Com. George Enescu -> DUMENI
-        134: 38946,  # Durneşti Sat  - Com. Santa Mare -> DURNEŞTI
-        133: 39462,  # Durneşti Sat  - Com. Ungureni -> DURNEŞTI
         132: 37226,  # Durneşti Sat  - Com. Durneşti -> DURNEŞTI
+        133: 39462,  # Durneşti Sat  - Com. Ungureni -> DURNEŞTI
+        134: 38946,  # Durneşti Sat  - Com. Santa Mare -> DURNEŞTI
         136: 37066,  # Dângeni Sat  - Com. Dângeni -> DÂNGENI
         137: 38866,  # Dămideni Sat  - Com. Româneşti -> DĂMIDENI
-        # 434: 39998,  # 'Dămileni Sat  - Com. Cristineşti' is unknown
-        406: 35973,  # Eşanca Sat  - Orş. Darabani -> EŞANCA
         138: 37985,  # Flondora Sat  - Com. Manoleasa -> FLONDORA
         139: 39293,  # Floreşti Sat  - Com. Todireni -> FLOREŞTI
+        140: 37299,  # Flămânzi Orş.  -> FLĂMÂNZI
+        141: 37299,  # Flămânzi Loc.  - Orş. Flămânzi -> FLĂMÂNZI
         143: 37333,  # Frumuşica Sat  - Com. Frumuşica -> FRUMUŞICA
         144: 36998,  # Fundu Herţii Sat  - Com. Cristineşti -> FUNDU HERŢII
         145: 37574,  # Galbeni Sat  - Com. Havârna -> GALBENI
@@ -2985,8 +2967,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         182: 39890,  # Icuşeni Sat  - Com. Vorona -> ICUŞENI
         183: 37725,  # Iezer Sat  - Com. Hilişeu-Horia -> IEZER
         184: 38955,  # Ilişeni Sat  - Com. Santa Mare -> ILIŞENI
-        186: 39710,  # Ionăşeni Sat  - Com. Vârfu Câmpului -> IONĂŞENI
         185: 39373,  # Ionăşeni Sat  - Com. Truşeşti -> IONĂŞENI
+        186: 39710,  # Ionăşeni Sat  - Com. Vârfu Câmpului -> IONĂŞENI
         187: 37994,  # Iorga Sat  - Com. Manoleasa -> IORGA
         188: 38072,  # Ipoteşti Sat  - Com. Mihai Eminescu -> IPOTEŞTI
         189: 39319,  # Iureşti Sat  - Com. Todireni -> IUREŞTI
@@ -2998,14 +2980,13 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         196: 36514,  # Libertatea Sat  - Com. Călăraşi -> LIBERTATEA
         197: 37146,  # Livada Sat  - Com. Dobârceni -> LIVADA
         198: 38009,  # Liveni Sat  - Com. Manoleasa -> LIVENI
-        407: 35982,  # Lişmăniţa Sat  - Orş. Darabani -> LISMĂNIŢA
         199: 39015,  # Lişna Sat  - Com. Suharău -> LIŞNA
         200: 38018,  # Loturi Sat  - Com. Manoleasa -> LOTURI
+        201: 36033,  # Loturi Enescu Loc.  - Mun. Dorohoi -> LOTURI ENESCU
         202: 37039,  # Lozna Sat  - Com. Lozna -> LOZNA
-        205: 39729,  # Lunca Sat  - Com. Vârfu Câmpului -> LUNCA
         204: 37921,  # Lunca Sat  - Com. Lunca -> LUNCA
+        205: 39729,  # Lunca Sat  - Com. Vârfu Câmpului -> LUNCA
         206: 38615,  # Lupăria Sat  - Com. Prăjeni -> LUPĂRIA
-        # 439: 40054,  # 'Maghera Sat  - Com. Vârfu Câmpului' is unknown
         208: 37967,  # Manoleasa Sat  - Com. Manoleasa -> MANOLEASA
         209: 38027,  # Manoleasa-Prut Sat  - Com. Manoleasa -> MANOLEASA-PRUT
         210: 38143,  # Manoleşti Sat  - Com. Mihai Eminescu -> MANOLEŞTI
@@ -3027,8 +3008,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         231: 38777,  # Movila Ruptă Sat  - Com. Ripiceni -> MOVILA RUPTĂ
         232: 36550,  # Movileni Sat  - Com. Conceşti -> MOVILENI
         233: 37155,  # Murguţa Sat  - Com. Dobârceni -> MURGUŢA
-        235: 39783,  # Mândreşti Sat  - Com. Vlădeni -> MÂNDREŞTI
         234: 39480,  # Mândreşti Sat  - Com. Ungureni -> MÂNDREŞTI
+        235: 39783,  # Mândreşti Sat  - Com. Vlădeni -> MÂNDREŞTI
         236: 39578,  # Mânăstireni Sat  - Com. Unţeni -> MÂNĂSTIRENI
         237: 35802,  # Mănăstirea Doamnei Sat  - Com. Curteşti -> MĂNĂSTIREA DOAMNEI
         238: 36186,  # Măşcăteni Sat  - Com. Albeşti -> MĂŞCĂTENI
@@ -3036,6 +3017,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         240: 38287,  # Negreşti Sat  - Com. Mihălăşeni -> NEGREŞTI
         241: 36872,  # Nichiteni Sat  - Com. Coţuşca -> NICHITENI
         242: 36881,  # Nicolae Bălcescu Sat  - Com. Coţuşca -> NICOLAE BĂLCESCU
+        243: 38410,  # Nicolae Bălcescu Loc.  - Orş. Flămânzi -> NICOLAE BĂLCESCU
         244: 37592,  # Niculcea Sat  - Com. Havârna -> NICULCEA
         245: 38465,  # Nicşeni Sat  - Com. Nicşeni -> NICŞENI
         247: 38278,  # Năstase Sat  - Com. Mihălăşeni -> NĂSTASE
@@ -3044,7 +3026,6 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         250: 35811,  # Orăşeni-Deal Sat  - Com. Curteşti -> ORĂŞENI-DEAL
         251: 35820,  # Orăşeni-Vale Sat  - Com. Curteşti -> ORĂŞENI-VALE
         252: 36266,  # Panaitoaia Sat  - Com. Avrămeni -> PANAITOAIA
-        404: 36113,  # Petricani Sat  - Orş. Săveni -> PETRICANI
         253: 39033,  # Plevna Sat  - Com. Suharău -> PLEVNA
         254: 36523,  # Pleşani Sat  - Com. Călăraşi -> PLEŞANI
         255: 39499,  # Plopenii Mari Sat  - Com. Ungureni -> PLOPENII MARI
@@ -3053,18 +3034,20 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         258: 37191,  # Podriga Sat  - Com. Drăguşeni -> PODRIGA
         259: 38704,  # Pogorăşti Sat  - Com. Răuseni -> POGORĂŞTI
         260: 36391,  # Poiana Sat  - Com. Brăeşti -> POIANA
+        261: 37315,  # Poiana Loc.  - Orş. Flămânzi -> POIANA
         262: 39916,  # Poiana Sat  - Com. Vorona -> POIANA
         263: 37002,  # Poiana Sat  - Com. Cristineşti -> POIANA
         265: 38553,  # Pomârla Sat  - Com. Pomârla -> POMÂRLA
-        267: 37431,  # Popeni Sat  - Com. George Enescu -> POPENI
         266: 36408,  # Popeni Sat  - Com. Brăeşti -> POPENI
+        267: 37431,  # Popeni Sat  - Com. George Enescu -> POPENI
         268: 38786,  # Popoaia Sat  - Com. Ripiceni -> POPOAIA
         269: 38447,  # Prisăcani Sat  - Orş. Flămânzi -> PRISĂCANI
+        270: 36042,  # Progresul Loc.  - Mun. Dorohoi -> PROGRESUL
         272: 38599,  # Prăjeni Sat  - Com. Prăjeni -> PRĂJENI
-        # 438: 40063,  # 'Pustoaia Sat  - Com. Vârfu Câmpului' is unknown
         273: 36890,  # Puţureni Sat  - Com. Coţuşca -> PUŢURENI
         274: 38205,  # Pârâu Negru Sat  - Com. Mihăileni -> PÂRÂU NEGRU
         275: 36621,  # Pădureni Sat  - Com. Coşula -> PĂDURENI
+        276: 37164,  # Brăteni Sat  - Com. Dobârceni -> BRĂTENI
         277: 39159,  # Pădureni Sat  - Com. Şendriceni -> PĂDURENI
         279: 38508,  # Păltiniş Sat  - Com. Păltiniş -> PĂLTINIŞ
         280: 39382,  # Păsăteni Sat  - Com. Truşeşti -> PĂSĂTENI
@@ -3094,16 +3077,14 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         311: 38884,  # Sarata Sat  - Com. Româneşti -> SĂRATA
         312: 37654,  # Sarata Basarab Sat  - Com. Hăneşti -> SARATA-BASARAB
         313: 37208,  # Sarata Drăguşeni Sat  - Com. Drăguşeni -> SARATA-DRĂGUŞENI
-        405: 36122,  # Sat Nou Sat  - Orş. Săveni -> SAT NOU
         314: 39649,  # Sauceniţa Sat  - Com. Văculeşti -> SAUCENIŢA
         315: 36934,  # Schit-Orăşeni Sat  - Com. Cristeşti -> SCHIT-ORĂŞENI
         316: 38358,  # Scutari Sat  - Com. Mileanca -> SCUTARI
         317: 38367,  # Seliştea Sat  - Com. Mileanca -> SELIŞTEA
         318: 37501,  # Silişcani Sat  - Com. Gorbăneşti -> SILIŞCANI
         319: 35900,  # Siliştea Sat  - Com. Stăuceni -> SILIŞTEA
-        321: 38535,  # Slobozia Sat  - Com. Păltiniş -> SLOBOZIA
         320: 36444,  # Slobozia Sat  - Com. Broscăuţi -> SLOBOZIA
-        # 432: 40009,  # 'Slobozia Sat  - Com. Cordăreni' is unknown
+        321: 38535,  # Slobozia Sat  - Com. Păltiniş -> SLOBOZIA
         322: 37663,  # Slobozia Hăneşti Sat  - Com. Hăneşti -> SLOBOZIA HĂNEŞTI
         323: 38312,  # Slobozia Silişcani Sat  - Com. Mihălăşeni -> SLOBOZIA SILIŞCANI
         324: 39042,  # Smârdan Sat  - Com. Suharău -> SMÂRDAN
@@ -3115,11 +3096,13 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         330: 37930,  # Stroieşti Sat  - Com. Lunca -> STROIEŞTI
         331: 37048,  # Străteni Sat  - Com. Lozna -> STRĂTENI
         332: 37440,  # Stânca Sat  - Com. George Enescu -> STÂNCA
+        333: 39202,  # Stânca Loc.  - Orş. Ştefăneşti -> STÂNCA
         334: 38152,  # Stânceşti Sat  - Com. Mihai Eminescu -> STÂNCEŞTI
         336: 35893,  # Stăuceni Sat  - Com. Stăuceni -> STĂUCENI
         337: 38991,  # Suharău Sat  - Com. Suharău -> SUHARĂU
         339: 39060,  # Suliţa Sat  - Com. Suliţa -> SULIŢA
         341: 39827,  # Sârbi Sat  - Com. Vlăsineşti -> SÂRBI
+        342: 36079,  # Săveni Orş.  -> SĂVENI
         343: 38223,  # Talpa Sat  - Com. Cândeşti -> TALPA
         344: 36275,  # Timuş Sat  - Com. Avrămeni -> TIMUŞ
         345: 35919,  # Tocileni Sat  - Com. Stăuceni -> TOCILENI
@@ -3134,7 +3117,6 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         358: 36943,  # Unguroaia Sat  - Com. Cristeşti -> UNGUROAIA
         360: 39541,  # Unţeni Sat  - Com. Unţeni -> UNŢENI
         361: 39596,  # Valea Grajdului Sat  - Com. Unţeni -> VALEA GRAJDULUI
-        433: 40027,  # Vatra Sat  - Com. Hudeşti -> VATRA
         362: 39523,  # Vicoleni Sat  - Com. Ungureni -> VICOLENI
         363: 35928,  # Victoria Sat  - Com. Stăuceni -> VICTORIA
         364: 37761,  # Victoria Sat  - Com. Hlipiceni -> VICTORIA
@@ -3163,26 +3145,28 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         395: 39131,  # Şendriceni Sat  - Com. Şendriceni -> ŞENDRICENI
         396: 38045,  # Şerpeniţa Sat  - Com. Manoleasa -> ŞERPENIŢA
         397: 39113,  # Şoldăneşti Sat  - Com. Blândeşti -> ŞOLDĂNEŞTI
+        398: 39177,  # Ştefăneşti Orş.  -> ŞTEFĂNEŞTI
+        399: 39177,  # Ştefăneşti Loc.  - Orş. Ştefăneşti -> ŞTEFĂNEŞTI
+        400: 39211,  # Ştefăneşti-Sat Loc.  - Orş. Ştefăneşti -> ŞTEFĂNEŞTI-SAT
         402: 39239,  # Ştiubieni Sat  - Com. Ştiubieni -> ŞTIUBIENI
         403: 36630,  # Şupitca Sat  - Com. Coşula -> ŞUPITCA
+        404: 36113,  # Petricani Sat  - Orş. Săveni -> PETRICANI
+        405: 36122,  # Sat Nou Sat  - Orş. Săveni -> SAT NOU
+        406: 35973,  # Eşanca Sat  - Orş. Darabani -> EŞANCA
+        407: 35982,  # Lişmăniţa Sat  - Orş. Darabani -> LISMĂNIŢA
+        408: 36104,  # Chişcăreni Sat  - Orş. Săveni -> CHIŞCĂRENI
+        409: 36088,  # Bodeasa Sat  - Orş. Săveni -> BODEASA
+        410: 36097,  # Bozieni Sat  - Orş. Săveni -> BOZIENI
+        411: 35964,  # Bajura Sat  - Orş. Darabani -> BAJURA
+        # 432: 40009,  # 'Slobozia Sat  - Com. Cordăreni' is unknown
+        433: 40027,  # Vatra Sat  - Com. Hudeşti -> VATRA
+        # 434: 39998,  # 'Dămileni Sat  - Com. Cristineşti' is unknown
+        # 435: 40018,  # 'Başeu Sat  - Com. Hudeşti' is unknown
+        # 438: 40063,  # 'Pustoaia Sat  - Com. Vârfu Câmpului' is unknown
+        # 439: 40054,  # 'Maghera Sat  - Com. Vârfu Câmpului' is unknown
+        # 440: 40045,  # 'Dobrinăuţi-Hapăi Sat  - Com. Vârfu Câmpului' is unknown
     },
     8: {  # BRAŞOV
-        65: 40410,  # Fişer Loc.  - Orş. Rupea -> FIŞER
-        124: 42432,  # Poiana Braşov Loc.  - Mun. Braşov -> POIANA BRAŞOV
-        133: 40321,  # Pârâul Rece Loc.  - Orş. Predeal -> PÂRÂUL RECE
-        165: 40330,  # Timişu de Jos Loc.  - Orş. Predeal -> TIMIŞU DE JOS
-        166: 40349,  # Timişu de Sus Loc.  - Orş. Predeal -> TIMIŞU DE SUS
-        169: 40517,  # Tohanu Nou Loc.  - Orş. Zărneşti -> TOHANU NOU
-        16: 40205,  # Braşov Mun.  -> BRAŞOV
-        33: 40250,  # Codlea Mun.  -> CODLEA
-        70: 40287,  # Făgăraş Mun.  -> FĂGĂRAŞ
-        157: 40447,  # Săcele Mun.  -> SĂCELE
-        72: 40223,  # Ghimbav Orş.  -> GHIMBAV
-        128: 40312,  # Predeal Orş.  -> PREDEAL
-        144: 40401,  # Rupea Orş.  -> RUPEA
-        146: 40376,  # Râşnov Orş.  -> RÂŞNOV
-        182: 40474,  # Victoria Orş.  -> VICTORIA
-        197: 40508,  # Zărneşti Orş.  -> ZĂRNEŞTI
         1: 42209,  # Acriş Sat  - Com. Vama Buzăului -> ACRIŞ
         3: 40535,  # Apaţa Sat  - Com. Apaţa -> APAŢA
         4: 41408,  # Arini Sat  - Com. Măieruş -> ARINI
@@ -3194,6 +3178,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         12: 41195,  # Bogata Olteana Sat  - Com. Hoghiz -> BOGATA OLTEANĂ
         13: 40562,  # Boholţ Sat  - Com. Beclean -> BOHOLŢ
         15: 40642,  # Bran Sat  - Com. Bran -> BRAN
+        16: 40205,  # Braşov Mun.  -> BRAŞOV
         17: 41364,  # Breaza Sat  - Com. Lisa -> BREAZA
         18: 41872,  # Bucium Sat  - Com. Şinca -> BUCIUM
         20: 40697,  # Budila Sat  - Com. Budila -> BUDILA
@@ -3206,6 +3191,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         30: 40839,  # Cincu Sat  - Com. Cincu -> CINCU
         31: 42325,  # Cincşor Sat  - Com. Voila -> CINCŞOR
         32: 42094,  # Cobor Sat  - Com. Ticuşu -> COBOR
+        33: 40250,  # Codlea Mun.  -> CODLEA
         34: 42414,  # Colonia 1 Mai Sat  - Com. Vulcan -> COLONIA 1 MAI
         35: 40624,  # Colonia Bod Sat  - Com. Bod -> COLONIA BOD
         36: 40973,  # Colonia Reconstrucţia Sat  - Com. Feldioara -> COLONIA RECONSTRUCŢIA
@@ -3233,10 +3219,13 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         61: 40964,  # Feldioara Sat  - Com. Feldioara -> FELDIOARA
         63: 42138,  # Feldioara Sat  - Com. Ucea -> FELDIOARA
         64: 41970,  # Felmer Sat  - Com. Şoarş -> FELMER
+        65: 40410,  # Fişer Loc.  - Orş. Rupea -> FIŞER
         66: 41006,  # Fundata Sat  - Com. Fundata -> FUNDATA
         68: 41015,  # Fundăţica Sat  - Com. Fundata -> FUNDĂŢICA
         69: 41220,  # Fântâna Sat  - Com. Hoghiz -> FÂNTÂNA
+        70: 40287,  # Făgăraş Mun.  -> FĂGĂRAŞ
         71: 40223,  # Ghimbav Sat  - Orş. Ghimbav -> GHIMBAV
+        72: 40223,  # Ghimbav Orş.  -> GHIMBAV
         73: 41596,  # Grid Sat  - Com. Părău -> GRID
         74: 41319,  # Grânari Sat  - Com. Jibert -> GRÂNARI
         75: 41774,  # Gura Văii Sat  - Com. Recea -> GURA VĂII
@@ -3277,11 +3266,14 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         121: 41890,  # Perşani Sat  - Com. Şinca -> PERŞANI
         122: 41532,  # Peştera Sat  - Com. Moieciu -> PEŞTERA
         123: 41104,  # Podu Oltului Sat  - Com. Hărman -> PODU OLTULUI
+        124: 42432,  # Poiana Braşov Loc.  - Mun. Braşov -> POIANA BRAŞOV
         125: 41630,  # Poiana Mărului Sat  - Com. Poiana Mărului -> POIANA MĂRULUI
         127: 41373,  # Pojorta Sat  - Com. Lisa -> POJORTA
+        128: 40312,  # Predeal Orş.  -> PREDEAL
         129: 40651,  # Predeluţ Sat  - Com. Bran -> PREDELUŢ
         130: 41676,  # Prejmer Sat  - Com. Prejmer -> PREJMER
         132: 42030,  # Purcăreni Sat  - Com. Tărlungeni -> PURCĂRENI
+        133: 40321,  # Pârâul Rece Loc.  - Orş. Predeal -> PÂRÂUL RECE
         134: 41587,  # Părău Sat  - Com. Părău -> PĂRĂU
         136: 41710,  # Racoş Sat  - Com. Racoş -> RACOŞ
         138: 41747,  # Recea Sat  - Com. Recea -> RECEA
@@ -3289,7 +3281,9 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         141: 41989,  # Rodbav Sat  - Com. Şoarş -> RODBAV
         142: 40982,  # Rotbav Sat  - Com. Feldioara -> ROTBAV
         143: 42272,  # Rucăr Sat  - Com. Viştea -> RUCĂR
+        144: 40401,  # Rupea Orş.  -> RUPEA
         145: 41444,  # Râuşor Sat  - Com. Mândra -> RÂUŞOR
+        146: 40376,  # Râşnov Orş.  -> RÂŞNOV
         147: 41079,  # Satu Nou Sat  - Com. Hălchiu -> SATU NOU
         148: 41168,  # Sebeş Sat  - Com. Hârseni -> SEBEŞ
         149: 41998,  # Seliştat Sat  - Com. Şoarş -> SELIŞTAT
@@ -3299,13 +3293,17 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         153: 42352,  # Sâmbăta de Jos Sat  - Com. Voila -> SÂMBĂTA DE JOS
         154: 42361,  # Sâmbăta de Sus Sat  - Com. Sâmbăta de Sus -> SÂMBĂTA DE SUS
         155: 41934,  # Sânpetru Sat  - Com. Sânpetru -> SÂNPETRU
+        157: 40447,  # Săcele Mun.  -> SĂCELE
         158: 41792,  # Săsciori Sat  - Com. Recea -> SĂSCIORI
         159: 41809,  # Săvăstreni Sat  - Com. Recea -> SĂVĂSTRENI
         160: 42067,  # Teliu Sat  - Com. Teliu -> TELIU
         163: 40893,  # Ticuşu Nou Sat  - Com. Comana -> TICUŞU NOU
         164: 42085,  # Ticuşu Vechi Sat  - Com. Ticuşu -> TICUŞU VECHI
+        165: 40330,  # Timişu de Jos Loc.  - Orş. Predeal -> TIMIŞU DE JOS
+        166: 40349,  # Timişu de Sus Loc.  - Orş. Predeal -> TIMIŞU DE SUS
         167: 40848,  # Toarcla Sat  - Com. Cincu -> TOARCLA
         168: 41462,  # Toderiţa Sat  - Com. Mândra -> TODERIŢA
+        169: 40517,  # Tohanu Nou Loc.  - Orş. Zărneşti -> TOHANU NOU
         170: 42012,  # Tărlungeni Sat  - Com. Tărlungeni -> TĂRLUNGENI
         173: 42110,  # Ucea de Jos Sat  - Com. Ucea -> UCEA DE JOS
         174: 42147,  # Ucea de Sus Sat  - Com. Ucea -> UCEA DE SUS
@@ -3314,6 +3312,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         178: 42192,  # Vama Buzăului Sat  - Com. Vama Buzăului -> VAMA BUZĂULUI
         180: 41603,  # Veneţia de Jos Sat  - Com. Părău -> VENEŢIA DE JOS
         181: 41612,  # Veneţia de Sus Sat  - Com. Părău -> VENEŢIA DE SUS
+        182: 40474,  # Victoria Orş.  -> VICTORIA
         183: 40759,  # Viscri Sat  - Com. Buneşti -> VISCRI
         185: 42245,  # Viştea de Jos Sat  - Com. Viştea -> VIŞTEA DE JOS
         186: 42281,  # Viştea de Sus Sat  - Com. Viştea -> VIŞTEA DE SUS
@@ -3325,6 +3324,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         194: 41916,  # Vâlcea Sat  - Com. Şinca -> VÂLCEA
         195: 41337,  # Văleni Sat  - Com. Jibert -> VĂLENI
         196: 42049,  # Zizin Sat  - Com. Tărlungeni -> ZIZIN
+        197: 40508,  # Zărneşti Orş.  -> ZĂRNEŞTI
         198: 41827,  # Şercaia Sat  - Com. Şercaia -> ŞERCAIA
         200: 41907,  # Şercăiţa Sat  - Com. Şinca -> ŞERCĂIŢA
         201: 40679,  # Şimon Sat  - Com. Bran -> ŞIMON
@@ -3335,10 +3335,6 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         208: 41453,  # Şona Sat  - Com. Mândra -> ŞONA
     },
     9: {  # BRĂILA
-        15: 42691,  # Brăila Mun.  -> BRĂILA
-        56: 42762,  # Făurei Orş.  -> FĂUREI
-        73: 43340,  # Ianca Orş.  -> IANCA
-        181: 43420,  # Însurăţei Orş.  -> ÎNSURĂŢEI
         1: 43135,  # Agaua Sat  - Com. Frecăţei -> AGAUA
         2: 44195,  # Albina Sat  - Com. Tichileşti -> ALBINA
         3: 43885,  # Ariciu Sat  - Com. Salcia Tudor -> ARICIU
@@ -3351,6 +3347,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         12: 42922,  # Bordei Verde Sat  - Com. Bordei Verde -> BORDEI VERDE
         13: 42799,  # Brateşu Vechi Sat  - Com. Surdila-Greci -> BRATEŞU VECHI
         14: 43484,  # Brădeanca Sat  - Com. Jirlău -> BRĂDEANCA
+        15: 42691,  # Brăila Mun.  -> BRĂILA
         16: 43091,  # Bumbăcari Sat  - Com. Dudeşti -> BUMBĂCARI
         17: 43518,  # Băndoiu Sat  - Com. Măraşu -> BĂNDOIU
         19: 42833,  # Bărăganul Sat  - Com. Bărăganul -> BĂRĂGANUL
@@ -3371,8 +3368,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         37: 44015,  # Cotu Lung Sat  - Com. Siliştea -> COTU LUNG
         38: 44024,  # Cotu Mihalea Sat  - Com. Siliştea -> COTU MIHALEA
         39: 43723,  # Custura Sat  - Com. Racoviţa -> CUSTURA
-        41: 44088,  # Cuza Vodă Sat  - Com. Stăncuţa -> CUZA VODĂ
         40: 43894,  # Cuza Vodă Sat  - Com. Salcia Tudor -> CUZA VODĂ
+        41: 44088,  # Cuza Vodă Sat  - Com. Stăncuţa -> CUZA VODĂ
         42: 44480,  # Câineni-Băi Sat  - Com. Vişani -> CÂINENI-BĂI
         43: 44220,  # Căldăruşa Sat  - Com. Traian -> CĂLDĂRUŞA
         44: 43643,  # Deduleşti Sat  - Com. Mircea Vodă -> DEDULEŞTI
@@ -3385,6 +3382,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         52: 42940,  # Filiu Sat  - Com. Bordei Verde -> FILIU
         53: 43849,  # Florica Sat  - Com. Roşiori -> FLORICA
         54: 43126,  # Frecăţei Sat  - Com. Frecăţei -> FRECĂŢEI
+        56: 42762,  # Făurei Orş.  -> FĂUREI
         57: 42806,  # Făurei Sat Sat  - Com. Surdila-Greci -> FĂUREI-SAT
         58: 43199,  # Galbenu Sat  - Com. Galbenu -> GALBENU
         60: 43368,  # Gara Ianca Sat  - Orş. Ianca -> GARA IANCA
@@ -3397,6 +3395,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         70: 43956,  # Gurguieţi Sat  - Com. Scorţaru Nou -> GURGUIEŢI
         71: 43260,  # Găvani Sat  - Com. Gemenele -> GĂVANI
         72: 42815,  # Horia Sat  - Com. Surdila-Greci -> HORIA
+        73: 43340,  # Ianca Orş.  -> IANCA
         74: 43297,  # Ibrianu Sat  - Com. Grădiştea -> IBRIANU
         75: 43046,  # Ioneşti Sat  - Com. Cireşu -> IONEŞTI
         76: 43475,  # Jirlău Sat  - Com. Jirlău -> JIRLĂU
@@ -3477,16 +3476,11 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         176: 43233,  # Zamfireşti Sat  - Com. Galbenu -> ZAMFIREŞTI
         177: 44541,  # Zăvoaia Sat  - Com. Zăvoaia -> ZĂVOAIA
         179: 44159,  # Şuţeşti Sat  - Com. Şuţeşti -> ŞUŢEŞTI
+        181: 43420,  # Însurăţei Orş.  -> ÎNSURĂŢEI
         182: 43689,  # Ţepeş Vodă Sat  - Com. Movila Miresii -> ŢEPEŞ VODĂ
         183: 43554,  # Ţăcău Sat  - Com. Măraşu -> ŢĂCĂU
     },
     10: {  # BUZĂU
-        148: 48762,  # Căldărăşti Loc.  - Orş. Pogoanele -> CĂLDĂRĂŞTI
-        55: 44827,  # Buzău Mun.  -> BUZĂU
-        412: 44854,  # Râmnicu Sărat Mun.  -> RÂMNICU SĂRAT
-        313: 47925,  # Nehoiu Orş.  -> NEHOIU
-        363: 48753,  # Pogoanele Orş.  -> POGOANELE
-        396: 48334,  # Pătârlagele Orş.  -> PĂTÂRLAGELE
         1: 49563,  # Albeşti Sat  - Com. Smeeni -> ALBEŞTI
         2: 46037,  # Aldeni Sat  - Com. Cernăteşti -> ALDENI
         3: 45691,  # Alexandru Odobescu Sat  - Com. Buda -> ALEXANDRU ODOBESCU
@@ -3529,6 +3523,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         52: 46509,  # Budişteni Sat  - Com. Costeşti -> BUDIŞTENI
         53: 48940,  # Budrea Sat  - Com. Racoviţeni -> BUDREA
         54: 45405,  # Buduile Sat  - Com. Bozioru -> BUDUILE
+        55: 44827,  # Buzău Mun.  -> BUZĂU
         56: 47667,  # Buştea Sat  - Com. Mânzăleşti -> BUŞTEA
         57: 45842,  # Bâlhacu Sat  - Com. C. A. Rosetti -> BÂLHACU
         58: 46206,  # Bâsca Chiojdului Sat  - Com. Chiojdu -> BÂSCA CHIOJDULUI
@@ -3585,8 +3580,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         119: 49509,  # Colţu Pietrii Sat  - Com. Siriu -> COLŢU PIETRII
         120: 47596,  # Colţăneni Sat  - Com. Mihăileşti -> COLŢĂNENI
         121: 50433,  # Comisoaia Sat  - Com. Zărneşti -> COMISOAIA
-        123: 46965,  # Corbu Sat  - Com. Glodeanu-Siliştea -> CORBU
         122: 45977,  # Corbu Sat  - Com. Cătina -> CORBU
+        123: 46965,  # Corbu Sat  - Com. Glodeanu-Siliştea -> CORBU
         124: 48058,  # Corneanu Sat  - Com. Odăile -> CORNEANU
         126: 46493,  # Costeşti Sat  - Com. Costeşti -> COSTEŞTI
         127: 50497,  # Costieni Sat  - Com. Ziduri -> COSTIENI
@@ -3609,6 +3604,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         145: 50148,  # Cârlomăneşti Sat  - Com. Verneşti -> CÂRLOMĂNEŞTI
         146: 46055,  # Căldăruşa Sat  - Com. Cernăteşti -> CĂLDĂRUŞA
         147: 46885,  # Căldăruşeanca Sat  - Com. Glodeanu Sărat -> CĂLDĂRUŞEANCA
+        148: 48762,  # Căldărăşti Loc.  - Orş. Pogoanele -> CĂLDĂRĂŞTI
         149: 49581,  # Călţuna Sat  - Com. Smeeni -> CĂLŢUNA
         150: 45897,  # Căneşti Sat  - Com. Căneşti -> CĂNEŞTI
         152: 47391,  # Căpăţâneşti Sat  - Com. Mărăcineni -> CĂPĂŢÂNEŞTI
@@ -3710,8 +3706,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         258: 47195,  # Lopătari Sat  - Com. Lopătari -> LOPĂTARI
         259: 45281,  # Lopătăreasa Sat  - Com. Bisoca -> LOPĂTĂREASA
         261: 47319,  # Luciu Sat  - Com. Luciu -> LUCIU
-        263: 45860,  # Lunca Sat  - Com. C. A. Rosetti -> LUNCA
         262: 44916,  # Lunca Sat  - Com. Amaru -> LUNCA
+        263: 45860,  # Lunca Sat  - Com. C. A. Rosetti -> LUNCA
         264: 48389,  # Lunca Sat  - Orş. Pătârlagele -> LUNCA
         265: 48879,  # Lunca Sat  - Com. Puieşti -> LUNCA
         266: 48593,  # Lunca Frumoasă Sat  - Com. Pârscov -> LUNCA FRUMOASĂ
@@ -3720,6 +3716,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         269: 47220,  # Luncile Sat  - Com. Lopătari -> LUNCILE
         270: 46661,  # Lungeşti Sat  - Com. Cozieni -> LUNGEŞTI
         271: 46073,  # Manasia Sat  - Com. Cernăteşti -> MANASIA
+        272: 49224,  # Măteşti Sat  - Com. Săpoca -> MĂTEŞTI
         273: 49867,  # Maxenu Sat  - Com. Ţinteşti -> MAXENU
         274: 47462,  # Merei Sat  - Com. Merei -> MEREI
         276: 50157,  # Mierea Sat  - Com. Verneşti -> MIEREA
@@ -3750,9 +3747,9 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         307: 45085,  # Mărgăriţi Sat  - Com. Beceni -> MĂRGĂRIŢI
         308: 48398,  # Mărunţişu Sat  - Orş. Pătârlagele -> MĂRUNŢIŞU
         309: 47382,  # Mărăcineni Sat  - Com. Mărăcineni -> MĂRĂCINENI
-        272: 49224,  # Măteşti Sat  - Com. Săpoca -> MĂTEŞTI
         311: 45913,  # Negoşina Sat  - Com. Căneşti -> NEGOŞINA
         312: 47989,  # Nehoiaşu Sat  - Orş. Nehoiu -> NEHOIAŞU
+        313: 47925,  # Nehoiu Orş.  -> NEHOIU
         314: 47104,  # Nemertea Sat  - Com. Gura Teghii -> NEMERTEA
         315: 50166,  # Nenciu Sat  - Com. Verneşti -> NENCIU
         316: 47532,  # Nenciuleşti Sat  - Com. Merei -> NENCIULEŞTI
@@ -3765,7 +3762,6 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         324: 49876,  # Odaia Banului Sat  - Com. Ţinteşti -> ODAIA BANULUI
         325: 48030,  # Odăile Sat  - Com. Odăile -> ODĂILE
         327: 47541,  # Ogrăzile Sat  - Com. Merei -> OGRĂZILE
-        # 577: 50558,  # 'Ojasca Sat  - Com. Unguriu' is unknown
         328: 45806,  # Olari Sat  - Com. Calvini -> OLARI
         329: 48600,  # Oleşeşti Sat  - Com. Pârscov -> OLEŞEŞTI
         330: 48717,  # Oratia Sat  - Com. Podgoria -> ORATIA
@@ -3797,6 +3793,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         359: 48691,  # Podgoria Sat  - Com. Podgoria -> PODGORIA
         361: 50291,  # Podu Muncii Sat  - Com. Vintilă Vodă -> PODU MUNCII
         362: 46242,  # Poeniţele Sat  - Com. Chiojdu -> POENIŢELE
+        363: 48753,  # Pogoanele Orş.  -> POGOANELE
         364: 49885,  # Pogonele Sat  - Com. Ţinteşti -> POGONELE
         365: 46162,  # Poiana Pletari Sat  - Com. Chiliile -> POIANA PLETARI
         366: 47729,  # Poiana Vâlcului Sat  - Com. Mânzăleşti -> POIANA VÂLCULUI
@@ -3806,8 +3803,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         370: 47266,  # Potecu Sat  - Com. Lopătari -> POTECU
         371: 47408,  # Potoceni Sat  - Com. Mărăcineni -> POTOCENI
         372: 48815,  # Potârnicheşti Sat  - Com. Poşta Câlnău -> POTÂRNICHEŞTI
-        374: 49821,  # Poşta Sat  - Com. Topliceni -> POŞTA
         373: 46304,  # Poşta Sat  - Com. Cilibia -> POŞTA
+        374: 49821,  # Poşta Sat  - Com. Topliceni -> POŞTA
         375: 48780,  # Poşta Câlnău Sat  - Com. Poşta Câlnău -> POŞTA CÂLNĂU
         377: 47890,  # Proşca Sat  - Com. Năeni -> PROŞCA
         378: 50442,  # Pruneni Sat  - Com. Zărneşti -> PRUNENI
@@ -3825,6 +3822,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         392: 47113,  # Păltiniş Sat  - Com. Gura Teghii -> PĂLTINIŞ
         393: 48236,  # Pănătău Sat  - Com. Pănătău -> PĂNĂTĂU
         395: 48334,  # Pătârlagele Sat  - Orş. Pătârlagele -> PĂTÂRLAGELE
+        396: 48334,  # Pătârlagele Orş.  -> PĂTÂRLAGELE
         397: 48931,  # Racoviţeni Sat  - Com. Racoviţeni -> RACOVIŢENI
         399: 45307,  # Recea Sat  - Com. Bisoca -> RECEA
         400: 49028,  # Robeasca Sat  - Com. Robeasca -> ROBEASCA
@@ -3836,6 +3834,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         407: 50362,  # Ruşavăţ Sat  - Com. Vipereşti -> RUŞAVĂŢ
         408: 49055,  # Ruşeţu Sat  - Com. Ruşeţu -> RUŞEŢU
         410: 48977,  # Râmnicelu Sat  - Com. Râmnicelu -> RÂMNICELU
+        412: 44854,  # Râmnicu Sărat Mun.  -> RÂMNICU SĂRAT
         413: 48281,  # Râpile Sat  - Com. Pănătău -> RÂPILE
         414: 49830,  # Răduceşti Sat  - Com. Topliceni -> RĂDUCEŞTI
         415: 45192,  # Răteşti Sat  - Com. Berca -> RĂTEŞTI
@@ -3970,35 +3969,16 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         565: 49000,  # Ştiubei Sat  - Com. Râmnicelu -> ŞTIUBEI
         566: 45931,  # Şuchea Sat  - Com. Căneşti -> ŞUCHEA
         567: 49858,  # Ţinteşti Sat  - Com. Ţinteşti -> ŢINTEŞTI
+        # 577: 50558,  # 'Ojasca Sat  - Com. Unguriu' is unknown
     },
     11: {  # CARAŞ-SEVERIN
-        61: 51136,  # Ciclova Montana Loc.  - Orş. Oraviţa -> CICLOVA MONTANĂ
-        65: 51225,  # Cireşa Loc.  - Orş. Oţelu Roşu -> CIREŞA
-        93: 50825,  # Cuptoare Loc.  - Mun. Reşiţa -> CUPTOARE
-        96: 50816,  # Câlnic Loc.  - Mun. Reşiţa -> CÂLNIC
-        117: 50834,  # Doman Loc.  - Mun. Reşiţa -> DOMAN
-        168: 51038,  # Jupa Loc.  - Mun. Caransebeş -> JUPA
-        190: 51145,  # Marila Loc.  - Orş. Oraviţa -> MARILA
-        201: 51083,  # Moldova Veche Loc.  - Orş. Moldova Nouă -> MOLDOVA VECHE
-        202: 51092,  # Moldoviţa Loc.  - Orş. Moldova Nouă -> MOLDOVIŢA
-        205: 51074,  # Măceşti Loc.  - Orş. Moldova Nouă -> MĂCEŞTI
-        227: 50941,  # Pecinişca Loc.  - Orş. Băile Herculane -> PECINIŞCA
-        289: 50843,  # Secu Loc.  - Mun. Reşiţa -> SECU
-        302: 50905,  # Steierdorf Loc.  - Orş. Anina -> STEIERDORF
-        314: 50852,  # Ţerova Loc.  - Mun. Reşiţa -> ŢEROVA
-        264: 50807,  # Reşiţa Mun.  -> REŞIŢA
-        57: 51029,  # Caransebeş Mun.  -> CARANSEBEŞ
-        3: 50898,  # Anina Orş.  -> ANINA
-        20: 50978,  # Bocşa Orş.  -> BOCŞA
-        50: 50932,  # Băile Herculane Orş.  -> BĂILE HERCULANE
-        200: 51065,  # Moldova Nouă Orş.  -> MOLDOVA NOUĂ
-        223: 51127,  # Oraviţa Orş.  -> ORAVIŢA
-        224: 51216,  # Oţelu Roşu Orş.  -> OŢELU ROŞU
         1: 54680,  # 23 August Sat  - Com. Zăvoi -> 23 AUGUST
         2: 51154,  # Agadici Sat  - Orş. Oraviţa -> AGADICI
+        3: 50898,  # Anina Orş.  -> ANINA
         4: 51644,  # Apadia Sat  - Com. Brebu -> APADIA
         5: 51252,  # Armeniş Sat  - Com. Armeniş -> ARMENIŞ
         7: 52188,  # Arsuri Sat  - Com. Cornereva -> ARSURI
+        8: 51314,  # Bănia Sat  - Com. Bănia -> BĂNIA
         10: 54127,  # Baziaş Sat  - Com. Socol -> BAZIAŞ
         11: 53531,  # Belobreşca Sat  - Com. Pojejena -> BELOBREŞCA
         12: 51396,  # Berlişte Sat  - Com. Berlişte -> BERLIŞTE
@@ -4006,6 +3986,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         16: 51519,  # Berzovia Sat  - Com. Berzovia -> BERZOVIA
         18: 51467,  # Bigăr Sat  - Com. Berzasca -> BIGĂR
         19: 52678,  # Biniş Sat  - Com. Doclin -> BINIŞ
+        20: 50978,  # Bocşa Orş.  -> BOCŞA
         21: 53817,  # Bogodinţ Sat  - Com. Sasca Montană -> BOGODINŢ
         22: 52197,  # Bogâltin Sat  - Com. Cornereva -> BOGÂLTIN
         23: 52605,  # Boina Sat  - Com. Dalboşeţ -> BOINA
@@ -4029,15 +4010,19 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         46: 51760,  # Bucoşniţa Sat  - Com. Bucoşniţa -> BUCOŞNIŢA
         48: 52598,  # Bârz Sat  - Com. Dalboşeţ -> BÂRZ
         49: 54403,  # Bârza Sat  - Com. Topleţ -> BÂRZA
-        8: 51314,  # Bănia Sat  - Com. Bănia -> BĂNIA
+        50: 50932,  # Băile Herculane Orş.  -> BĂILE HERCULANE
         51: 53657,  # Bărbosu Sat  - Com. Ramna -> BĂRBOSU
         52: 51341,  # Băuţar Sat  - Com. Băuţar -> BĂUŢAR
         54: 52222,  # Camena Sat  - Com. Cornereva -> CAMENA
         55: 53880,  # Cameniţa Sat  - Com. Sicheviţa -> CAMENIŢA
+        56: 52749,  # Cănicea Sat  - Com. Domaşnea -> CĂNICEA
+        57: 51029,  # Caransebeş Mun.  -> CARANSEBEŞ
         58: 51813,  # Caraşova Sat  - Com. Caraşova -> CARAŞOVA
         60: 54449,  # Cicleni Sat  - Com. Turnu Ruieni -> CICLENI
+        61: 51136,  # Ciclova Montana Loc.  - Orş. Oraviţa -> CICLOVA MONTANĂ
         62: 51957,  # Ciclova Română Sat  - Com. Ciclova Română -> CICLOVA ROMÂNĂ
         64: 54591,  # Ciortea Sat  - Com. Vrani -> CIORTEA
+        65: 51225,  # Cireşa Loc.  - Orş. Oţelu Roşu -> CIREŞA
         66: 52231,  # Cireşel Sat  - Com. Cornereva -> CIREŞEL
         67: 51993,  # Ciuchici Sat  - Com. Ciuchici -> CIUCHICI
         69: 52044,  # Ciudanoviţa Sat  - Com. Ciudanoviţa -> CIUDANOVIŢA
@@ -4058,14 +4043,15 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         90: 52277,  # Cracu Teiului Sat  - Com. Cornereva -> CRACU TEIULUI
         91: 53915,  # Cruşoviţa Sat  - Com. Sicheviţa -> CRUŞOVIŢA
         92: 52133,  # Cruşovăţ Sat  - Com. Cornea -> CRUŞOVĂŢ
+        93: 50825,  # Cuptoare Loc.  - Mun. Reşiţa -> CUPTOARE
         94: 52142,  # Cuptoare Sat  - Com. Cornea -> CUPTOARE
         95: 53924,  # Curmătura Sat  - Com. Sicheviţa -> CURMĂTURA
+        96: 50816,  # Câlnic Loc.  - Mun. Reşiţa -> CÂLNIC
         97: 54136,  # Câmpia Sat  - Com. Socol -> CÂMPIA
         98: 54323,  # Cârnecea Sat  - Com. Ticvaniu Mare -> CÂRNECEA
         99: 54181,  # Cârşa Roşie Sat  - Com. Şopotu Nou -> CÂRŞA ROŞIE
         100: 53899,  # Cârşie Sat  - Com. Sicheviţa -> CÂRŞIE
         101: 52712,  # Călina Sat  - Com. Dognecea -> CALINA
-        56: 52749,  # Cănicea Sat  - Com. Domaşnea -> CĂNICEA
         102: 51859,  # Cărbunari Sat  - Com. Cărbunari -> CĂRBUNARI
         104: 51886,  # Căvăran Sat  - Com. Constantin Daicoviciu -> CĂVĂRAN
         105: 52589,  # Dalboşeţ Sat  - Com. Dalboşeţ -> DALBOŞEŢ
@@ -4077,6 +4063,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         112: 52669,  # Doclin Sat  - Com. Doclin -> DOCLIN
         114: 52703,  # Dognecea Sat  - Com. Dognecea -> DOGNECEA
         116: 52295,  # Dolina Sat  - Com. Cornereva -> DOLINA
+        117: 50834,  # Doman Loc.  - Mun. Reşiţa -> DOMAN
         118: 52730,  # Domaşnea Sat  - Com. Domaşnea -> DOMAŞNEA
         120: 51485,  # Drencova Sat  - Com. Berzasca -> DRENCOVA
         121: 54190,  # Driştie Sat  - Com. Şopotu Nou -> DRIŞTIE
@@ -4117,6 +4104,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         165: 54564,  # Izgar Sat  - Com. Vermeş -> IZGAR
         166: 52348,  # Izvor Sat  - Com. Cornereva -> IZVOR
         167: 52053,  # Jitin Sat  - Com. Ciudanoviţa -> JITIN
+        168: 51038,  # Jupa Loc.  - Mun. Caransebeş -> JUPA
         169: 53363,  # Lescoviţa Sat  - Com. Naidăş -> LESCOVIŢA
         170: 53951,  # Liborajdea Sat  - Com. Sicheviţa -> LIBORAJDEA
         171: 51715,  # Lindenfeld Sat  - Com. Buchin -> LINDENFELD
@@ -4133,6 +4121,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         186: 52151,  # Macovişte Sat  - Com. Cornea -> MACOVIŞTE
         187: 51234,  # Mal Sat  - Orş. Oţelu Roşu -> MAL
         188: 53229,  # Marga Sat  - Com. Marga -> MARGA
+        190: 51145,  # Marila Loc.  - Orş. Oraviţa -> MARILA
         191: 53979,  # Martinovăţ Sat  - Com. Sicheviţa -> MARTINOVĂŢ
         192: 53283,  # Mehadia Sat  - Com. Mehadia -> MEHADIA
         194: 53336,  # Mehadica Sat  - Com. Mehadica -> MEHADICA
@@ -4140,8 +4129,12 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         197: 52375,  # Mesteacăn Sat  - Com. Cornereva -> MESTEACĂN
         198: 51412,  # Milcoveni Sat  - Com. Berlişte -> MILCOVENI
         199: 53121,  # Moceriş Sat  - Com. Lăpuşnicu Mare -> MOCERIŞ
+        200: 51065,  # Moldova Nouă Orş.  -> MOLDOVA NOUĂ
+        201: 51083,  # Moldova Veche Loc.  - Orş. Moldova Nouă -> MOLDOVA VECHE
+        202: 51092,  # Moldoviţa Loc.  - Orş. Moldova Nouă -> MOLDOVIŢA
         203: 50861,  # Moniom Sat  - Mun. Reşiţa -> MONIOM
         204: 51902,  # Mâtnicu Mare Sat  - Com. Constantin Daicoviciu -> MÂTNICU MARE
+        205: 51074,  # Măceşti Loc.  - Orş. Moldova Nouă -> MĂCEŞTI
         206: 54635,  # Măgura Sat  - Com. Zăvoi -> MĂGURA
         207: 54644,  # Măru Sat  - Com. Zăvoi -> MĂRU
         208: 53256,  # Măureni Sat  - Com. Măureni -> MĂURENI
@@ -4155,7 +4148,11 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         220: 53988,  # Ogaşu Podului Sat  - Com. Sicheviţa -> OGAŞU PODULUI
         221: 52080,  # Ohaba-Mâtnic Sat  - Com. Copăcele -> OHABA-MÂTNIC
         222: 53461,  # Ohabiţa Sat  - Com. Păltiniş -> OHABIŢA
+        223: 51127,  # Oraviţa Orş.  -> ORAVIŢA
+        224: 51216,  # Oţelu Roşu Orş.  -> OŢELU ROŞU
         225: 52927,  # Padina Matei Sat  - Com. Gârnic -> PADINA MATEI
+        226: 53611,  # Pătaş Sat  - Com. Prigor -> PĂTAŞ
+        227: 50941,  # Pecinişca Loc.  - Orş. Băile Herculane -> PECINIŞCA
         228: 53050,  # Petnic Sat  - Com. Iablaniţa -> PETNIC
         229: 52026,  # Petrilova Sat  - Com. Ciuchici -> PETRILOVA
         230: 51788,  # Petroşniţa Sat  - Com. Bucoşniţa -> PETROŞNIŢA
@@ -4177,18 +4174,18 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         248: 51920,  # Prisaca Sat  - Com. Constantin Daicoviciu -> PRISACA
         249: 52437,  # Prisacina Sat  - Com. Cornereva -> PRISACINA
         250: 51733,  # Prisian Sat  - Com. Buchin -> PRISIAN
-        252: 52623,  # Prislop Sat  - Com. Dalboşeţ -> PRISLOP
         251: 52446,  # Prislop Sat  - Com. Cornereva -> PRISLOP
+        252: 52623,  # Prislop Sat  - Com. Dalboşeţ -> PRISLOP
         253: 53620,  # Putna Sat  - Com. Prigor -> PUTNA
         254: 54145,  # Pârneaura Sat  - Com. Socol -> PÂRNEAURA
         255: 53087,  # Pârvova Sat  - Com. Lăpuşnicel -> PÂRVOVA
         256: 53434,  # Păltiniş Sat  - Com. Păltiniş -> PĂLTINIŞ
-        226: 53611,  # Pătaş Sat  - Com. Prigor -> PĂTAŞ
         258: 53559,  # Radimna Sat  - Com. Pojejena -> RADIMNA
         259: 53194,  # Rafnic Sat  - Com. Lupac -> RAFNIC
         260: 53648,  # Ramna Sat  - Com. Ramna -> RAMNA
         262: 54216,  # Ravensca Sat  - Com. Şopotu Nou -> RAVENSCA
         263: 52829,  # Remetea-Pogănici Sat  - Com. Fârliug -> REMETEA-POGĂNICI
+        264: 50807,  # Reşiţa Mun.  -> REŞIŢA
         265: 52632,  # Reşiţa Mică Sat  - Com. Dalboşeţ -> REŞIŢA MICĂ
         266: 53470,  # Rugi Sat  - Com. Păltiniş -> RUGI
         267: 52099,  # Ruginosu Sat  - Com. Copăcele -> RUGINOSU
@@ -4209,6 +4206,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         286: 51289,  # Sat Bătrân Sat  - Com. Armeniş -> SAT BĂTRÂN
         287: 52838,  # Scăiuş Sat  - Com. Fârliug -> SCĂIUŞ
         288: 52464,  # Scărişoara Sat  - Com. Cornereva -> SCĂRIŞOARA
+        289: 50843,  # Secu Loc.  - Mun. Reşiţa -> SECU
         290: 54332,  # Secăşeni Sat  - Com. Ticvaniu Mare -> SECĂŞENI
         291: 53504,  # Sfânta Elena Sat  - Com. Coronini -> SFÂNTA ELENA
         292: 53862,  # Sicheviţa Sat  - Com. Sicheviţa -> SICHEVIŢA
@@ -4217,6 +4215,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         297: 52776,  # Soceni Sat  - Com. Ezeriş -> SOCENI
         298: 54118,  # Socol Sat  - Com. Socol -> SOCOL
         300: 51975,  # Socolari Sat  - Com. Ciclova Română -> SOCOLARI
+        301: 53265,  # Şoşdea Sat  - Com. Măureni -> ŞOŞDEA
+        302: 50905,  # Steierdorf Loc.  - Orş. Anina -> STEIERDORF
         303: 53997,  # Streneac Sat  - Com. Sicheviţa -> STRENEAC
         304: 52473,  # Strugasca Sat  - Com. Cornereva -> STRUGASCA
         305: 52482,  # Studena Sat  - Com. Cornereva -> STUDENA
@@ -4227,6 +4227,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         310: 52892,  # Surducu Mare Sat  - Com. Forotic -> SURDUCU MARE
         311: 53773,  # Sălbăgelu Nou Sat  - Com. Sacu -> SĂLBĂGELU NOU
         312: 54289,  # Teregova Sat  - Com. Teregova -> TEREGOVA
+        314: 50852,  # Ţerova Loc.  - Mun. Reşiţa -> ŢEROVA
         315: 54314,  # Ticvaniu Mare Sat  - Com. Ticvaniu Mare -> TICVANIU MARE
         317: 54341,  # Ticvaniu Mic Sat  - Com. Ticvaniu Mare -> TICVANIU MIC
         318: 53782,  # Tincova Sat  - Com. Sacu -> TINCOVA
@@ -4276,18 +4277,12 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         370: 54626,  # Zăvoi Sat  - Com. Zăvoi -> ZĂVOI
         372: 54172,  # Şopotu Nou Sat  - Com. Şopotu Nou -> ŞOPOTU NOU
         374: 52641,  # Şopotu Vechi Sat  - Com. Dalboşeţ -> ŞOPOTU VECHI
-        301: 53265,  # Şoşdea Sat  - Com. Măureni -> ŞOŞDEA
         375: 51868,  # Ştinăpari Sat  - Com. Cărbunari -> ŞTINĂPARI
         376: 53096,  # Şumiţa Sat  - Com. Lăpuşnicel -> ŞUMIŢA
         377: 53568,  # Şuşca Sat  - Com. Pojejena -> ŞUŞCA
         378: 52525,  # Ţaţu Sat  - Com. Cornereva -> ŢAŢU
     },
     51: {  # CĂLĂRAŞI
-        41: 92578,  # Călăraşi Mun.  -> CĂLĂRAŞI
-        120: 100629,  # Olteniţa Mun.  -> OLTENIŢA
-        14: 101467,  # Budeşti Orş.  -> BUDEŞTI
-        71: 103041,  # Fundulea Orş.  -> FUNDULEA
-        92: 93897,  # Lehliu-Gară Orş.  -> LEHLIU-GARĂ
         1: 103050,  # Alexandru I. Cuza Sat  - Orş. Fundulea -> ALEXANDRU I.CUZA
         2: 94143,  # Alexandru Odobescu Sat  - Com. Alexandru Odobescu -> ALEXANDRU ODOBESCU
         4: 101476,  # Aprozi Sat  - Orş. Budeşti -> APROZI
@@ -4298,11 +4293,12 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         10: 92970,  # Borcea Sat  - Com. Borcea -> BORCEA
         12: 93469,  # Bosneagu Sat  - Com. Dorobanţu -> BOŞNEAGU
         13: 101485,  # Buciumeni Sat  - Orş. Budeşti -> BUCIUMENI
+        14: 101467,  # Budeşti Orş.  -> BUDEŞTI
         15: 93904,  # Buzoeni Sat  - Orş. Lehliu-Gară -> BUZOENI
         16: 93290,  # Ceacu Sat  - Com. Cuza Vodă -> CEACU
         17: 105277,  # Cetatea Veche Sat  - Com. Spanţov -> CETATEA VECHE
-        20: 94624,  # Chirnogi Sat  - Com. Ulmu -> CHIRNOGI
         19: 101813,  # Chirnogi Sat  - Com. Chirnogi -> CHIRNOGI
+        20: 94624,  # Chirnogi Sat  - Com. Ulmu -> CHIRNOGI
         22: 101831,  # Chiselet Sat  - Com. Chiselet -> CHISELET
         24: 93094,  # Ciocăneşti Sat  - Com. Ciocăneşti -> CIOCĂNEŞTI
         25: 100656,  # Clăteşti Sat  - Com. Mitreni -> CLĂTEŞTI
@@ -4319,6 +4315,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         37: 102428,  # Curcani Sat  - Com. Curcani -> CURCANI
         39: 93316,  # Cuza Vodă Sat  - Com. Cuza Vodă -> CUZA VODĂ
         40: 101109,  # Cândeasca Sat  - Com. Belciugatele -> CÂNDEASCA
+        41: 92578,  # Călăraşi Mun.  -> CĂLĂRAŞI
         42: 93307,  # Călăraşii Vechi Sat  - Com. Cuza Vodă -> CĂLĂRAŞII VECHI
         43: 105473,  # Călăreţi Sat  - Com. Tămădău Mare -> CĂLĂREŢI
         44: 101733,  # Căscioarele Sat  - Com. Căscioarele -> CĂSCIOARELE
@@ -4339,20 +4336,22 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         67: 102847,  # Frăsinet Sat  - Com. Frăsinet -> FRĂSINET
         68: 102874,  # Frăsinetu de Jos Sat  - Com. Frăsinet -> FRĂSINETU DE JOS
         70: 103023,  # Fundeni Sat  - Com. Fundeni -> FUNDENI
+        71: 103041,  # Fundulea Orş.  -> FUNDULEA
         72: 104369,  # Fântâna Doamnei Sat  - Com. Nicolae Bălcescu -> FÂNTÂNA DOAMNEI
         73: 94633,  # Făurei Sat  - Com. Ulmu -> FĂUREI
+        74: 94152,  # Gălăţui Sat  - Com. Alexandru Odobescu -> GĂLĂŢUI
         75: 103078,  # Gostilele Sat  - Orş. Fundulea -> GOSTILELE
         76: 101500,  # Gruiu Sat  - Orş. Budeşti -> GRUIU
         78: 93673,  # Grădiştea Sat  - Com. Grădiştea -> GRĂDIŞTEA
         80: 103577,  # Gurbăneşti Sat  - Com. Gurbăneşti -> GURBĂNEŞTI
         81: 93833,  # Gâldău Sat  - Com. Jegălia -> GÂLDĂU
         82: 105847,  # Gălbinaşi Sat  - Com. Gălbinaşi -> GĂLBINAŞI
-        74: 94152,  # Gălăţui Sat  - Com. Alexandru Odobescu -> GĂLĂŢUI
         83: 93842,  # Iezeru Sat  - Com. Jegălia -> IEZERU
         85: 103773,  # Ileana Sat  - Com. Ileana -> ILEANA
         87: 93780,  # Independenţa Sat  - Com. Independenţa -> INDEPENDENŢA
         89: 93824,  # Jegălia Sat  - Com. Jegălia -> JEGĂLIA
         90: 93860,  # Lehliu Sat  - Com. Lehliu -> LEHLIU
+        92: 93897,  # Lehliu-Gară Orş.  -> LEHLIU-GARĂ
         93: 93352,  # Libertatea Sat  - Com. Dichiseni -> LIBERTATEA
         94: 104092,  # Luica Sat  - Com. Luica -> LUICA
         96: 105730,  # Lunca Sat  - Com. Valea Argovei -> LUNCA
@@ -4373,6 +4372,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         117: 93959,  # Nucetu Sat  - Com. Lupşanu -> NUCETU
         118: 105856,  # Nuci Sat  - Com. Vasilaţi -> NUCI
         119: 93423,  # Ogoru Sat  - Com. Dor Mărunt -> OGORU
+        120: 100629,  # Olteniţa Mun.  -> OLTENIŢA
         121: 94679,  # Oltina Sat  - Com. Unirea -> OLTINA
         122: 102963,  # Orăşti Sat  - Com. Frumuşani -> ORĂŞTI
         123: 105749,  # Ostrovu Sat  - Com. Valea Argovei -> OSTROVU
@@ -4442,28 +4442,14 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         202: 94740,  # Vâlcelele Sat  - Com. Vâlcelele -> VÂLCELELE
         203: 93478,  # Vărăşti Sat  - Com. Dorobanţu -> VĂRĂŞTI
         204: 94642,  # Zimbru Sat  - Com. Ulmu -> ZIMBRU
-        213: 93414,  # Înfrăţirea Sat  - Com. Dor Mărunt -> ÎNFRĂŢIREA
         205: 105516,  # Şeinoiu Sat  - Com. Tămădău Mare -> ŞEINOIU
         206: 105393,  # Şoldanu Sat  - Com. Şoldanu -> ŞOLDANU
         208: 94599,  # Ştefan Vodă Sat  - Com. Ştefan Vodă -> ŞTEFAN VODĂ
         210: 94571,  # Ştefan cel Mare Sat  - Com. Ştefan cel Mare -> ŞTEFAN CEL MARE
         212: 103844,  # Ştefăneşti Sat  - Com. Ileana -> ŞTEFĂNEŞTI
+        213: 93414,  # Înfrăţirea Sat  - Com. Dor Mărunt -> ÎNFRĂŢIREA
     },
     12: {  # CLUJ
-        31: 55464,  # Bicălatu Loc.  - Orş. Huedin -> BICĂLATU
-        69: 55400,  # Băiţa Loc.  - Mun. Gherla -> BĂIŢA
-        229: 55419,  # Hăşdate Loc.  - Mun. Gherla -> HĂŞDATE
-        326: 55026,  # Ocna Dejului Loc.  - Mun. Dej -> OCNA DEJULUI
-        341: 55035,  # Peştera Loc.  - Mun. Dej -> PEŞTERA
-        343: 55044,  # Pintic Loc.  - Mun. Dej -> PINTIC
-        390: 55428,  # Silivaş Loc.  - Mun. Gherla -> SILIVAŞ
-        505: 55053,  # Şomcutu Mic Loc.  - Mun. Dej -> ŞOMCUTU MIC
-        103: 54984,  # Cluj-Napoca Mun.  -> CLUJ-NAPOCA
-        133: 55366,  # Câmpia Turzii Mun.  -> CÂMPIA TURZII
-        160: 55017,  # Dej Mun.  -> DEJ
-        207: 55393,  # Gherla Mun.  -> GHERLA
-        452: 55268,  # Turda Mun.  -> TURDA
-        227: 55455,  # Huedin Orş.  -> HUEDIN
         2: 55482,  # Aghireşu Sat  - Com. Aghireşu -> AGHIREŞU
         3: 55491,  # Aghireşu-Fabrici Sat  - Com. Aghireşu -> AGHIREŞU-FABRICI
         4: 58026,  # Agriş Sat  - Com. Iara -> AGRIŞ
@@ -4487,6 +4473,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         28: 57760,  # Berchieşu Sat  - Com. Frata -> BERCHIEŞU
         29: 59602,  # Berindu Sat  - Com. Sânpaul -> BERINDU
         30: 58437,  # Bica Sat  - Com. Mănăstireni -> BICA
+        31: 55464,  # Bicălatu Loc.  - Orş. Huedin -> BICĂLATU
         32: 56130,  # Blidăreşti Sat  - Com. Bobâlna -> BLIDĂREŞTI
         33: 56103,  # Bobâlna Sat  - Com. Bobâlna -> BOBÂLNA
         35: 58482,  # Bociu Sat  - Com. Mărgău -> BOCIU
@@ -4519,10 +4506,12 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         65: 58810,  # Băgaciu Sat  - Com. Pălatca -> BĂGACIU
         66: 55516,  # Băgara Sat  - Com. Aghireşu -> BĂGARA
         67: 55927,  # Băişoara Sat  - Com. Băişoara -> BĂIŞOARA
+        69: 55400,  # Băiţa Loc.  - Mun. Gherla -> BĂIŢA
         70: 56032,  # Bălceşti Sat  - Com. Beliş -> BĂLCEŞTI
         71: 56595,  # Bălceşti Sat  - Com. Căpuşu Mare -> BĂLCEŞTI
         72: 56372,  # Bărai Sat  - Com. Căianu -> BĂRĂI
         73: 58053,  # Cacova Ierii Sat  - Com. Iara -> CACOVA IERII
+        74: 56489,  # Călata Sat  - Com. Călăţele -> CĂLATA
         75: 59988,  # Calna Sat  - Com. Vad -> CALNA
         76: 57396,  # Cara Sat  - Com. Cojocna -> CARA
         77: 57608,  # Casele Miceşti Sat  - Com. Feleacu -> CASELE MICEŞTI
@@ -4546,6 +4535,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         99: 56899,  # Ciurgău Sat  - Com. Ceanu Mare -> CIURGĂU
         101: 57234,  # Ciurila Sat  - Com. Ciurila -> CIURILA
         102: 59719,  # Clapa Sat  - Com. Tritenii de Jos -> CLAPA
+        103: 54984,  # Cluj-Napoca Mun.  -> CLUJ-NAPOCA
         104: 56238,  # Coasta Sat  - Com. Bonţida -> COASTA
         105: 55124,  # Codor Sat  - Com. Jichişu de Jos -> CODOR
         107: 57369,  # Cojocna Sat  - Com. Cojocna -> COJOCNA
@@ -4572,11 +4562,11 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         129: 59522,  # Cutca Sat  - Com. Sânmărtin -> CUTCA
         131: 55071,  # Cuzdrioara Sat  - Com. Cuzdrioara -> CUZDRIOARA
         132: 55712,  # Câmpeneşti Sat  - Com. Apahida -> CÂMPENEŞTI
+        133: 55366,  # Câmpia Turzii Mun.  -> CÂMPIA TURZII
         135: 57323,  # Câţcău Sat  - Com. Câţcău -> CÂŢCĂU
         136: 56363,  # Căianu Sat  - Com. Căianu -> CĂIANU
         138: 56381,  # Căianu Mic Sat  - Com. Căianu -> CĂIANU MIC
         139: 56390,  # Căianu-Vama Sat  - Com. Căianu -> CĂIANU-VAMĂ
-        74: 56489,  # Călata Sat  - Com. Călăţele -> CĂLATA
         140: 56434,  # Călăraşi Sat  - Com. Călăraşi -> CĂLĂRAŞI
         142: 56452,  # Călăraşi-Gara Sat  - Com. Călăraşi -> CĂLĂRAŞI-GARĂ
         143: 56470,  # Călăţele Sat  - Com. Călăţele -> CĂLĂŢELE
@@ -4591,6 +4581,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         157: 56041,  # Dealu Botii Sat  - Com. Beliş -> DEALU BOTII
         158: 59256,  # Dealu Mare Sat  - Com. Râşca -> DEALU MARE
         159: 56498,  # Dealu Negru Sat  - Com. Călăţele -> DEALU NEGRU
+        160: 55017,  # Dej Mun.  -> DEJ
         161: 58945,  # Deleni Sat  - Com. Petreştii de Jos -> DELENI
         162: 57001,  # Deuşu Sat  - Com. Chinteni -> DEUŞU
         163: 55730,  # Dezmir Sat  - Com. Apahida -> DEZMIR
@@ -4631,6 +4622,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         203: 60142,  # Făureni Sat  - Com. Vultureni -> FĂURENI
         205: 57840,  # Geaca Sat  - Com. Geaca -> GEACA
         206: 57617,  # Gheorghieni Sat  - Com. Feleacu -> GHEORGHIENI
+        207: 55393,  # Gherla Mun.  -> GHERLA
         208: 58687,  # Ghirişu Român Sat  - Com. Mociu -> GHIRIŞU ROMÂN
         209: 55650,  # Ghirolt Sat  - Com. Aluniş -> GHIROLT
         211: 57911,  # Gilău Sat  - Com. Gilău -> GILĂU
@@ -4648,7 +4640,9 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         224: 56924,  # Hodăi Boian Sat  - Com. Ceanu Mare -> HODĂI-BOIAN
         225: 59489,  # Horlacea Sat  - Com. Sâncraiu -> HORLACEA
         226: 57403,  # Huci Sat  - Com. Cojocna -> HUCI
+        227: 55455,  # Huedin Orş.  -> HUEDIN
         228: 57118,  # Huta Sat  - Com. Chiuieşti -> HUTA
+        229: 55419,  # Hăşdate Loc.  - Mun. Gherla -> HĂŞDATE
         230: 59354,  # Hăşdate Sat  - Com. Săvădisla -> HĂŞDATE
         231: 56933,  # Iacobeni Sat  - Com. Ceanu Mare -> IACOBENI
         233: 58017,  # Iara Sat  - Com. Iara -> IARA
@@ -4669,8 +4663,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         252: 57877,  # Legii Sat  - Com. Geaca -> LEGII
         253: 56737,  # Leurda Sat  - Com. Căşeiu -> LEURDA
         254: 59372,  # Liteni Sat  - Com. Săvădisla -> LITENI
-        256: 58954,  # Livada Sat  - Com. Petreştii de Jos -> LIVADA
         255: 58188,  # Livada Sat  - Com. Iclod -> LIVADA
+        256: 58954,  # Livada Sat  - Com. Petreştii de Jos -> LIVADA
         257: 59363,  # Liţa Sat  - Com. Săvădisla -> LITA
         258: 59023,  # Lobodaş Sat  - Com. Ploscoş -> LOBODAŞ
         259: 57485,  # Lujerdiu Sat  - Com. Corneşti -> LUJERDIU
@@ -4686,8 +4680,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         270: 56158,  # Maia Sat  - Com. Bobâlna -> MAIA
         271: 58080,  # Masca Sat  - Com. Iara -> MAŞCA
         272: 55865,  # Mera Sat  - Com. Baciu -> MERA
-        275: 55179,  # Mica Sat  - Com. Mica -> MICA
         273: 59817,  # Miceşti Sat  - Com. Tureni -> MICEŞTI
+        275: 55179,  # Mica Sat  - Com. Mica -> MICA
         277: 55286,  # Mihai Viteazu Sat  - Com. Mihai Viteazu -> MIHAI VITEAZU
         278: 59611,  # Mihăieşti Sat  - Com. Sânpaul -> MIHĂIEŞTI
         280: 58561,  # Mintiu Gherlii Sat  - Com. Mintiu Gherlii -> MINTIU GHERLII
@@ -4730,6 +4724,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         323: 56540,  # Năoiu Sat  - Com. Cămăraşu -> NĂOIU
         324: 59844,  # Năsal Sat  - Com. Ţaga -> NĂSAL
         325: 57779,  # Oaş Sat  - Com. Frata -> OAŞ
+        326: 55026,  # Ocna Dejului Loc.  - Mun. Dej -> OCNA DEJULUI
         327: 58106,  # Ocolişel Sat  - Com. Iara -> OCOLIŞEL
         328: 57788,  # Olariu Sat  - Com. Frata -> OLARIU
         329: 58197,  # Orman Sat  - Com. Iclod -> ORMAN
@@ -4742,7 +4737,9 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         338: 58927,  # Petreştii de Jos Sat  - Com. Petreştii de Jos -> PETREŞTII DE JOS
         339: 58963,  # Petreştii de Mijloc Sat  - Com. Petreştii de Jos -> PETREŞTII DE MIJLOC
         340: 58972,  # Petreştii de Sus Sat  - Com. Petreştii de Jos -> PETREŞTII DE SUS
+        341: 55035,  # Peştera Loc.  - Mun. Dej -> PEŞTERA
         342: 58758,  # Pietroasa Sat  - Com. Moldoveneşti -> PIETROASA
+        343: 55044,  # Pintic Loc.  - Mun. Dej -> PINTIC
         344: 58981,  # Plaiuri Sat  - Com. Petreştii de Jos -> PLAIURI
         345: 60053,  # Plopi Sat  - Com. Valea Ierii -> PLOPI
         347: 59005,  # Ploscoş Sat  - Com. Ploscoş -> PLOSCOŞ
@@ -4761,8 +4758,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         361: 57573,  # Pâglisa Sat  - Com. Dăbâca -> PÂGLIŞA
         362: 57797,  # Pădurea Iacobeni Sat  - Com. Frata -> PĂDUREA IACOBENI
         363: 57038,  # Pădureni Sat  - Com. Chinteni -> PĂDURENI
-        365: 59737,  # Pădureni Sat  - Com. Tritenii de Jos -> PĂDURENI
         364: 57261,  # Pădureni Sat  - Com. Ciurila -> PĂDURENI
+        365: 59737,  # Pădureni Sat  - Com. Tritenii de Jos -> PĂDURENI
         366: 58598,  # Pădurenii Sat  - Com. Mintiu Gherlii -> PĂDURENII
         368: 58801,  # Pălatca Sat  - Com. Pălatca -> PĂLATCA
         369: 56648,  # Păniceni Sat  - Com. Căpuşu Mare -> PĂNICENI
@@ -4783,6 +4780,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         386: 58847,  # Sava Sat  - Com. Pălatca -> SAVA
         387: 58525,  # Scrind-Frăsinet Sat  - Com. Mărgău -> SCRIND-FRĂSINET
         388: 59425,  # Sic Sat  - Com. Sic -> SIC
+        390: 55428,  # Silivaş Loc.  - Mun. Gherla -> SILIVAŞ
+        391: 56559,  # Sâmboleni Sat  - Com. Cămăraşu -> SÂMBOLENI
         392: 56087,  # Smida Sat  - Com. Beliş -> SMIDA
         393: 57920,  # Someşu Cald Sat  - Com. Gilău -> SOMEŞU CALD
         394: 57939,  # Someşu Rece Sat  - Com. Gilău -> SOMEŞU RECE
@@ -4804,11 +4803,10 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         411: 58115,  # Surduc Sat  - Com. Iara -> SURDUC
         412: 57305,  # Sutu Sat  - Com. Ciurila -> ŞUTU
         413: 59568,  # Sâmboieni Sat  - Com. Sânmărtin -> SÂMBOIENI
-        391: 56559,  # Sâmboleni Sat  - Com. Cămăraşu -> SÂMBOLENI
         415: 59443,  # Sâncraiu Sat  - Com. Sâncraiu -> SÂNCRAIU
+        417: 59504,  # Sânmărtin Sat  - Com. Sânmărtin -> SÂNMĂRTIN
         418: 57065,  # Sânmartin Sat  - Com. Chinteni -> SÂNMĂRTIN
         419: 55213,  # Sânmărghita Sat  - Com. Mica -> SÂNMĂRGHITA
-        417: 59504,  # Sânmărtin Sat  - Com. Sânmărtin -> SÂNMĂRTIN
         420: 55758,  # Sânnicoară Sat  - Com. Apahida -> SÂNNICOARĂ
         422: 59595,  # Sânpaul Sat  - Com. Sânpaul -> SÂNPAUL
         423: 59853,  # Sântejude Sat  - Com. Ţaga -> SÂNTEJUDE
@@ -4832,11 +4830,11 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         444: 57519,  # Tiocu de Jos Sat  - Com. Corneşti -> TIOCU DE JOS
         445: 57528,  # Tiocu de Sus Sat  - Com. Corneşti -> TIOCU DE SUS
         446: 57537,  # Tioltiur Sat  - Com. Corneşti -> TIOLTIUR
-        508: 59648,  # Topa Mică Sat  - Com. Sânpaul -> TOPA MICĂ
         447: 59112,  # Tranişu Sat  - Com. Poieni -> TRANIŞU
         448: 59700,  # Tritenii de Jos Sat  - Com. Tritenii de Jos -> TRITENII DE JOS
         450: 59746,  # Tritenii de Sus Sat  - Com. Tritenii de Jos -> TRITENII DE SUS
         451: 59755,  # Tritenii-Hotar Sat  - Com. Tritenii de Jos -> TRITENII-HOTAR
+        452: 55268,  # Turda Mun.  -> TURDA
         453: 57993,  # Turea Sat  - Com. Gârbău -> TUREA
         454: 59773,  # Tureni Sat  - Com. Tureni -> TURENI
         456: 58703,  # Turmaşi Sat  - Com. Mociu -> TURMAŞI
@@ -4883,34 +4881,11 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         502: 59924,  # Şicfa Sat  - Com. Unguraş -> SICFA
         503: 55142,  # Şigău Sat  - Com. Jichişu de Jos -> ŞIGĂU
         504: 60151,  # Şoimeni Sat  - Com. Vultureni -> ŞOIMENI
+        505: 55053,  # Şomcutu Mic Loc.  - Mun. Dej -> ŞOMCUTU MIC
         506: 59835,  # Ţaga Sat  - Com. Ţaga -> ŢAGA
+        508: 59648,  # Topa Mică Sat  - Com. Sânpaul -> TOPA MICĂ
     },
     13: {  # CONSTANŢA
-        26: 63223,  # Cap Aurora Loc.  - Mun. Mangalia -> CAP AURORA
-        89: 60473,  # Eforie Nord Loc.  - Orş. Eforie -> EFORIE NORD
-        90: 60464,  # Eforie Sud Loc.  - Orş. Eforie -> EFORIE SUD
-        125: 63214,  # Jupiter Loc.  - Mun. Mangalia -> JUPITER
-        136: 60437,  # Mamaia Loc.  - Mun. Constanţa -> MAMAIA
-        137: 60525,  # Mamaia-Sat Loc.  - Orş. Năvodari -> MAMAIA-SAT
-        159: 63205,  # Neptun Loc.  - Mun. Mangalia -> NEPTUN
-        167: 63143,  # Olimp Loc.  - Mun. Mangalia -> OLIMP
-        175: 60446,  # Palazu Mare Loc.  - Mun. Constanţa -> PALAZU MARE
-        196: 60865,  # Remus Opreanu Loc.  - Mun. Medgidia -> REMUS OPREANU
-        207: 63241,  # Saturn Loc.  - Mun. Mangalia -> SATURN
-        243: 60829,  # Vadu Oii Loc.  - Orş. Hârşova -> VADU OII
-        244: 60874,  # Valea Dacilor Loc.  - Mun. Medgidia -> VALEA DACILOR
-        248: 63232,  # Venus Loc.  - Mun. Mangalia -> VENUS
-        55: 60428,  # Constanţa Mun.  -> CONSTANŢA
-        138: 60491,  # Mangalia Mun.  -> MANGALIA
-        139: 60856,  # Medgidia Mun.  -> MEDGIDIA
-        35: 60785,  # Cernavodă Orş.  -> CERNAVODĂ
-        88: 60464,  # Eforie Orş.  -> EFORIE SUD
-        114: 60810,  # Hârşova Orş.  -> HÂRŞOVA
-        17: 62379,  # Murfatlar Orş.  -> MURFATLAR
-        157: 62404,  # Negru Vodă Orş.  -> NEGRU VODĂ
-        165: 60516,  # Năvodari Orş.  -> NĂVODARI
-        174: 60696,  # Ovidiu Orş.  -> OVIDIU
-        225: 60543,  # Techirghiol Orş.  -> TECHIRGHIOL
         1: 60669,  # 2 Mai Sat  - Com. Limanu -> 2 MAI
         2: 60605,  # 23 August Sat  - Com. 23 August -> 23 AUGUST
         4: 60909,  # Abrud Sat  - Com. Adamclisi -> ABRUD
@@ -4921,6 +4896,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         13: 62556,  # Almalău Sat  - Com. Ostrov -> ALMĂLĂU
         14: 63090,  # Amzacea Sat  - Com. Amzacea -> AMZACEA
         16: 60963,  # Arsa Sat  - Com. Albeşti -> ARSA
+        17: 62379,  # Murfatlar Orş.  -> MURFATLAR
         18: 63107,  # Biruinţa Sat  - Com. Topraisar -> BIRUINŢA
         19: 61979,  # Brebeni Sat  - Com. Ion Corvin -> BREBENI
         20: 62565,  # Bugeac Sat  - Com. Ostrov -> BUGEAC
@@ -4928,12 +4904,14 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         22: 61078,  # Băneasa Sat  - Com. Băneasa -> BĂNEASA
         24: 61648,  # Bărăganu Sat  - Com. Bărăganu -> BĂRĂGANU
         25: 62075,  # Canlia Sat  - Com. Lipniţa -> CANLIA
+        26: 63223,  # Cap Aurora Loc.  - Mun. Mangalia -> CAP AURORA
         27: 63063,  # Capidava Sat  - Com. Topalu -> CAPIDAVA
         28: 62084,  # Carvăn Sat  - Com. Lipniţa -> CARVĂN
         29: 63009,  # Casian Sat  - Com. Grădina -> CASIAN
         30: 61470,  # Casicea Sat  - Com. Amzacea -> CASICEA
         31: 61130,  # Castelu Sat  - Com. Castelu -> CASTELU
         33: 61176,  # Cerchezu Sat  - Com. Cerchezu -> CERCHEZU
+        35: 60785,  # Cernavodă Orş.  -> CERNAVODĂ
         36: 61755,  # Cetatea Sat  - Com. Dobromir -> CETATEA
         37: 63018,  # Cheia Sat  - Com. Grădina -> CHEIA
         38: 61229,  # Chirnogeni Sat  - Com. Chirnogeni -> CHIRNOGENI
@@ -4947,6 +4925,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         50: 61381,  # Cogealac Sat  - Com. Cogealac -> COGEALAC
         52: 61461,  # Comana Sat  - Com. Comana -> COMANA
         54: 61336,  # Conacu Sat  - Com. Cobadin -> CONACU
+        55: 60428,  # Constanţa Mun.  -> CONSTANŢA
         56: 61522,  # Corbu Sat  - Com. Corbu -> CORBU
         58: 60972,  # Coroana Sat  - Com. Albeşti -> COROANA
         59: 62093,  # Coslugea Sat  - Com. Lipniţa -> COSLUGEA
@@ -4957,13 +4936,11 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         65: 61568,  # Crucea Sat  - Com. Crucea -> CRUCEA
         67: 61988,  # Crângu Sat  - Com. Ion Corvin -> CRÂNGU
         68: 62100,  # Cuiugiuc Sat  - Com. Lipniţa -> CUIUGIUC
-        297: 63349,  # Culmea Sat  - Orş. Ovidiu -> CULMEA
         69: 61639,  # Cumpăna Sat  - Com. Cumpăna -> CUMPĂNA
         71: 61345,  # Curcani Sat  - Com. Cobadin -> CURCANI
         72: 61149,  # Cuza Vodă Sat  - Com. Cuza Vodă -> CUZA VODĂ
         73: 62627,  # Călugăreni Sat  - Com. Pantelimon -> CĂLUGĂRENI
         74: 61185,  # Căscioarele Sat  - Com. Cerchezu -> CĂSCIOARELE
-        273: 62413,  # Darabani Sat  - Orş. Negru Vodă -> DARABANI
         75: 61684,  # Deleni Sat  - Com. Deleni -> DELENI
         77: 61746,  # Dobromir Sat  - Com. Dobromir -> DOBROMIR
         79: 61764,  # Dobromiru din Deal Sat  - Com. Dobromir -> DOBROMIRU DIN DEAL
@@ -4974,6 +4951,9 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         84: 61899,  # Dumbrăveni Sat  - Com. Dumbrăveni -> DUMBRĂVENI
         86: 62921,  # Dunărea Sat  - Com. Seimeni -> DUNĂREA
         87: 61032,  # Dunăreni Sat  - Com. Aliman -> DUNĂRENI
+        88: 60464,  # Eforie Orş.  -> EFORIE SUD
+        89: 60473,  # Eforie Nord Loc.  - Orş. Eforie -> EFORIE NORD
+        90: 60464,  # Eforie Sud Loc.  - Orş. Eforie -> EFORIE SUD
         91: 62574,  # Esechioi Sat  - Com. Ostrov -> ESECHIOI
         92: 61041,  # Floriile Sat  - Com. Aliman -> FLORIILE
         93: 61915,  # Furnica Sat  - Com. Dumbrăveni -> FURNICA
@@ -4994,6 +4974,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         110: 60650,  # Hagieni Sat  - Com. Limanu -> HAGIENI
         111: 60918,  # Haţeg Sat  - Com. Adamclisi -> HAŢEG
         112: 61835,  # Horia Sat  - Com. Horia -> HORIA
+        114: 60810,  # Hârşova Orş.  -> HÂRŞOVA
         115: 61880,  # Independenţa Sat  - Com. Independenţa -> INDEPENDENŢA
         118: 61960,  # Ion Corvin Sat  - Com. Ion Corvin -> ION CORVIN
         120: 62039,  # Istria Sat  - Com. Istria -> ISTRIA
@@ -5001,6 +4982,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         122: 62734,  # Ivrinezu Mic Sat  - Com. Peştera -> IVRINEZU MIC
         123: 62128,  # Izvoarele Sat  - Com. Lipniţa -> IZVOARELE
         124: 62743,  # Izvoru Mare Sat  - Com. Peştera -> IZVORU MARE
+        125: 63214,  # Jupiter Loc.  - Mun. Mangalia -> JUPITER
         126: 62164,  # Lanurile Sat  - Com. Bărăganu -> LANURILE
         127: 60589,  # Lazu Sat  - Com. Agigea -> LAZU
         128: 61773,  # Lespezi Sat  - Com. Dobromir -> LESPEZI
@@ -5008,6 +4990,10 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         132: 62066,  # Lipniţa Sat  - Com. Lipniţa -> LIPNIŢA
         134: 60703,  # Lumina Sat  - Com. Lumina -> LUMINA
         135: 61531,  # Luminiţa Sat  - Com. Corbu -> LUMINIŢA
+        136: 60437,  # Mamaia Loc.  - Mun. Constanţa -> MAMAIA
+        137: 60525,  # Mamaia-Sat Loc.  - Orş. Năvodari -> MAMAIA-SAT
+        138: 60491,  # Mangalia Mun.  -> MANGALIA
+        139: 60856,  # Medgidia Mun.  -> MEDGIDIA
         140: 62146,  # Mereni Sat  - Com. Mereni -> MERENI
         142: 62262,  # Mihai Viteazu Sat  - Com. Mihai Viteazu -> MIHAI VITEAZU
         144: 62208,  # Mihail Kogălniceanu Sat  - Com. Mihail Kogălniceanu -> MIHAIL KOGĂLNICEANU
@@ -5021,16 +5007,22 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         154: 61194,  # Măgura Sat  - Com. Cerchezu -> MĂGURA
         155: 62789,  # Nazarcea Sat  - Com. Poarta Albă -> NAZARCEA
         156: 61354,  # Negreşti Sat  - Com. Cobadin -> NEGREŞTI
+        157: 62404,  # Negru Vodă Orş.  -> NEGRU VODĂ
         158: 61096,  # Negureni Sat  - Com. Băneasa -> NEGURENI
+        159: 63205,  # Neptun Loc.  - Mun. Mangalia -> NEPTUN
         160: 62459,  # Nicolae Bălcescu Sat  - Com. Nicolae Bălcescu -> NICOLAE BĂLCESCU
         162: 61158,  # Nisipari Sat  - Com. Castelu -> NISIPARI
         163: 62636,  # Nistoreşti Sat  - Com. Pantelimon -> NISTOREŞTI
         164: 62048,  # Nuntaşi Sat  - Com. Istria -> NUNTAŞI
+        165: 60516,  # Năvodari Orş.  -> NĂVODARI
         166: 62217,  # Oituz Sat  - Com. Lumina -> OITUZ
+        167: 63143,  # Olimp Loc.  - Mun. Mangalia -> OLIMP
         168: 61933,  # Olteni Sat  - Com. Independenţa -> OLTENI
         169: 62495,  # Oltina Sat  - Com. Oltina -> OLTINA
         171: 62182,  # Osmancea Sat  - Com. Mereni -> OSMANCEA
         172: 62547,  # Ostrov Sat  - Com. Ostrov -> OSTROV
+        174: 60696,  # Ovidiu Orş.  -> OVIDIU
+        175: 60446,  # Palazu Mare Loc.  - Mun. Constanţa -> PALAZU MARE
         176: 62226,  # Palazu Mic Sat  - Com. Mihail Kogălniceanu -> PALAZU MIC
         177: 62618,  # Pantelimon Sat  - Com. Pantelimon -> PANTELIMON
         179: 62645,  # Pantelimon de Jos Sat  - Com. Pantelimon -> PANTELIMON DE JOS
@@ -5042,11 +5034,11 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         187: 61700,  # Pietreni Sat  - Com. Deleni -> PIETRENI
         188: 61247,  # Plopeni Sat  - Com. Chirnogeni -> PLOPENI
         189: 62770,  # Poarta Albă Sat  - Com. Poarta Albă -> POARTA ALBĂ
-        284: 60712,  # Poiana Sat  - Orş. Ovidiu -> POIANA
         191: 61657,  # Potârnichea Sat  - Com. Topraisar -> POTÂRNICHEA
         192: 61782,  # Pădureni Sat  - Com. Dobromir -> PĂDURENI
         193: 62002,  # Rariştea Sat  - Com. Ion Corvin -> RARIŞTEA
         195: 62805,  # Rasova Sat  - Com. Rasova -> RASOVA
+        196: 60865,  # Remus Opreanu Loc.  - Mun. Medgidia -> REMUS OPREANU
         197: 62654,  # Runcu Sat  - Com. Pantelimon -> RUNCU
         198: 61425,  # Râmnicu de Jos Sat  - Com. Cogealac -> RÂMNICU DE JOS
         199: 61434,  # Râmnicu de Sus Sat  - Com. Cogealac -> RÂMNICU DE SUS
@@ -5054,8 +5046,9 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         201: 62324,  # Saligny Sat  - Com. Saligny -> SALIGNY
         202: 60552,  # Sanatoriul Agigea Sat  - Orş. Techirghiol -> SANATORIUL AGIGEA
         203: 62832,  # Saraiu Sat  - Com. Saraiu -> SARAIU
-        206: 62510,  # Satu Nou Sat  - Com. Oltina -> SATU NOU
         205: 62333,  # Satu Nou Sat  - Com. Mircea Vodă -> SATU NOU
+        206: 62510,  # Satu Nou Sat  - Com. Oltina -> SATU NOU
+        207: 63241,  # Saturn Loc.  - Mun. Mangalia -> SATURN
         208: 60758,  # Schitu Sat  - Com. Costineşti -> SCHITU
         209: 62912,  # Seimeni Sat  - Com. Seimeni -> SEIMENI
         211: 62930,  # Seimenii Mici Sat  - Com. Seimeni -> SEIMENII MICI
@@ -5070,6 +5063,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         221: 61602,  # Stupina Sat  - Com. Crucea -> STUPINA
         222: 62887,  # Săcele Sat  - Com. Săcele -> SĂCELE
         224: 61443,  # Tariverde Sat  - Com. Cogealac -> TARIVERDE
+        225: 60543,  # Techirghiol Orş.  -> TECHIRGHIOL
         226: 61862,  # Tichileşti Sat  - Com. Horia -> TICHILEŞTI
         227: 63054,  # Topalu Sat  - Com. Topalu -> TOPALU
         229: 63081,  # Topraisar Sat  - Com. Topraisar -> TOPRAISAR
@@ -5082,15 +5076,17 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         240: 61504,  # Tătaru Sat  - Com. Comana -> TĂTARU
         241: 60927,  # Urluia Sat  - Com. Adamclisi -> URLUIA
         242: 61540,  # Vadu Sat  - Com. Corbu -> VADU
+        243: 60829,  # Vadu Oii Loc.  - Orş. Hârşova -> VADU OII
+        244: 60874,  # Valea Dacilor Loc.  - Mun. Medgidia -> VALEA DACILOR
         245: 63134,  # Valu lui Traian Sat  - Com. Valu lui Traian -> VALU LUI TRAIAN
         247: 60678,  # Vama Veche Sat  - Com. Limanu -> VAMA VECHE
+        248: 63232,  # Venus Loc.  - Mun. Mangalia -> VENUS
         249: 62752,  # Veteranu Sat  - Com. Peştera -> VETERANU
         250: 62011,  # Viile Sat  - Com. Ion Corvin -> VIILE
         251: 61363,  # Viişoara Sat  - Com. Cobadin -> VIIŞOARA
         252: 61201,  # Viroaga Sat  - Com. Cerchezu -> VIROAGA
         253: 61050,  # Vlahii Sat  - Com. Aliman -> VLAHII
         254: 62663,  # Vulturu Sat  - Com. Vulturu -> VULTURU
-        288: 62431,  # Vâlcelele Sat  - Orş. Negru Vodă -> VÂLCELELE
         256: 62690,  # Vânători Sat  - Com. Pecineaga -> VÂNĂTORI
         257: 60990,  # Vârtop Sat  - Com. Albeşti -> VÂRTOP
         258: 61791,  # Văleni Sat  - Com. Dobromir -> VĂLENI
@@ -5100,14 +5096,12 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         262: 62342,  # Ştefan cel Mare Sat  - Com. Saligny -> ŞTEFAN CEL MARE
         263: 62976,  # Ţepeş Vodă Sat  - Com. Siliştea -> TEPEŞ VODĂ
         264: 62351,  # Ţibrinu Sat  - Com. Mircea Vodă -> ŢIBRINU
+        273: 62413,  # Darabani Sat  - Orş. Negru Vodă -> DARABANI
+        284: 60712,  # Poiana Sat  - Orş. Ovidiu -> POIANA
+        288: 62431,  # Vâlcelele Sat  - Orş. Negru Vodă -> VÂLCELELE
+        297: 63349,  # Culmea Sat  - Orş. Ovidiu -> CULMEA
     },
     14: {  # COVASNA
-        49: 63544,  # Chiuruş Loc.  - Orş. Covasna -> CHIURUŞ
-        126: 63401,  # Sfântu Gheorghe Mun.  -> SFÂNTU GHEORGHE
-        139: 63759,  # Târgu Secuiesc Mun.  -> TÂRGU SECUIESC
-        12: 63456,  # Baraolt Orş.  -> BARAOLT
-        52: 63535,  # Covasna Orş.  -> COVASNA
-        161: 63599,  # Întorsura Buzăului Orş.  -> ÎNTORSURA BUZĂULUI
         1: 63786,  # Aita Mare Sat  - Com. Aita Mare -> AITA MARE
         3: 63795,  # Aita Medie Sat  - Com. Aita Mare -> AITA MEDIE
         4: 63820,  # Aita Seacă Sat  - Com. Băţani -> AITA SEACĂ
@@ -5118,6 +5112,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         9: 64951,  # Araci Sat  - Com. Vâlcele -> ARACI
         10: 64924,  # Arcuş Sat  - Com. Arcuş -> ARCUŞ
         11: 64960,  # Ariuşd Sat  - Com. Vâlcele -> ARIUŞD
+        12: 63456,  # Baraolt Orş.  -> BARAOLT
         13: 63642,  # Barcani Sat  - Com. Barcani -> BARCANI
         15: 64737,  # Belani Sat  - Com. Poian -> BELANI
         16: 63875,  # Belin Sat  - Com. Belin -> BELIN
@@ -5137,15 +5132,17 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         36: 64256,  # Băcel Sat  - Com. Chichiş -> BĂCEL
         38: 63811,  # Băţanii Mari Sat  - Com. Băţani -> BĂŢANII MARI
         39: 63839,  # Băţanii Mici Sat  - Com. Băţani -> BĂŢANII MICI
+        40: 64933,  # Câlnic Sat  - Com. Valea Crişului -> CALNIC
         42: 64149,  # Catalina Sat  - Com. Catalina -> CATALINA
         43: 64844,  # Caşinu Mic Sat  - Com. Sânzieni -> CAŞINU MIC
         45: 64201,  # Cernat Sat  - Com. Cernat -> CERNAT
         47: 64247,  # Chichiş Sat  - Com. Chichiş -> CHICHIŞ
         48: 63410,  # Chilieni Sat  - Mun. Sfântu Gheorghe -> CHILIENI
+        49: 63544,  # Chiuruş Loc.  - Orş. Covasna -> CHIURUŞ
         51: 63562,  # Comandău Sat  - Com. Comandău -> COMANDĂU
+        52: 63535,  # Covasna Orş.  -> COVASNA
         53: 63429,  # Coşeni Sat  - Mun. Sfântu Gheorghe -> COŞENI
         54: 63704,  # Crasna Sat  - Com. Sita Buzăului -> CRASNA
-        40: 64933,  # Câlnic Sat  - Com. Valea Crişului -> CALNIC
         55: 63483,  # Căpeni Sat  - Orş. Baraolt -> CĂPENI
         56: 64746,  # Cărpinenii Sat  - Com. Estelnic -> CĂRPINENII
         57: 64586,  # Dalnic Sat  - Com. Dalnic -> DALNIC
@@ -5205,6 +5202,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         122: 64782,  # Reci Sat  - Com. Reci -> RECI
         124: 64817,  # Saciova Sat  - Com. Reci -> SACIOVA
         125: 63624,  # Scrădoasa Sat  - Orş. Întorsura Buzăului -> SCRĂDOASA
+        126: 63401,  # Sfântu Gheorghe Mun.  -> SFÂNTU GHEORGHE
         127: 63697,  # Sita Buzăului Sat  - Com. Sita Buzăului -> SITA BUZĂULUI
         129: 65075,  # Surcea Sat  - Com. Zăbala -> SURCEA
         130: 64452,  # Sâncraiu Sat  - Com. Ilieni -> SÂNCRAIU
@@ -5214,6 +5212,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         135: 65084,  # Tamaşfalău Sat  - Com. Zăbala -> TAMAŞFALĂU
         136: 64032,  # Telechia Sat  - Com. Brateş -> TELECHIA
         137: 64880,  # Turia Sat  - Com. Turia -> TURIA
+        139: 63759,  # Târgu Secuiesc Mun.  -> TÂRGU SECUIESC
         140: 64087,  # Tălişoara Sat  - Com. Brăduţ -> TĂLIŞOARA
         141: 64915,  # Valea Crişului Sat  - Com. Valea Crişului -> VALEA CRIŞULUI
         143: 64309,  # Valea Dobârlăului Sat  - Com. Dobârlău -> VALEA DOBÂRLĂULUI
@@ -5229,31 +5228,18 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         158: 65057,  # Zăbala Sat  - Com. Zăbala -> ZĂBALA
         159: 63722,  # Zăbrătău Sat  - Com. Sita Buzăului -> ZĂBRĂTĂU
         160: 63928,  # Zălan Sat  - Com. Bodoc -> ZĂLAN
+        161: 63599,  # Întorsura Buzăului Orş.  -> ÎNTORSURA BUZĂULUI
         162: 63982,  # Ţufalău Sat  - Com. Boroşneu Mare -> ŢUFALĂU
     },
     15: {  # DÂMBOVIŢA
-        8: 65949,  # Bela Loc.  - Orş. Pucioasa -> BELA
-        9: 65627,  # Berevoeşti Loc.  - Orş. Fieni -> BEREVOEŞTI
-        88: 65636,  # Costeşti Loc.  - Orş. Fieni -> COSTEŞTI
-        125: 65958,  # Diaconeşti Loc.  - Orş. Pucioasa -> DIACONEŞTI
-        169: 65967,  # Glodeni Loc.  - Orş. Pucioasa -> GLODENI
-        225: 65976,  # Malurile Loc.  - Orş. Pucioasa -> MALURILE
-        236: 65985,  # Miculeşti Loc.  - Orş. Pucioasa -> MICULEŞTI
-        313: 65360,  # Priseaca Loc.  - Mun. Târgovişte -> PRISEACA
-        320: 65994,  # Pucioasa-Sat Loc.  - Orş. Pucioasa -> PUCIOASA-SAT
-        378: 65351,  # Târgovişte Mun.  -> TÂRGOVIŞTE
-        247: 65850,  # Moreni Mun.  -> MORENI
-        148: 65618,  # Fieni Orş.  -> FIENI
-        187: 65690,  # Găeşti Orş.  -> GĂEŞTI
-        319: 65930,  # Pucioasa Orş.  -> PUCIOASA
-        335: 68636,  # Răcari Orş.  -> RĂCARI
-        374: 66090,  # Titu Orş.  -> TITU
         1: 67611,  # Adânca Sat  - Com. Gura Ocniţei -> ADÂNCA
         2: 66241,  # Aluniş Sat  - Com. Pietrari -> ALUNIŞ
         3: 66973,  # Alunişu Sat  - Com. Cornăţelu -> ALUNIŞU
         4: 65388,  # Aninoasa Sat  - Com. Aninoasa -> ANINOASA
         6: 66544,  # Aninoşani Sat  - Com. Cândeşti -> ANINOŞANI
         7: 67498,  # Bechineşti Sat  - Com. Finta -> BECHINEŞTI
+        8: 65949,  # Bela Loc.  - Orş. Pucioasa -> BELA
+        9: 65627,  # Berevoeşti Loc.  - Orş. Fieni -> BEREVOEŞTI
         11: 66349,  # Bezdead Sat  - Com. Bezdead -> BEZDEAD
         13: 66410,  # Bilciureşti Sat  - Com. Bilciureşti -> BILCIUREŞTI
         14: 66606,  # Blidari Sat  - Com. Cobia -> BLIDARI
@@ -5264,9 +5250,9 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         20: 68743,  # Brebu Sat  - Com. Runcu -> BREBU
         21: 101350,  # Brezoaele Sat  - Com. Brezoaele -> BREZOAELE
         23: 101369,  # Brezoaia Sat  - Com. Brezoaele -> BREZOAIA
-        26: 68547,  # Broşteni Sat  - Com. Produleşti -> BROŞTENI
         24: 66358,  # Broşteni Sat  - Com. Bezdead -> BROŞTENI
         25: 69358,  # Broşteni Sat  - Com. Vişina -> BROŞTENI
+        26: 68547,  # Broşteni Sat  - Com. Produleşti -> BROŞTENI
         27: 68360,  # Brâncoveanu Sat  - Com. Odobeşti -> BRÂNCOVEANU
         28: 68583,  # Brădăţel Sat  - Com. Pucheni -> BRĂDĂŢEL
         29: 66018,  # Brăneşti Sat  - Com. Brăneşti -> BRĂNEŞTI
@@ -5293,7 +5279,6 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         56: 66250,  # Bărbuleţu Sat  - Com. Bărbuleţu -> BĂRBULEŢU
         57: 66875,  # Bărăceni Sat  - Com. Corbii Mari -> BĂRĂCENI
         58: 67960,  # Capu Coastei Sat  - Com. Malu cu Flori -> CAPU COASTEI
-        118: 65734,  # Catanele Sat  - Com. Gura Foii -> CATANELE
         59: 68306,  # Cazaci Sat  - Com. Nucet -> CAZACI
         60: 66269,  # Cetăţuia Sat  - Com. Bărbuleţu -> CETĂŢUIA
         61: 68146,  # Chirca Sat  - Com. Mogoşani -> CHIRCA
@@ -5315,6 +5300,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         83: 67023,  # Corneşti Sat  - Com. Corneşti -> CORNEŞTI
         85: 66991,  # Corni Sat  - Com. Cornăţelu -> CORNI
         86: 66964,  # Cornăţelu Sat  - Com. Cornăţelu -> CORNĂŢELU
+        88: 65636,  # Costeşti Loc.  - Orş. Fieni -> COSTEŞTI
         89: 68556,  # Costeştii din Deal Sat  - Com. Produleşti -> COSTEŞTII DIN DEAL
         90: 67130,  # Costeştii din Vale Sat  - Com. Costeştii din Vale -> COSTEŞTII DIN VALE
         92: 66367,  # Costişata Sat  - Com. Bezdead -> COSTIŞATA
@@ -5340,12 +5326,14 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         115: 66802,  # Călugăreni Sat  - Com. Conţeşti -> CĂLUGĂRENI
         116: 68949,  # Căprioru Sat  - Com. Tătărani -> CĂPRIORU
         117: 66624,  # Căpşuna Sat  - Com. Cobia -> CĂPŞUNA
+        118: 65734,  # Catanele Sat  - Com. Gura Foii -> CATANELE
         119: 67041,  # Cătunu Sat  - Com. Corneşti -> CĂTUNU
         120: 68805,  # Cătunu Sat  - Com. Sălcioara -> CĂTUNU
         121: 68422,  # Dealu Frumos Sat  - Com. Pietroşiţa -> DEALU FRUMOS
         122: 66456,  # Dealu Mare Sat  - Com. Buciumeni -> DEALU MARE
         123: 101877,  # Decindea Sat  - Com. Ciocăneşti -> DECINDEA
         124: 67425,  # Decindeni Sat  - Com. Dragomireşti -> DECINDENI
+        125: 65958,  # Diaconeşti Loc.  - Orş. Pucioasa -> DIACONEŞTI
         126: 65538,  # Dimoiu Sat  - Com. Ulmi -> DIMOIU
         127: 67309,  # Dobra Sat  - Com. Dobra -> DOBRA
         129: 68208,  # Dobreşti Sat  - Com. Moroeni -> DOBREŞTI
@@ -5363,13 +5351,13 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         144: 67265,  # Dărmăneşti Sat  - Com. Dărmăneşti -> DĂRMĂNEŞTI
         146: 68752,  # Ferestre Sat  - Com. Runcu -> FERESTRE
         147: 69198,  # Feţeni Sat  - Com. Valea Mare -> FEŢENI
+        148: 65618,  # Fieni Orş.  -> FIENI
         149: 68903,  # Fierbinţi Sat  - Com. Şelaru -> FIERBINŢI
         151: 67489,  # Finta Mare Sat  - Com. Finta -> FINTA MARE
         152: 67504,  # Finta Veche Sat  - Com. Finta -> FINTA VECHE
         153: 66651,  # Frasin Deal Sat  - Com. Cobia -> FRASIN-DEAL
         154: 66660,  # Frasin Vale Sat  - Com. Cobia -> FRASIN-VALE
         155: 67078,  # Frasinu Sat  - Com. Corneşti -> FRASINU
-        448: 66107,  # Fusea Sat  - Orş. Titu -> FUSEA
         156: 66713,  # Fântânele Sat  - Com. Cojasca -> FÂNTÂNELE
         157: 65743,  # Făgetu Sat  - Com. Gura Foii -> FĂGETU
         158: 67434,  # Geangoeşti Sat  - Com. Dragomireşti -> GEANGOEŞTI
@@ -5383,6 +5371,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         166: 68823,  # Ghineşti Sat  - Com. Sălcioara -> GHINEŞTI
         167: 67746,  # Ghirdoveni Sat  - Com. I. L. Caragiale -> GHIRDOVENI
         168: 68217,  # Glod Sat  - Com. Moroeni -> GLOD
+        169: 65967,  # Glodeni Loc.  - Orş. Pucioasa -> GLODENI
         170: 67531,  # Glodeni Sat  - Com. Glodeni -> GLODENI
         172: 68912,  # Glogoveanu Sat  - Com. Şelaru -> GLOGOVEANU
         173: 65459,  # Gorgota Sat  - Com. Răzvad -> GORGOTA
@@ -5396,8 +5385,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         183: 67657,  # Gura Şuţii Sat  - Com. Gura Şuţii -> GURA ŞUŢII
         185: 67540,  # Guşoiu Sat  - Com. Glodeni -> GUŞOIU
         186: 69205,  # Gârleni Sat  - Com. Valea Mare -> GÂRLENI
+        187: 65690,  # Găeşti Orş.  -> GĂEŞTI
         188: 66820,  # Gămăneşti Sat  - Com. Conţeşti -> GĂMĂNEŞTI
-        451: 66116,  # Hagioaica Sat  - Orş. Titu -> HAGIOAICA
         189: 69009,  # Hanu lui Pală Sat  - Com. Ulieşti -> HANU LUI PALĂ
         190: 66839,  # Heleşteu Sat  - Com. Conţeşti -> HELEŞTEU
         191: 67087,  # Hodărăşti Sat  - Com. Corneşti -> HODĂRĂŞTI
@@ -5411,8 +5400,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         202: 68315,  # Ilfoveni Sat  - Com. Nucet -> ILFOVENI
         203: 65805,  # Ioneşti Sat  - Com. Petreşti -> IONEŞTI
         204: 69553,  # Izvoarele Sat  - Com. Voineşti -> IZVOARELE
-        206: 69367,  # Izvoru Sat  - Com. Vişina -> IZVORU
         205: 69090,  # Izvoru Sat  - Com. Valea Lungă -> IZVORU
+        206: 69367,  # Izvoru Sat  - Com. Vişina -> IZVORU
         207: 69018,  # Jugureni Sat  - Com. Ulieşti -> JUGURENI
         208: 66759,  # Lazuri Sat  - Com. Comişani -> LAZURI
         209: 67568,  # Livezile Sat  - Com. Glodeni -> LIVEZILE
@@ -5427,17 +5416,18 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         221: 66036,  # Lăculeţe-Gară Sat  - Com. Vulcana-Pandele -> LĂCULEŢE-GARĂ
         222: 67577,  # Malu Mierii Sat  - Com. Glodeni -> MALU MIERII
         224: 67951,  # Malu cu Flori Sat  - Com. Malu cu Flori -> MALU CU FLORI
+        225: 65976,  # Malurile Loc.  - Orş. Pucioasa -> MALURILE
         226: 69571,  # Manga Sat  - Com. Voineşti -> MANGA
         227: 65556,  # Matraca Sat  - Com. Ulmi -> MATRACA
         228: 68681,  # Mavrodin Sat  - Orş. Răcari -> MAVRODIN
         229: 68592,  # Meişoare Sat  - Com. Pucheni -> MEIŞOARE
         230: 66848,  # Mereni Sat  - Com. Conţeşti -> MERENI
-        452: 66125,  # Mereni Sat  - Orş. Titu -> MERENI
         231: 68164,  # Merii Sat  - Com. Mogoşani -> MERII
         232: 69483,  # Merişoru Sat  - Com. Vârfuri -> MERIŞORU
         233: 69321,  # Mesteacăn Sat  - Com. Văleni-Dâmboviţa -> MESTEACĂN
         234: 67988,  # Micloşanii Mari Sat  - Com. Malu cu Flori -> MICLOŞANII MARI
         235: 67997,  # Micloşanii Mici Sat  - Com. Malu cu Flori -> MICLOŞANII MICI
+        236: 65985,  # Miculeşti Loc.  - Orş. Pucioasa -> MICULEŞTI
         237: 67764,  # Mija Sat  - Com. I. L. Caragiale -> MIJA
         238: 67853,  # Miloşari Sat  - Com. Ludeşti -> MILOŞARI
         239: 68832,  # Mircea Vodă Sat  - Com. Sălcioara -> MIRCEA VODĂ
@@ -5447,6 +5437,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         243: 66893,  # Moara din Groapă Sat  - Com. Corbii Mari -> MOARA DIN GROAPĂ
         244: 68137,  # Mogoşani Sat  - Com. Mogoşani -> MOGOŞANI
         246: 67443,  # Mogoşeşti Sat  - Com. Dragomireşti -> MOGOŞEŞTI
+        247: 65850,  # Moreni Mun.  -> MORENI
         248: 68191,  # Moroeni Sat  - Com. Moroeni -> MOROENI
         250: 68262,  # Morteni Sat  - Com. Morteni -> MORTENI
         252: 68850,  # Movila Sat  - Com. Sălcioara -> MOVILA
@@ -5486,7 +5477,6 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         294: 66287,  # Pietrari Sat  - Com. Pietrari -> PIETRARI
         296: 68413,  # Pietroşiţa Sat  - Com. Pietroşiţa -> PIETROŞIŢA
         297: 68486,  # Pitaru Sat  - Com. Potlogi -> PITARU
-        455: 66134,  # Plopu Sat  - Orş. Titu -> PLOPU
         298: 66919,  # Podu Corbencii Sat  - Com. Corbii Mari -> PODU CORBENCII
         299: 68495,  # Podu Cristinii Sat  - Com. Potlogi -> PODU CRISTINII
         300: 68869,  # Podu Rizii Sat  - Com. Sălcioara -> PODU RIZII
@@ -5498,11 +5488,14 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         307: 65814,  # Potlogeni-Deal Sat  - Com. Petreşti -> POTLOGENI-DEAL
         309: 68477,  # Potlogi Sat  - Com. Potlogi -> POTLOGI
         310: 67862,  # Potocelu Sat  - Com. Ludeşti -> POTOCELU
-        312: 68967,  # Priboiu Sat  - Com. Tătărani -> PRIBOIU
         311: 66045,  # Priboiu Sat  - Com. Brăneşti -> PRIBOIU
+        312: 68967,  # Priboiu Sat  - Com. Tătărani -> PRIBOIU
+        313: 65360,  # Priseaca Loc.  - Mun. Târgovişte -> PRISEACA
         315: 68538,  # Produleşti Sat  - Com. Produleşti -> PRODULEŞTI
-        318: 68244,  # Pucheni Sat  - Com. Moroeni -> PUCHENI
         317: 68574,  # Pucheni Sat  - Com. Pucheni -> PUCHENI
+        318: 68244,  # Pucheni Sat  - Com. Moroeni -> PUCHENI
+        319: 65930,  # Pucioasa Orş.  -> PUCIOASA
+        320: 65994,  # Pucioasa-Sat Loc.  - Orş. Pucioasa -> PUCIOASA-SAT
         321: 65823,  # Puntea de Greci Sat  - Com. Petreşti -> PUNTEA DE GRECI
         322: 68100,  # Puţu cu Salcie Sat  - Com. Mătăsaru -> PUŢU CU SALCIE
         323: 67372,  # Pădureni Sat  - Com. Dragodana -> PĂDURENI
@@ -5516,10 +5509,11 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         332: 67452,  # Râncăciov Sat  - Com. Dragomireşti -> RÂNCĂCIOV
         333: 66296,  # Râu Alb de Jos Sat  - Com. Râu Alb -> RÂU ALB DE JOS
         334: 66303,  # Râu Alb de Sus Sat  - Com. Râu Alb -> RÂU ALB DE SUS
+        335: 68636,  # Răcari Orş.  -> RĂCARI
         336: 68636,  # Răcari Sat  - Orş. Răcari -> RĂCARI
         337: 69376,  # Răscăeţi Sat  - Com. Răscăeţi -> RĂSCĂEŢI
-        340: 65440,  # Răzvad Sat  - Com. Răzvad -> RĂZVAD
         338: 67238,  # Răţeşti Sat  - Com. Crângurile -> RĂŢEŞTI
+        340: 65440,  # Răzvad Sat  - Com. Răzvad -> RĂZVAD
         341: 66517,  # Răţoaia Sat  - Com. Bucşani -> RĂŢOAIA
         342: 102339,  # Samurcaşi Sat  - Com. Crevedia -> SAMURCAŞI
         343: 69223,  # Saru Sat  - Com. Valea Mare -> SARU
@@ -5536,6 +5530,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         355: 69054,  # Stavropolia Sat  - Com. Ulieşti -> STAVROPOLIA
         356: 69232,  # Stratoneşti Sat  - Com. Valea Mare -> STRATONEŞTI
         357: 67390,  # Străoşti Sat  - Com. Dragodana -> STRĂOŞTI
+        358: 69125,  # Ştubeie Tisa Sat  - Com. Valea Lungă -> ŞTUBEIE TISA
         359: 68707,  # Stăneşti Sat  - Orş. Răcari -> STĂNEŞTI
         360: 69492,  # Stăteşti Sat  - Com. Vârfuri -> STĂTEŞTI
         361: 69606,  # Suduleni Sat  - Com. Voineşti -> SUDULENI
@@ -5545,25 +5540,26 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         365: 67639,  # Săcueni Sat  - Com. Gura Ocniţei -> SĂCUENI
         367: 68878,  # Sălcioara Sat  - Com. Sălcioara -> SĂLCIOARA
         368: 68119,  # Sălcioara Sat  - Com. Mătăsaru -> SĂLCIOARA
-        458: 66143,  # Sălcuţa Sat  - Orş. Titu -> SĂLCUŢA
         369: 65397,  # Săteni Sat  - Com. Aninoasa -> SĂTENI
         370: 66189,  # Săveşti Sat  - Com. Braniştea -> SĂVEŞTI
         371: 65495,  # Teiş Sat  - Com. Şotânga -> TEIŞ
         372: 67899,  # Teleşti Sat  - Com. Ludeşti -> TELEŞTI
         373: 68057,  # Teţcoiu Sat  - Com. Mătăsaru -> TEŢCOIU
+        374: 66090,  # Titu Orş.  -> TITU
         375: 66054,  # Toculeşti Sat  - Com. Vulcana-Pandele -> TOCULEŞTI
         376: 67158,  # Tomşani Sat  - Com. Costeştii din Vale -> TOMŞANI
         377: 66385,  # Tunari Sat  - Com. Bezdead -> TUNARI
+        378: 65351,  # Târgovişte Mun.  -> TÂRGOVIŞTE
         379: 105543,  # Tărtăşeşti Sat  - Com. Tărtăşeşti -> TĂRTĂŞEŞTI
         381: 68930,  # Tătărani Sat  - Com. Tătărani -> TĂTĂRANI
         383: 65574,  # Udreşti Sat  - Com. Ulmi -> UDREŞTI
         384: 68985,  # Ulieşti Sat  - Com. Ulieşti -> ULIEŞTI
         386: 69517,  # Ulmetu Sat  - Com. Vârfuri -> ULMETU
         387: 65510,  # Ulmi Sat  - Com. Ulmi -> ULMI
-        392: 67461,  # Ungureni Sat  - Com. Dragomireşti -> UNGURENI
+        389: 66937,  # Ungureni Sat  - Com. Corbii Mari -> UNGURENI
         390: 67112,  # Ungureni Sat  - Com. Corneşti -> UNGURENI
         391: 101608,  # Ungureni Sat  - Com. Butimanu -> UNGURENI
-        389: 66937,  # Ungureni Sat  - Com. Corbii Mari -> UNGURENI
+        392: 67461,  # Ungureni Sat  - Com. Dragomireşti -> UNGURENI
         393: 69438,  # Urseiu Sat  - Com. Vişineşti -> URSEIU
         394: 101886,  # Urziceanca Sat  - Com. Ciocăneşti -> URZICEANCA
         395: 66946,  # Vadu Stanchii Sat  - Com. Corbii Mari -> VADU STANCHII
@@ -5575,8 +5571,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         402: 69143,  # Valea Lungă Gorgota Sat  - Com. Valea Lungă -> VALEA LUNGĂ GORGOTA
         403: 69152,  # Valea Lungă Ogrea Sat  - Com. Valea Lungă -> VALEA LUNGĂ OGREA
         404: 69072,  # Valea Lungă-Cricov Sat  - Com. Valea Lungă -> VALEA LUNGĂ-CRICOV
-        406: 69189,  # Valea Mare Sat  - Com. Valea Mare -> VALEA MARE
         405: 66571,  # Valea Mare Sat  - Com. Cândeşti -> VALEA MARE
+        406: 69189,  # Valea Mare Sat  - Com. Valea Mare -> VALEA MARE
         407: 69161,  # Valea Mare Sat  - Com. Valea Lungă -> VALEA MARE
         409: 66394,  # Valea Morii Sat  - Com. Bezdead -> VALEA MORII
         410: 65468,  # Valea Voievozilor Sat  - Com. Răzvad -> VALEA VOIEVOZILOR
@@ -5604,49 +5600,32 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         440: 69116,  # Şerbăneasa Sat  - Com. Valea Lungă -> ŞERBĂNEASA
         441: 66312,  # Şipot Sat  - Com. Pietrari -> ŞIPOT
         442: 65486,  # Şotânga Sat  - Com. Şotânga -> ŞOTÂNGA
-        358: 69125,  # Ştubeie Tisa Sat  - Com. Valea Lungă -> ŞTUBEIE TISA
         444: 69508,  # Şuviţa Sat  - Com. Vârfuri -> ŞUVIŢA
         445: 67826,  # Şuţa Seacă Sat  - Com. Raciu -> ŞUŢA SEACĂ
+        448: 66107,  # Fusea Sat  - Orş. Titu -> FUSEA
+        451: 66116,  # Hagioaica Sat  - Orş. Titu -> HAGIOAICA
+        452: 66125,  # Mereni Sat  - Orş. Titu -> MERENI
+        455: 66134,  # Plopu Sat  - Orş. Titu -> PLOPU
+        458: 66143,  # Sălcuţa Sat  - Orş. Titu -> SĂLCUŢA
     },
     16: {  # DOLJ
-        7: 70432,  # Almăjel Loc.  - Orş. Filiaşi -> ALMĂJEL
-        17: 70334,  # Balasan Loc.  - Mun. Băileşti -> BALASAN
-        21: 70370,  # Basarabi Loc.  - Mun. Calafat -> BASARABI
-        48: 70450,  # Branişte Loc.  - Orş. Filiaşi -> BRANIŞTE
-        70: 70441,  # Bâlta Loc.  - Orş. Filiaşi -> BÂLTA
-        94: 70058,  # Cernele Loc.  - Mun. Craiova -> CERNELE
-        95: 70067,  # Cernelele de Sus Loc.  - Mun. Craiova -> CERNELELE DE SUS
-        112: 70389,  # Ciupercenii Vechi Loc.  - Mun. Calafat -> CIUPERCENII VECHI
-        174: 70469,  # Fratoştiţa Loc.  - Orş. Filiaşi -> FRATOŞTIŢA
-        179: 69928,  # Făcăi Loc.  - Mun. Craiova -> FĂCĂI
-        211: 70398,  # Golenţi Loc.  - Mun. Calafat -> GOLENŢI
-        233: 70076,  # Izvoru Rece Loc.  - Mun. Craiova -> IZVORUL RECE
-        272: 69937,  # Mofleni Loc.  - Mun. Craiova -> MOFLENI
-        346: 69946,  # Popoveni Loc.  - Mun. Craiova -> POPOVENI
-        373: 70085,  # Rovine Loc.  - Mun. Craiova -> ROVINE
-        377: 70478,  # Răcarii de Sus Loc.  - Orş. Filiaşi -> RĂCARII DE SUS
-        443: 70487,  # Uscăci Loc.  - Orş. Filiaşi -> USCĂCI
-        471: 69955,  # Şimnicu de Jos Loc.  - Mun. Craiova -> ŞIMNICU DE JOS
-        129: 69919,  # Craiova Mun.  -> CRAIOVA
-        75: 70325,  # Băileşti Mun.  -> BĂILEŞTI
-        78: 70361,  # Calafat Mun.  -> CALAFAT
-        23: 70888,  # Bechet Orş.  -> BECHET
-        166: 72016,  # Dăbuleni Orş.  -> DĂBULENI
-        169: 70423,  # Filiaşi Orş.  -> FILIAŞI
-        394: 70511,  # Segarcea Orş.  -> SEGARCEA
         1: 72695,  # Adâncata Sat  - Com. Goieşti -> ADÂNCATA
         3: 70539,  # Afumaţi Sat  - Com. Afumaţi -> AFUMAŢI
         4: 70192,  # Albeşti Sat  - Com. Şimnicu de Sus -> ALBEŞTI
         6: 70575,  # Almăj Sat  - Com. Almăj -> ALMĂJ
+        7: 70432,  # Almăjel Loc.  - Orş. Filiaşi -> ALMĂJEL
         8: 72294,  # Amărăşti Sat  - Com. Fărcaş -> AMĂRĂŞTI
         10: 70646,  # Amărăştii de Jos Sat  - Com. Amărăştii de Jos -> AMĂRĂŞTII DE JOS
         12: 70682,  # Amărăştii de Sus Sat  - Com. Amărăştii de Sus -> AMĂRĂŞTII DE SUS
         14: 70735,  # Apele Vii Sat  - Com. Apele Vii -> APELE VII
         16: 70753,  # Argetoaia Sat  - Com. Argetoaia -> ARGETOAIA
+        17: 70334,  # Balasan Loc.  - Mun. Băileşti -> BALASAN
         18: 73380,  # Balota de Jos Sat  - Com. Murgaşi -> BALOTA DE JOS
         19: 73399,  # Balota de Sus Sat  - Com. Murgaşi -> BALOTA DE SUS
         20: 70138,  # Balta Verde Sat  - Com. Podari -> BALTA VERDE
+        21: 70370,  # Basarabi Loc.  - Mun. Calafat -> BASARABI
         22: 74260,  # Başcov Sat  - Com. Sopot -> BAŞCOV
+        23: 70888,  # Bechet Orş.  -> BECHET
         24: 70888,  # Bechet Sat  - Orş. Bechet -> BECHET
         25: 73521,  # Bechet Sat  - Com. Orodel -> BECHET
         26: 70584,  # Beharca Sat  - Com. Coţofenii din Faţă -> BEHARCA
@@ -5667,8 +5646,9 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         43: 71974,  # Brabeţi Sat  - Com. Daneţi -> BRABEŢI
         44: 70995,  # Brabova Sat  - Com. Brabova -> BRABOVA
         46: 71135,  # Braloştiţa Sat  - Com. Braloştiţa -> BRALOŞTIŢA
-        50: 71983,  # Branişte Sat  - Com. Daneţi -> BRANIŞTE
+        48: 70450,  # Branişte Loc.  - Orş. Filiaşi -> BRANIŞTE
         49: 70147,  # Branişte Sat  - Com. Podari -> BRANIŞTE
+        50: 71983,  # Branişte Sat  - Com. Daneţi -> BRANIŞTE
         51: 71206,  # Bratovoeşti Sat  - Com. Bratovoeşti -> BRATOVOEŞTI
         53: 71279,  # Breasta Sat  - Com. Breasta -> BREASTA
         55: 70922,  # Brânduşa Sat  - Com. Bistreţ -> BRÂNDUŞA
@@ -5683,11 +5663,14 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         67: 72855,  # Busuleţu Sat  - Com. Greceşti -> BUSULEŢU
         68: 72196,  # Buzduc Sat  - Com. Drăgoteşti -> BUZDUC
         69: 73406,  # Buşteni Sat  - Com. Murgaşi -> BUŞTENI
+        70: 70441,  # Bâlta Loc.  - Orş. Filiaşi -> BÂLTA
         72: 70959,  # Bârca Sat  - Com. Bârca -> BÂRCA
         73: 71484,  # Bâzdâna Sat  - Com. Calopăr -> BÂZDÂNA
         74: 71215,  # Bădoşi Sat  - Com. Bratovoeşti -> BĂDOŞI
+        75: 70325,  # Băileşti Mun.  -> BĂILEŞTI
         76: 70762,  # Băranu Sat  - Com. Argetoaia -> BĂRANU
         77: 72837,  # Bărboi Sat  - Com. Greceşti -> BĂRBOI
+        78: 70361,  # Calafat Mun.  -> CALAFAT
         80: 71466,  # Calopăr Sat  - Com. Calopăr -> CALOPĂR
         81: 71000,  # Caraiman Sat  - Com. Brabova -> CARAIMAN
         83: 71527,  # Caraula Sat  - Com. Caraula -> CARAULA
@@ -5698,6 +5681,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         90: 73497,  # Catanele Noi Sat  - Com. Catane -> CATANELE NOI
         92: 71643,  # Celaru Sat  - Com. Celaru -> CELARU
         93: 74288,  # Cernat Sat  - Com. Sopot -> CERNAT
+        94: 70058,  # Cernele Loc.  - Mun. Craiova -> CERNELE
+        95: 70067,  # Cernelele de Sus Loc.  - Mun. Craiova -> CERNELELE DE SUS
         97: 71732,  # Cernăteşti Sat  - Com. Cernăteşti -> CERNĂTEŞTI
         99: 71705,  # Cerăt Sat  - Com. Cerăt -> CERĂT
         101: 71796,  # Cetate Sat  - Com. Cetate -> CETATE
@@ -5709,6 +5694,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         108: 71821,  # Cioroiaşi Sat  - Com. Cioroiaşi -> CIOROIAŞI
         109: 71849,  # Cioroiu Nou Sat  - Com. Cioroiaşi -> CIOROIU NOU
         111: 71867,  # Ciupercenii Noi Sat  - Com. Ciupercenii Noi -> CIUPERCENII NOI
+        112: 70389,  # Ciupercenii Vechi Loc.  - Mun. Calafat -> CIUPERCENII VECHI
         113: 74787,  # Ciutura Sat  - Com. Vârvoru de Jos -> CIUTURA
         114: 71554,  # Cleanov Sat  - Com. Carpen -> CLEANOV
         115: 72597,  # Comoşteni Sat  - Com. Gângiova -> COMOŞTENI
@@ -5723,6 +5709,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         125: 71894,  # Coşoveni Sat  - Com. Coşoveni -> COŞOVENI
         127: 71929,  # Coţofenii din Dos Sat  - Com. Coţofenii din Dos -> COŢOFENII DIN DOS
         128: 70600,  # Coţofenii din Faţă Sat  - Com. Coţofenii din Faţă -> COŢOFENII DIN FAŢĂ
+        129: 69919,  # Craiova Mun.  -> CRAIOVA
         130: 74796,  # Criva Sat  - Com. Vârvoru de Jos -> CRIVA
         131: 71297,  # Crovna Sat  - Com. Breasta -> CROVNA
         132: 72551,  # Curmătura Sat  - Com. Giurgiţa -> CURMĂTURA
@@ -5752,16 +5739,20 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         163: 72230,  # Drănic Sat  - Com. Drănic -> DRĂNIC
         164: 70227,  # Dudoviceşti Sat  - Com. Şimnicu de Sus -> DUDOVICEŞTI
         165: 70236,  # Duţuleşti Sat  - Com. Şimnicu de Sus -> DUŢULEŞTI
+        166: 72016,  # Dăbuleni Orş.  -> DĂBULENI
         167: 72016,  # Dăbuleni Sat  - Orş. Dăbuleni -> DĂBULENI
         168: 72560,  # Filaret Sat  - Com. Giurgiţa -> FILARET
+        169: 70423,  # Filiaşi Orş.  -> FILIAŞI
         170: 74395,  # Floran Sat  - Com. Terpeziţa -> FLORAN
         171: 70245,  # Floreşti Sat  - Com. Şimnicu de Sus -> FLOREŞTI
         172: 72258,  # Foişor Sat  - Com. Drănic -> FOIŞOR
         173: 73816,  # Frasin Sat  - Com. Pleşoi -> FRASIN
+        174: 70469,  # Fratoştiţa Loc.  - Orş. Filiaşi -> FRATOŞTIŢA
         175: 71377,  # Frăţila Sat  - Com. Bulzeşti -> FRĂŢILA
         176: 73870,  # Fântânele Sat  - Com. Radovan -> FÂNTÂNELE
         177: 74448,  # Fântânele Sat  - Com. Teslui -> FÂNTÂNELE
         178: 72702,  # Fântâni Sat  - Com. Goieşti -> FÂNTÂNI
+        179: 69928,  # Făcăi Loc.  - Mun. Craiova -> FĂCĂI
         180: 71304,  # Făget Sat  - Com. Breasta -> FĂGET
         182: 72285,  # Fărcaş Sat  - Com. Fărcaş -> FĂRCAŞ
         183: 74821,  # Gabru Sat  - Com. Vârvoru de Jos -> GABRU
@@ -5784,6 +5775,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         206: 72613,  # Gogoşu Sat  - Com. Gogoşu -> GOGOŞU
         208: 72659,  # Goicea Sat  - Com. Goicea -> GOICEA
         210: 72686,  # Goieşti Sat  - Com. Goieşti -> GOIEŞTI
+        211: 70398,  # Golenţi Loc.  - Mun. Calafat -> GOLENŢI
         212: 73950,  # Golfin Sat  - Com. Robăneşti -> GOLFIN
         213: 72301,  # Golumbelu Sat  - Com. Fărcaş -> GOLUMBELU
         214: 72310,  # Golumbu Sat  - Com. Fărcaş -> GOLUMBU
@@ -5802,6 +5794,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         229: 69991,  # Italieni Sat  - Com. Bucovăţ -> ITALIENI
         231: 72891,  # Izvoare Sat  - Com. Izvoare -> IZVOARE
         232: 70254,  # Izvor Sat  - Com. Şimnicu de Sus -> IZVOR
+        233: 70076,  # Izvoru Rece Loc.  - Mun. Craiova -> IZVORUL RECE
         235: 70101,  # Işalniţa Sat  - Com. Işalniţa -> IŞALNIŢA
         236: 70263,  # Jieni Sat  - Com. Şimnicu de Sus -> JIENI
         237: 74527,  # Jiul Sat  - Com. Ţuglui -> JIUL
@@ -5833,6 +5826,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         268: 73825,  # Milovan Sat  - Com. Pleşoi -> MILOVAN
         270: 73255,  # Mischii Sat  - Com. Mischii -> MISCHII
         271: 73282,  # Mlecăneşti Sat  - Com. Mischii -> MLECĂNEŞTI
+        272: 69937,  # Mofleni Loc.  - Mun. Craiova -> MOFLENI
         273: 72329,  # Mofleşti Sat  - Com. Tălpaş -> MOFLEŞTI
         274: 72739,  # Mogoşeşti Sat  - Com. Goieşti -> MOGOŞEŞTI
         275: 71803,  # Moreni Sat  - Com. Cetate -> MORENI
@@ -5892,6 +5886,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         343: 72766,  # Pometeşti Sat  - Com. Goieşti -> POMETEŞTI
         344: 72775,  # Popeasa Sat  - Com. Goieşti -> POPEASA
         345: 73200,  # Popeşti Sat  - Com. Melineşti -> POPEŞTI
+        346: 69946,  # Popoveni Loc.  - Mun. Craiova -> POPOVENI
         347: 72203,  # Popânzăleşti Sat  - Com. Drăgoteşti -> POPÂNZĂLEŞTI
         348: 71947,  # Potmelţu Sat  - Com. Coţofenii din Dos -> POTMELŢU
         349: 70664,  # Prapor Sat  - Com. Amărăştii de Jos -> PRAPOR
@@ -5914,9 +5909,11 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         370: 73987,  # Robăneştii de Sus Sat  - Com. Robăneşti -> ROBĂNEŞTII DE SUS
         371: 71242,  # Rojişte Sat  - Com. Rojişte -> ROJIŞTE
         372: 70290,  # Româneşti Sat  - Com. Şimnicu de Sus -> ROMÂNEŞTI
+        373: 70085,  # Rovine Loc.  - Mun. Craiova -> ROVINE
         374: 71322,  # Roşieni Sat  - Com. Breasta -> ROŞIENI
         375: 73442,  # Rupturile Sat  - Com. Murgaşi -> RUPTURILE
         376: 71108,  # Răcari Sat  - Com. Brădeşti -> RĂCARI
+        377: 70478,  # Răcarii de Sus Loc.  - Orş. Filiaşi -> RĂCARII DE SUS
         378: 71028,  # Răchita de Jos Sat  - Com. Brabova -> RĂCHITA DE JOS
         379: 74153,  # Răchita de Sus Sat  - Com. Seaca de Pădure -> RĂCHITA DE SUS
         380: 74000,  # Sadova Sat  - Com. Sadova -> SADOVA
@@ -5928,6 +5925,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         390: 74180,  # Secu Sat  - Com. Secu -> SECU
         392: 74340,  # Secui Sat  - Com. Teasc -> SECUI
         393: 71439,  # Seculeşti Sat  - Com. Bulzeşti -> SECULEŞTI
+        394: 70511,  # Segarcea Orş.  -> SEGARCEA
         395: 74670,  # Segleţ Sat  - Com. Vela -> SEGLEŢ
         396: 71171,  # Sfircea Sat  - Com. Braloştiţa -> SFÂRCEA
         397: 74233,  # Siliştea Crucii Sat  - Com. Siliştea Crucii -> SILIŞTEA CRUCII
@@ -5940,8 +5938,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         406: 71448,  # Stoiceşti Sat  - Com. Bulzeşti -> STOICEŞTI
         407: 74689,  # Suharu Sat  - Com. Vela -> SUHARU
         408: 74313,  # Sârsca Sat  - Com. Sopot -> SÂRSCA
-        411: 74037,  # Sălcuţa Sat  - Com. Sălcuţa -> SĂLCUŢA
         409: 71509,  # Sălcuţa Sat  - Com. Calopăr -> SĂLCUŢA
+        411: 74037,  # Sălcuţa Sat  - Com. Sălcuţa -> SĂLCUŢA
         412: 71420,  # Sălişte Sat  - Com. Bulzeşti -> SĂLIŞTE
         413: 73004,  # Săpata Sat  - Com. Măceşu de Jos -> SĂPATA
         414: 71625,  # Sărata Sat  - Com. Călăraşi -> SĂRATA
@@ -5968,6 +5966,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         439: 70860,  # Ursoaia Sat  - Com. Argetoaia -> URSOAIA
         440: 74572,  # Urzica Mare Sat  - Com. Urzicuţa -> URZICA MARE
         442: 74563,  # Urzicuţa Sat  - Com. Urzicuţa -> URZICUŢA
+        443: 70487,  # Uscăci Loc.  - Orş. Filiaşi -> USCĂCI
         444: 71180,  # Valea Fântânilor Sat  - Com. Braloştiţa -> VALEA FÂNTÂNILOR
         445: 71331,  # Valea Lungului Sat  - Com. Breasta -> VALEA LUNGULUI
         446: 73228,  # Valea Mare Sat  - Com. Melineşti -> VALEA MARE
@@ -5990,27 +5989,25 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         468: 70717,  # Zvorsca Sat  - Com. Amărăştii de Sus -> ZVORSCA
         469: 72944,  # Zănoaga Sat  - Com. Leu -> ZĂNOAGA
         470: 72490,  # Zăval Sat  - Com. Gighera -> ZĂVAL
-        478: 71395,  # Înfrăţirea Sat  - Com. Bulzeşti -> ÎNFRĂŢIREA
-        479: 73889,  # Întorsura Sat  - Com. Întorsura -> ÎNTORSURA
+        471: 69955,  # Şimnicu de Jos Loc.  - Mun. Craiova -> ŞIMNICU DE JOS
         472: 70183,  # Şimnicu de Sus Sat  - Com. Şimnicu de Sus -> ŞIMNICU DE SUS
         474: 70628,  # Şitoaia Sat  - Com. Almăj -> ŞITOAIA
         475: 72631,  # Ştefănel Sat  - Com. Gogoşu -> ŞTEFĂNEL
         476: 74698,  # Ştiubei Sat  - Com. Vela -> ŞTIUBEI
         477: 74215,  # Şumandra Sat  - Com. Secu -> ŞUMANDRA
+        478: 71395,  # Înfrăţirea Sat  - Com. Bulzeşti -> ÎNFRĂŢIREA
+        479: 73889,  # Întorsura Sat  - Com. Întorsura -> ÎNTORSURA
         480: 72784,  # Ţandăra Sat  - Com. Goieşti -> ŢANDĂRA
         481: 71778,  # Ţiu Sat  - Com. Cernăteşti -> ŢIU
         483: 74518,  # Ţuglui Sat  - Com. Ţuglui -> ŢUGLUI
         484: 74475,  # Ţărţăl Sat  - Com. Teslui -> ŢĂRŢĂL
     },
     17: {  # GALAŢI
-        87: 75105,  # Galaţi Mun.  -> GALAŢI
-        196: 75212,  # Tecuci Mun.  -> TECUCI
-        6: 75347,  # Bereşti Orş.  -> BEREŞTI
-        204: 75481,  # Târgu Bujor Orş.  -> TÂRGU BUJOR
         1: 76193,  # Adam Sat  - Com. Drăguşeni -> ADAM
         2: 75374,  # Aldeşti Sat  - Com. Bereşti-Meria -> ALDEŞTI
         3: 75383,  # Balinteşti Sat  - Com. Bereşti-Meria -> BALINTEŞTI
         4: 75524,  # Barcea Sat  - Com. Barcea -> BARCEA
+        6: 75347,  # Bereşti Orş.  -> BEREŞTI
         7: 75365,  # Bereşti-Meria Sat  - Com. Bereşti-Meria -> BEREŞTI-MERIA
         9: 75971,  # Blânzi Sat  - Com. Corod -> BLÂNZI
         10: 75720,  # Braniştea Sat  - Com. Braniştea -> BRANIŞTEA
@@ -6069,6 +6066,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         83: 77144,  # Fântânele Sat  - Com. Scânteieşti -> FÂNTÂNELE
         84: 76852,  # Fântâni Sat  - Com. Nicoreşti -> FÂNTÂNI
         85: 76264,  # Fârţăneşti Sat  - Com. Fârţăneşti -> FÂRŢĂNEŞTI
+        87: 75105,  # Galaţi Mun.  -> GALAŢI
         88: 76512,  # Gara Berheci Sat  - Com. Gohor -> GARA BERHECI
         89: 76424,  # Gara Ghidigeni Sat  - Com. Ghidigeni -> GARA GHIDIGENI
         90: 76433,  # Gefu Sat  - Com. Ghidigeni -> GEFU
@@ -6090,8 +6088,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         110: 76610,  # Iveşti Sat  - Com. Iveşti -> IVEŞTI
         112: 77215,  # Izvoarele Sat  - Com. Slobozia Conachi -> IZVOARELE
         114: 76647,  # Jorăşti Sat  - Com. Jorăşti -> JORĂŞTI
-        117: 76683,  # Lieşti Sat  - Com. Lieşti -> LIEŞTI
         115: 77064,  # Lieşti Sat  - Com. Priponeşti -> LIEŞTI
+        117: 76683,  # Lieşti Sat  - Com. Lieşti -> LIEŞTI
         118: 75739,  # Lozova Sat  - Com. Braniştea -> LOZOVA
         119: 76656,  # Lunca Sat  - Com. Jorăşti -> LUNCA
         120: 75588,  # Lungeşti Sat  - Com. Bălăbăneşti -> LUNGEŞTI
@@ -6101,8 +6099,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         125: 76709,  # Matca Sat  - Com. Matca -> MATCA
         126: 77251,  # Mihail Kogălniceanu Sat  - Com. Smârdan -> MIHAIL KOGĂLNICEANU
         127: 75490,  # Moscu Sat  - Orş. Târgu Bujor -> MOSCU
-        130: 76754,  # Movileni Sat  - Com. Movileni -> MOVILENI
         129: 75132,  # Movileni Sat  - Com. Şendreni -> MOVILENI
+        130: 76754,  # Movileni Sat  - Com. Movileni -> MOVILENI
         132: 75267,  # Munteni Sat  - Com. Munteni -> MUNTENI
         133: 77493,  # Mândreşti Sat  - Com. Valea Mărului -> MÂNDREŞTI
         134: 76022,  # Măcişeni Sat  - Com. Corni -> MĂCIŞENI
@@ -6153,11 +6151,13 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         193: 76914,  # Sârbi Sat  - Com. Nicoreşti -> SÂRBI
         194: 75436,  # Săseni Sat  - Com. Bereşti-Meria -> SĂSENI
         195: 75846,  # Tecucelu Sec Sat  - Com. Buciumeni -> TECUCELU SEC
+        196: 75212,  # Tecuci Mun.  -> TECUCI
         197: 75800,  # Toflea Sat  - Com. Brăhăşeşti -> TOFLEA
         198: 77457,  # Torceşti Sat  - Com. Umbrăreşti -> TORCEŞTI
         199: 75748,  # Traian Sat  - Com. Braniştea -> TRAIAN
         200: 77322,  # Tudor Vladimirescu Sat  - Com. Tudor Vladimirescu -> TUDOR VLADIMIRESCU
         202: 77340,  # Tuluceşti Sat  - Com. Tuluceşti -> TULUCEŞTI
+        204: 75481,  # Târgu Bujor Orş.  -> TÂRGU BUJOR
         205: 76479,  # Tălpigi Sat  - Com. Ghidigeni -> TĂLPIGI
         206: 76344,  # Tămăoani Sat  - Com. Frumuşiţa -> TĂMĂOANI
         207: 76488,  # Tăplău Sat  - Com. Ghidigeni -> TĂPLĂU
@@ -6189,13 +6189,11 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         240: 75301,  # Ţigăneşti Sat  - Com. Munteni -> ŢIGĂNEŞTI
     },
     52: {  # GIURGIU
-        73: 100530,  # Giurgiu Mun.  -> GIURGIU
-        7: 101207,  # Bolintin-Vale Orş.  -> BOLINTIN-VALE
-        117: 104145,  # Mihăileşti Orş.  -> MIHĂILEŞTI
         1: 100790,  # Adunaţii-Copăceni Sat  - Com. Adunaţii-Copăceni -> ADUNAŢII-COPĂCENI
         3: 101396,  # Angheleşti Sat  - Com. Bucşani -> ANGHELEŞTI
         4: 104993,  # Bila Sat  - Com. Schitu -> BILA
         5: 101172,  # Bolintin-Deal Sat  - Com. Bolintin-Deal -> BOLINTIN-DEAL
+        7: 101207,  # Bolintin-Vale Orş.  -> BOLINTIN-VALE
         8: 104537,  # Braniştea Sat  - Com. Oinacu -> BRANIŞTEA
         9: 101680,  # Brăniştari Sat  - Com. Călugăreni -> BRĂNIŞTARI
         10: 101387,  # Bucşani Sat  - Com. Bucşani -> BUCŞANI
@@ -6215,7 +6213,6 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         28: 101993,  # Clejani Sat  - Com. Clejani -> CLEJANI
         30: 102080,  # Colibaşi Sat  - Com. Colibaşi -> COLIBAŞI
         32: 102115,  # Comana Sat  - Com. Comana -> COMANA
-        224: 180082,  # Comasca Sat  - Com. Oinacu -> COMASCA
         34: 103256,  # Copaciu Sat  - Com. Ghimpaţi -> COPACIU
         35: 105990,  # Corbeanca Sat  - Com. Vânătorii Mici -> CORBEANCA
         36: 104029,  # Cosoba Sat  - Com. Cosoba -> COSOBA
@@ -6249,6 +6246,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         69: 103247,  # Ghimpaţi Sat  - Com. Ghimpaţi -> GHIMPAŢI
         71: 105669,  # Ghionea Sat  - Com. Ulmi -> GHIONEA
         72: 105320,  # Ghizdaru Sat  - Com. Stăneşti -> GHIZDARU
+        73: 100530,  # Giurgiu Mun.  -> GIURGIU
         74: 103318,  # Gogoşari Sat  - Com. Gogoşari -> GOGOŞARI
         76: 101403,  # Goleasca Sat  - Com. Bucşani -> GOLEASCA
         77: 103737,  # Gorneni Sat  - Com. Iepureşti -> GORNENI
@@ -6268,8 +6266,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         98: 105366,  # Ianculeşti Sat  - Com. Stoeneşti -> IANCULEŞTI
         99: 105678,  # Icoana Sat  - Com. Ulmi -> ICOANA
         101: 103700,  # Iepureşti Sat  - Com. Iepureşti -> IEPUREŞTI
-        104: 103666,  # Isvoarele Sat  - Com. Isvoarele -> ISVOARELE
         103: 103906,  # Izvoarele Sat  - Com. Izvoarele -> IZVOARELE
+        104: 103666,  # Isvoarele Sat  - Com. Isvoarele -> ISVOARELE
         105: 103336,  # Izvoru Sat  - Com. Gogoşari -> IZVORU
         106: 106014,  # Izvoru Sat  - Com. Vânătorii Mici -> IZVORU
         108: 104001,  # Joiţa Sat  - Com. Joiţa -> JOIŢA
@@ -6279,6 +6277,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         113: 101225,  # Malu Spart Sat  - Orş. Bolintin-Vale -> MALU SPART
         115: 104127,  # Mihai Bravu Sat  - Com. Mihai Bravu -> MIHAI BRAVU
         116: 101181,  # Mihai Vodă Sat  - Com. Bolintin-Deal -> MIHAI VODĂ
+        117: 104145,  # Mihăileşti Orş.  -> MIHĂILEŞTI
         118: 104074,  # Milcovăţu Sat  - Com. Letca Nouă -> MILCOVĂŢU
         119: 103675,  # Miloşeşti Sat  - Com. Herăşti -> MILOŞEŞTI
         120: 103390,  # Mironeşti Sat  - Com. Gostinari -> MIRONEŞTI
@@ -6359,38 +6358,9 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         213: 103504,  # Zboiu Sat  - Com. Greaca -> ZBOIU
         214: 103434,  # Zorile Sat  - Com. Grădinari -> ZORILE
         215: 106050,  # Zădăriciu Sat  - Com. Vânătorii Mici -> ZĂDĂRICIU
+        224: 180082,  # Comasca Sat  - Com. Oinacu -> COMASCA
     },
     18: {  # GORJ
-        80: 77830,  # Bârseşti Loc.  - Mun. Târgu Jiu -> BÂRSEŞTI
-        140: 79326,  # Curtişoara Loc.  - Orş. Bumbeşti-Jiu -> CURTIŞOARA
-        162: 78169,  # Dealu Pomilor Loc.  - Mun. Motru -> DEALU POMILOR
-        172: 77849,  # Drăgoeni Loc.  - Mun. Târgu Jiu -> DRĂGOENI
-        218: 78178,  # Horăşti Loc.  - Mun. Motru -> HORĂŞTI
-        225: 77858,  # Iezureni Loc.  - Mun. Târgu Jiu -> IEZURENI
-        241: 78196,  # Leurda Loc.  - Mun. Motru -> LEURDA
-        249: 78212,  # Lupoiţa Loc.  - Mun. Motru -> LUPOIŢA
-        250: 79335,  # Lăzăreşti Loc.  - Orş. Bumbeşti-Jiu -> LĂZĂREŞTI
-        312: 79344,  # Pleşa Loc.  - Orş. Bumbeşti-Jiu -> PLEŞA
-        316: 78203,  # Ploştina Loc.  - Mun. Motru -> PLOŞTINA
-        325: 77867,  # Polata Loc.  - Mun. Târgu Jiu -> POLATA
-        330: 77876,  # Preajba Mare Loc.  - Mun. Târgu Jiu -> PREAJBA MARE
-        351: 77885,  # Romaneşti Loc.  - Mun. Târgu Jiu -> ROMANEŞTI
-        356: 78221,  # Roşiuţa Loc.  - Mun. Motru -> ROŞIUŢA
-        362: 78230,  # Râpa Loc.  - Mun. Motru -> RÂPA
-        382: 77894,  # Slobozia Loc.  - Mun. Târgu Jiu -> SLOBOZIA
-        417: 79353,  # Tetila Loc.  - Orş. Bumbeşti-Jiu -> TETILA
-        447: 77901,  # Ursaţi Loc.  - Mun. Târgu Jiu -> URSAŢI
-        475: 82902,  # Vârţ Loc.  - Orş. Rovinari -> VÂRŢ
-        494: 78187,  # Însurăţei Loc.  - Mun. Motru -> ÎNSURĂŢEI
-        436: 77821,  # Târgu Jiu Mun.  -> TÂRGU JIU
-        266: 78150,  # Motru Mun.  -> MOTRU
-        67: 79317,  # Bumbeşti-Jiu Orş.  -> BUMBEŞTI-JIU
-        283: 78267,  # Novaci Orş.  -> NOVACI
-        352: 79059,  # Rovinari Orş.  -> ROVINARI
-        421: 82449,  # Tismana Orş.  -> TISMANA
-        431: 82626,  # Turceni Orş.  -> TURCENI
-        435: 78338,  # Târgu Cărbuneşti Orş.  -> TÂRGU CĂRBUNEŞTI
-        495: 78463,  # Ţicleni Orş.  -> ŢICLENI
         2: 78481,  # Albeni Sat  - Com. Albeni -> ALBENI
         3: 82154,  # Alexeni Sat  - Com. Stăneşti -> ALEXENI
         5: 78551,  # Alimpeşti Sat  - Com. Alimpeşti -> ALIMPEŞTI
@@ -6447,6 +6417,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         64: 81898,  # Budieni Sat  - Com. Scoarţa -> BUDIENI
         65: 82412,  # Buduhala Sat  - Com. Teleşti -> BUDUHALA
         66: 79530,  # Bulbuceni Sat  - Com. Căpreni -> BULBUCENI
+        67: 79317,  # Bumbeşti-Jiu Orş.  -> BUMBEŞTI-JIU
         68: 79371,  # Bumbeşti-Piţic Sat  - Com. Bumbeşti-Piţic -> BUMBEŞTI-PIŢIC
         70: 81442,  # Burlani Sat  - Com. Prigoria -> BURLANI
         71: 79415,  # Bustuchin Sat  - Com. Bustuchin -> BUSTUCHIN
@@ -6456,6 +6427,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         76: 79013,  # Bâlteni Sat  - Com. Bâlteni -> BÂLTENI
         78: 81601,  # Bâltişoara Sat  - Com. Runcu -> BÂLTIŞOARA
         79: 80935,  # Bârcaciu Sat  - Com. Muşeteşti -> BÂRCACIU
+        80: 77830,  # Bârseşti Loc.  - Mun. Târgu Jiu -> BÂRSEŞTI
         81: 78944,  # Bârzeiu Sat  - Com. Berleşti -> BÂRZEIU
         82: 78490,  # Bârzeiu de Gilort Sat  - Com. Albeni -> BÂRZEIU DE GILORT
         83: 82270,  # Băceşti Sat  - Com. Stejari -> BĂCEŞTI
@@ -6509,6 +6481,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         137: 82181,  # Curpen Sat  - Com. Stăneşti -> CURPEN
         138: 81317,  # Cursaru Sat  - Com. Plopşoru -> CURSARU
         139: 78383,  # Curteana Sat  - Orş. Târgu Cărbuneşti -> CURTEANA
+        140: 79326,  # Curtişoara Loc.  - Orş. Bumbeşti-Jiu -> CURTIŞOARA
         141: 80463,  # Câlceşti Sat  - Com. Godineşti -> CÂLCEŞTI
         143: 79745,  # Câlnic Sat  - Com. Câlnic -> CÂLNIC
         144: 79754,  # Câlnicu de Sus Sat  - Com. Câlnic -> CÂLNICU DE SUS
@@ -6527,6 +6500,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         158: 79889,  # Cărpiniş Sat  - Com. Crasna -> CĂRPINIŞ
         160: 79594,  # Cătunele Sat  - Com. Cătunele -> CĂTUNELE
         161: 82289,  # Dealu Leului Sat  - Com. Stejari -> DEALU LEULUI
+        162: 78169,  # Dealu Pomilor Loc.  - Mun. Motru -> DEALU POMILOR
         163: 79567,  # Dealu Spirei Sat  - Com. Căpreni -> DEALU SPIREI
         164: 81521,  # Dealu Viei Sat  - Com. Roşia de Amaradia -> DEALU VIEI
         165: 79601,  # Dealu Viilor Sat  - Com. Cătunele -> DEALU VIILOR
@@ -6536,6 +6510,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         169: 81610,  # Dobriţa Sat  - Com. Runcu -> DOBRIŢA
         170: 81843,  # Dolceşti Sat  - Com. Săuleşti -> DOLCEŞTI
         171: 78515,  # Doseni Sat  - Com. Albeni -> DOSENI
+        172: 77849,  # Drăgoeni Loc.  - Mun. Târgu Jiu -> DRĂGOENI
         173: 79905,  # Drăgoieşti Sat  - Com. Crasna -> DRĂGOIEŞTI
         175: 80258,  # Drăgoteşti Sat  - Com. Drăgoteşti -> DRĂGOTEŞTI
         177: 78025,  # Drăguţeşti Sat  - Com. Drăguţeşti -> DRĂGUŢEŞTI
@@ -6574,11 +6549,13 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         215: 81246,  # Hobiţa Sat  - Com. Peştişani -> HOBIŢA
         216: 79781,  # Hodoreasca Sat  - Com. Câlnic -> HODOREASCA
         217: 78114,  # Horezu Sat  - Com. Turcineşti -> HOREZU
+        218: 78178,  # Horăşti Loc.  - Mun. Motru -> HORĂŞTI
         219: 82760,  # Hotăroasa Sat  - Com. Urdari -> HOTĂROASA
         221: 80515,  # Hurezani Sat  - Com. Hurezani -> HUREZANI
         222: 81781,  # Hăieşti Sat  - Com. Săcelu -> HĂIEŞTI
         223: 80070,  # Hălăngeşti Sat  - Com. Dănciuleşti -> HĂLĂNGEŞTI
         224: 78052,  # Iaşi-Gorj Sat  - Com. Drăguţeşti -> IAŞI-GORJ
+        225: 77858,  # Iezureni Loc.  - Mun. Târgu Jiu -> IEZURENI
         226: 79111,  # Igirosu Sat  - Com. Bolboşi -> IGIROSU
         227: 80597,  # Ilieşti Sat  - Com. Ioneşti -> ILIEŞTI
         229: 80579,  # Ioneşti Sat  - Com. Ioneşti -> IONEŞTI
@@ -6591,11 +6568,14 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         237: 81709,  # Larga Sat  - Com. Samarineşti -> LARGA
         238: 81941,  # Lazuri Sat  - Com. Scoarţa -> LAZURI
         240: 80686,  # Leleşti Sat  - Com. Leleşti -> LELEŞTI
+        241: 78196,  # Leurda Loc.  - Mun. Motru -> LEURDA
         243: 80720,  # Licurici Sat  - Com. Licurici -> LICURICI
         244: 78962,  # Lihuleşti Sat  - Com. Berleşti -> LIHULEŞTI
         245: 81950,  # Lintea Sat  - Com. Scoarţa -> LINTEA
         247: 80800,  # Logreşti Moşteni Sat  - Com. Logreşti -> LOGREŞTI-MOŞTENI
         248: 79610,  # Lupoaia Sat  - Com. Cătunele -> LUPOAIA
+        249: 78212,  # Lupoiţa Loc.  - Mun. Motru -> LUPOIŢA
+        250: 79335,  # Lăzăreşti Loc.  - Orş. Bumbeşti-Jiu -> LĂZĂREŞTI
         251: 81807,  # Maghereşti Sat  - Com. Săcelu -> MAGHEREŞTI
         252: 79978,  # Maiag Sat  - Com. Cruşeţ -> MĂIAG
         253: 79969,  # Marineşti Sat  - Com. Cruşeţ -> MARINEŞTI
@@ -6611,6 +6591,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         263: 81969,  # Mogoşani Sat  - Com. Scoarţa -> MOGOŞANI
         264: 79031,  # Moi Sat  - Com. Bâlteni -> MOI
         265: 79433,  # Motorgi Sat  - Com. Bustuchin -> MOTORGI
+        266: 78150,  # Motru Mun.  -> MOTRU
         267: 81148,  # Motru Sec Sat  - Com. Padeş -> MOTRU SEC
         268: 82653,  # Murgeşti Sat  - Orş. Turceni -> MURGEŞTI
         269: 82813,  # Murgileşti Sat  - Com. Văgiuleşti -> MURGILEŞTI
@@ -6624,6 +6605,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         280: 80999,  # Negomir Sat  - Com. Negomir -> NEGOMIR
         281: 80748,  # Negreni Sat  - Com. Licurici -> NEGRENI
         282: 78588,  # Nistoreşti Sat  - Com. Alimpeşti -> NISTOREŞTI
+        283: 78267,  # Novaci Orş.  -> NOVACI
         284: 81031,  # Nucetu Sat  - Com. Negomir -> NUCETU
         285: 79442,  # Nămete Sat  - Com. Bustuchin -> NĂMETE
         286: 82207,  # Obreja Sat  - Com. Stăneşti -> OBREJA
@@ -6650,8 +6632,10 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         309: 82298,  # Piscoiu Sat  - Com. Stejari -> PISCOIU
         310: 81353,  # Piscuri Sat  - Com. Plopşoru -> PISCURI
         311: 81978,  # Pişteştii din Deal Sat  - Com. Scoarţa -> PIŞTEŞTII DIN DEAL
+        312: 79344,  # Pleşa Loc.  - Orş. Bumbeşti-Jiu -> PLEŞA
         313: 80542,  # Plopu Sat  - Com. Hurezani -> PLOPU
         315: 81273,  # Plopşoru Sat  - Com. Plopşoru -> PLOPŞORU
+        316: 78203,  # Ploştina Loc.  - Mun. Motru -> PLOŞTINA
         317: 78294,  # Pociovaliştea Sat  - Orş. Novaci -> POCIOVALIŞTEA
         318: 82494,  # Pocruia Sat  - Orş. Tismana -> POCRUIA
         319: 82582,  # Poiana Sat  - Com. Turburea -> POIANA
@@ -6660,9 +6644,11 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         322: 79451,  # Poieniţa Sat  - Com. Bustuchin -> POIENIŢA
         323: 79479,  # Pojaru Sat  - Com. Bustuchin -> POJARU
         324: 78418,  # Pojogeni Sat  - Orş. Târgu Cărbuneşti -> POJOGENI
+        325: 77867,  # Polata Loc.  - Mun. Târgu Jiu -> POLATA
         327: 81399,  # Polovragi Sat  - Com. Polovragi -> POLOVRAGI
         328: 80828,  # Popeşti Sat  - Com. Logreşti -> POPEŞTI
         329: 82305,  # Popeşti Stejari Sat  - Com. Stejari -> POPEŞTI-STEJARI
+        330: 77876,  # Preajba Mare Loc.  - Mun. Târgu Jiu -> PREAJBA MARE
         332: 81424,  # Prigoria Sat  - Com. Prigoria -> PRIGORIA
         333: 79692,  # Priporu Sat  - Com. Ciuperceni -> PRIPORU
         334: 78533,  # Pruneşti Sat  - Com. Albeni -> PRUNEŞTI
@@ -6682,12 +6668,16 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         348: 80702,  # Rasoviţa Sat  - Com. Leleşti -> RASOVIŢA
         349: 80329,  # Rogojel Sat  - Com. Fărcăşeşti -> ROGOJEL
         350: 78427,  # Rogojeni Sat  - Orş. Târgu Cărbuneşti -> ROGOJENI
+        351: 77885,  # Romaneşti Loc.  - Mun. Târgu Jiu -> ROMANEŞTI
+        352: 79059,  # Rovinari Orş.  -> ROVINARI
         353: 80338,  # Roşia Jiu Sat  - Com. Fărcăşeşti -> ROŞIA-JIU
         355: 81503,  # Roşia de Amaradia Sat  - Com. Roşia de Amaradia -> ROŞIA DE AMARADIA
+        356: 78221,  # Roşiuţa Loc.  - Mun. Motru -> ROŞIUŢA
         357: 81530,  # Ruget Sat  - Com. Roşia de Amaradia -> RUGET
         358: 78123,  # Rugi Sat  - Com. Turcineşti -> RUGI
         360: 81585,  # Runcu Sat  - Com. Runcu -> RUNCU
         361: 80891,  # Runcurel Sat  - Com. Mătăsari -> RUNCUREL
+        362: 78230,  # Râpa Loc.  - Mun. Motru -> RÂPA
         363: 81629,  # Răchiţi Sat  - Com. Runcu -> RĂCHIŢI
         364: 80105,  # Rădineşti Sat  - Com. Dănciuleşti -> RĂDINEŞTI
         365: 80490,  # Rătez Sat  - Com. Godineşti -> RĂTEZ
@@ -6703,6 +6693,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         378: 81255,  # Seuca Sat  - Com. Peştişani -> SEUCA
         379: 78301,  # Siteşti Sat  - Orş. Novaci -> SITEŞTI
         380: 82056,  # Slivileşti Sat  - Com. Slivileşti -> SLIVILEŞTI
+        382: 77894,  # Slobozia Loc.  - Mun. Târgu Jiu -> SLOBOZIA
         383: 80007,  # Slămneşti Sat  - Com. Cruşeţ -> SLĂMNEŞTI
         384: 80016,  # Slăvuţa Sat  - Com. Cruşeţ -> SLĂVUŢA
         385: 78864,  # Socu Sat  - Com. Bărbăteşti -> SOCU
@@ -6722,7 +6713,6 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         401: 80962,  # Stănceşti Sat  - Com. Muşeteşti -> STĂNCEŞTI
         402: 80971,  # Stănceşti Larga Sat  - Com. Muşeteşti -> STĂNCEŞTI-LARGA
         403: 82145,  # Stăneşti Sat  - Com. Stăneşti -> STĂNEŞTI
-        493: 82109,  # Sura Sat  - Com. Slivileşti -> SURA
         405: 81638,  # Suseni Sat  - Com. Runcu -> SUSENI
         406: 81996,  # Sâmbotin Sat  - Com. Schela -> SÂMBOTIN
         407: 78597,  # Sârbeşti Sat  - Com. Alimpeşti -> SÂRBEŞTI
@@ -6732,9 +6722,11 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         413: 81825,  # Săuleşti Sat  - Com. Săuleşti -> SĂULEŞTI
         414: 82127,  # Tehomir Sat  - Com. Slivileşti -> TEHOMIR
         415: 82403,  # Teleşti Sat  - Com. Teleşti -> TELEŞTI
+        417: 79353,  # Tetila Loc.  - Orş. Bumbeşti-Jiu -> TETILA
         418: 80347,  # Timişeni Sat  - Com. Fărcăşeşti -> TIMIŞENI
         419: 81718,  # Tirioi Sat  - Com. Samarineşti -> ŢIRIOI
         420: 82449,  # Tismana Sat  - Orş. Tismana -> TISMANA
+        421: 82449,  # Tismana Orş.  -> TISMANA
         422: 82369,  # Toiaga Sat  - Com. Stoina -> TOIAGA
         423: 82528,  # Topeşti Sat  - Orş. Tismana -> TOPEŞTI
         424: 80757,  # Totea Sat  - Com. Licurici -> TOTEA
@@ -6743,8 +6735,11 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         427: 80203,  # Trocani Sat  - Com. Dăneşti -> TROCANI
         428: 82564,  # Turburea Sat  - Com. Turburea -> TURBUREA
         430: 82626,  # Turceni Sat  - Orş. Turceni -> TURCENI
+        431: 82626,  # Turceni Orş.  -> TURCENI
         432: 78098,  # Turcineşti Sat  - Com. Turcineşti -> TURCINEŞTI
         434: 78061,  # Tâlveşti Sat  - Com. Drăguţeşti -> TÂLVEŞTI
+        435: 78338,  # Târgu Cărbuneşti Orş.  -> TÂRGU CĂRBUNEŞTI
+        436: 77821,  # Târgu Jiu Mun.  -> TÂRGU JIU
         437: 80775,  # Târgu Logreşti Sat  - Com. Logreşti -> TÂRGU LOGREŞTI
         438: 77983,  # Tălpăşeşti Sat  - Com. Băleşti -> TĂLPĂŞEŞTI
         439: 77992,  # Tămăşeşti Sat  - Com. Băleşti -> TĂMĂŞEŞTI
@@ -6754,6 +6749,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         443: 82387,  # Urda de Sus Sat  - Com. Stoina -> URDA DE SUS
         444: 82742,  # Urdari Sat  - Com. Urdari -> URDARI
         446: 78070,  # Urecheşti Sat  - Com. Drăguţeşti -> URECHEŞTI
+        447: 77901,  # Ursaţi Loc.  - Mun. Târgu Jiu -> URSAŢI
         448: 81077,  # Ursoaia Sat  - Com. Negomir -> URSOAIA
         449: 82225,  # Vaidei Sat  - Com. Stăneşti -> VAIDEI
         450: 79148,  # Valea Sat  - Com. Bolboşi -> VALEA
@@ -6780,6 +6776,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         472: 82537,  # Vâlcele Sat  - Orş. Tismana -> VÂLCELE
         473: 82546,  # Vânăta Sat  - Orş. Tismana -> VÂNATA
         474: 79718,  # Vârtopu Sat  - Com. Ciuperceni -> VÂRTOPU
+        475: 82902,  # Vârţ Loc.  - Orş. Rovinari -> VÂRŢ
         476: 80230,  # Văcarea Sat  - Com. Dăneşti -> VĂCAREA
         478: 82788,  # Văgiuleşti Sat  - Com. Văgiuleşti -> VĂGIULEŞTI
         479: 81175,  # Văieni Sat  - Com. Padeş -> VĂIENI
@@ -6796,37 +6793,13 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         490: 82421,  # Şomăneşti Sat  - Com. Teleşti -> ŞOMĂNEŞTI
         491: 78436,  # Ştefăneşti Sat  - Orş. Târgu Cărbuneşti -> ŞTEFĂNEŞTI
         492: 82083,  # Ştiucani Sat  - Com. Slivileşti -> ŞTIUCANI
+        493: 82109,  # Sura Sat  - Com. Slivileşti -> SURA
+        494: 78187,  # Însurăţei Loc.  - Mun. Motru -> ÎNSURĂŢEI
+        495: 78463,  # Ţicleni Orş.  -> ŢICLENI
         496: 82699,  # Ţânţăreni Sat  - Com. Ţânţăreni -> ŢÂNŢĂRENI
         498: 80212,  # Ţârculeşti Sat  - Com. Dăneşti -> ŢÂRCULEŞTI
     },
     19: {  # HARGHITA
-        33: 83767,  # Băile Homorod Loc.  - Orş. Vlăhiţa -> BĂILE HOMOROD
-        38: 83446,  # Carpitus Loc.  - Orş. Băile Tuşnad -> CARPITUS
-        48: 83348,  # Ciba Loc.  - Mun. Miercurea Ciuc -> CIBA
-        65: 83589,  # Covacipeter Loc.  - Mun. Gheorgheni -> COVACIPETER
-        75: 83650,  # Călimănel Loc.  - Mun. Topliţa -> CĂLIMĂNEL
-        120: 83357,  # Harghita-Băi Loc.  - Mun. Miercurea Ciuc -> HARGHITA-BĂI
-        133: 83366,  # Jigodin-Băi Loc.  - Mun. Miercurea Ciuc -> JIGODIN-BĂI
-        137: 83598,  # Lacu Roşu Loc.  - Mun. Gheorgheni -> LACU ROŞU
-        150: 83669,  # Luncani Loc.  - Mun. Topliţa -> LUNCANI
-        166: 83776,  # Minele Lueta Loc.  - Orş. Vlăhiţa -> MINELE LUETA
-        168: 83687,  # Moglăneşti Loc.  - Mun. Topliţa -> MOGLĂNEŞTI
-        174: 83678,  # Măgheruş Loc.  - Mun. Topliţa -> MĂGHERUŞ
-        226: 83696,  # Secu Loc.  - Mun. Topliţa -> SECU
-        275: 83703,  # Vale Loc.  - Mun. Topliţa -> VALE
-        287: 83605,  # Vargatac Loc.  - Mun. Gheorgheni -> VARGATAC
-        290: 83614,  # Visafolio Loc.  - Mun. Gheorgheni -> VISAFOLIO
-        295: 83712,  # Vâgani Loc.  - Mun. Topliţa -> VÂGANI
-        300: 83721,  # Zencani Loc.  - Mun. Topliţa -> ZENCANI
-        162: 83339,  # Miercurea Ciuc Mun.  -> MIERCUREA CIUC
-        111: 83570,  # Gheorgheni Mun.  -> GHEORGHENI
-        188: 83142,  # Odorheiu Secuiesc Mun.  -> ODORHEIU SECUIESC
-        259: 83641,  # Topliţa Mun.  -> TOPLIŢA
-        23: 83507,  # Borsec Orş.  -> BORSEC
-        34: 83437,  # Băile Tuşnad Orş.  -> BĂILE TUŞNAD
-        35: 83473,  # Bălan Orş.  -> BĂLAN
-        67: 83534,  # Cristuru Secuiesc Orş.  -> CRISTURU SECUIESC
-        291: 83758,  # Vlăhiţa Orş.  -> VLĂHIŢA
         1: 84941,  # Aldea Sat  - Com. Mărtiniş -> ALDEA
         2: 83213,  # Alexandriţa Sat  - Com. Feliceni -> ALEXANDRIŢA
         3: 85145,  # Aluniş Sat  - Com. Mugeni -> ALUNIŞ
@@ -6846,16 +6819,21 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         19: 83945,  # Bilbor Sat  - Com. Bilbor -> BILBOR
         21: 84843,  # Bisericani Sat  - Com. Lupeni -> BISERICANI
         22: 85608,  # Bodogaia Sat  - Com. Secuieni -> BODOGAIA
+        23: 83507,  # Borsec Orş.  -> BORSEC
         24: 84576,  # Borzont Sat  - Com. Joseni -> BORZONT
         25: 83160,  # Brădeşti Sat  - Com. Brădeşti -> BRĂDEŞTI
-        28: 85378,  # Bucin Sat  - Com. Praid -> BUCIN
         27: 84585,  # Bucin Sat  - Com. Joseni -> BUCIN
+        28: 85378,  # Bucin Sat  - Com. Praid -> BUCIN
         29: 84852,  # Bulgăreni Sat  - Com. Lupeni -> BULGĂRENI
         30: 84433,  # Bârzava Sat  - Com. Frumoasa -> BÂRZAVA
         31: 84950,  # Bădeni Sat  - Com. Mărtiniş -> BĂDENI
         32: 84647,  # Băile Chirui Sat  - Com. Lueta -> BĂILE CHIRUI
+        33: 83767,  # Băile Homorod Loc.  - Orş. Vlăhiţa -> BĂILE HOMOROD
+        34: 83437,  # Băile Tuşnad Orş.  -> BĂILE TUŞNAD
+        35: 83473,  # Bălan Orş.  -> BĂLAN
         36: 84200,  # Calonda Sat  - Com. Corund -> CALONDA
         37: 84166,  # Capu Corbului Sat  - Com. Corbu -> CAPU CORBULUI
+        38: 83446,  # Carpitus Loc.  - Orş. Băile Tuşnad -> CARPITUS
         39: 85305,  # Casinu Nou Sat  - Com. Plăieşii de Jos -> CASINU NOU
         40: 83874,  # Cecheşti Sat  - Com. Avrămeşti -> CECHEŞTI
         41: 86035,  # Ceheţel Sat  - Com. Şimoneşti -> CEHEŢEL
@@ -6865,6 +6843,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         45: 85948,  # Chileni Sat  - Com. Suseni -> CHILENI
         46: 84978,  # Chinuşu Sat  - Com. Mărtiniş -> CHINUŞU
         47: 85644,  # Ciaracio Sat  - Com. Ciceu -> CIARACIO
+        48: 83348,  # Ciba Loc.  - Mun. Miercurea Ciuc -> CIBA
         49: 85653,  # Ciceu Sat  - Com. Ciceu -> CICEU
         50: 84031,  # Ciobăniş Sat  - Com. Ciucsângeorgiu -> CIOBĂNIŞ
         51: 83231,  # Cireşeni Sat  - Com. Feliceni -> CIREŞENI
@@ -6877,13 +6856,16 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         60: 84157,  # Corbu Sat  - Com. Corbu -> CORBU
         62: 84184,  # Corund Sat  - Com. Corund -> CORUND
         64: 84040,  # Cotormani Sat  - Com. Ciucsângeorgiu -> COTORMANI
+        65: 83589,  # Covacipeter Loc.  - Mun. Gheorgheni -> COVACIPETER
         66: 85813,  # Cozmeni Sat  - Com. Cozmeni -> COZMENI
+        67: 83534,  # Cristuru Secuiesc Orş.  -> CRISTURU SECUIESC
         68: 83801,  # Crişeni Sat  - Com. Atid -> CRIŞENI
         69: 85261,  # Crăciunel Sat  - Com. Ocland -> CRĂCIUNEL
         70: 83810,  # Cuşmed Sat  - Com. Atid -> CUŞMED
         71: 84111,  # Cârţa Sat  - Com. Cârţa -> CÂRŢA
         73: 86017,  # Cădaciu Mare Sat  - Com. Şimoneşti -> CĂDACIU MARE
         74: 86026,  # Cădaciu Mic Sat  - Com. Şimoneşti -> CĂDACIU MIC
+        75: 83650,  # Călimănel Loc.  - Mun. Topliţa -> CĂLIMĂNEL
         76: 85895,  # Călnaci Sat  - Com. Subcetate -> CĂLNACI
         77: 84969,  # Călugăreni Sat  - Com. Mărtiniş -> CĂLUGĂRENI
         78: 83972,  # Căpâlniţa Sat  - Com. Căpâlniţa -> CĂPÂLNIŢA
@@ -6910,16 +6892,17 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         106: 85546,  # Fundoaia Sat  - Com. Sărmaş -> FUNDOAIA
         107: 84282,  # Fâncel Sat  - Com. Dealu -> FÂNCEL
         108: 84219,  # Fântâna Brazilor Sat  - Com. Corund -> FÂNTÂNA BRAZILOR
-        110: 85430,  # Făgeţel Sat  - Com. Remetea -> FĂGEŢEL
         109: 84442,  # Făgeţel Sat  - Com. Frumoasa -> FĂGEŢEL
+        110: 85430,  # Făgeţel Sat  - Com. Remetea -> FĂGEŢEL
+        111: 83570,  # Gheorgheni Mun.  -> GHEORGHENI
         112: 84610,  # Ghiduţ Sat  - Com. Lăzarea -> GHIDUŢ
         113: 84996,  # Ghipeş Sat  - Com. Mărtiniş -> GHIPEŞ
         114: 84068,  # Ghiurche Sat  - Com. Ciucsângeorgiu -> GHIURCHE
         115: 83883,  # Goagiu Sat  - Com. Avrămeşti -> GOAGIU
-        225: 85671,  # Gârciu Sat  - Com. Racu -> GÂRCIU
         116: 84479,  # Gălăuţaş Sat  - Com. Gălăuţaş -> GĂLĂUŢAŞ
         118: 84497,  # Gălăuţaş-Pârău Sat  - Com. Gălăuţaş -> GĂLĂUŢAŞ-PÂRÂU
         119: 86151,  # Hagota Sat  - Com. Tulgheş -> HAGOTA
+        120: 83357,  # Harghita-Băi Loc.  - Mun. Miercurea Ciuc -> HARGHITA-BĂI
         121: 85555,  # Hodoşa Sat  - Com. Sărmaş -> HODOŞA
         122: 83259,  # Hoghia Sat  - Com. Feliceni -> HOGHIA
         123: 85715,  # Hosasău Sat  - Com. Leliceni -> HOSASĂU
@@ -6932,8 +6915,10 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         130: 86393,  # Izvoare Sat  - Com. Zetea -> IZVOARE
         131: 86357,  # Izvoru Mureşului Sat  - Com. Voşlăbeni -> IZVORU MUREŞULUI
         132: 84781,  # Izvorul Trotuşului Sat  - Com. Lunca de Sus -> IZVORUL TROTUŞULUI
+        133: 83366,  # Jigodin-Băi Loc.  - Mun. Miercurea Ciuc -> JIGODIN-BĂI
         134: 84362,  # Jolotca Sat  - Com. Ditrău -> JOLOTCA
         135: 84567,  # Joseni Sat  - Com. Joseni -> JOSENI
+        137: 83598,  # Lacu Roşu Loc.  - Mun. Gheorgheni -> LACU ROŞU
         138: 83909,  # Laz-Firtănuş Sat  - Com. Avrămeşti -> LAZ-FIRTĂNUŞ
         139: 83918,  # Laz-Şoimuş Sat  - Com. Avrămeşti -> LAZ-ŞOIMUŞ
         140: 85724,  # Leliceni Sat  - Com. Leliceni -> LELICENI
@@ -6943,6 +6928,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         144: 84638,  # Lueta Sat  - Com. Lueta -> LUETA
         146: 84665,  # Lunca de Jos Sat  - Com. Lunca de Jos -> LUNCA DE JOS
         148: 84763,  # Lunca de Sus Sat  - Com. Lunca de Sus -> LUNCA DE SUS
+        150: 83669,  # Luncani Loc.  - Mun. Topliţa -> LUNCANI
         151: 84834,  # Lupeni Sat  - Com. Lupeni -> LUPENI
         153: 85190,  # Lutiţa Sat  - Com. Mugeni -> LUTIŢA
         154: 84601,  # Lăzarea Sat  - Com. Lăzarea -> LĂZAREA
@@ -6951,13 +6937,17 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         158: 86071,  # Medişoru Mare Sat  - Com. Şimoneşti -> MEDIŞORU MARE
         159: 83927,  # Medişoru Mic Sat  - Com. Avrămeşti -> MEDIŞORU MIC
         160: 85065,  # Mereşti Sat  - Com. Mereşti -> MEREŞTI
+        162: 83339,  # Miercurea Ciuc Mun.  -> MIERCUREA CIUC
         163: 85083,  # Mihăileni Sat  - Com. Mihăileni -> MIHĂILENI
         164: 86080,  # Mihăileni Sat  - Com. Şimoneşti -> MIHĂILENI
+        166: 83776,  # Minele Lueta Loc.  - Orş. Vlăhiţa -> MINELE LUETA
         167: 85733,  # Misentea Sat  - Com. Leliceni -> MISENTEA
+        168: 83687,  # Moglăneşti Loc.  - Mun. Topliţa -> MOGLĂNEŞTI
         169: 84870,  # Morăreni Sat  - Com. Lupeni -> MORĂRENI
         170: 85136,  # Mugeni Sat  - Com. Mugeni -> MUGENI
         172: 84406,  # Mujna Sat  - Com. Dârjiu -> MUJNA
         173: 84255,  # Mădăraş Sat  - Com. Mădăraş -> MĂDĂRAŞ
+        174: 83678,  # Măgheruş Loc.  - Mun. Topliţa -> MĂGHERUŞ
         175: 84932,  # Mărtiniş Sat  - Com. Mărtiniş -> MĂRTINIŞ
         177: 85207,  # Mătişeni Sat  - Com. Mugeni -> MĂTIŞENI
         178: 86099,  # Nicoleni Sat  - Com. Şimoneşti -> NICOLENI
@@ -6969,6 +6959,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         184: 85252,  # Ocland Sat  - Com. Ocland -> OCLAND
         186: 85387,  # Ocna de Jos Sat  - Com. Praid -> OCNA DE JOS
         187: 85396,  # Ocna de Sus Sat  - Com. Praid -> OCNA DE SUS
+        188: 83142,  # Odorheiu Secuiesc Mun.  -> ODORHEIU SECUIESC
         189: 85010,  # Orăşeni Sat  - Com. Mărtiniş -> ORĂŞENI
         190: 83268,  # Oţeni Sat  - Com. Feliceni -> OŢENI
         191: 86295,  # Petecu Sat  - Com. Ulieş -> PETECU
@@ -7001,6 +6992,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         222: 83188,  # Satu Mare Sat  - Com. Satu Mare -> SATU MARE
         223: 84905,  # Satu Mic Sat  - Com. Lupeni -> SATU MIC
         224: 85270,  # Satu Nou Sat  - Com. Ocland -> SATU NOU
+        225: 85671,  # Gârciu Sat  - Com. Racu -> GÂRCIU
+        226: 83696,  # Secu Loc.  - Mun. Topliţa -> SECU
         227: 85591,  # Secuieni Sat  - Com. Secuieni -> SECUIENI
         229: 85966,  # Senetea Sat  - Com. Suseni -> SENETEA
         230: 85635,  # Siculeni Sat  - Com. Siculeni -> SICULENI
@@ -7023,6 +7016,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         256: 84317,  # Tibod Sat  - Com. Dealu -> TIBOD
         257: 84530,  # Toleşeni Sat  - Com. Gălăuţaş -> TOLEŞENI
         258: 84139,  # Tomeşti Sat  - Com. Tomeşti -> TOMEŞTI
+        259: 83641,  # Topliţa Mun.  -> TOPLIŢA
         260: 86142,  # Tulgheş Sat  - Com. Tulgheş -> TULGHEŞ
         262: 86124,  # Turdeni Sat  - Com. Şimoneşti -> TURDENI
         263: 86197,  # Tuşnad Sat  - Com. Tuşnad -> TUŞNAD
@@ -7035,6 +7029,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         271: 85500,  # Uilac Sat  - Com. Săcel -> UILAC
         272: 84326,  # Ulcani Sat  - Com. Dealu -> ULCANI
         273: 86231,  # Ulieş Sat  - Com. Ulieş -> ULIEŞ
+        275: 83703,  # Vale Loc.  - Mun. Topliţa -> VALE
         276: 84718,  # Valea Boroş Sat  - Com. Lunca de Jos -> VALEA BOROŞ
         277: 84727,  # Valea Capelei Sat  - Com. Lunca de Jos -> VALEA CAPELEI
         278: 84807,  # Valea Gârbea Sat  - Com. Lunca de Sus -> VALEA GÂRBEA
@@ -7046,13 +7041,18 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         284: 84709,  # Valea lui Antaloc Sat  - Com. Lunca de Jos -> VALEA LUI ANTALOC
         285: 84228,  # Valea lui Pavel Sat  - Com. Corund -> VALEA LUI PAVEL
         286: 84736,  # Valea Întunecoasă Sat  - Com. Lunca de Jos -> VALEA ÎNTUNECOASĂ
+        287: 83605,  # Vargatac Loc.  - Mun. Gheorgheni -> VARGATAC
         288: 86302,  # Vasileni Sat  - Com. Ulieş -> VASILENI
         289: 85519,  # Vidacut Sat  - Com. Săcel -> VIDACUT
+        290: 83614,  # Visafolio Loc.  - Mun. Gheorgheni -> VISAFOLIO
+        291: 83758,  # Vlăhiţa Orş.  -> VLĂHIŢA
         292: 86348,  # Voşlăbeni Sat  - Com. Voşlăbeni -> VOŞLĂBENI
         294: 86213,  # Vrabia Sat  - Com. Tuşnad -> VRABIA
+        295: 83712,  # Vâgani Loc.  - Mun. Topliţa -> VÂGANI
+        296: 86320,  # Vărşag Sat  - Com. Vărşag -> VĂRŞAG
         298: 85118,  # Văcăreşti Sat  - Com. Mihăileni -> VĂCĂREŞTI
         299: 83302,  # Văleni Sat  - Com. Feliceni -> VĂLENI
-        296: 86320,  # Vărşag Sat  - Com. Vărşag -> VĂRŞAG
+        300: 83721,  # Zencani Loc.  - Mun. Topliţa -> ZENCANI
         301: 86375,  # Zetea Sat  - Com. Zetea -> ZETEA
         303: 84549,  # Zăpodea Sat  - Com. Gălăuţaş -> ZĂPODEA
         304: 85403,  # Şaşvereş Sat  - Com. Praid -> ŞAŞVEREŞ
@@ -7065,36 +7065,6 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         312: 84371,  # Ţengheler Sat  - Com. Ditrău -> ŢENGHELER
     },
     20: {  # HUNEDOARA
-        114: 87095,  # Cimpa Loc.  - Orş. Petrila -> CIMPA
-        147: 87157,  # Câmpu lui Neag Loc.  - Orş. Uricani -> CÂMPU LUI NEAG
-        164: 87193,  # Dealu Babii Loc.  - Mun. Vulcan -> DEALU BABII
-        182: 87013,  # Dâlja Mare Loc.  - Mun. Petroşani -> DÂLJA MARE
-        183: 87022,  # Dâlja Mică Loc.  - Mun. Petroşani -> DÂLJA MICĂ
-        246: 87102,  # Jieţ Loc.  - Orş. Petrila -> JIEŢ
-        247: 87200,  # Jiu-Paroşeni Loc.  - Mun. Vulcan -> JIU-PAROŞENI
-        303: 87594,  # Nălaţ-Vad Loc.  - Orş. Haţeg -> NĂLAŢVAD
-        333: 87031,  # Peştera Loc.  - Mun. Petroşani -> PEŞTERA
-        402: 86838,  # Răcăştie Loc.  - Mun. Hunedoara -> RĂCĂŞTIA
-        404: 87111,  # Răscoala Loc.  - Orş. Petrila -> RĂSCOALA
-        414: 87040,  # Slătinioara Loc.  - Mun. Petroşani -> SLĂTINIOARA
-        422: 87442,  # Streisângiorgiu Loc.  - Orş. Călan -> STREISÂNGEORGIU
-        435: 86703,  # Sântuhalm Loc.  - Mun. Deva -> SÂNTUHALM
-        458: 87120,  # Tirici Loc.  - Orş. Petrila -> TIRICI
-        508: 87166,  # Valea de Brazi Loc.  - Orş. Uricani -> VALEA DE BRAZI
-        170: 86696,  # Deva Mun.  -> DEVA
-        53: 87308,  # Brad Mun.  -> BRAD
-        234: 86829,  # Hunedoara Mun.  -> HUNEDOARA
-        268: 87068,  # Lupeni Mun.  -> LUPENI
-        316: 87647,  # Orăştie Mun.  -> ORĂŞTIE
-        330: 87004,  # Petroşani Mun.  -> PETROŞANI
-        519: 87184,  # Vulcan Mun.  -> VULCAN
-        9: 87228,  # Aninoasa Orş.  -> ANINOASA
-        156: 87433,  # Călan Orş.  -> CĂLAN
-        204: 89570,  # Geoagiu Orş.  -> GEOAGIU
-        227: 87585,  # Haţeg Orş.  -> HAŢEG
-        328: 87086,  # Petrila Orş.  -> PETRILA
-        412: 87674,  # Simeria Orş.  -> SIMERIA
-        491: 87148,  # Uricani Orş.  -> URICANI
         1: 89446,  # Abucea Sat  - Com. Dobra -> ABUCEA
         2: 92202,  # Almaş Sălişte Sat  - Com. Zam -> ALMAŞ-SĂLIŞTE
         3: 90459,  # Almaşu Mic Sat  - Com. Peştişu Mic -> ALMAŞU MIC
@@ -7103,6 +7073,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         6: 92195,  # Almăşel Sat  - Com. Zam -> ALMĂŞEL
         7: 88467,  # Alun Sat  - Com. Boşorod -> ALUN
         8: 89044,  # Alun Sat  - Com. Bunila -> ALUN
+        9: 87228,  # Aninoasa Orş.  -> ANINOASA
         10: 86712,  # Archia Sat  - Mun. Deva -> ARCHIA
         11: 87870,  # Ardeu Sat  - Com. Balşa -> ARDEU
         12: 89179,  # Arănieş Sat  - Com. Cerbăl -> ARĂNIEŞ
@@ -7140,6 +7111,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         49: 89605,  # Bozeş Sat  - Orş. Geoagiu -> BOZEŞ
         50: 86847,  # Boş Sat  - Mun. Hunedoara -> BOŞ
         51: 88458,  # Boşorod Sat  - Com. Boşorod -> BOŞOROD
+        53: 87308,  # Brad Mun.  -> BRAD
         54: 90896,  # Brazi Sat  - Com. Râu de Mori -> BRAZI
         55: 91072,  # Breazova Sat  - Com. Sarmizegetusa -> BREAZOVA
         56: 89883,  # Bretea Mureşană Sat  - Com. Ilia -> BRETEA MUREŞANĂ
@@ -7187,6 +7159,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         111: 88485,  # Chitid Sat  - Com. Boşorod -> CHITID
         112: 91401,  # Chişcădaga Sat  - Com. Şoimuş -> CHIŞCĂDAGA
         113: 89614,  # Cigmău Sat  - Orş. Geoagiu -> CIGMĂU
+        114: 87095,  # Cimpa Loc.  - Orş. Petrila -> CIMPA
         115: 86954,  # Cinciş-Cerna Sat  - Com. Teliucu Inferior -> CINCIŞ-CERNA
         116: 88494,  # Cioclovina Sat  - Com. Boşorod -> CIOCLOVINA
         117: 91287,  # Ciopeia Sat  - Com. Sântămăria-Orlea -> CIOPEIA
@@ -7218,6 +7191,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         144: 88886,  # Curechiu Sat  - Com. Bucureşci -> CURECHIU
         145: 91553,  # Curpenii Silvaşului Sat  - Com. Topliţa -> CURPENII SILVAŞULUI
         146: 90477,  # Cutin Sat  - Com. Peştişu Mic -> CUTIN
+        147: 87157,  # Câmpu lui Neag Loc.  - Orş. Uricani -> CÂMPU LUI NEAG
         148: 89730,  # Câmpuri de Sus Sat  - Com. Gurasada -> CÂMPURI DE SUS
         149: 89749,  # Câmpuri-Surduc Sat  - Com. Gurasada -> CÂMPURI-SURDUC
         150: 86758,  # Cârjiţi Sat  - Com. Cârjiţi -> CÂRJIŢI
@@ -7225,6 +7199,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         153: 88582,  # Căbeşti Sat  - Com. Brănişca -> CĂBEŞTI
         154: 91394,  # Căinelu de Jos Sat  - Com. Şoimuş -> CĂINELU DE JOS
         155: 88127,  # Căinelu de Sus Sat  - Com. Băiţa -> CĂINELU DE SUS
+        156: 87433,  # Călan Orş.  -> CĂLAN
         157: 87460,  # Călanu Mic Sat  - Orş. Călan -> CĂLANU MIC
         158: 92024,  # Căoi Sat  - Com. Veţel -> CĂOI
         159: 89721,  # Cărmăzăneşti Sat  - Com. Gurasada -> CĂRMĂZĂNEŞTI
@@ -7232,10 +7207,12 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         161: 87781,  # Cărăstău Sat  - Com. Baia de Criş -> CĂRĂSTĂU
         162: 88289,  # Căstău Sat  - Com. Beriu -> CĂSTĂU
         163: 91848,  # Căzăneşti Sat  - Com. Vaţa de Jos -> CĂZĂNEŞTI
+        164: 87193,  # Dealu Babii Loc.  - Mun. Vulcan -> DEALU BABII
         165: 91955,  # Dealu Mare Sat  - Com. Vălişoara -> DEALU MARE
         166: 91562,  # Dealu Mic Sat  - Com. Topliţa -> DEALU MIC
         167: 92239,  # Deleni Sat  - Com. Zam -> DELENI
         168: 89357,  # Densuş Sat  - Com. Densuş -> DENSUŞ
+        170: 86696,  # Deva Mun.  -> DEVA
         171: 89437,  # Dobra Sat  - Com. Dobra -> DOBRA
         173: 91465,  # Dobroţ Sat  - Com. Tomeşti -> DOBROŢ
         174: 88396,  # Dragu-Brad Sat  - Com. Blăjeni -> DRAGU-BRAD
@@ -7246,6 +7223,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         179: 89918,  # Dumbrăviţa Sat  - Com. Ilia -> DUMBRĂVIŢA
         180: 92131,  # Dumeşti Sat  - Com. Vorţa -> DUMEŞTI
         181: 88813,  # Dupăpiatră Sat  - Com. Buceş -> DUPĂPIATRĂ
+        182: 87013,  # Dâlja Mare Loc.  - Mun. Petroşani -> DÂLJA MARE
+        183: 87022,  # Dâlja Mică Loc.  - Mun. Petroşani -> DÂLJA MICĂ
         184: 90280,  # Dâncu Mare Sat  - Com. Mărtineşti -> DÂNCU MARE
         185: 90299,  # Dâncu Mic Sat  - Com. Mărtineşti -> DÂNCU MIC
         186: 91571,  # Dăbâca Sat  - Com. Topliţa -> DĂBÂCA
@@ -7265,8 +7244,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         200: 90583,  # Galaţi Sat  - Com. Pui -> GALAŢI
         201: 87898,  # Galbina Sat  - Com. Balşa -> GALBINA
         202: 89623,  # Gelmar Sat  - Orş. Geoagiu -> GELMAR
-        488: 91740,  # General Berthelot Sat  - Com. General Berthelot -> GENERAL BERTHELOT
         203: 89570,  # Geoagiu Sat  - Orş. Geoagiu -> GEOAGIU
+        204: 89570,  # Geoagiu Orş.  -> GEOAGIU
         205: 89632,  # Geoagiu-Băi Sat  - Orş. Geoagiu -> GEOAGIU-BĂI
         206: 86892,  # Ghelari Sat  - Com. Ghelari -> GHELARI
         208: 88591,  # Gialacuta Sat  - Com. Brănişca -> GIALACUTA
@@ -7287,12 +7266,14 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         223: 90155,  # Gura Bordului Sat  - Com. Lunca Cernii de Jos -> GURA BORDULUI
         224: 89696,  # Gurasada Sat  - Com. Gurasada -> GURASADA
         226: 88706,  # Gânţaga Sat  - Com. Bretea Română -> GÂNŢAGA
+        227: 87585,  # Haţeg Orş.  -> HAŢEG
         228: 92033,  # Herepeia Sat  - Com. Veţel -> HEREPEIA
         229: 90592,  # Hobiţa Sat  - Com. Pui -> HOBIŢA
         230: 91081,  # Hobiţa-Grădişte Sat  - Com. Sarmizegetusa -> HOBIŢA-GRĂDIŞTE
         231: 90011,  # Holdea Sat  - Com. Lăpugiu de Jos -> HOLDEA
         232: 89641,  # Homorod Sat  - Orş. Geoagiu -> HOMOROD
         233: 89286,  # Hondol Sat  - Com. Certeju de Sus -> HONDOL
+        234: 86829,  # Hunedoara Mun.  -> HUNEDOARA
         235: 89810,  # Hărău Sat  - Com. Hărău -> HĂRĂU
         237: 88154,  # Hărţăgani Sat  - Com. Băiţa -> HĂRŢĂGANI
         238: 86865,  # Hăşdat Sat  - Mun. Hunedoara -> HĂŞDAT
@@ -7302,6 +7283,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         243: 87237,  # Iscroni Sat  - Orş. Aninoasa -> ISCRONI
         244: 86963,  # Izvoarele Sat  - Com. Teliucu Inferior -> IZVOARELE
         245: 90306,  # Jeledinţi Sat  - Com. Mărtineşti -> JELEDINŢI
+        246: 87102,  # Jieţ Loc.  - Orş. Petrila -> JIEŢ
+        247: 87200,  # Jiu-Paroşeni Loc.  - Mun. Vulcan -> JIU-PAROŞENI
         248: 90495,  # Josani Sat  - Com. Peştişu Mic -> JOSANI
         249: 91474,  # Leauţ Sat  - Com. Tomeşti -> LEAUŢ
         251: 90075,  # Lelese Sat  - Com. Lelese -> LELESE
@@ -7319,18 +7302,19 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         264: 90217,  # Luncoiu de Jos Sat  - Com. Luncoiu de Jos -> LUNCOIU DE JOS
         266: 90235,  # Luncoiu de Sus Sat  - Com. Luncoiu de Jos -> LUNCOIU DE SUS
         267: 92140,  # Luncşoara Sat  - Com. Vorţa -> LUNCŞOARA
+        268: 87068,  # Lupeni Mun.  -> LUPENI
         270: 89963,  # Lăpugiu de Jos Sat  - Com. Lăpugiu de Jos -> LĂPUGIU DE JOS
         271: 90020,  # Lăpugiu de Sus Sat  - Com. Lăpugiu de Jos -> LĂPUGIU DE SUS
         272: 89473,  # Lăpuşnic Sat  - Com. Dobra -> LĂPUŞNIC
         273: 90039,  # Lăsău Sat  - Com. Lăpugiu de Jos -> LĂSĂU
         274: 87905,  # Mada Sat  - Com. Balşa -> MADA
         275: 90173,  # Meria Sat  - Com. Lunca Cernii de Jos -> MERIA
-        277: 88895,  # Merişor Sat  - Com. Bucureşci -> MERIŞOR
         276: 87273,  # Merişor Sat  - Com. Băniţa -> MERIŞOR
+        277: 88895,  # Merişor Sat  - Com. Bucureşci -> MERIŞOR
         278: 89197,  # Merişoru de Munte Sat  - Com. Cerbăl -> MERIŞORU DE MUNTE
         279: 89650,  # Mermezeu-Văleni Sat  - Orş. Geoagiu -> MERMEZEU-VĂLENI
-        281: 90789,  # Mesteacăn Sat  - Com. Răchitova -> MESTEACĂN
         280: 87317,  # Mesteacăn Sat  - Mun. Brad -> MESTEACĂN
+        281: 90789,  # Mesteacăn Sat  - Com. Răchitova -> MESTEACĂN
         282: 92257,  # Micăneşti Sat  - Com. Zam -> MICĂNEŞTI
         283: 89482,  # Mihăieşti Sat  - Com. Dobra -> MIHĂIEŞTI
         284: 88831,  # Mihăileni Sat  - Com. Buceş -> MIHĂILENI
@@ -7351,6 +7335,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         300: 91152,  # Nucşoara Sat  - Com. Sălaşu de Sus -> NUCŞOARA
         301: 87488,  # Nădăştia de Jos Sat  - Orş. Călan -> NĂDĂŞTIA DE JOS
         302: 87497,  # Nădăştia de Sus Sat  - Orş. Călan -> NĂDĂŞTIA DE SUS
+        303: 87594,  # Nălaţ-Vad Loc.  - Orş. Haţeg -> NĂLAŢVAD
         304: 91492,  # Obârşa Sat  - Com. Tomeşti -> OBÂRŞA
         305: 91866,  # Ociu Sat  - Com. Vaţa de Jos -> OCIU
         306: 91875,  # Ocişor Sat  - Com. Vaţa de Jos -> OCIŞOR
@@ -7363,6 +7348,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         313: 90912,  # Ohaba-Sibişel Sat  - Com. Râu de Mori -> OHABA-SIBIŞEL
         314: 87914,  # Oprişeşti Sat  - Com. Balşa -> OPRIŞEŞTI
         315: 88172,  # Ormindea Sat  - Com. Băiţa -> ORMINDEA
+        316: 87647,  # Orăştie Mun.  -> ORĂŞTIE
         317: 88314,  # Orăştioara de Jos Sat  - Com. Beriu -> ORĂŞTIOARA DE JOS
         318: 90351,  # Orăştioara de Sus Sat  - Com. Orăştioara de Sus -> ORĂŞTIOARA DE SUS
         320: 90921,  # Ostrov Sat  - Com. Râu de Mori -> OSTROV
@@ -7373,9 +7359,12 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         325: 91170,  # Paroş Sat  - Com. Sălaşu de Sus -> PAROŞ
         326: 88065,  # Petreni Sat  - Com. Băcia -> PETRENI
         327: 89124,  # Petreşti Sat  - Com. Burjuc -> PETREŞTI
+        328: 87086,  # Petrila Orş.  -> PETRILA
         329: 88029,  # Petros Sat  - Com. Baru -> PETROS
+        330: 87004,  # Petroşani Mun.  -> PETROŞANI
         331: 89384,  # Peşteana Sat  - Com. Densuş -> PEŞTEANA
         332: 89393,  # Peşteniţa Sat  - Com. Densuş -> PEŞTENIŢA
+        333: 87031,  # Peştera Loc.  - Mun. Petroşani -> PEŞTERA
         334: 88181,  # Peştera Sat  - Com. Băiţa -> PEŞTERA
         335: 91189,  # Peştera Sat  - Com. Sălaşu de Sus -> PEŞTERA
         336: 86874,  # Peştişu Mare Sat  - Mun. Hunedoara -> PEŞTIŞU MARE
@@ -7389,8 +7378,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         345: 92266,  # Pogăneşti Sat  - Com. Zam -> POGĂNEŞTI
         346: 87923,  # Poiana Sat  - Com. Balşa -> POIANA
         347: 89213,  # Poiana Răchiţelii Sat  - Com. Cerbăl -> POIANA RĂCHIŢELII
-        349: 88323,  # Poieni Sat  - Com. Beriu -> POIENI
         348: 89400,  # Poieni Sat  - Com. Densuş -> POIENI
+        349: 88323,  # Poieni Sat  - Com. Beriu -> POIENI
         350: 87932,  # Poieniţa Sat  - Com. Balşa -> POIENIŢA
         351: 89204,  # Poieniţa Tomii Sat  - Com. Cerbăl -> POIENIŢA TOMII
         352: 89062,  # Poieniţa Voinii Sat  - Com. Bunila -> POIENIŢA VOINII
@@ -7418,8 +7407,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         377: 87816,  # Rişculiţa Sat  - Com. Baia de Criş -> RIŞCULIŢA
         378: 91009,  # Romos Sat  - Com. Romos -> ROMOS
         380: 91036,  # Romoşel Sat  - Com. Romos -> ROMOŞEL
-        382: 88902,  # Rovina Sat  - Com. Bucureşci -> ROVINA
         381: 88617,  # Rovina Sat  - Com. Brănişca -> ROVINA
+        382: 88902,  # Rovina Sat  - Com. Bucureşci -> ROVINA
         383: 89525,  # Roşcani Sat  - Com. Dobra -> ROŞCANI
         384: 87941,  # Roşia Sat  - Com. Balşa -> ROŞIA
         385: 86927,  # Ruda Sat  - Com. Ghelari -> RUDA
@@ -7437,14 +7426,18 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         397: 90887,  # Râu de Mori Sat  - Com. Râu de Mori -> RÂU DE MORI
         399: 90734,  # Răchitova Sat  - Com. Răchitova -> RĂCHITOVA
         401: 88252,  # Răchiţaua Sat  - Com. Bătrâna -> RĂCHIŢAUA
+        402: 86838,  # Răcăştie Loc.  - Mun. Hunedoara -> RĂCĂŞTIA
         403: 89516,  # Răduleşti Sat  - Com. Dobra -> RĂDULEŞTI
+        404: 87111,  # Răscoala Loc.  - Orş. Petrila -> RĂSCOALA
         405: 91063,  # Sarmizegetusa Sat  - Com. Sarmizegetusa -> SARMIZEGETUSA
         407: 88332,  # Sereca Sat  - Com. Beriu -> SERECA
-        409: 90958,  # Sibişel Sat  - Com. Râu de Mori -> SIBIŞEL
         408: 88341,  # Sibişel Sat  - Com. Beriu -> SIBIŞEL
+        409: 90958,  # Sibişel Sat  - Com. Râu de Mori -> SIBIŞEL
         410: 87601,  # Silvaşu de Jos Sat  - Orş. Haţeg -> SILVAŞU DE JOS
         411: 87610,  # Silvaşu de Sus Sat  - Orş. Haţeg -> SILVAŞU DE SUS
+        412: 87674,  # Simeria Orş.  -> SIMERIA
         413: 87709,  # Simeria Veche Sat  - Orş. Simeria -> SIMERIA VECHE
+        414: 87040,  # Slătinioara Loc.  - Mun. Petroşani -> SLĂTINIOARA
         415: 89222,  # Socet Sat  - Com. Cerbăl -> SOCET
         416: 90100,  # Sohodol Sat  - Com. Lelese -> SOHODOL
         417: 91722,  # Spini Sat  - Com. Turdaş -> SPINI
@@ -7452,6 +7445,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         419: 91973,  # Stoieneasa Sat  - Com. Vălişoara -> STOIENEASA
         420: 87530,  # Strei Sat  - Orş. Călan -> STREI
         421: 87549,  # Strei-Săcel Sat  - Orş. Călan -> STREI-SĂCEL
+        422: 87442,  # Streisângiorgiu Loc.  - Orş. Călan -> STREISÂNGEORGIU
         423: 89552,  # Stretea Sat  - Com. Dobra -> STRETEA
         424: 89534,  # Stânceşti Sat  - Com. Dobra -> STÂNCEŞTI
         425: 89543,  # Stânceşti-Ohaba Sat  - Com. Dobra -> STÂNCEŞTI-OHABA
@@ -7464,6 +7458,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         432: 87512,  # Sâncrai Sat  - Orş. Călan -> SÂNCRAI
         433: 91303,  # Sânpetru Sat  - Com. Sântămăria-Orlea -> SÂNPETRU
         434: 87718,  # Sântandrei Sat  - Orş. Simeria -> SÂNTANDREI
+        435: 86703,  # Sântuhalm Loc.  - Mun. Deva -> SÂNTUHALM
         436: 87521,  # Sântămăria de Piatră Sat  - Orş. Călan -> SÂNTĂMĂRIA DE PIATRĂ
         437: 91241,  # Sântămăria-Orlea Sat  - Com. Sântămăria-Orlea -> SÂNTĂMĂRIA-ORLEA
         439: 89936,  # Sârbi Sat  - Com. Ilia -> SÂRBI
@@ -7483,6 +7478,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         454: 86945,  # Teliucu Inferior Sat  - Com. Teliucu Inferior -> TELIUCU INFERIOR
         456: 86972,  # Teliucu Superior Sat  - Com. Teliucu Inferior -> TELIUCU SUPERIOR
         457: 89008,  # Ticera Sat  - Com. Bulzeştii de Sus -> TICERA
+        458: 87120,  # Tirici Loc.  - Orş. Petrila -> TIRICI
         459: 89142,  # Tisa Sat  - Com. Burjuc -> TISA
         460: 91517,  # Tiuleşti Sat  - Com. Tomeşti -> TIULEŞTI
         462: 91456,  # Tomeşti Sat  - Com. Tomeşti -> TOMEŞTI
@@ -7508,7 +7504,9 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         485: 89785,  # Ulieş Sat  - Com. Gurasada -> ULIEŞ
         486: 89231,  # Ulm Sat  - Com. Cerbăl -> ULM
         487: 90976,  # Unciuc Sat  - Com. Râu de Mori -> UNCIUC
+        488: 91740,  # General Berthelot Sat  - Com. General Berthelot -> GENERAL BERTHELOT
         490: 90654,  # Uric Sat  - Com. Pui -> URIC
+        491: 87148,  # Uricani Orş.  -> URICANI
         492: 87736,  # Uroi Sat  - Orş. Simeria -> UROI
         493: 88528,  # Ursici Sat  - Com. Boşorod -> URSICI
         494: 91321,  # Vadu Sat  - Com. Sântămăria-Orlea -> VADU
@@ -7525,6 +7523,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         505: 90529,  # Valea Nandrului Sat  - Com. Peştişu Mic -> VALEA NANDRULUI
         506: 92159,  # Valea Poienii Sat  - Com. Vorţa -> VALEA POIENII
         507: 87558,  # Valea Sângiorgiului Sat  - Orş. Călan -> VALEA SÂNGEORGIULUI
+        508: 87166,  # Valea de Brazi Loc.  - Orş. Uricani -> VALEA DE BRAZI
         509: 91802,  # Vaţa de Jos Sat  - Com. Vaţa de Jos -> VAŢA DE JOS
         511: 91928,  # Vaţa de Sus Sat  - Com. Vaţa de Jos -> VAŢA DE SUS
         512: 91991,  # Veţel Sat  - Com. Veţel -> VEŢEL
@@ -7532,12 +7531,13 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         515: 92168,  # Visca Sat  - Com. Vorţa -> VISCA
         516: 87987,  # Voia Sat  - Com. Balşa -> VOIA
         517: 92104,  # Vorţa Sat  - Com. Vorţa -> VORŢA
+        519: 87184,  # Vulcan Mun.  -> VULCAN
         520: 88751,  # Vâlcele Sat  - Com. Bretea Română -> VÂLCELE
         521: 88760,  # Vâlcelele Bune Sat  - Com. Bretea Română -> VÂLCELELE BUNE
         522: 88779,  # Vâlceluţa Sat  - Com. Bretea Română -> VÂLCELUŢA
         523: 91615,  # Vălari Sat  - Com. Topliţa -> VĂLARI
-        525: 89678,  # Văleni Sat  - Orş. Geoagiu -> VĂLENI
         524: 87834,  # Văleni Sat  - Com. Baia de Criş -> VĂLENI
+        525: 89678,  # Văleni Sat  - Orş. Geoagiu -> VĂLENI
         526: 90798,  # Vălioara Sat  - Com. Răchitova -> VĂLIOARA
         527: 87978,  # Vălişoara Sat  - Com. Balşa -> VĂLIŞOARA
         528: 91946,  # Vălişoara Sat  - Com. Vălişoara -> VĂLIŞOARA
@@ -7555,21 +7555,10 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         543: 87344,  # Ţărăţel Sat  - Mun. Brad -> ŢĂRĂŢEL
     },
     21: {  # IALOMIŢA
-        21: 92676,  # Bora Loc.  - Mun. Slobozia -> BORA
-        34: 92729,  # Buliga Loc.  - Mun. Feteşti -> BULIGA
-        73: 92738,  # Feteşti-Gara Loc.  - Mun. Feteşti -> FETEŞTI-GARĂ
-        164: 92685,  # Slobozia Nouă Loc.  - Mun. Slobozia -> SLOBOZIA NOUĂ
-        185: 92747,  # Vlaşca Loc.  - Mun. Feteşti -> VLAŞCA
-        163: 92667,  # Slobozia Mun.  -> SLOBOZIA
-        72: 92710,  # Feteşti Mun.  -> FETEŞTI
-        179: 100692,  # Urziceni Mun.  -> URZICENI
-        7: 92845,  # Amara Orş.  -> AMARA
-        64: 93076,  # Căzăneşti Orş.  -> CĂZĂNEŞTI
-        75: 102758,  # Fierbinţi-Târg Orş.  -> FIERBINŢI-TÂRG
-        188: 92774,  # Ţăndărei Orş.  -> ŢĂNDĂREI
         2: 100763,  # Adâncata Sat  - Com. Adâncata -> ADÂNCATA
         4: 92792,  # Albeşti Sat  - Com. Albeşti -> ALBEŞTI
         6: 100861,  # Alexeni Sat  - Com. Alexeni -> ALEXENI
+        7: 92845,  # Amara Orş.  -> AMARA
         8: 92845,  # Amara Sat  - Orş. Amara -> AMARA
         9: 92854,  # Amara Nouă Sat  - Orş. Amara -> AMARA NOUĂ
         11: 92881,  # Andrăşeşti Sat  - Com. Andrăşeşti -> ANDRĂŞEŞTI
@@ -7579,6 +7568,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         18: 92809,  # Bataluri Sat  - Com. Albeşti -> BATALURI
         19: 104298,  # Biţina-Pământeni Sat  - Com. Moviliţa -> BIŢINA-PĂMÂNTENI
         20: 104305,  # Biţina-Ungureni Sat  - Com. Moviliţa -> BIŢINA-UNGURENI
+        21: 92676,  # Bora Loc.  - Mun. Slobozia -> BORA
         23: 92998,  # Borduşani Sat  - Com. Borduşani -> BORDUŞANI
         24: 93129,  # Borduşelu Sat  - Com. Ciochina -> BORDUŞELU
         25: 102268,  # Borăneşti Sat  - Com. Borăneşti -> BORĂNEŞTI
@@ -7588,6 +7578,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         31: 93030,  # Bucu Sat  - Com. Bucu -> BUCU
         32: 94704,  # Bucşa Sat  - Com. Valea Ciorii -> BUCŞA
         33: 92818,  # Bueşti Sat  - Com. Bueşti -> BUEŞTI
+        34: 92729,  # Buliga Loc.  - Mun. Feteşti -> BULIGA
         35: 94474,  # Butoiu Sat  - Com. Sfântu Gheorghe -> BUTOIU
         36: 100898,  # Bărbuleşti Sat  - Com. Bărbuleşti -> BĂRBULEŞTI
         37: 100941,  # Bărbătescu Sat  - Com. Axintele -> BĂRBĂTESCU
@@ -7610,12 +7601,16 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         61: 92934,  # Crăsanii de Jos Sat  - Com. Balaciu -> CRĂSANII DE JOS
         62: 92943,  # Crăsanii de Sus Sat  - Com. Balaciu -> CRĂSANII DE SUS
         63: 105053,  # Cătruneşti Sat  - Com. Sineşti -> CĂTRUNEŞTI
+        64: 93076,  # Căzăneşti Orş.  -> CĂZĂNEŞTI
         65: 93076,  # Căzăneşti Sat  - Orş. Căzăneşti -> CĂZĂNEŞTI
         66: 102712,  # Dridu Sat  - Com. Dridu -> DRIDU
         68: 102721,  # Dridu-Snagov Sat  - Com. Dridu -> DRIDU-SNAGOV
         69: 102650,  # Drăgoeşti Sat  - Com. Drăgoeşti -> DRĂGOEŞTI
         71: 94713,  # Dumitreşti Sat  - Com. Valea Ciorii -> DUMITREŞTI
+        72: 92710,  # Feteşti Mun.  -> FETEŞTI
+        73: 92738,  # Feteşti-Gara Loc.  - Mun. Feteşti -> FETEŞTI-GARĂ
         74: 102758,  # Fierbinţi-Târg Sat  - Orş. Fierbinţi-Târg -> FIERBINŢI-TÂRG
+        75: 102758,  # Fierbinţi-Târg Orş.  -> FIERBINŢI-TÂRG
         76: 102767,  # Fierbinţii de Jos Sat  - Orş. Fierbinţi-Târg -> FIERBINŢII DE JOS
         77: 102776,  # Fierbinţii de Sus Sat  - Orş. Fierbinţi-Târg -> FIERBINŢII DE SUS
         78: 94394,  # Frăţileşti Sat  - Com. Săveni -> FRĂŢILEŞTI
@@ -7683,6 +7678,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         158: 94465,  # Sfântu Gheorghe Sat  - Com. Sfântu Gheorghe -> SFÂNTU GHEORGHE
         160: 105035,  # Sineşti Sat  - Com. Sineşti -> SINEŞTI
         162: 102277,  # Sinteşti Sat  - Com. Borăneşti -> SINTEŞTI
+        163: 92667,  # Slobozia Mun.  -> SLOBOZIA
+        164: 92685,  # Slobozia Nouă Loc.  - Mun. Slobozia -> SLOBOZIA NOUĂ
         165: 103988,  # Slătioarele Sat  - Com. Jilavele -> SLĂTIOARELE
         166: 93753,  # Smirna Sat  - Com. Griviţa -> SMIRNA
         167: 94214,  # Stejaru Sat  - Com. Perieţi -> STEJARU
@@ -7693,17 +7690,15 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         175: 94385,  # Săveni Sat  - Com. Săveni -> SĂVENI
         177: 94072,  # Tovărăşia Sat  - Com. Miloşeşti -> TOVĂRĂŞIA
         178: 93762,  # Traian Sat  - Com. Traian -> TRAIAN
+        179: 100692,  # Urziceni Mun.  -> URZICENI
         180: 102696,  # Valea Bisericii Sat  - Com. Drăgoeşti -> VALEA BISERICII
         181: 94697,  # Valea Ciorii Sat  - Com. Valea Ciorii -> VALEA CIORII
         184: 105801,  # Valea Măcrişului Sat  - Com. Valea Măcrişului -> VALEA MĂCRIŞULUI
+        185: 92747,  # Vlaşca Loc.  - Mun. Feteşti -> VLAŞCA
         186: 94802,  # Vlădeni Sat  - Com. Vlădeni -> VLĂDENI
+        188: 92774,  # Ţăndărei Orş.  -> ŢĂNDĂREI
     },
     22: {  # IAŞI
-        230: 95079,  # Iaşi Mun.  -> IAŞI
-        308: 95408,  # Paşcani Mun.  -> PAŞCANI
-        217: 95364,  # Hârlău Orş.  -> HÂRLĂU
-        324: 98382,  # Podu Iloaiei Orş.  -> PODU ILOAIEI
-        440: 95480,  # Târgu Frumos Orş.  -> TÂRGU FRUMOS
         1: 96076,  # Albeşti Sat  - Com. Brăeşti -> ALBEŞTI
         3: 95621,  # Alexandru I. Cuza Sat  - Com. Alexandru I. Cuza -> ALEXANDRU I.CUZA
         4: 100166,  # Alexandru cel Bun Sat  - Com. Vlădeni -> ALEXANDRU CEL BUN
@@ -7743,10 +7738,10 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         43: 99183,  # Brăteşti Sat  - Com. Stolniceni-Prăjescu -> BRĂTEŞTI
         44: 97946,  # Brătuleni Sat  - Com. Miroslava -> BRĂTULENI
         45: 99227,  # Brătuleşti Sat  - Com. Strunga -> BRĂTULEŞTI
-        47: 97624,  # Buda Sat  - Com. Lespezi -> BUDA
         46: 96085,  # Buda Sat  - Com. Brăeşti -> BUDA
-        49: 98131,  # Budeşti Sat  - Com. Mogoşeşti -> BUDEŞTI
+        47: 97624,  # Buda Sat  - Com. Lespezi -> BUDA
         48: 98391,  # Budăi Sat  - Orş. Podu Iloaiei -> BUDĂI
+        49: 98131,  # Budeşti Sat  - Com. Mogoşeşti -> BUDEŞTI
         50: 96165,  # Buhalniţa Sat  - Com. Cepleniţa -> BUHALNIŢA
         51: 95685,  # Buhăeni Sat  - Com. Andrieşeni -> BUHĂENI
         52: 97349,  # Bulbucani Sat  - Com. Gropniţa -> BULBUCANI
@@ -7760,8 +7755,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         61: 97027,  # Bârleşti Sat  - Com. Erbiceni -> BÂRLEŞTI
         63: 95097,  # Bârnova Sat  - Com. Bârnova -> BÂRNOVA
         64: 99012,  # Bădeni Sat  - Com. Scobinţi -> BĂDENI
-        66: 99557,  # Băiceni Sat  - Com. Todireşti -> BĂICENI
         65: 96682,  # Băiceni Sat  - Com. Cucuteni -> BĂICENI
+        66: 99557,  # Băiceni Sat  - Com. Todireşti -> BĂICENI
         67: 98667,  # Bălteni Sat  - Com. Probota -> BĂLTENI
         68: 96735,  # Băluşeşti Sat  - Com. Dagâţa -> BĂLUŞEŞTI
         70: 95809,  # Bălţaţi Sat  - Com. Bălţaţi -> BĂLŢAŢI
@@ -7812,8 +7807,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         125: 97713,  # Cucuteni Sat  - Com. Leţcani -> CUCUTENI
         126: 96405,  # Curagău Sat  - Com. Comarna -> CURAGĂU
         127: 96272,  # Curături Sat  - Com. Ciurea -> CURĂTURI
-        129: 98541,  # Cuza Vodă Sat  - Com. Popricani -> CUZA VODĂ
         128: 97599,  # Cuza Vodă Sat  - Com. Ipatele -> CUZA VODĂ
+        129: 98541,  # Cuza Vodă Sat  - Com. Popricani -> CUZA VODĂ
         130: 96511,  # Cârjoaia Sat  - Com. Cotnari -> CÂRJOAIA
         131: 98523,  # Cârlig Sat  - Com. Popricani -> CÂRLIG
         132: 99897,  # Cârniceni Sat  - Com. Ţigănaşi -> CÂRNICENI
@@ -7886,6 +7881,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         214: 97991,  # Horpaz Sat  - Com. Miroslava -> HORPAZ
         215: 99138,  # Humosu Sat  - Com. Sireţel -> HUMOSU
         216: 98328,  # Hândreşti Sat  - Com. Oţeleni -> HÂNDREŞTI
+        217: 95364,  # Hârlău Orş.  -> HÂRLĂU
         218: 100120,  # Hârtoape Sat  - Com. Vânători -> HÂRTOAPE
         219: 99281,  # Hăbăşeşti Sat  - Com. Strunga -> HĂBĂŞEŞTI
         220: 99405,  # Hălceni Sat  - Com. Şipote -> HĂLCENI
@@ -7897,6 +7893,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         227: 100193,  # Iacobeni Sat  - Com. Vlădeni -> IACOBENI
         228: 99414,  # Iazu Nou Sat  - Com. Şipote -> IAZU NOU
         229: 99423,  # Iazu Vechi Sat  - Com. Şipote -> IAZU VECHI
+        230: 95079,  # Iaşi Mun.  -> IAŞI
         231: 100031,  # Icuşeni Sat  - Com. Victoria -> ICUŞENI
         232: 95729,  # Iepureni Sat  - Com. Andrieşeni -> IEPURENI
         233: 98275,  # Iepureni Sat  - Com. Movileni -> IEPURENI
@@ -7919,8 +7916,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         253: 96307,  # Lunca Cetăţuii Sat  - Com. Ciurea -> LUNCA CETĂŢUII
         254: 98961,  # Lunca Rateş Sat  - Com. Scânteia -> LUNCA RATEŞ
         255: 97456,  # Luncaşi Sat  - Com. Hălăuceşti -> LUNCAŞI
-        258: 100237,  # Lungani Sat  - Com. Voineşti -> LUNGANI
         257: 97731,  # Lungani Sat  - Com. Lungani -> LUNGANI
+        258: 100237,  # Lungani Sat  - Com. Voineşti -> LUNGANI
         259: 96566,  # Lupăria Sat  - Com. Cotnari -> LUPĂRIA
         260: 96851,  # Maxut Sat  - Com. Deleni -> MAXUT
         261: 97152,  # Medeleni Sat  - Com. Golăieşti -> MEDELENI
@@ -7946,8 +7943,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         290: 98159,  # Mânjeşti Sat  - Com. Mogoşeşti -> MÂNJEŞTI
         291: 96030,  # Mânzăteşti Sat  - Com. Ungheni -> MÂNZĂTEŞTI
         292: 98621,  # Măcăreşti Sat  - Com. Prisăcani -> MĂCĂREŞTI
-        295: 97786,  # Mădârjac Sat  - Com. Mădârjac -> MĂDÂRJAC
         293: 95836,  # Mădârjeşti Sat  - Com. Bălţaţi -> MĂDÂRJEŞTI
+        295: 97786,  # Mădârjac Sat  - Com. Mădârjac -> MĂDÂRJAC
         296: 97367,  # Mălăeşti Sat  - Com. Gropniţa -> MĂLĂEŞTI
         297: 96762,  # Mănăstirea Sat  - Com. Dagâţa -> MĂNĂSTIREA
         298: 97508,  # Oboroceni Sat  - Com. Heleşteni -> OBOROCENI
@@ -7956,9 +7953,10 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         301: 99959,  # Oprişeni Sat  - Com. Ţuţora -> OPRIŞENI
         302: 99735,  # Oproaia Sat  - Com. Ţibana -> OPROAIA
         303: 95195,  # Orzeni Sat  - Com. Holboca -> ORZENI
-        305: 99085,  # Osoi Sat  - Com. Sineşti -> OSOI
         304: 96389,  # Osoi Sat  - Com. Comarna -> OSOI
+        305: 99085,  # Osoi Sat  - Com. Sineşti -> OSOI
         307: 98319,  # Oţeleni Sat  - Com. Oţeleni -> OŢELENI
+        308: 95408,  # Paşcani Mun.  -> PAŞCANI
         309: 98676,  # Perieni Sat  - Com. Probota -> PERIENI
         310: 97161,  # Petreşti Sat  - Com. Golăieşti -> PETREŞTI
         311: 96361,  # Petroşica Sat  - Com. Coarnele Caprei -> PETROŞICA
@@ -7973,15 +7971,16 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         321: 96619,  # Podolenii de Jos Sat  - Com. Cozmeşti -> PODOLENII DE JOS
         322: 96628,  # Podolenii de Sus Sat  - Com. Cozmeşti -> PODOLENII DE SUS
         323: 97214,  # Podu Hagiului Sat  - Com. Gorban -> PODU HAGIULUI
+        324: 98382,  # Podu Iloaiei Orş.  -> PODU ILOAIEI
         325: 98382,  # Podu Iloaiei Sat  - Orş. Podu Iloaiei -> PODU ILOAIEI
         326: 97170,  # Podu Jijiei Sat  - Com. Golăieşti -> PODU JIJIEI
-        328: 98881,  # Poiana Sat  - Com. Schitu Duca -> POIANA
         327: 96860,  # Poiana Sat  - Com. Deleni -> POIANA
+        328: 98881,  # Poiana Sat  - Com. Schitu Duca -> POIANA
         329: 99753,  # Poiana Mănăstirii Sat  - Com. Ţibana -> POIANA MĂNĂSTIRII
         330: 96174,  # Poiana Mărului Sat  - Com. Cepleniţa -> POIANA MĂRULUI
+        331: 99352,  # Poiana Şcheii Sat  - Com. Şcheia -> POIANA ŞCHEII
         332: 97303,  # Poiana cu Cetate Sat  - Com. Grajduri -> POIANA CU CETATE
         333: 99744,  # Poiana de Sus Sat  - Com. Ţibana -> POIANA DE SUS
-        331: 99352,  # Poiana Şcheii Sat  - Com. Şcheia -> POIANA ŞCHEII
         334: 98872,  # Poieni Sat  - Com. Schitu Duca -> POIENI
         335: 96780,  # Poienile Sat  - Com. Dagâţa -> POIENILE
         337: 98444,  # Popeşti Sat  - Com. Popeşti -> POPEŞTI
@@ -7991,15 +7990,14 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         343: 98612,  # Prisăcani Sat  - Com. Prisăcani -> PRISĂCANI
         345: 98658,  # Probota Sat  - Com. Probota -> PROBOTA
         346: 98006,  # Proselnici Sat  - Com. Miroslava -> PROSELNICI
-        519: 95373,  # Pârcovaci Sat  - Orş. Hârlău -> PÂRCOVACI
         347: 97296,  # Pădureni Sat  - Com. Grajduri -> PĂDURENI
         348: 98480,  # Pădureni Sat  - Com. Popeşti -> PĂDURENI
         349: 95113,  # Păun Sat  - Com. Bârnova -> PĂUN
         350: 96995,  # Păuşeşti Sat  - Com. Dumeşti -> PĂUŞEŞTI
         351: 99842,  # Recea Sat  - Com. Ţibăneşti -> RECEA
+        352: 95248,  # Rediu Sat  - Com. Rediu -> REDIU
         353: 96101,  # Rediu Sat  - Com. Brăeşti -> REDIU
         354: 98809,  # Rediu Sat  - Com. Ruginoasa -> REDIU
-        352: 95248,  # Rediu Sat  - Com. Rediu -> REDIU
         356: 98970,  # Rediu Sat  - Com. Scânteia -> REDIU
         357: 95774,  # Rediu Aldei Sat  - Com. Aroneanu -> REDIU ALDEI
         358: 98569,  # Rediu Mitropoliei Sat  - Com. Popricani -> REDIU MITROPOLIEI
@@ -8016,26 +8014,26 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         372: 98694,  # Răducăneni Sat  - Com. Răducăneni -> RĂDUCĂNENI
         373: 99833,  # Răsboieni Sat  - Com. Ţibăneşti -> RĂSBOIENI
         374: 95603,  # Războieni Sat  - Com. Ion Neculce -> RĂZBOIENI
-        378: 99361,  # Satu Nou Sat  - Com. Şcheia -> SATU NOU
+        375: 95916,  # Satu Nou Sat  - Com. Belceşti -> SATU NOU
         376: 98890,  # Satu Nou Sat  - Com. Schitu Duca -> SATU NOU
         377: 99147,  # Satu Nou Sat  - Com. Sireţel -> SATU NOU
-        375: 95916,  # Satu Nou Sat  - Com. Belceşti -> SATU NOU
+        378: 99361,  # Satu Nou Sat  - Com. Şcheia -> SATU NOU
         379: 98836,  # Schitu Duca Sat  - Com. Schitu Duca -> SCHITU DUCA
         381: 97893,  # Schitu Hadâmbului Sat  - Com. Mironeasa -> SCHITU HADÂMBULUI
         382: 100246,  # Schitu Stavnic Sat  - Com. Voineşti -> SCHITU STAVNIC
         383: 99003,  # Scobinţi Sat  - Com. Scobinţi -> SCOBINŢI
         385: 98426,  # Scobâlţeni Sat  - Orş. Podu Iloaiei -> SCOBÂLŢENI
-        387: 97544,  # Scoposeni Sat  - Com. Horleşti -> SCOPOSENI
         386: 97223,  # Scoposeni Sat  - Com. Gorban -> SCOPOSENI
+        387: 97544,  # Scoposeni Sat  - Com. Horleşti -> SCOPOSENI
         388: 100059,  # Sculeni Sat  - Com. Victoria -> SCULENI
         389: 98925,  # Scânteia Sat  - Com. Scânteia -> SCÂNTEIA
         391: 99067,  # Sineşti Sat  - Com. Sineşti -> SINEŞTI
         393: 99110,  # Sireţel Sat  - Com. Sireţel -> SIREŢEL
-        399: 98907,  # Slobozia Sat  - Com. Schitu Duca -> SLOBOZIA
         395: 96325,  # Slobozia Sat  - Com. Ciurea -> SLOBOZIA
         396: 96879,  # Slobozia Sat  - Com. Deleni -> SLOBOZIA
         397: 99156,  # Slobozia Sat  - Com. Sireţel -> SLOBOZIA
         398: 100255,  # Slobozia Sat  - Com. Voineşti -> SLOBOZIA
+        399: 98907,  # Slobozia Sat  - Com. Schitu Duca -> SLOBOZIA
         400: 98097,  # Soci Sat  - Com. Mirosloveşti -> SOCI
         401: 95970,  # Soloneţ Sat  - Com. Bivolari -> SOLONEŢ
         402: 95738,  # Spineni Sat  - Com. Andrieşeni -> SPINENI
@@ -8069,6 +8067,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         436: 98195,  # Tudor Vladimirescu Sat  - Com. Mogoşeşti-Siret -> TUDOR VLADIMIRESCU
         437: 98989,  # Tufeştii de Sus Sat  - Com. Scânteia -> TUFEŞTII DE SUS
         438: 99851,  # Tungujei Sat  - Com. Ţibăneşti -> TUNGUJEI
+        440: 95480,  # Târgu Frumos Orş.  -> TÂRGU FRUMOS
         441: 99487,  # Tătăruşi Sat  - Com. Tătăruşi -> TĂTĂRUŞI
         443: 95275,  # Tăuteşti Sat  - Com. Rediu -> TĂUTEŞTI
         444: 99511,  # Uda Sat  - Com. Tătăruşi -> UDA
@@ -8124,16 +8123,9 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         504: 99888,  # Ţigănaşi Sat  - Com. Ţigănaşi -> ŢIGĂNĂŞI
         506: 98578,  # Ţipileşti Sat  - Com. Popricani -> ŢIPILEŞTI
         507: 99931,  # Ţuţora Sat  - Com. Ţuţora -> ŢUŢORA
+        519: 95373,  # Pârcovaci Sat  - Orş. Hârlău -> PÂRCOVACI
     },
     23: {  # ILFOV
-        12: 179230,  # Bragadiru Orş.  -> BRAGADIRU
-        16: 100585,  # Buftea Orş.  -> BUFTEA
-        24: 179294,  # Chitila Orş.  -> CHITILA
-        87: 179418,  # Măgurele Orş.  -> MĂGURELE
-        97: 179490,  # Otopeni Orş.  -> OTOPENI
-        99: 179524,  # Pantelimon Orş.  -> PANTELIMON
-        109: 179542,  # Popeşti-Leordeni Orş.  -> POPEŞTI-LEORDENI
-        132: 179560,  # Voluntari Orş.  -> VOLUNTARI
         1: 102552,  # 1 Decembrie Sat  - Com. 1 Decembrie -> 1 DECEMBRIE
         3: 100843,  # Afumaţi Sat  - Com. Afumaţi -> AFUMAŢI
         5: 179427,  # Alunişu Sat  - Orş. Măgurele -> ALUNIŞU
@@ -8141,13 +8133,16 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         8: 104449,  # Balta Neagră Sat  - Com. Nuci -> BALTA NEAGRĂ
         9: 101154,  # Berceni Sat  - Com. Berceni -> BERCENI
         11: 179230,  # Bragadiru Sat  - Orş. Bragadiru -> BRAGADIRU
+        12: 179230,  # Bragadiru Orş.  -> BRAGADIRU
         13: 101305,  # Brăneşti Sat  - Com. Brăneşti -> BRĂNEŞTI
         15: 102231,  # Buda Sat  - Com. Cornetu -> BUDA
+        16: 100585,  # Buftea Orş.  -> BUFTEA
         17: 104573,  # Buriaş Sat  - Com. Periş -> BURIAŞ
         18: 104564,  # Bălteni Sat  - Com. Periş -> BĂLTENI
         19: 101760,  # Bălăceanca Sat  - Com. Cernica -> BĂLĂCEANCA
         20: 101751,  # Cernica Sat  - Com. Cernica -> CERNICA
         22: 179258,  # Chiajna Sat  - Com. Chiajna -> CHIAJNA
+        24: 179294,  # Chitila Orş.  -> CHITILA
         25: 179294,  # Chitila Sat  - Orş. Chitila -> CHITILA
         26: 105188,  # Ciofliceni Sat  - Com. Snagov -> CIOFLICENI
         28: 101911,  # Ciolpani Sat  - Com. Ciolpani -> CIOLPANI
@@ -8193,6 +8188,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         82: 103167,  # Moara Domnească Sat  - Com. Găneasa -> MOARA DOMNEASCĂ
         84: 104252,  # Moara Vlăsiei Sat  - Com. Moara Vlăsiei -> MOARA VLĂSIEI
         86: 179472,  # Mogoşoaia Sat  - Com. Mogoşoaia -> MOGOŞOAIA
+        87: 179418,  # Măgurele Orş.  -> MĂGURELE
         88: 179418,  # Măgurele Sat  - Orş. Măgurele -> MĂGURELE
         89: 104608,  # Măineasca Sat  - Com. Petrăchioaia -> MĂINEASCA
         90: 104430,  # Nuci Sat  - Com. Nuci -> NUCI
@@ -8201,7 +8197,9 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         94: 102062,  # Ordoreanu Sat  - Com. Clinceni -> ORDOREANU
         95: 102188,  # Ostratu Sat  - Com. Corbeanca -> OSTRATU
         96: 179490,  # Otopeni Sat  - Orş. Otopeni -> OTOPENI
+        97: 179490,  # Otopeni Orş.  -> OTOPENI
         98: 179524,  # Pantelimon Sat  - Orş. Pantelimon -> PANTELIMON
+        99: 179524,  # Pantelimon Orş.  -> PANTELIMON
         100: 101323,  # Pasărea Sat  - Com. Brăneşti -> PASĂREA
         101: 104555,  # Periş Sat  - Com. Periş -> PERIŞ
         103: 102197,  # Petreşti Sat  - Com. Corbeanca -> PETREŞTI
@@ -8209,6 +8207,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         106: 101948,  # Piscu Sat  - Com. Ciolpani -> PISCU
         107: 103176,  # Piteasca Sat  - Com. Găneasa -> PITEASCA
         108: 179542,  # Popeşti Leordeni Sat  - Orş. Popeşti-Leordeni -> POPEŞTI-LEORDENI
+        109: 179542,  # Popeşti-Leordeni Orş.  -> POPEŞTI-LEORDENI
         110: 101788,  # Poşta Sat  - Com. Cernica -> POŞTA
         111: 179445,  # Pruni Sat  - Orş. Măgurele -> PRUNI
         112: 179276,  # Roşu Sat  - Com. Chiajna -> ROŞU
@@ -8228,6 +8227,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         128: 105945,  # Vidra Sat  - Com. Vidra -> VIDRA
         130: 105213,  # Vlădiceasca Sat  - Com. Snagov -> VLĂDICEASCA
         131: 179560,  # Voluntari Sat  - Orş. Voluntari -> VOLUNTARI
+        132: 179560,  # Voluntari Orş.  -> VOLUNTARI
         133: 104626,  # Vânători Sat  - Com. Petrăchioaia -> VÂNĂTORI
         134: 179454,  # Vârteju Sat  - Orş. Măgurele -> VÂRTEJU
         135: 102632,  # Zurbaua Sat  - Com. Dragomireşti-Vale -> ZURBAUA
@@ -8238,35 +8238,6 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         141: 102598,  # Ţegheş Sat  - Com. Domneşti -> ŢEGHEŞ
     },
     24: {  # MARAMUREŞ
-        23: 106336,  # Blidari Loc.  - Mun. Baia Mare -> BLIDARI
-        44: 106504,  # Buşag Loc.  - Orş. Tăuţii-Măgherăuş -> BUŞAG
-        50: 106764,  # Băile Borşa Loc.  - Orş. Borşa -> BĂILE BORŞA
-        53: 106489,  # Băiţa Loc.  - Orş. Tăuţii-Măgherăuş -> BĂIŢA
-        64: 106700,  # Chiuzbaia Loc.  - Orş. Baia Sprie -> CHIUZBAIA
-        120: 106345,  # Firiza Loc.  - Mun. Baia Mare -> FIRIZA
-        141: 106577,  # Iapa Loc.  - Mun. Sighetu Marmaţiei -> IAPA
-        149: 106586,  # Lazu Baciului Loc.  - Mun. Sighetu Marmaţiei -> LAZU BACIULUI
-        172: 106522,  # Nistru Loc.  - Orş. Tăuţii-Măgherăuş -> NISTRU
-        243: 106595,  # Sugău Loc.  - Mun. Sighetu Marmaţiei -> ŞUGĂU
-        268: 106719,  # Tăuţii de Sus Loc.  - Orş. Baia Sprie -> TĂUŢII DE SUS
-        270: 106470,  # Tăuţii-Măgherăuş Loc.  - Orş. Tăuţii-Măgherăuş -> TĂUŢII-MĂGHERĂUŞ
-        282: 106602,  # Valea Cufundoasa Loc.  - Mun. Sighetu Marmaţiei -> VALEA CUFUNDOASĂ
-        283: 106611,  # Valea Hotarului Loc.  - Mun. Sighetu Marmaţiei -> VALEA HOTARULUI
-        284: 106354,  # Valea Neagră Loc.  - Mun. Baia Mare -> VALEA NEAGRĂ
-        294: 106997,  # Vişeu de Mijloc Loc.  - Orş. Vişeu de Sus -> VIŞEU DE MIJLOC
-        13: 106327,  # Baia Mare Mun.  -> BAIA MARE
-        231: 106568,  # Sighetu Marmaţiei Mun.  -> SIGHETU MARMAŢIEI
-        14: 106693,  # Baia Sprie Orş.  -> BAIA SPRIE
-        34: 106755,  # Borşa Orş.  -> BORŞA
-        58: 106791,  # Cavnic Orş.  -> CAVNIC
-        106: 108026,  # Dragomireşti Orş.  -> DRAGOMIREŞTI
-        230: 108972,  # Seini Orş.  -> SEINI
-        253: 108909,  # Săliştea de Sus Orş.  -> SĂLIŞTEA DE SUS
-        265: 106826,  # Târgu Lăpuş Orş.  -> TÂRGU LĂPUŞ
-        269: 106470,  # Tăuţii-Măgherăuş Orş.  -> TĂUŢII-MĂGHERĂUŞ
-        271: 109274,  # Ulmeni Orş.  -> ULMENI
-        295: 106988,  # Vişeu de Sus Orş.  -> VIŞEU DE SUS
-        305: 109185,  # Şomcuta Mare Orş.  -> ŞOMCUTA MARE
         1: 107010,  # Ardusat Sat  - Com. Ardusat -> ARDUSAT
         3: 109283,  # Arduzel Sat  - Orş. Ulmeni -> ARDUZEL
         4: 107029,  # Arieşu de Câmp Sat  - Com. Ardusat -> ARIEŞU DE CÂMP
@@ -8276,12 +8247,15 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         9: 107109,  # Asuaju de Jos Sat  - Com. Asuaju de Sus -> ASUAJU DE JOS
         10: 107092,  # Asuaju de Sus Sat  - Com. Asuaju de Sus -> ASUAJU DE SUS
         12: 107886,  # Baba Sat  - Com. Coroieni -> BABA
+        13: 106327,  # Baia Mare Mun.  -> BAIA MARE
+        14: 106693,  # Baia Sprie Orş.  -> BAIA SPRIE
         15: 108179,  # Berbeşti Sat  - Com. Giuleşti -> BERBEŞTI
         16: 108516,  # Berchez Sat  - Com. Remetea Chioarului -> BERCHEZ
         17: 108525,  # Berchezoaia Sat  - Com. Remetea Chioarului -> BERCHEZOAIA
         18: 107751,  # Berinţa Sat  - Com. Copalnic-Mănăştur -> BERINŢA
         19: 107243,  # Bicaz Sat  - Com. Bicaz -> BICAZ
         21: 107289,  # Bistra Sat  - Com. Bistra -> BISTRA
+        23: 106336,  # Blidari Loc.  - Mun. Baia Mare -> BLIDARI
         24: 107421,  # Bocicoel Sat  - Com. Bogdan Vodă -> BOCICOEL
         25: 107369,  # Bocicoiu Mare Sat  - Com. Bocicoiu Mare -> BOCICOIU MARE
         27: 107412,  # Bogdan Vodă Sat  - Com. Bogdan Vodă -> BOGDAN VODĂ
@@ -8289,6 +8263,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         30: 107449,  # Boiu Mare Sat  - Com. Boiu Mare -> BOIU MARE
         32: 109112,  # Bontăieni Sat  - Com. Şişeşti -> BONTĂIENI
         33: 106844,  # Borcut Sat  - Orş. Târgu Lăpuş -> BORCUT
+        34: 106755,  # Borşa Orş.  -> BORŞA
         35: 107494,  # Botiza Sat  - Com. Botiza -> BOTIZA
         37: 106498,  # Bozânta Mare Sat  - Orş. Tăuţii-Măgherăuş -> BOZÂNTA MARE
         38: 106425,  # Bozânta Mică Sat  - Com. Recea -> BOZÂNTA MICĂ
@@ -8296,17 +8271,22 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         40: 107608,  # Brebeni Sat  - Com. Cerneşti -> BREBENI
         41: 109194,  # Buciumi Sat  - Orş. Şomcuta Mare -> BUCIUMI
         42: 107528,  # Budeşti Sat  - Com. Budeşti -> BUDEŞTI
+        44: 106504,  # Buşag Loc.  - Orş. Tăuţii-Măgherăuş -> BUŞAG
         45: 109201,  # Buteasa Sat  - Orş. Şomcuta Mare -> BUTEASA
         46: 108124,  # Buzeşti Sat  - Com. Fărcaşa -> BUZEŞTI
         47: 107680,  # Bârgău Sat  - Com. Cicârlău -> BÂRGĂU
         48: 107323,  # Bârsana Sat  - Com. Bârsana -> BÂRSANA
+        50: 106764,  # Băile Borşa Loc.  - Orş. Borşa -> BĂILE BORŞA
         51: 107163,  # Băiuţ Sat  - Com. Băiuţ -> BĂIUŢ
+        53: 106489,  # Băiţa Loc.  - Orş. Tăuţii-Măgherăuş -> BĂIŢA
         54: 107127,  # Băiţa de Sub Codru Sat  - Com. Băiţa de Sub Codru -> BĂIŢA DE SUB CODRU
         56: 107207,  # Băseşti Sat  - Com. Băseşti -> BĂSEŞTI
+        58: 106791,  # Cavnic Orş.  -> CAVNIC
         59: 107591,  # Cerneşti Sat  - Com. Cerneşti -> CERNEŞTI
         61: 109121,  # Cetăţele Sat  - Com. Şişeşti -> CETĂŢELE
         62: 108062,  # Chechiş Sat  - Com. Dumbrăviţa -> CHECHIŞ
         63: 109292,  # Chelinţa Sat  - Orş. Ulmeni -> CHELINŢA
+        64: 106700,  # Chiuzbaia Loc.  - Orş. Baia Sprie -> CHIUZBAIA
         65: 107671,  # Cicârlău Sat  - Com. Cicârlău -> CICÂRLĂU
         67: 107617,  # Ciocotiş Sat  - Com. Cerneşti -> CIOCOTIŞ
         68: 109210,  # Ciolt Sat  - Orş. Şomcuta Mare -> CIOLT
@@ -8341,6 +8321,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         102: 107895,  # Dealu Mare Sat  - Com. Coroieni -> DEALU MARE
         104: 107984,  # Deseşti Sat  - Com. Deseşti -> DESEŞTI
         105: 106871,  # Dobricu Lăpuşului Sat  - Orş. Târgu Lăpuş -> DOBRICU LĂPUŞULUI
+        106: 108026,  # Dragomireşti Orş.  -> DRAGOMIREŞTI
         107: 108026,  # Dragomireşti Sat  - Orş. Dragomireşti -> DRAGOMIREŞTI
         108: 107902,  # Drăghia Sat  - Com. Coroieni -> DRĂGHIA
         109: 106880,  # Dumbrava Sat  - Orş. Târgu Lăpuş -> DUMBRAVA
@@ -8353,6 +8334,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         117: 108749,  # Fersig Sat  - Com. Satulung -> FERSIG
         118: 109238,  # Finteuşu Mare Sat  - Orş. Şomcuta Mare -> FINTEUŞU MARE
         119: 108758,  # Finteuşu Mic Sat  - Com. Satulung -> FINTEUŞU MIC
+        120: 106345,  # Firiza Loc.  - Mun. Baia Mare -> FIRIZA
         121: 107458,  # Frâncenii Boiului Sat  - Com. Boiu Mare -> FRÂNCENII BOIULUI
         122: 107626,  # Fânaţe Sat  - Com. Cerneşti -> FÂNAŢE
         123: 106899,  # Fântânele Sat  - Orş. Târgu Lăpuş -> FÂNTÂNELE
@@ -8370,12 +8352,14 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         138: 109247,  # Hovrila Sat  - Orş. Şomcuta Mare -> HOVRILA
         139: 107993,  # Hărniceşti Sat  - Com. Deseşti -> HĂRNICEŞTI
         140: 108295,  # Iadăra Sat  - Com. Mireşu Mare -> IADĂRA
+        141: 106577,  # Iapa Loc.  - Mun. Sighetu Marmaţiei -> IAPA
         143: 108213,  # Ieud Sat  - Com. Ieud -> IEUD
         144: 107706,  # Ilba Sat  - Com. Cicârlău -> ILBA
         145: 106915,  # Inău Sat  - Orş. Târgu Lăpuş -> INĂU
         146: 107635,  # Izvoarele Sat  - Com. Cerneşti -> IZVOARELE
         147: 109461,  # Jugăstreni Sat  - Com. Vima Mică -> JUGĂSTRENI
         148: 109078,  # Larga Sat  - Com. Suciu de Sus -> LARGA
+        149: 106586,  # Lazu Baciului Loc.  - Mun. Sighetu Marmaţiei -> LAZU BACIULUI
         151: 108259,  # Leordina Sat  - Com. Leordina -> LEORDINA
         152: 107957,  # Libotin Sat  - Com. Cupşeni -> LIBOTIN
         153: 108302,  # Lucăceşti Sat  - Com. Mireşu Mare -> LUCĂCEŞTI
@@ -8394,6 +8378,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         169: 107644,  # Măgureni Sat  - Com. Cerneşti -> MĂGURENI
         170: 108197,  # Mănăstirea Sat  - Com. Giuleşti -> MĂNĂSTIREA
         171: 109149,  # Negreia Sat  - Com. Şişeşti -> NEGREIA
+        172: 106522,  # Nistru Loc.  - Orş. Tăuţii-Măgherăuş -> NISTRU
         173: 107332,  # Năneşti Sat  - Com. Bârsana -> NĂNEŞTI
         174: 108375,  # Oarţa de Jos Sat  - Com. Oarţa de Jos -> OARŢA DE JOS
         176: 108384,  # Oarţa de Sus Sat  - Com. Oarţa de Jos -> OARŢA DE SUS
@@ -8436,6 +8421,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         226: 106390,  # Satu Nou de Jos Sat  - Com. Groşi -> SATU NOU DE JOS
         227: 106728,  # Satu Nou de Sus Sat  - Orş. Baia Sprie -> SATU NOU DE SUS
         228: 108721,  # Satulung Sat  - Com. Satulung -> SATULUNG
+        230: 108972,  # Seini Orş.  -> SEINI
+        231: 106568,  # Sighetu Marmaţiei Mun.  -> SIGHETU MARMAŢIEI
         232: 109032,  # Slătioara Sat  - Com. Strâmtura -> SLĂTIOARA
         233: 109318,  # Someş-Uileac Sat  - Orş. Ulmeni -> SOMEŞ-UILEAC
         234: 108320,  # Stejera Sat  - Com. Mireşu Mare -> STEJERA
@@ -8445,14 +8432,15 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         238: 109014,  # Strâmtura Sat  - Com. Strâmtura -> STRÂMTURA
         240: 109087,  # Suciu de Jos Sat  - Com. Suciu de Sus -> SUCIU DE JOS
         241: 109050,  # Suciu de Sus Sat  - Com. Suciu de Sus -> SUCIU DE SUS
-        332: 180073,  # Sâlţa Sat  - Com. Rozavlea -> SÂLŢA
-        245: 108133,  # Sârbi Sat  - Com. Fărcaşa -> SÂRBI
+        243: 106595,  # Sugău Loc.  - Mun. Sighetu Marmaţiei -> ŞUGĂU
         244: 107537,  # Sârbi Sat  - Com. Budeşti -> SÂRBI
+        245: 108133,  # Sârbi Sat  - Com. Fărcaşa -> SÂRBI
         246: 108981,  # Săbişa Sat  - Orş. Seini -> SĂBIŞA
         247: 108883,  # Săcel Sat  - Com. Săcel -> SĂCEL
         249: 108801,  # Săcălăşeni Sat  - Com. Săcălăşeni -> SĂCĂLĂŞENI
         251: 107216,  # Sălişte Sat  - Com. Băseşti -> SĂLIŞTE
         252: 108909,  # Săliştea de Sus Sat  - Orş. Săliştea de Sus -> SĂLIŞTEA DE SUS
+        253: 108909,  # Săliştea de Sus Orş.  -> SĂLIŞTEA DE SUS
         254: 109489,  # Sălniţa Sat  - Com. Vima Mică -> SĂLNIŢA
         255: 108927,  # Sălsig Sat  - Com. Sălsig -> SĂLSIG
         257: 108954,  # Săpânţa Sat  - Com. Săpânţa -> SĂPÂNŢA
@@ -8462,8 +8450,13 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         262: 109327,  # Tohat Sat  - Orş. Ulmeni -> TOHAT
         263: 107653,  # Trestia Sat  - Com. Cerneşti -> TRESTIA
         264: 108339,  # Tulghieş Sat  - Com. Mireşu Mare -> TULGHIEŞ
+        265: 106826,  # Târgu Lăpuş Orş.  -> TÂRGU LĂPUŞ
         266: 108142,  # Tămaia Sat  - Com. Fărcaşa -> TĂMAIA
         267: 107074,  # Tămăşeşti Sat  - Com. Ariniş -> TĂMĂŞEŞTI
+        268: 106719,  # Tăuţii de Sus Loc.  - Orş. Baia Sprie -> TĂUŢII DE SUS
+        269: 106470,  # Tăuţii-Măgherăuş Orş.  -> TĂUŢII-MĂGHERĂUŞ
+        270: 106470,  # Tăuţii-Măgherăuş Loc.  - Orş. Tăuţii-Măgherăuş -> TĂUŢII-MĂGHERĂUŞ
+        271: 109274,  # Ulmeni Orş.  -> ULMENI
         272: 109274,  # Ulmeni Sat  - Orş. Ulmeni -> ULMENI
         273: 106531,  # Ulmoasa Sat  - Orş. Tăuţii-Măgherăuş -> ULMOASA
         274: 108099,  # Unguraş Sat  - Com. Dumbrăviţa -> UNGURAŞ
@@ -8472,6 +8465,9 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         277: 107859,  # Vad Sat  - Com. Copalnic-Mănăştur -> VAD
         279: 106657,  # Vadu Izei Sat  - Com. Vadu Izei -> VADU IZEI
         281: 109363,  # Valea Chioarului Sat  - Com. Valea Chioarului -> VALEA CHIOARULUI
+        282: 106602,  # Valea Cufundoasa Loc.  - Mun. Sighetu Marmaţiei -> VALEA CUFUNDOASĂ
+        283: 106611,  # Valea Hotarului Loc.  - Mun. Sighetu Marmaţiei -> VALEA HOTARULUI
+        284: 106354,  # Valea Neagră Loc.  - Mun. Baia Mare -> VALEA NEAGRĂ
         285: 106666,  # Valea Stejarului Sat  - Com. Vadu Izei -> VALEA STEJARULUI
         286: 107305,  # Valea Vişeului Sat  - Com. Bistra -> VALEA VIŞEULUI
         287: 109345,  # Vicea Sat  - Orş. Ulmeni -> VICEA
@@ -8479,33 +8475,23 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         289: 109498,  # Vima Mare Sat  - Com. Vima Mică -> VIMA MARE
         290: 109434,  # Vima Mică Sat  - Com. Vima Mică -> VIMA MICĂ
         292: 109513,  # Vişeu de Jos Sat  - Com. Vişeu de Jos -> VIŞEU DE JOS
+        294: 106997,  # Vişeu de Mijloc Loc.  - Orş. Vişeu de Sus -> VIŞEU DE MIJLOC
+        295: 106988,  # Vişeu de Sus Orş.  -> VIŞEU DE SUS
         296: 107573,  # Văleni Sat  - Com. Călineşti -> VĂLENI
         297: 107911,  # Vălenii Lăpuşului Sat  - Com. Coroieni -> VĂLENII LĂPUŞULUI
         298: 109256,  # Vălenii Şomcutei Sat  - Orş. Şomcuta Mare -> VĂLENII ŞOMCUTEI
         299: 109416,  # Vărai Sat  - Com. Valea Chioarului -> VĂRAI
-        307: 108865,  # Întrerâuri Sat  - Com. Coaş -> ÎNTRERÂURI
         300: 108687,  # Şieu Sat  - Com. Şieu -> ŞIEU
         301: 108080,  # Şindreşti Sat  - Com. Dumbrăviţa -> ŞINDREŞTI
         302: 109103,  # Şişeşti Sat  - Com. Şişeşti -> ŞISEŞTI
         304: 109185,  # Şomcuta Mare Sat  - Orş. Şomcuta Mare -> ŞOMCUTA MARE
+        305: 109185,  # Şomcuta Mare Orş.  -> ŞOMCUTA MARE
         306: 109167,  # Şurdeşti Sat  - Com. Şişeşti -> ŞURDEŞTI
+        307: 108865,  # Întrerâuri Sat  - Com. Coaş -> ÎNTRERÂURI
         308: 109336,  # Ţicău Sat  - Orş. Ulmeni -> ŢICĂU
+        332: 180073,  # Sâlţa Sat  - Com. Rozavlea -> SÂLŢA
     },
     25: {  # MEHEDINŢI
-        76: 110134,  # Ciochiuţa Loc.  - Orş. Strehaia -> CIOCHIUŢA
-        85: 110143,  # Comanda Loc.  - Orş. Strehaia -> COMANDA
-        133: 109808,  # Dudaşu Schelei Loc.  - Mun. Drobeta-Turnu Severin -> DUDAŞU SCHELEI
-        180: 109791,  # Gura Văii Loc.  - Mun. Drobeta-Turnu Severin -> GURA VĂII
-        195: 110152,  # Hurduceşti Loc.  - Orş. Strehaia -> HURDUCEŞTI
-        233: 110161,  # Lunca Banului Loc.  - Orş. Strehaia -> LUNCA BANULUI
-        336: 109817,  # Schela Cladovei Loc.  - Mun. Drobeta-Turnu Severin -> SCHELA CLADOVEI
-        347: 110170,  # Slătinicu Mare Loc.  - Orş. Strehaia -> SLĂTINICU MARE
-        348: 110189,  # Slătinicu Mic Loc.  - Orş. Strehaia -> SLĂTINICU MIC
-        127: 109782,  # Drobeta-Turnu Severin Mun.  -> DROBETA-TURNU SEVERIN
-        271: 110072,  # Orşova Mun.  -> ORŞOVA
-        11: 109933,  # Baia de Aramă Orş.  -> BAIA DE ARAMĂ
-        353: 110125,  # Strehaia Orş.  -> STREHAIA
-        398: 110241,  # Vânju Mare Orş.  -> VÂNJU MARE
         1: 112735,  # 23 August Sat  - Com. Malovăţ -> 23 AUGUST
         2: 110599,  # Adunaţii Teiului Sat  - Com. Tâmna -> ADUNAŢII TEIULUI
         3: 111603,  # Albuleşti Sat  - Com. Dumbrava -> ALBULEŞTI
@@ -8516,6 +8502,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         8: 111462,  # Aurora Sat  - Com. Cujmir -> AURORA
         9: 112352,  # Bahna Sat  - Com. Iloviţa -> BAHNA
         10: 112922,  # Baia Nouă Sat  - Com. Dubova -> BAIA NOUĂ
+        11: 109933,  # Baia de Aramă Orş.  -> BAIA DE ARAMĂ
         13: 110303,  # Bala Sat  - Com. Bala -> BALA
         14: 110312,  # Bala de Sus Sat  - Com. Bala -> BALA DE SUS
         15: 113260,  # Balota Sat  - Com. Prunişor -> BALOTA
@@ -8530,7 +8517,6 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         25: 112682,  # Bobaiţa Sat  - Com. Malovăţ -> BOBAIŢA
         26: 113750,  # Boceni Sat  - Com. Tâmna -> BOCENI
         27: 112165,  # Borogea Sat  - Com. Husnicioara -> BOROGEA
-        42: 113867,  # Braniştea Sat  - Com. Braniştea -> BRANIŞTEA
         28: 110321,  # Brateşul Sat  - Com. Bala -> BRATEŞUL
         29: 109942,  # Bratilovu Sat  - Orş. Baia de Aramă -> BRATILOVU
         30: 110330,  # Brativoeşti Sat  - Com. Bala -> BRATIVOEŞTI
@@ -8542,6 +8528,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         38: 110884,  # Broşteni Sat  - Com. Broşteni -> BROŞTENI
         40: 110606,  # Brâgleasa Sat  - Com. Dumbrava -> BRÂGLEASA
         41: 113037,  # Brânzeni Sat  - Com. Ponoarele -> BRÂNZENI
+        42: 113867,  # Braniştea Sat  - Com. Braniştea -> BRANIŞTEA
         43: 110250,  # Bucura Sat  - Orş. Vânju Mare -> BUCURA
         44: 112281,  # Budăneşti Sat  - Com. Ilovăţ -> BUDĂNEŞTI
         45: 113046,  # Buicani Sat  - Com. Ponoarele -> BUICANI
@@ -8552,8 +8539,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         51: 112398,  # Buseşti Sat  - Com. Isverna -> BUSEŞTI
         52: 111015,  # Butoieşti Sat  - Com. Butoieşti -> BUTOIEŞTI
         54: 110580,  # Bâcleş Sat  - Com. Bâcleş -> BÂCLEŞ
-        57: 113279,  # Bâltanele Sat  - Com. Prunişor -> BÂLTANELE
         56: 111934,  # Bâltanele Sat  - Com. Greci -> BÂLTANELE
+        57: 113279,  # Bâltanele Sat  - Com. Prunişor -> BÂLTANELE
         58: 110697,  # Bâlvăneşti Sat  - Com. Bâlvăneşti -> BÂLVĂNEŞTI
         60: 110704,  # Bâlvăneştii de Jos Sat  - Com. Bâlvăneşti -> BÂLVĂNEŞTII DE JOS
         61: 112726,  # Bârda Sat  - Com. Malovăţ -> BÂRDA
@@ -8570,6 +8557,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         73: 109844,  # Cerneţi Sat  - Com. Şimian -> CERNEŢI
         74: 113288,  # Cerveniţa Sat  - Com. Prunişor -> CERVENIŢA
         75: 113554,  # Cerânganul Sat  - Com. Stângăceaua -> CERÂNGANUL
+        76: 110134,  # Ciochiuţa Loc.  - Orş. Strehaia -> CIOCHIUŢA
         77: 112566,  # Cioroboreni Sat  - Com. Jiana -> CIOROBORENI
         78: 113652,  # Ciovârnăşani Sat  - Com. Şişeşti -> CIOVÂRNĂŞANI
         79: 111239,  # Cireşu Sat  - Com. Cireşu -> CIREŞU
@@ -8577,6 +8565,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         82: 113661,  # Cocorova Sat  - Com. Şişeşti -> COCOROVA
         83: 113769,  # Colareţ Sat  - Com. Tâmna -> COLAREŢ
         84: 112691,  # Colibaşi Sat  - Com. Malovăţ -> COLIBAŞI
+        85: 110143,  # Comanda Loc.  - Orş. Strehaia -> COMANDA
         86: 110367,  # Comăneşti Sat  - Com. Bala -> COMĂNEŞTI
         87: 111701,  # Copăcioasa Sat  - Com. Floreşti -> COPĂCIOASA
         89: 111284,  # Corcova Sat  - Com. Corcova -> CORCOVA
@@ -8613,10 +8602,12 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         123: 111499,  # Devesel Sat  - Com. Devesel -> DEVESEL
         125: 110553,  # Dobra Sat  - Com. Bălăciţa -> DOBRA
         126: 113420,  # Drincea Sat  - Com. Punghina -> DRINCEA
+        127: 109782,  # Drobeta-Turnu Severin Mun.  -> DROBETA-TURNU SEVERIN
         128: 112414,  # Drăgheşti Sat  - Com. Isverna -> DRĂGHEŞTI
         129: 113297,  # Drăgoteşti Sat  - Com. Prunişor -> DRAGOTEŞTI
         130: 112931,  # Dubova Sat  - Com. Dubova -> DUBOVA
         132: 109871,  # Dudaşu Sat  - Com. Şimian -> DUDAŞU
+        133: 109808,  # Dudaşu Schelei Loc.  - Mun. Drobeta-Turnu Severin -> DUDAŞU SCHELEI
         135: 111596,  # Dumbrava de Jos Sat  - Com. Dumbrava -> DUMBRAVA DE JOS
         136: 111612,  # Dumbrava de Mijloc Sat  - Com. Dumbrava -> DUMBRAVA DE MIJLOC
         137: 111621,  # Dumbrava de Sus Sat  - Com. Dumbrava -> DUMBRAVA DE SUS
@@ -8654,6 +8645,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         176: 111998,  # Grozeşti Sat  - Com. Grozeşti -> GROZEŞTI
         178: 112049,  # Gruia Sat  - Com. Gruia -> GRUIA
         179: 111042,  # Gura Motrului Sat  - Com. Butoieşti -> GURA MOTRULUI
+        180: 109791,  # Gura Văii Loc.  - Mun. Drobeta-Turnu Severin -> GURA VĂII
         181: 113331,  # Guţu Sat  - Com. Prunişor -> GUTU
         182: 110562,  # Gvardiniţa Sat  - Com. Bălăciţa -> GVARDINIŢA
         183: 111337,  # Gârbovăţu de Jos Sat  - Com. Corcova -> GÂRBOVĂŢU DE JOS
@@ -8666,6 +8658,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         191: 111649,  # Higiu Sat  - Com. Dumbrava -> HIGIU
         193: 112085,  # Hinova Sat  - Com. Hinova -> HINOVA
         194: 113910,  # Hotărani Sat  - Com. Vânjuleţ -> HOTĂRANI
+        195: 110152,  # Hurduceşti Loc.  - Orş. Strehaia -> HURDUCEŞTI
         197: 112138,  # Husnicioara Sat  - Com. Husnicioara -> HUSNICIOARA
         198: 112833,  # Iablaniţa Sat  - Com. Pădina -> IABLANIŢA
         199: 113340,  # Igiroasa Sat  - Com. Prunişor -> IGIROASA
@@ -8696,6 +8689,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         230: 112619,  # Livezile Sat  - Com. Livezile -> LIVEZILE
         231: 113108,  # Ludu Sat  - Com. Ponoarele -> LUDU
         232: 113359,  # Lumnic Sat  - Com. Prunişor -> LUMNIC
+        233: 110161,  # Lunca Banului Loc.  - Orş. Strehaia -> LUNCA BANULUI
         234: 110900,  # Luncşoara Sat  - Com. Broşteni -> LUNCŞOARA
         235: 110919,  # Lupşa de Jos Sat  - Com. Broşteni -> LUPŞA DE JOS
         236: 110928,  # Lupşa de Sus Sat  - Com. Broşteni -> LUPŞA DE SUS
@@ -8729,6 +8723,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         268: 112780,  # Oprişor Sat  - Com. Oprişor -> OPRIŞOR
         269: 112209,  # Oprăneşti Sat  - Com. Husnicioara -> OPRĂNEŞTI
         270: 110278,  # Oreviţa Mare Sat  - Orş. Vânju Mare -> OREVIŢA MARE
+        271: 110072,  # Orşova Mun.  -> ORŞOVA
         272: 112110,  # Ostrovu Corbului Sat  - Com. Hinova -> OSTROVU CORBULUI
         273: 111907,  # Ostrovu Mare Sat  - Com. Gogoşu -> OSTROVU MARE
         274: 113812,  # Pavăţ Sat  - Com. Tâmna -> PAVĂŢ
@@ -8783,6 +8778,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         333: 113509,  # Salcia Sat  - Com. Salcia -> SALCIA
         334: 113581,  # Satu Mare Sat  - Com. Stângăceaua -> SATU MARE
         335: 113457,  # Satu Nou Sat  - Com. Punghina -> SATU NOU
+        336: 109817,  # Schela Cladovei Loc.  - Mun. Drobeta-Turnu Severin -> SCHELA CLADOVEI
         337: 112520,  # Schinteieşti Sat  - Com. Izvoru Bârzii -> SCHINTEIEŞTI
         338: 112539,  # Schitu Topolniţei Sat  - Com. Izvoru Bârzii -> SCHITU TOPOLNIŢEI
         339: 113956,  # Scorila Sat  - Com. Vlădaia -> SCORILA
@@ -8793,16 +8789,21 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         344: 111195,  # Severineşti Sat  - Com. Căzăneşti -> SEVERINEŞTI
         345: 110526,  # Sfodea Sat  - Com. Balta -> SFODEA
         346: 112860,  # Slaşoma Sat  - Com. Pădina -> SLAŞOMA
+        347: 110170,  # Slătinicu Mare Loc.  - Orş. Strehaia -> SLĂTINICU MARE
+        348: 110189,  # Slătinicu Mic Loc.  - Orş. Strehaia -> SLĂTINICU MIC
         349: 110660,  # Smadoviţa Sat  - Com. Bâcleş -> SMADOVIŢA
         350: 114024,  # Sperleşti Sat  - Com. Voloiac -> SPERLEŞTI
         351: 111391,  # Stejaru Sat  - Com. Corcova -> STEJARU
         352: 113180,  # Stigniţa Sat  - Com. Poroina Mare -> STIGNIŢA
+        353: 110125,  # Strehaia Orş.  -> STREHAIA
         354: 111765,  # Stroeşti Sat  - Com. Floreşti -> STROEŞTI
         355: 113723,  # Studina Sat  - Com. Şovarna -> STUDINA
         356: 113527,  # Stângăceaua Sat  - Com. Stângăceaua -> STÂNGĂCEAUA
         358: 110214,  # Stănceşti Sat  - Orş. Strehaia -> STĂNCEŞTI
         359: 110009,  # Stăneşti Sat  - Orş. Baia de Aramă -> STĂNEŞTI
         360: 111202,  # Suharu Sat  - Com. Căzăneşti -> SUHARU
+        361: 110866,  # Şuşiţa Sat  - Com. Brezniţa-Ocol -> ŞUŞIŢA
+        362: 112021,  # Şuşiţa Sat  - Com. Grozeşti -> ŞUŞIŢA
         363: 113616,  # Sviniţa Sat  - Com. Sviniţa -> SVINIŢA
         365: 111952,  # Sălătruc Sat  - Com. Greci -> SĂLĂTRUC
         366: 110438,  # Sărdăneşti Sat  - Com. Bala -> SĂRDĂNEŞTI
@@ -8817,11 +8818,12 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         376: 114042,  # Valea Bună Sat  - Com. Voloiac -> VALEA BUNĂ
         377: 109906,  # Valea Copcii Sat  - Com. Şimian -> VALEA COPCII
         378: 111211,  # Valea Coşuştei Sat  - Com. Căzăneşti -> VALEA COŞUŞTEI
+        379: 112655,  # Ştefan Odobleja Sat  - Com. Livezile -> ŞTEFAN ODOBLEJA
         380: 111667,  # Valea Marcului Sat  - Com. Dumbrava -> VALEA MARCULUI
         381: 111961,  # Valea Petrii Sat  - Com. Greci -> VALEA PETRII
         382: 110811,  # Valea Teiului Sat  - Com. Brezniţa-Motru -> VALEA TEIULUI
-        384: 113830,  # Valea Ursului Sat  - Com. Tâmna -> VALEA URSULUI
         383: 113144,  # Valea Ursului Sat  - Com. Ponoarele -> VALEA URSULUI
+        384: 113830,  # Valea Ursului Sat  - Com. Tâmna -> VALEA URSULUI
         385: 111676,  # Varodia Sat  - Com. Dumbrava -> VARODIA
         386: 112897,  # Viaşu Sat  - Com. Pătulele -> VIAŞU
         387: 110447,  # Vidimireşti Sat  - Com. Bala -> VIDIMIREŞTI
@@ -8833,58 +8835,30 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         395: 114051,  # Voloicel Sat  - Com. Voloiac -> VOLOICEL
         396: 110991,  # Vrancea Sat  - Com. Burila Mare -> VRANCEA
         397: 111809,  # Vrata Sat  - Com. Vrata -> VRATA
+        398: 110241,  # Vânju Mare Orş.  -> VÂNJU MARE
         399: 113901,  # Vânjuleţ Sat  - Com. Vânjuleţ -> VÂNJULEŢ
         401: 113858,  # Vânători Sat  - Com. Vânători -> VÂNĂTORI
         403: 113386,  # Zegaia Sat  - Com. Prunişor -> ZEGAIA
         404: 111774,  # Zegujani Sat  - Com. Floreşti -> ZEGUJANI
         405: 109835,  # Şimian Sat  - Com. Şimian -> ŞIMIAN
-        408: 113199,  # Şipotu Sat  - Com. Poroina Mare -> ŞIPOTU
         407: 113135,  # Şipotu Sat  - Com. Ponoarele -> ŞIPOTU
+        408: 113199,  # Şipotu Sat  - Com. Poroina Mare -> ŞIPOTU
         409: 111854,  # Şiroca Sat  - Com. Godeanu -> ŞIROCA
         410: 113634,  # Şişeşti Sat  - Com. Şişeşti -> ŞIŞEŞTI
         412: 113705,  # Şovarna Sat  - Com. Şovarna -> ŞOVARNA
-        379: 112655,  # Ştefan Odobleja Sat  - Com. Livezile -> ŞTEFAN ODOBLEJA
         414: 113965,  # Ştircoviţa Sat  - Com. Vlădaia -> ŞTIRCOVIŢA
-        362: 112021,  # Şuşiţa Sat  - Com. Grozeşti -> ŞUŞIŢA
-        361: 110866,  # Şuşiţa Sat  - Com. Brezniţa-Ocol -> ŞUŞIŢA
         415: 110982,  # Ţigănaşi Sat  - Com. Burila Mare -> ŢIGĂNAŞI
         416: 114033,  # Ţiţirigi Sat  - Com. Voloiac -> ŢIŢIRIGI
         417: 111088,  # Ţânţaru Sat  - Com. Butoieşti -> TÂNŢARU
     },
     26: {  # MUREŞ
-        615: 114532,  # Angofa Loc.  - Mun. Sighişoara -> ANGOFA
-        617: 114541,  # Aurel Vlaicu Loc.  - Mun. Sighişoara -> AUREL VLAICU
-        55: 114943,  # Botorca Loc.  - Mun. Târnăveni -> BOTORCA
-        148: 114872,  # Căpeţi Loc.  - Orş. Sovata -> CĂPEŢI
-        156: 117854,  # Deag Loc.  - Orş. Iernut -> DEAG
-        208: 114774,  # Gheja Loc.  - Orş. Luduş -> GHEJA
-        271: 114881,  # Ilieşi Loc.  - Orş. Sovata -> ILIEŞI
-        337: 114337,  # Mureşeni Loc.  - Mun. Târgu Mureş -> MUREŞENI
-        407: 114346,  # Remetea Loc.  - Mun. Târgu Mureş -> REMETEA
-        600: 114550,  # Rora Loc.  - Mun. Sighişoara -> RORA
-        411: 114783,  # Roşiori Loc.  - Orş. Luduş -> ROŞIORI
-        474: 114890,  # Săcădat Loc.  - Orş. Sovata -> SĂCĂDAT
-        613: 114578,  # Venchi Loc.  - Mun. Sighişoara -> VENCHI
-        614: 114587,  # Viilor Loc.  - Mun. Sighişoara -> VIILOR
-        605: 114569,  # Şoromiclea Loc.  - Mun. Sighişoara -> ŞOROMICLEA
-        499: 114328,  # Târgu Mureş Mun.  -> TÂRGU MUREŞ
-        406: 114818,  # Reghin Mun.  -> REGHIN
-        430: 114523,  # Sighişoara Mun.  -> SIGHIŞOARA
-        500: 114934,  # Târnăveni Mun.  -> TÂRNĂVENI
-        268: 117836,  # Iernut Orş.  -> IERNUT
-        298: 114729,  # Luduş Orş.  -> LUDUŞ
-        320: 118290,  # Miercurea Nirajului Orş.  -> MIERCUREA NIRAJULUI
-        435: 114863,  # Sovata Orş.  -> SOVATA
-        453: 119340,  # Sângeorgiu de Pădure Orş.  -> SÂNGEORGIU DE PĂDURE
-        480: 119251,  # Sărmaşu Orş.  -> SARMAŞU
-        508: 119901,  # Ungheni Orş.  -> UNGHENI
         1: 117060,  # Abud Sat  - Com. Ghindari -> ABUD
         2: 118227,  # Abuş Sat  - Com. Mica -> ABUŞ
         3: 114989,  # Acăţari Sat  - Com. Acăţari -> ACĂŢARI
+        5: 115085,  # Adămuş Sat  - Com. Adămuş -> ADĂMUŞ
         7: 117337,  # Adrian Sat  - Com. Gurghiu -> ADRIAN
         8: 116885,  # Adrianu Mare Sat  - Com. Găleşti -> ADRIANU MARE
         9: 116894,  # Adrianu Mic Sat  - Com. Găleşti -> ADRIANU MIC
-        5: 115085,  # Adămuş Sat  - Com. Adămuş -> ADĂMUŞ
         10: 115655,  # Agrişteu Sat  - Com. Bălăuşeri -> AGRIŞTEU
         11: 114612,  # Albeşti Sat  - Com. Albeşti -> ALBEŞTI
         13: 115156,  # Aluniş Sat  - Com. Aluniş -> ALUNIŞ
@@ -8920,6 +8894,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         52: 118968,  # Borzia Sat  - Com. Răstoliţa -> BORZIA
         53: 120405,  # Botei Sat  - Com. Zau de Câmpie -> BOTEI
         54: 115254,  # Botez Sat  - Com. Aţintiş -> BOTEZ
+        55: 114943,  # Botorca Loc.  - Mun. Târnăveni -> BOTORCA
         56: 115977,  # Bozed Sat  - Com. Ceuaşu de Câmpie -> BOZED
         57: 117943,  # Bozeni Sat  - Com. Corunca -> BOZENI
         58: 115860,  # Breaza Sat  - Com. Breaza -> BREAZA
@@ -8954,7 +8929,6 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         95: 115094,  # Chinciuş Sat  - Com. Adămuş -> CHINCIUŞ
         96: 119484,  # Chirileu Sat  - Com. Sânpaul -> CHIRILEU
         97: 117694,  # Chisăliţa Sat  - Com. Iclănzel -> CHISĂLIŢA
-        627: 120539,  # Ciba Sat  - Com. Crăciuneşti -> CIBA
         98: 116830,  # Cibu Sat  - Com. Fântânele -> CIBU
         99: 116313,  # Cinta Sat  - Com. Crăciuneşti -> CINTA
         100: 119643,  # Ciobotani Sat  - Com. Stânceni -> CIOBOTANI
@@ -8969,8 +8943,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         109: 117355,  # Comori Sat  - Com. Gurghiu -> COMORI
         110: 114998,  # Corbeşti Sat  - Com. Acăţari -> CORBEŞTI
         111: 116073,  # Cordoş Sat  - Com. Cheţani -> CORDOŞ
-        113: 116322,  # Corneşti Sat  - Com. Crăciuneşti -> CORNEŞTI
         112: 115101,  # Corneşti Sat  - Com. Adămuş -> CORNEŞTI
+        113: 116322,  # Corneşti Sat  - Com. Crăciuneşti -> CORNEŞTI
         114: 116199,  # Coroi Sat  - Com. Coroisânmărtin -> COROI
         116: 116180,  # Coroisânmărtin Sat  - Com. Coroisânmărtin -> COROISÂNMĂRTIN
         117: 117952,  # Corunca Sat  - Com. Corunca -> CORUNCA
@@ -8980,8 +8954,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         123: 114364,  # Cristeşti Sat  - Com. Cristeşti -> CRISTEŞTI
         124: 116518,  # Criş Sat  - Com. Daneş -> CRIŞ
         126: 116297,  # Crăciuneşti Sat  - Com. Crăciuneşti -> CRĂCIUNEŞTI
-        129: 115110,  # Crăieşti Sat  - Com. Adămuş -> CRĂIEŞTI
         128: 116359,  # Crăieşti Sat  - Com. Crăieşti -> CRĂIEŞTI
+        129: 115110,  # Crăieşti Sat  - Com. Adămuş -> CRĂIEŞTI
         131: 116402,  # Cucerdea Sat  - Com. Cucerdea -> CUCERDEA
         133: 116448,  # Cuci Sat  - Com. Cuci -> CUCI
         134: 118726,  # Cuieşd Sat  - Com. Pănet -> CUIEŞD
@@ -8998,17 +8972,19 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         145: 116821,  # Călimăneşti Sat  - Com. Fântânele -> CĂLIMĂNEŞTI
         146: 116616,  # Călugăreni Sat  - Com. Eremitu -> CĂLUGĂRENI
         147: 116670,  # Căluşeri Sat  - Com. Ernei -> CĂLUŞERI
+        148: 114872,  # Căpeţi Loc.  - Orş. Sovata -> CĂPEŢI
         149: 117685,  # Căpuşu de Câmpie Sat  - Com. Iclănzel -> CĂPUŞU DE CÂMPIE
         150: 118236,  # Căpâlna de Sus Sat  - Com. Mica -> CĂPÂLNA DE SUS
-        152: 115343,  # Daia Sat  - Com. Bahnea -> DAIA
         151: 115209,  # Daia Sat  - Com. Apold -> DAIA
+        152: 115343,  # Daia Sat  - Com. Bahnea -> DAIA
         153: 119420,  # Dalu Sat  - Com. Sânger -> DALU
         154: 116509,  # Daneş Sat  - Com. Daneş -> DANEŞ
+        156: 117854,  # Deag Loc.  - Orş. Iernut -> DEAG
         157: 118254,  # Deaj Sat  - Com. Mica -> DEAJ
         158: 116554,  # Deda Sat  - Com. Deda -> DEDA
         160: 115548,  # Dedrad Sat  - Com. Batoş -> DEDRAD
-        162: 118860,  # Deleni Sat  - Com. Pogăceaua -> DELENI
         161: 117809,  # Deleni Sat  - Com. Ideciu de Jos -> DELENI
+        162: 118860,  # Deleni Sat  - Com. Pogăceaua -> DELENI
         163: 115593,  # Delenii Sat  - Com. Băgaciu -> DELENII
         164: 119493,  # Dileu Nou Sat  - Com. Sânpaul -> DILEU NOU
         165: 118593,  # Dileu Vechi Sat  - Com. Ogra -> DILEU VECHI
@@ -9021,8 +8997,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         172: 116689,  # Dumbrăvioara Sat  - Com. Ernei -> DUMBRĂVIOARA
         173: 115673,  # Dumitreni Sat  - Com. Bălăuşeri -> DUMITRENI
         174: 118316,  # Dumitreştii Sat  - Orş. Miercurea Nirajului -> DUMITREŞTII
-        176: 117701,  # După Deal Sat  - Com. Iclănzel -> DUPĂ DEAL
         175: 116466,  # După Deal Sat  - Com. Cuci -> DUPĂ DEAL
+        176: 117701,  # După Deal Sat  - Com. Iclănzel -> DUPĂ DEAL
         177: 119554,  # Dâmbu Sat  - Com. Sânpetru de Câmpie -> DÂMBU
         178: 115129,  # Dâmbău Sat  - Com. Adămuş -> DÂMBĂU
         179: 116634,  # Dămieni Sat  - Com. Eremitu -> DĂMIENI
@@ -9037,12 +9013,11 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         190: 115879,  # Filpişu Mare Sat  - Com. Breaza -> FILPIŞU MARE
         191: 115888,  # Filpişu Mic Sat  - Com. Breaza -> FILPIŞU MIC
         192: 115165,  # Fiţcău Sat  - Com. Aluniş -> FIŢCĂU
-        626: 120548,  # Foi Sat  - Com. Crăciuneşti -> FOI
         193: 118021,  # Frunzeni Sat  - Com. Lunca -> FRUNZENI
         194: 117364,  # Fundoaia Sat  - Com. Gurghiu -> FUNDOAIA
+        195: 115414,  # Fânaţe Sat  - Com. Band -> FÂNAŢE
         196: 116741,  # Fânaţe Sat  - Com. Fărăgău -> FÂNAŢE
         197: 119876,  # Fânaţe Sat  - Com. Tăureni -> FÂNAŢE
-        195: 115414,  # Fânaţe Sat  - Com. Band -> FÂNAŢE
         198: 117710,  # Fânaţe Icland Sat  - Com. Iclănzel -> FÂNAŢE
         199: 117729,  # Fânaţele Căpuşului Sat  - Com. Iclănzel -> FÂNAŢELE CĂPUŞULUI
         200: 115423,  # Fânaţele Mădăraşului Sat  - Com. Mădăraş -> FÂNAŢELE MĂDĂRAŞULUI
@@ -9051,6 +9026,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         203: 116803,  # Fântânele Sat  - Com. Fântânele -> FÂNTÂNELE
         205: 116732,  # Fărăgău Sat  - Com. Fărăgău -> FĂRĂGĂU
         207: 120432,  # Gaura Sângerului Sat  - Com. Zau de Câmpie -> GAURA SÂNGERULUI
+        208: 114774,  # Gheja Loc.  - Orş. Luduş -> GHEJA
         209: 116992,  # Gheorghe Doja Sat  - Com. Gheorghe Doja -> GHEORGHE DOJA
         211: 117738,  # Ghidaşteu Sat  - Com. Iclănzel -> GHIDAŞTEU
         212: 117051,  # Ghindari Sat  - Com. Ghindari -> GHINDARI
@@ -9079,7 +9055,6 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         242: 119055,  # Hagău Sat  - Com. Râciu -> HAGĂU
         243: 115138,  # Herepea Sat  - Com. Adămuş -> HEREPEA
         244: 116000,  # Herghelia Sat  - Com. Ceuaşu de Câmpie -> HERGHELIA
-        593: 114596,  # Hetiur Sat  - Mun. Sighişoara -> HETIUR
         246: 117435,  # Hodac Sat  - Com. Hodac -> HODAC
         247: 116750,  # Hodaia Sat  - Com. Fărăgău -> HODAIA
         249: 117514,  # Hodoşa Sat  - Com. Hodoşa -> HODOŞA
@@ -9098,8 +9073,10 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         265: 115922,  # Idicel-Pădure Sat  - Com. Brâncoveneşti -> IDICEL-PĂDURE
         266: 115361,  # Idiciu Sat  - Com. Bahnea -> IDICIU
         267: 119689,  # Idrifaia Sat  - Com. Suplac -> IDRIFAIA
+        268: 117836,  # Iernut Orş.  -> IERNUT
         269: 117523,  # Ihod Sat  - Com. Hodoşa -> IHOD
         270: 117006,  # Ilieni Sat  - Com. Gheorghe Doja -> ILIENI
+        271: 114881,  # Ilieşi Loc.  - Orş. Sovata -> ILIEŞI
         272: 117202,  # Ilioara Sat  - Com. Gorneşti -> ILIOARA
         273: 118986,  # Iod Sat  - Com. Răstoliţa -> IOD
         274: 117532,  # Isla Sat  - Com. Hodoşa -> ISLA
@@ -9125,6 +9102,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         294: 117934,  # Livezeni Sat  - Com. Livezeni -> LIVEZENI
         296: 118030,  # Logig Sat  - Com. Lunca -> LOGIG
         297: 119377,  # Loţu Sat  - Orş. Sângeorgiu de Pădure -> LOŢU
+        298: 114729,  # Luduş Orş.  -> LUDUŞ
         299: 119741,  # Luieriu Sat  - Com. Suseni -> LUIERIU
         300: 118003,  # Lunca Sat  - Com. Lunca -> LUNCA
         302: 118067,  # Lunca Bradului Sat  - Com. Lunca Bradului -> LUNCA BRADULUI
@@ -9143,6 +9121,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         316: 119652,  # Meştera Sat  - Com. Stânceni -> MEŞTERA
         317: 118218,  # Mica Sat  - Com. Mica -> MICA
         319: 118290,  # Miercurea Nirajului Sat  - Orş. Miercurea Nirajului -> MIERCUREA NIRAJULUI
+        320: 118290,  # Miercurea Nirajului Orş.  -> MIERCUREA NIRAJULUI
         321: 119233,  # Mihai Viteazu Sat  - Com. Saschiz -> MIHAI VITEAZU
         322: 118389,  # Miheşu de Câmpie Sat  - Com. Miheşu de Câmpie -> MIHEŞU DE CÂMPIE
         324: 116377,  # Milaşel Sat  - Com. Crăieşti -> MILĂŞEL
@@ -9158,6 +9137,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         334: 117211,  # Mura Mare Sat  - Com. Gorneşti -> MURA MARE
         335: 117220,  # Mura Mică Sat  - Com. Gorneşti -> MURA MICĂ
         336: 120290,  # Mureni Sat  - Com. Vânători -> MURENI
+        337: 114337,  # Mureşeni Loc.  - Mun. Târgu Mureş -> MUREŞENI
         338: 115021,  # Murgeşti Sat  - Com. Acăţari -> MURGEŞTI
         339: 119787,  # Măcicăşeşti Sat  - Com. Şăulia -> MĂCICĂŞEŞTI
         340: 115441,  # Mădăraş Sat  - Com. Mădăraş -> MĂDĂRAŞ
@@ -9174,7 +9154,6 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         353: 118076,  # Neagra Sat  - Com. Lunca Bradului -> NEAGRA
         354: 118520,  # Neaua Sat  - Com. Neaua -> NEAUA
         356: 115469,  # Negrenii de Câmpie Sat  - Com. Band -> NEGRENII DE CÂMPIE
-        625: 120557,  # Nicoleşti Sat  - Com. Crăciuneşti -> NICOLEŞTI
         357: 116386,  # Nima Milaşelului Sat  - Com. Crăieşti -> NIMA MILĂŞELULUI
         358: 119073,  # Nima Râciului Sat  - Com. Râciu -> NIMA RÂCIULUI
         359: 117872,  # Oarba de Mureş Sat  - Orş. Iernut -> OARBA DE MUREŞ
@@ -9218,9 +9197,12 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         403: 117890,  # Racameţ Sat  - Orş. Iernut -> RACAMEŢ
         404: 115842,  # Ranta Sat  - Com. Bogata -> RANTA
         405: 119947,  # Recea Sat  - Orş. Ungheni -> RECEA
+        406: 114818,  # Reghin Mun.  -> REGHIN
+        407: 114346,  # Remetea Loc.  - Mun. Târgu Mureş -> REMETEA
         408: 118548,  # Rigmani Sat  - Com. Neaua -> RIGMANI
         409: 115030,  # Roteni Sat  - Com. Acăţari -> ROTENI
         410: 116849,  # Roua Sat  - Com. Fântânele -> ROUA
+        411: 114783,  # Roşiori Loc.  - Orş. Luduş -> ROŞIORI
         412: 119162,  # Ruşii-Munţi Sat  - Com. Ruşii-Munţi -> RUŞII-MUNŢI
         414: 119000,  # Râciu Sat  - Com. Râciu -> RÂCIU
         416: 120165,  # Râpa de Jos Sat  - Com. Vătava -> RÂPA DE JOS
@@ -9234,11 +9216,12 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         426: 116527,  # Seleuş Sat  - Com. Daneş -> SELEUŞ
         427: 120361,  # Seleuş Sat  - Com. Zagăr -> SELEUŞ
         428: 115691,  # Senereuş Sat  - Com. Bălăuşeri -> SENEREUŞ
-        624: 120566,  # Seuca Sat  - Com. Găneşti -> SEUCA
         429: 117916,  # Sfântu Gheorghe Sat  - Orş. Iernut -> SFÂNTU GHEORGHE
+        430: 114523,  # Sighişoara Mun.  -> SIGHIŞOARA
         431: 116251,  # Socolu de Câmpie Sat  - Com. Cozma -> SOCOLU DE CÂMPIE
         432: 117097,  # Solocma Sat  - Com. Ghindari -> SOLOCMA
         433: 119607,  # Solovăstru Sat  - Com. Solovăstru -> SOLOVĂSTRU
+        435: 114863,  # Sovata Orş.  -> SOVATA
         436: 115049,  # Stejeriş Sat  - Com. Acăţari -> STEJERIŞ
         437: 116536,  # Stejărenii Sat  - Com. Daneş -> STEJĂRENII
         438: 119634,  # Stânceni Sat  - Com. Stânceni -> STÂNCENI
@@ -9251,6 +9234,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         449: 119572,  # Sângeorgiu de Câmpie Sat  - Com. Sânpetru de Câmpie -> SÂNGEORGIU DE CÂMPIE
         450: 114426,  # Sângeorgiu de Mureş Sat  - Com. Sângeorgiu de Mureş -> SÂNGEORGIU DE MUREŞ
         452: 119340,  # Sângeorgiu de Pădure Sat  - Orş. Sângeorgiu de Pădure -> SÂNGEORGIU DE PĂDURE
+        453: 119340,  # Sângeorgiu de Pădure Orş.  -> SÂNGEORGIU DE PĂDURE
         454: 119395,  # Sânger Sat  - Com. Sânger -> SÂNGER
         456: 116714,  # Sângeru de Pădure Sat  - Com. Ernei -> SÂNGERU DE PĂDURE
         457: 115290,  # Sâniacob Sat  - Com. Aţintiş -> SÂNIACOB
@@ -9265,14 +9249,15 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         469: 120245,  # Sântioana Sat  - Com. Viişoara -> SÂNTIOANA
         470: 118744,  # Sântioana de Mureş Sat  - Com. Pănet -> SÂNTIOANA DE MUREŞ
         471: 118049,  # Sântu Sat  - Com. Lunca -> SÂNTU
-        620: 120520,  # Sânvăsii Sat  - Com. Găleşti -> SÂNVĂSII
         472: 116028,  # Săbed Sat  - Com. Ceuaşu de Câmpie -> SĂBED
         473: 115931,  # Săcalu de Pădure Sat  - Com. Brâncoveneşti -> SĂCALU DE PĂDURE
+        474: 114890,  # Săcădat Loc.  - Orş. Sovata -> SĂCĂDAT
         475: 116705,  # Săcăreni Sat  - Com. Ernei -> SĂCĂRENI
         476: 118085,  # Sălard Sat  - Com. Lunca Bradului -> SĂLARD
         477: 120209,  # Sălaşuri Sat  - Com. Veţca -> SĂLAŞURI
         478: 117907,  # Sălcud Sat  - Orş. Iernut -> SĂLCUD
         479: 119251,  # Sărmaşu Sat  - Orş. Sărmaşu -> SARMAŞU
+        480: 119251,  # Sărmaşu Orş.  -> SARMAŞU
         481: 119297,  # Sărmăşel Sat  - Orş. Sărmaşu -> SĂRMĂŞEL
         482: 119304,  # Sărmăşel-Gară Sat  - Orş. Sărmaşu -> SĂRMĂŞEL-GARĂ
         483: 114907,  # Sărăţeni Sat  - Com. Sărăţeni -> SĂRĂŢENI
@@ -9291,19 +9276,21 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         496: 116929,  # Troiţa Sat  - Com. Găleşti -> TROIŢA
         497: 119581,  # Tuşinu Sat  - Com. Sânpetru de Câmpie -> TUŞINU
         498: 118352,  # Tâmpa Sat  - Orş. Miercurea Nirajului -> TÂMPA
+        499: 114328,  # Târgu Mureş Mun.  -> TÂRGU MUREŞ
+        500: 114934,  # Târnăveni Mun.  -> TÂRNĂVENI
         501: 117765,  # Tăblăşeni Sat  - Com. Iclănzel -> TĂBLĂŞENI
         502: 120469,  # Tău Sat  - Com. Zau de Câmpie -> TĂU
         503: 119867,  # Tăureni Sat  - Com. Tăureni -> TĂURENI
         505: 115566,  # Uila Sat  - Com. Batoş -> UILA
         506: 119117,  # Ulieş Sat  - Com. Râciu -> ULIEŞ
         507: 119901,  # Ungheni Sat  - Orş. Ungheni -> UNGHENI
+        508: 119901,  # Ungheni Orş.  -> UNGHENI
         509: 117499,  # Uricea Sat  - Com. Hodac -> URICEA
         510: 116153,  # Urisiu de Jos Sat  - Com. Chiheru de Jos -> URISIU DE JOS
         511: 116162,  # Urisiu de Sus Sat  - Com. Chiheru de Jos -> URISIU DE SUS
         512: 118682,  # Ursoaia Sat  - Com. Papiu Ilarian -> URSOAIA
         513: 120110,  # Vadu Sat  - Com. Vărgata -> VADU
         514: 119714,  # Vaidacuta Sat  - Com. Suplac -> VAIDACUŢA
-        549: 118628,  # Vaideiu Sat  - Com. Ogra -> VAIDEIU
         515: 120129,  # Valea Sat  - Com. Vărgata -> VALEA
         516: 120021,  # Valea Frăţiei Sat  - Com. Valea Largă -> VALEA FRĂŢIEI
         517: 120030,  # Valea Glodului Sat  - Com. Valea Largă -> VALEA GLODULUI
@@ -9333,6 +9320,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         545: 115227,  # Vulcan Sat  - Com. Apold -> VULCAN
         546: 120263,  # Vânători Sat  - Com. Vânători -> VÂNĂTORI
         548: 118566,  # Vădaş Sat  - Com. Neaua -> VĂDAŞ
+        549: 118628,  # Vaideiu Sat  - Com. Ogra -> VAIDEIU
         550: 118922,  # Văleni Sat  - Com. Pogăceaua -> VĂLENI
         551: 115067,  # Vălenii Sat  - Com. Acăţari -> VĂLENII
         552: 115940,  # Vălenii de Mureş Sat  - Com. Brâncoveneşti -> VĂLENII DE MUREŞ
@@ -9365,14 +9353,20 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         585: 118502,  # Ţigmandru Sat  - Com. Nadeş -> ŢIGMANDRU
         586: 115496,  # Ţiptelnic Sat  - Com. Band -> ŢIPTELNIC
         587: 114667,  # Ţopa Sat  - Com. Albeşti -> ŢOPA
+        593: 114596,  # Hetiur Sat  - Mun. Sighişoara -> HETIUR
+        600: 114550,  # Rora Loc.  - Mun. Sighişoara -> RORA
+        605: 114569,  # Şoromiclea Loc.  - Mun. Sighişoara -> ŞOROMICLEA
+        613: 114578,  # Venchi Loc.  - Mun. Sighişoara -> VENCHI
+        614: 114587,  # Viilor Loc.  - Mun. Sighişoara -> VIILOR
+        615: 114532,  # Angofa Loc.  - Mun. Sighişoara -> ANGOFA
+        617: 114541,  # Aurel Vlaicu Loc.  - Mun. Sighişoara -> AUREL VLAICU
+        620: 120520,  # Sânvăsii Sat  - Com. Găleşti -> SÂNVĂSII
+        624: 120566,  # Seuca Sat  - Com. Găneşti -> SEUCA
+        625: 120557,  # Nicoleşti Sat  - Com. Crăciuneşti -> NICOLEŞTI
+        626: 120548,  # Foi Sat  - Com. Crăciuneşti -> FOI
+        627: 120539,  # Ciba Sat  - Com. Crăciuneşti -> CIBA
     },
     27: {  # NEAMŢ
-        25: 121073,  # Blebea Loc.  - Orş. Târgu Neamţ -> BLEBEA
-        245: 120735,  # Piatra Neamţ Mun.  -> PIATRA-NEAMŢ
-        296: 120879,  # Roman Mun.  -> ROMAN
-        17: 120977,  # Bicaz Orş.  -> BICAZ
-        300: 124126,  # Roznov Orş.  -> ROZNOV
-        377: 121064,  # Târgu Neamţ Orş.  -> TÂRGU NEAMŢ
         1: 124652,  # Adjudeni Sat  - Com. Tămăşeni -> ADJUDENI
         2: 121117,  # Agapia Sat  - Com. Agapia -> AGAPIA
         4: 124956,  # Agârcia Sat  - Com. Alexandru cel Bun -> AGÂRCIA
@@ -9387,11 +9381,13 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         14: 121812,  # Barticeşti Sat  - Com. Boteşti -> BARTICEŞTI
         15: 124251,  # Başta Sat  - Com. Secuieni -> BAŞTA
         16: 124046,  # Beţeşti Sat  - Com. Rediu -> BEŢEŞTI
+        17: 120977,  # Bicaz Orş.  -> BICAZ
         19: 121304,  # Bicaz-Chei Sat  - Com. Bicaz-Chei -> BICAZ-CHEI
         21: 121359,  # Bicazu Ardelean Sat  - Com. Bicazu Ardelean -> BICAZU ARDELEAN
         22: 124965,  # Bisericani Sat  - Com. Alexandru cel Bun -> BISERICANI
         23: 122043,  # Bistricioara Sat  - Com. Ceahlău -> BISTRICIOARA
         24: 124974,  # Bistriţa Sat  - Com. Alexandru cel Bun -> BISTRIŢA
+        25: 121073,  # Blebea Loc.  - Orş. Târgu Neamţ -> BLEBEA
         26: 123549,  # Boboieşti Sat  - Com. Pipirig -> BOBOIEŞTI
         28: 121616,  # Bodeşti Sat  - Com. Bodeşti -> BODEŞTI
         29: 121625,  # Bodeştii de Jos Sat  - Com. Bodeşti -> BODEŞTII DE JOS
@@ -9451,8 +9447,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         93: 121634,  # Corni Sat  - Com. Bodeşti -> CORNI
         95: 122141,  # Costişa Sat  - Com. Costişa -> COSTIŞA
         96: 120940,  # Cotu Vameş Sat  - Com. Horia -> COTU VAMEŞ
-        99: 122203,  # Cracăul Negru Sat  - Com. Crăcăoani -> CRACĂUL NEGRU
         98: 122196,  # Crăcăoani Sat  - Com. Crăcăoani -> CRĂCĂOANI
+        99: 122203,  # Cracăul Negru Sat  - Com. Crăcăoani -> CRACĂUL NEGRU
         100: 121901,  # Crăieşti Sat  - Com. Bozieni -> CRĂIEŞTI
         101: 121910,  # Cuci Sat  - Com. Bozieni -> CUCI
         102: 122855,  # Cuejdiu Sat  - Com. Gârcina -> CUEJDIU
@@ -9536,9 +9532,9 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         198: 121215,  # Liliac Sat  - Com. Bahna -> LILIAC
         199: 123291,  # Linşeşti Sat  - Com. Oniceni -> LINSEŞTI
         200: 123497,  # Luminiş Sat  - Com. Piatra Şoimului -> LUMINIŞ
-        203: 123308,  # Lunca Sat  - Com. Oniceni -> LUNCA
-        202: 125034,  # Lunca Sat  - Com. Vânători-Neamţ -> LUNCA
         201: 121670,  # Lunca Sat  - Com. Borca -> LUNCA
+        202: 125034,  # Lunca Sat  - Com. Vânători-Neamţ -> LUNCA
+        203: 123308,  # Lunca Sat  - Com. Oniceni -> LUNCA
         204: 123399,  # Lunca Moldovei Sat  - Com. Păstrăveni -> LUNCA MOLDOVEI
         205: 124180,  # Luţca Sat  - Com. Sagna -> LUŢCA
         206: 122212,  # Magazia Sat  - Com. Crăcăoani -> MAGAZIA
@@ -9560,8 +9556,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         224: 123317,  # Mărmureni Sat  - Com. Oniceni -> MĂRMURENI
         225: 124590,  # Neagra Sat  - Com. Taşca -> NEAGRA
         226: 121750,  # Nechit Sat  - Com. Borleşti -> NECHIT
-        228: 122310,  # Negreşti Sat  - Com. Negreşti -> NEGREŞTI
         227: 121420,  # Negreşti Sat  - Com. Bâra -> NEGREŞTI
+        228: 122310,  # Negreşti Sat  - Com. Negreşti -> NEGREŞTI
         229: 123692,  # Negriteşti Sat  - Com. Podoleni -> NEGRITEŞTI
         230: 123503,  # Neguleşti Sat  - Com. Piatra Şoimului -> NEGULEŞTI
         231: 125052,  # Nemţişor Sat  - Com. Vânători-Neamţ -> NEMŢIŞOR
@@ -9576,6 +9572,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         241: 123754,  # Patricheni Sat  - Com. Pânceşti -> PATRICHENI
         243: 123433,  # Petricani Sat  - Com. Petricani -> PETRICANI
         244: 123843,  # Petru Vodă Sat  - Com. Poiana Teiului -> PETRU VODĂ
+        245: 120735,  # Piatra Neamţ Mun.  -> PIATRA-NEAMŢ
         246: 123488,  # Piatra Şoimului Sat  - Com. Piatra Şoimului -> PIATRA ŞOIMULUI
         248: 123326,  # Pietrosu Sat  - Com. Oniceni -> PIETROSU
         249: 120904,  # Pildeşti Sat  - Com. Cordun -> PILDEŞTI
@@ -9585,11 +9582,11 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         254: 123585,  # Pluton Sat  - Com. Pipirig -> PLUTON
         255: 124698,  # Plăieşu Sat  - Com. Timişeşti -> PLĂIEŞU
         257: 123683,  # Podoleni Sat  - Com. Podoleni -> PODOLENI
-        262: 122329,  # Poiana Sat  - Com. Negreşti -> POIANA
-        259: 122891,  # Poiana Sat  - Com. Grinţieş -> POIANA
-        261: 122524,  # Poiana Sat  - Com. Dulceşti -> POIANA
-        260: 123647,  # Poiana Sat  - Com. Pângăraţi -> POIANA
         258: 121983,  # Poiana Sat  - Com. Brusturi -> POIANA
+        259: 122891,  # Poiana Sat  - Com. Grinţieş -> POIANA
+        260: 123647,  # Poiana Sat  - Com. Pângăraţi -> POIANA
+        261: 122524,  # Poiana Sat  - Com. Dulceşti -> POIANA
+        262: 122329,  # Poiana Sat  - Com. Negreşti -> POIANA
         263: 122230,  # Poiana Crăcăoani Sat  - Com. Crăcăoani -> POIANA CRĂCĂOANI
         264: 123335,  # Poiana Humei Sat  - Com. Oniceni -> POIANA HUMEI
         265: 123861,  # Poiana Largului Sat  - Com. Poiana Teiului -> POIANA LARGULUI
@@ -9615,18 +9612,20 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         288: 122105,  # Pădureni Sat  - Com. Cândeşti -> PĂDURENI
         290: 123380,  # Păstrăveni Sat  - Com. Păstrăveni -> PĂSTRĂVENI
         291: 123157,  # Recea Sat  - Com. Ion Creangă -> RECEA
-        294: 124037,  # Rediu Sat  - Com. Rediu -> REDIU
         293: 121448,  # Rediu Sat  - Com. Bâra -> REDIU
+        294: 124037,  # Rediu Sat  - Com. Rediu -> REDIU
         295: 123077,  # Rocna Sat  - Com. Icuşeşti -> ROCNA
+        296: 120879,  # Roman Mun.  -> ROMAN
         298: 124082,  # Români Sat  - Com. Români -> ROMÂNI
         299: 122383,  # Rotunda Sat  - Com. Doljeşti -> ROTUNDA
+        300: 124126,  # Roznov Orş.  -> ROZNOV
         301: 124126,  # Roznov Sat  - Orş. Roznov -> ROZNOV
         302: 123870,  # Roşeni Sat  - Com. Poiana Teiului -> ROŞENI
         303: 122533,  # Roşiori Sat  - Com. Dulceşti -> ROŞIORI
         304: 123004,  # Rugineşti Sat  - Com. Hangu -> RUGINEŞTI
         305: 122542,  # Ruginoasa Sat  - Com. Ruginoasa -> RUGINOASA
-        307: 123889,  # Ruseni Sat  - Com. Poiana Teiului -> RUSENI
         306: 121778,  # Ruseni Sat  - Com. Borleşti -> RUSENI
+        307: 123889,  # Ruseni Sat  - Com. Poiana Teiului -> RUSENI
         308: 121992,  # Râşca Sat  - Com. Drăgăneşti -> RÂŞCA
         309: 123406,  # Rădeni Sat  - Com. Păstrăveni -> RĂDENI
         311: 123923,  # Răuceşti Sat  - Com. Răuceşti -> RĂUCEŞTI
@@ -9641,17 +9640,17 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         323: 124313,  # Secuienii Noi Sat  - Com. Secuieni -> SECUIENII NOI
         324: 124108,  # Siliştea Sat  - Com. Români -> SILIŞTEA
         325: 120913,  # Simioneşti Sat  - Com. Cordun -> SIMIONEŞTI
-        327: 124144,  # Slobozia Sat  - Orş. Roznov -> SLOBOZIA
         326: 121457,  # Slobozia Sat  - Com. Boghicea -> SLOBOZIA
+        327: 124144,  # Slobozia Sat  - Orş. Roznov -> SLOBOZIA
         328: 124064,  # Socea Sat  - Com. Rediu -> SOCEA
-        330: 124484,  # Soci Sat  - Com. Ştefan cel Mare -> SOCI
         329: 121723,  # Soci Sat  - Com. Borca -> SOCI
+        330: 124484,  # Soci Sat  - Com. Ştefan cel Mare -> SOCI
         331: 123353,  # Solca Sat  - Com. Oniceni -> SOLCA
         332: 123415,  # Spieşti Sat  - Com. Păstrăveni -> SPIEŞTI
         333: 123086,  # Spiridoneşti Sat  - Com. Icuşeşti -> SPIRIDONEŞTI
         334: 122604,  # Stejaru Sat  - Com. Farcaşa -> STEJARU
-        336: 123665,  # Stejaru Sat  - Com. Pângăraţi -> STEJARU
         335: 123166,  # Stejaru Sat  - Com. Ion Creangă -> STEJARU
+        336: 123665,  # Stejaru Sat  - Com. Pângăraţi -> STEJARU
         337: 124554,  # Straja Sat  - Com. Tarcău -> STRAJA
         338: 123594,  # Stânca Sat  - Com. Pipirig -> STÂNCA
         340: 124340,  # Stăniţa Sat  - Com. Stăniţa -> STĂNIŢA
@@ -9660,8 +9659,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         344: 121135,  # Săcăluşeşti Sat  - Com. Agapia -> SĂCĂLUŞEŞTI
         345: 122338,  # Sărata Sat  - Com. Dobreni -> SĂRATA
         346: 123941,  # Săveşti Sat  - Com. Răuceşti -> SĂVEŞTI
-        349: 120833,  # Săvineşti Sat  - Com. Săvineşti -> SĂVINEŞTI
         348: 123898,  # Săvineşti Sat  - Com. Poiana Teiului -> SĂVINEŞTI
+        349: 120833,  # Săvineşti Sat  - Com. Săvineşti -> SĂVINEŞTI
         350: 123095,  # Tabăra Sat  - Com. Icuşeşti -> TABĂRA
         351: 121581,  # Talpa Sat  - Com. Bârgăuani -> TALPA
         353: 124509,  # Tarcău Sat  - Com. Tarcău -> TARCĂU
@@ -9673,6 +9672,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         361: 124607,  # Ticos-Floarea Sat  - Com. Taşca -> TICOŞ-FLOAREA
         363: 124670,  # Timişeşti Sat  - Com. Timişeşti -> TIMIŞEŞTI
         364: 124386,  # Todireni Sat  - Com. Stăniţa -> TODIRENI
+        365: 123460,  # Ţolici Sat  - Com. Petricani -> ŢOLICI
         366: 123905,  # Topoliceni Sat  - Com. Poiana Teiului -> TOPOLICENI
         367: 122944,  # Topoliţa Sat  - Com. Grumăzeşti -> TOPOLIŢA
         368: 124796,  # Totoieşti Sat  - Com. Tupilaţi -> TOTOIEŞTI
@@ -9682,6 +9682,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         372: 124732,  # Trifeşti Sat  - Com. Trifeşti -> TRIFEŞTI
         374: 124769,  # Tupilaţi Sat  - Com. Tupilaţi -> TUPILAŢI
         376: 122800,  # Turtureşti Sat  - Com. Girov -> TURTUREŞTI
+        377: 121064,  # Târgu Neamţ Orş.  -> TÂRGU NEAMŢ
         378: 123451,  # Târpeşti Sat  - Com. Petricani -> TÂRPEŞTI
         379: 122016,  # Târzia Sat  - Com. Brusturi -> TÂRZIA
         380: 123781,  # Tălpălăi Sat  - Com. Pânceşti -> TĂLPĂLĂI
@@ -9705,8 +9706,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         402: 124402,  # Vlădnicele Sat  - Com. Stăniţa -> VLĂDNICELE
         403: 124199,  # Vulpăşeşti Sat  - Com. Sagna -> VULPĂŞEŞTI
         404: 125025,  # Vânători-Neamţ Sat  - Com. Vânători-Neamţ -> VÂNĂTORI-NEAMŢ
-        407: 125007,  # Vădurele Sat  - Com. Alexandru cel Bun -> VĂDURELE
         406: 122123,  # Vădurele Sat  - Com. Cândeşti -> VĂDURELE
+        407: 125007,  # Vădurele Sat  - Com. Alexandru cel Bun -> VĂDURELE
         408: 121867,  # Văleni Sat  - Com. Văleni -> VĂLENI
         409: 121144,  # Văratec Sat  - Com. Agapia -> VARATEC
         410: 124714,  # Zvorăneşti Sat  - Com. Timişeşti -> ZVORĂNEŞTI
@@ -9716,24 +9717,11 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         416: 124420,  # Ştefan cel Mare Sat  - Com. Ştefan cel Mare -> ŞTEFAN CEL MARE
         417: 124812,  # Ţibucani Sat  - Com. Ţibucani -> ŢIBUCANI
         419: 124830,  # Ţibucanii de Jos Sat  - Com. Ţibucani -> ŢIBUCANII DE JOS
-        365: 123460,  # Ţolici Sat  - Com. Petricani -> ŢOLICI
         420: 121224,  # Ţuţcanii din Deal Sat  - Com. Bahna -> ŢUŢCANII DIN DEAL
         421: 121233,  # Ţuţcanii din Vale Sat  - Com. Bahna -> ŢUŢCANII DIN VALE
         422: 122114,  # Ţârdenii Mici Sat  - Com. Cândeşti -> ŢÂRDENII MICI
     },
     28: {  # OLT
-        86: 125365,  # Cireasov Loc.  - Mun. Slatina -> CIREAŞOV
-        98: 125436,  # Corbeni Loc.  - Orş. Balş -> CORBENI
-        340: 125445,  # Română Loc.  - Orş. Balş -> ROMÂNA
-        418: 125560,  # Tudor Vladimirescu Loc.  - Orş. Corabia -> TUDOR VLADIMIRESCU
-        369: 125356,  # Slatina Mun.  -> SLATINA
-        65: 125481,  # Caracal Mun.  -> CARACAL
-        11: 125427,  # Balş Orş.  -> BALŞ
-        97: 125551,  # Corabia Orş.  -> CORABIA
-        153: 125631,  # Drăgăneşti-Olt Orş.  -> DRĂGĂNEŞTI-OLT
-        299: 128114,  # Piatra-Olt Orş.  -> PIATRA-OLT
-        316: 128383,  # Potcoava Orş.  -> POTCOAVA
-        361: 128720,  # Scorniceşti Orş.  -> SCORNICEŞTI
         1: 127439,  # Afumaţi Sat  - Com. Leleasca -> AFUMAŢI
         2: 128329,  # Albeşti Sat  - Com. Poboru -> ALBEŞTI
         3: 127402,  # Alimăneşti Sat  - Com. Izvoarele -> ALIMĂNEŞTI
@@ -9743,6 +9731,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         7: 129200,  # Arvăteasca Sat  - Com. Grădinile -> ARVĂTEASCA
         8: 127705,  # Bacea Sat  - Com. Movileni -> BACEA
         9: 125695,  # Baldovineşti Sat  - Com. Baldovineşti -> BALDOVINEŞTI
+        11: 125427,  # Balş Orş.  -> BALŞ
         12: 129601,  # Barza Sat  - Com. Tufeni -> BARZA
         13: 126790,  # Batia Sat  - Com. Dobroteasa -> BATIA
         14: 125891,  # Bechet Sat  - Com. Bobiceşti -> BECHET
@@ -9752,6 +9741,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         18: 127885,  # Beria de Sus Sat  - Com. Oporelu -> BERIA DE SUS
         19: 126601,  # Berindei Sat  - Com. Dăneasa -> BERINDEI
         20: 128748,  # Bircii Sat  - Orş. Scorniceşti -> BIRCII
+        21: 129068,  # Bârseştii de Sus Sat  - Com. Sprâncenata -> BÂRSEŞTII DE SUS
         22: 128123,  # Bistriţa Nouă Sat  - Orş. Piatra-Olt -> BISTRIŢA NOUĂ
         23: 130080,  # Blaj Sat  - Com. Voineasa -> BLAJ
         24: 125882,  # Bobiceşti Sat  - Com. Bobiceşti -> BOBICEŞTI
@@ -9774,7 +9764,6 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         46: 127554,  # Buşca Sat  - Com. Mihăeşti -> BUŞCA
         47: 126923,  # Bâgeşti Sat  - Com. Făgeţelu -> BÂGEŞTI
         48: 129674,  # Bârca Sat  - Com. Valea Mare -> BÂRCA
-        21: 129068,  # Bârseştii de Sus Sat  - Com. Sprâncenata -> BÂRSEŞTII DE SUS
         49: 125855,  # Bârza Sat  - Com. Bârza -> BÂRZA
         51: 125668,  # Băbiciu Sat  - Com. Băbiciu -> BĂBICIU
         53: 125686,  # Băleasa Sat  - Com. Găvăneşti -> BĂLEASA
@@ -9788,6 +9777,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         62: 125775,  # Bărăştii de Cepturi Sat  - Com. Bărăşti -> BĂRĂŞTII DE CEPTURI
         63: 125766,  # Bărăştii de Vede Sat  - Com. Bărăşti -> BĂRĂŞTII DE VEDE
         64: 126255,  # Bătăreni Sat  - Com. Coloneşti -> BĂTĂRENI
+        65: 125481,  # Caracal Mun.  -> CARACAL
         66: 128677,  # Catanele Sat  - Com. Schitu -> CATANELE
         67: 126193,  # Cepari Sat  - Com. Cârlogani -> CEPARI
         68: 126521,  # Cepeşti Sat  - Com. Cungrea -> CEPEŞTI
@@ -9806,15 +9796,18 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         83: 126996,  # Cioroiaşu Sat  - Com. Fălcoiu -> CIOROIAŞU
         84: 127000,  # Cioroiu Sat  - Com. Fălcoiu -> CIOROIU
         85: 129521,  # Ciorâca Sat  - Com. Topana -> CIORÂCA
+        86: 125365,  # Cireasov Loc.  - Mun. Slatina -> CIREAŞOV
         87: 126362,  # Ciureşti Sat  - Com. Corbu -> CIUREŞTI
         88: 128267,  # Cocorăşti Sat  - Com. Pleşoiu -> COCORĂŞTI
         89: 129157,  # Colibaşi Sat  - Com. Strejeşti -> COLIBAŞI
         91: 126237,  # Coloneşti Sat  - Com. Coloneşti -> COLONEŞTI
         92: 126665,  # Comanca Sat  - Com. Deveselu -> COMANCA
         93: 125640,  # Comani Sat  - Orş. Drăgăneşti-Olt -> COMANI
-        95: 125926,  # Comăneşti Sat  - Com. Bobiceşti -> COMĂNEŞTI
         94: 129424,  # Comăniţa Sat  - Com. Teslui -> COMĂNIŢA
+        95: 125926,  # Comăneşti Sat  - Com. Bobiceşti -> COMĂNEŞTI
         96: 128766,  # Constantineşti Sat  - Orş. Scorniceşti -> CONSTANTINEŞTI
+        97: 125551,  # Corabia Orş.  -> CORABIA
+        98: 125436,  # Corbeni Loc.  - Orş. Balş -> CORBENI
         100: 126335,  # Corbu Sat  - Com. Corbu -> CORBU
         101: 129433,  # Corbu Sat  - Com. Teslui -> CORBU
         102: 126139,  # Corlăteşti Sat  - Com. Cezieni -> CORLĂTEŞTI
@@ -9857,6 +9850,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         149: 129950,  # Doneşti Sat  - Com. Vitomireşti -> DONEŞTI
         150: 127082,  # Dranovăţu Sat  - Com. Găneasa -> DRANOVĂŢU
         152: 125506,  # Drăghiceni Sat  - Com. Drăghiceni -> DRĂGHICENI
+        153: 125631,  # Drăgăneşti-Olt Orş.  -> DRĂGĂNEŞTI-OLT
         154: 129852,  # Dumitreşti Sat  - Com. Verguleasa -> DUMITREŞTI
         155: 125711,  # Dâmburile Sat  - Com. Găvăneşti -> DÂMBURILE
         157: 126594,  # Dăneasa Sat  - Com. Dăneasa -> DĂNEASA
@@ -9867,8 +9861,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         162: 126736,  # Frăsinetu Sat  - Com. Dobrosloveni -> FRĂSINETU
         164: 126914,  # Făgeţelu Sat  - Com. Făgeţelu -> FĂGEŢELU
         166: 126987,  # Fălcoiu Sat  - Com. Fălcoiu -> FĂLCOIU
-        169: 127028,  # Fărcaşele Sat  - Com. Fărcaşele -> FĂRCAŞELE
         167: 127037,  # Fărcaşu de Jos Sat  - Com. Fărcaşele -> FĂRCAŞU DE JOS
+        169: 127028,  # Fărcaşele Sat  - Com. Fărcaşele -> FĂRCAŞELE
         170: 127046,  # Ghimpaţi Sat  - Com. Fărcaşele -> GHIMPAŢI
         171: 127732,  # Ghimpeţeni Sat  - Com. Ghimpeţeni -> GHIMPEŢENI
         172: 127741,  # Ghimpeţenii Noi Sat  - Com. Ghimpeţeni -> GHIMPEŢENII NOI
@@ -9973,6 +9967,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         296: 126629,  # Pestra Sat  - Com. Dăneasa -> PESTRA
         297: 127199,  # Petculeşti Sat  - Com. Grădinari -> PETCULEŞTI
         298: 128169,  # Piatra Sat  - Orş. Piatra-Olt -> PIATRA
+        299: 128114,  # Piatra-Olt Orş.  -> PIATRA-OLT
         300: 126969,  # Pielcani Sat  - Com. Făgeţelu -> PIELCANI
         301: 125748,  # Pietriş Sat  - Com. Baldovineşti -> PIETRIŞ
         302: 126479,  # Pietrişu Sat  - Com. Curtişoara -> PIETRIŞU
@@ -9987,6 +9982,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         313: 127670,  # Poiana Mare Sat  - Com. Morunglav -> POIANA MARE
         314: 125837,  # Popeşti Sat  - Com. Bărăşti -> POPEŞTI
         315: 129790,  # Popeşti Sat  - Com. Văleni -> POPEŞTI
+        316: 128383,  # Potcoava Orş.  -> POTCOAVA
         317: 128383,  # Potcoava Sat  - Orş. Potcoava -> POTCOAVA
         318: 128392,  # Potcoava Fălcoeni Sat  - Orş. Potcoava -> POTCOAVA FĂLCOENI
         319: 127279,  # Potelu Sat  - Com. Ianca -> POTELU
@@ -10006,6 +10002,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         337: 128542,  # Redişoara Sat  - Com. Redea -> REDIŞOARA
         338: 126754,  # Reşca Sat  - Com. Dobrosloveni -> REŞCA
         339: 126763,  # Reşcuţa Sat  - Com. Dobrosloveni -> REŞCUŢA
+        340: 125445,  # Română Loc.  - Orş. Balş -> ROMÂNA
         342: 128579,  # Rotunda Sat  - Com. Rotunda -> ROTUNDA
         343: 126870,  # Roşienii Mari Sat  - Com. Dobrun -> ROŞIENII MARI
         344: 126889,  # Roşienii Mici Sat  - Com. Dobrun -> ROŞIENII MICI
@@ -10023,11 +10020,13 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         358: 128285,  # Schitu din Deal Sat  - Com. Pleşoiu -> SCHITU DIN DEAL
         359: 128294,  # Schitu din Vale Sat  - Com. Pleşoiu -> SCHITU DIN VALE
         360: 126200,  # Scorbura Sat  - Com. Cârlogani -> SCORBURA
+        361: 128720,  # Scorniceşti Orş.  -> SCORNICEŞTI
         362: 128622,  # Scărişoara Sat  - Com. Scărişoara -> SCĂRIŞOARA
-        365: 128873,  # Seaca Sat  - Com. Seaca -> SEACA
         364: 128356,  # Seaca Sat  - Com. Poboru -> SEACA
+        365: 128873,  # Seaca Sat  - Com. Seaca -> SEACA
         367: 130204,  # Simniceni Sat  - Com. Vulpeni -> SIMNICENI
         368: 128409,  # Sineşti Sat  - Orş. Potcoava -> SINEŞTI
+        369: 125356,  # Slatina Mun.  -> SLATINA
         370: 125383,  # Slătioara Sat  - Com. Slătioara -> SLĂTIOARA
         372: 127162,  # Slăveni Sat  - Com. Gostavăţu -> SLĂVENI
         373: 129022,  # Spineni Sat  - Com. Spineni -> SPINENI
@@ -10043,8 +10042,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         388: 129193,  # Studina Sat  - Com. Studina -> STUDINA
         390: 129237,  # Studiniţa Sat  - Com. Studina -> STUDINIŢA
         391: 126219,  # Stupina Sat  - Com. Cârlogani -> STUPINA
-        393: 129969,  # Stănuleasa Sat  - Com. Vitomireşti -> STĂNULEASA
         392: 128944,  # Stănuleasa Sat  - Com. Sâmbureşti -> STĂNULEASA
+        393: 129969,  # Stănuleasa Sat  - Com. Vitomireşti -> STĂNULEASA
         394: 129647,  # Stăvaru Sat  - Com. Urzica -> STĂVARU
         395: 128365,  # Surpeni Sat  - Com. Poboru -> SURPENI
         396: 128891,  # Sâmbureşti Sat  - Com. Sâmbureşti -> SÂMBUREŞTI
@@ -10064,6 +10063,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         414: 129576,  # Traian Sat  - Com. Traian -> TRAIAN
         416: 129978,  # Trepteni Sat  - Com. Vitomireşti -> TREPTENI
         417: 128418,  # Trufineşti Sat  - Orş. Potcoava -> TRUFINEŞTI
+        418: 125560,  # Tudor Vladimirescu Loc.  - Orş. Corabia -> TUDOR VLADIMIRESCU
         419: 127475,  # Tufaru Sat  - Com. Leleasca -> TUFARU
         420: 129594,  # Tufeni Sat  - Com. Tufeni -> TUFENI
         422: 129692,  # Turia Sat  - Com. Valea Mare -> TURIA
@@ -10114,60 +10114,6 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         483: 128846,  # Şuica Sat  - Orş. Scorniceşti -> ŞUICA
     },
     29: {  # PRAHOVA
-        16: 131648,  # Arioneştii Noi Loc.  - Orş. Urlaţi -> ARIONEŞTII NOI
-        17: 131657,  # Arioneştii Vechi Loc.  - Orş. Urlaţi -> ARIONEŞTII VECHI
-        49: 131112,  # Breaza de Jos Loc.  - Orş. Breaza -> BREAZA DE JOS
-        50: 131121,  # Breaza de Sus Loc.  - Orş. Breaza -> BREAZA DE SUS
-        89: 131666,  # Cherba Loc.  - Orş. Urlaţi -> CHERBA
-        160: 131005,  # Dâmbu Loc.  - Orş. Băicoi -> DÂMBU
-        163: 131425,  # Fefelei Loc.  - Orş. Mizil -> FEFELEI
-        170: 131130,  # Frăsinet Loc.  - Orş. Breaza -> FRĂSINET
-        189: 131354,  # Ghioşeşti Loc.  - Orş. Comarnic -> GHIOŞEŞTI
-        201: 131595,  # Groşani Loc.  - Orş. Slănic -> GROŞANI
-        203: 136232,  # Gura Beliei Loc.  - Orş. Breaza -> GURA BELIEI
-        221: 131149,  # Irimeşti Loc.  - Orş. Breaza -> IRIMEŞTI
-        226: 131675,  # Jercălăi Loc.  - Orş. Urlaţi -> JERCĂLĂI
-        232: 131014,  # Lilieşti Loc.  - Orş. Băicoi -> LILIEŞTI
-        278: 131684,  # Mărunţiş Loc.  - Orş. Urlaţi -> MĂRUNŢIŞ
-        283: 131158,  # Nistoreşti Loc.  - Orş. Breaza -> NISTOREŞTI
-        297: 131693,  # Orzoaia de Jos Loc.  - Orş. Urlaţi -> ORZOAIA DE JOS
-        298: 131700,  # Orzoaia de Sus Loc.  - Orş. Urlaţi -> ORZOAIA DE SUS
-        335: 131167,  # Podu Corbului Loc.  - Orş. Breaza -> PODU CORBULUI
-        336: 131363,  # Podu Lung Loc.  - Orş. Comarnic -> PODU LUNG
-        338: 131176,  # Podu Vadului Loc.  - Orş. Breaza -> PODU VADULUI
-        342: 131372,  # Poiana Loc.  - Orş. Comarnic -> POIANA
-        350: 131238,  # Poiana Ţapului Loc.  - Orş. Buşteni -> POIANA ŢAPULUI
-        359: 131381,  # Posada Loc.  - Orş. Comarnic -> POSADA
-        372: 131602,  # Prăjani Loc.  - Orş. Slănic -> PRĂJANI
-        398: 131023,  # Schela Loc.  - Orş. Băicoi -> SCHELA
-        399: 131719,  # Schiau Loc.  - Orş. Urlaţi -> SCHIAU
-        405: 131087,  # Seciu Loc.  - Orş. Boldeşti-Scăeni -> SECIU
-        427: 131185,  # Surdeşti Loc.  - Orş. Breaza -> SURDEŞTI
-        456: 131032,  # Tufeni Loc.  - Orş. Băicoi -> TUFENI
-        470: 131728,  # Ulmi Loc.  - Orş. Urlaţi -> ULMI
-        479: 131737,  # Valea Bobului Loc.  - Orş. Urlaţi -> VALEA BOBULUI
-        484: 131746,  # Valea Crângului Loc.  - Orş. Urlaţi -> VALEA CRÂNGULUI
-        493: 131755,  # Valea Mieilor Loc.  - Orş. Urlaţi -> VALEA MIEILOR
-        495: 131764,  # Valea Nucetului Loc.  - Orş. Urlaţi -> VALEA NUCETULUI
-        498: 131773,  # Valea Pietrei Loc.  - Orş. Urlaţi -> VALEA PIETREI
-        505: 131782,  # Valea Seman Loc.  - Orş. Urlaţi -> VALEA SEMAN
-        509: 131194,  # Valea Târsei Loc.  - Orş. Breaza -> VALEA TÂRSEI
-        511: 131791,  # Valea Urloii Loc.  - Orş. Urlaţi -> VALEA URLOII
-        541: 131041,  # Ţintea Loc.  - Orş. Băicoi -> ŢINTEA
-        323: 130543,  # Ploieşti Mun.  -> PLOIEŞTI
-        135: 131265,  # Câmpina Mun.  -> CÂMPINA
-        19: 130963,  # Azuga Orş.  -> AZUGA
-        40: 131078,  # Boldeşti-Scăeni Orş.  -> BOLDEŞTI-SCĂENI
-        48: 131112,  # Breaza Orş.  -> BREAZA DE JOS
-        67: 131229,  # Buşteni Orş.  -> BUŞTENI
-        69: 130990,  # Băicoi Orş.  -> BĂICOI
-        115: 131345,  # Comarnic Orş.  -> COMARNIC
-        257: 131416,  # Mizil Orş.  -> MIZIL
-        326: 131452,  # Plopeni Orş.  -> PLOPENI
-        414: 131559,  # Sinaia Orş.  -> SINAIA
-        417: 131586,  # Slănic Orş.  -> SLĂNIC
-        474: 131639,  # Urlaţi Orş.  -> URLAŢI
-        520: 131826,  # Vălenii de Munte Orş.  -> VĂLENII DE MUNTE
         1: 131906,  # Adunaţi Sat  - Com. Adunaţi -> ADUNAŢI
         3: 131951,  # Albeşti-Muru Sat  - Com. Albeşti-Paleologu -> ALBEŞTI-MURU
         4: 131942,  # Albeşti-Paleologu Sat  - Com. Albeşti-Paleologu -> ALBEŞTI-PALEOLOGU
@@ -10177,7 +10123,10 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         10: 132020,  # Apostolache Sat  - Com. Apostolache -> APOSTOLACHE
         12: 132084,  # Ariceştii Rahtivani Sat  - Com. Ariceştii Rahtivani -> ARICEŞTII RAHTIVANI
         14: 132146,  # Ariceştii Zeletin Sat  - Com. Ariceştii Zeletin -> ARICEŞTII ZELETIN
+        16: 131648,  # Arioneştii Noi Loc.  - Orş. Urlaţi -> ARIONEŞTII NOI
+        17: 131657,  # Arioneştii Vechi Loc.  - Orş. Urlaţi -> ARIONEŞTII VECHI
         18: 135967,  # Arva Sat  - Com. Valea Călugărească -> ARVA
+        19: 130963,  # Azuga Orş.  -> AZUGA
         20: 132173,  # Baba Ana Sat  - Com. Baba Ana -> BABA ANA
         22: 132235,  # Balta Doamnei Sat  - Com. Balta Doamnei -> BALTA DOAMNEI
         24: 134354,  # Barzila Sat  - Com. Păcureţi -> BĂRZILA
@@ -10192,12 +10141,16 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         36: 134666,  # Bodeşti Sat  - Com. Poseşti -> BODEŞTI
         37: 133580,  # Bogdăneşti Sat  - Com. Gornet -> BOGDĂNEŞTI
         38: 132388,  # Boldeşti Sat  - Com. Boldeşti-Grădiştea -> BOLDEŞTI
+        40: 131078,  # Boldeşti-Scăeni Orş.  -> BOLDEŞTI-SCĂENI
         41: 135182,  # Bordenii Mari Sat  - Com. Scorţeni -> BORDENII MARI
         42: 135191,  # Bordenii Mici Sat  - Com. Scorţeni -> BORDENII MICI
         43: 133296,  # Bozieni Sat  - Com. Fântânele -> BOZIENI
         44: 135805,  # Boşilceşti Sat  - Com. Telega -> BOŞILCEŞTI
         46: 130749,  # Brazii de Jos Sat  - Com. Brazi -> BRAZII DE JOS
         47: 130721,  # Brazii de Sus Sat  - Com. Brazi -> BRAZII DE SUS
+        48: 131112,  # Breaza Orş.  -> BREAZA DE JOS
+        49: 131112,  # Breaza de Jos Loc.  - Orş. Breaza -> BREAZA DE JOS
+        50: 131121,  # Breaza de Sus Loc.  - Orş. Breaza -> BREAZA DE SUS
         52: 132422,  # Brebu Megieşesc Sat  - Com. Brebu -> BREBU MEGIEŞESC
         53: 132413,  # Brebu Mânăstirei Sat  - Com. Brebu -> BREBU MÂNĂSTIREI
         54: 135342,  # Brădet Sat  - Com. Starchiojd -> BRĂDET
@@ -10205,14 +10158,16 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         56: 133232,  # Brătăşanca Sat  - Com. Filipeştii de Târg -> BRĂTĂŞANCA
         57: 135057,  # Buchilaşi Sat  - Com. Râfov -> BUCHILAŞI
         58: 130794,  # Bucov Sat  - Com. Bucov -> BUCOV
-        61: 135066,  # Buda Sat  - Com. Râfov -> BUDA
         60: 132093,  # Buda Sat  - Com. Ariceştii Rahtivani -> BUDA
+        61: 135066,  # Buda Sat  - Com. Râfov -> BUDA
         62: 131853,  # Bughea de Jos Sat  - Com. Gura Vitioarei -> BUGHEA DE JOS
         63: 135743,  # Bughea de Sus Sat  - Com. Teişani -> BUGHEA DE SUS
         64: 135262,  # Butuci Sat  - Com. Sângeru -> BUTUCI
         65: 132039,  # Buzota Sat  - Com. Apostolache -> BUZOTA
         66: 135814,  # Buştenari Sat  - Com. Telega -> BUŞTENARI
+        67: 131229,  # Buşteni Orş.  -> BUŞTENI
         68: 132244,  # Bâra Sat  - Com. Balta Doamnei -> BÂRA
+        69: 130990,  # Băicoi Orş.  -> BĂICOI
         70: 134210,  # Băltiţa Sat  - Com. Măneşti -> BĂLTIŢA
         71: 132280,  # Bălţeşti Sat  - Com. Bălţeşti -> BĂLŢEŞTI
         73: 132324,  # Băneşti Sat  - Com. Băneşti -> BĂNEŞTI
@@ -10227,6 +10182,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         86: 132583,  # Ceraşu Sat  - Com. Ceraşu -> CERAŞU
         87: 133811,  # Cerneşti Sat  - Com. Izvoarele -> CERNEŞTI
         88: 134112,  # Cheia Sat  - Com. Măneciu -> CHEIA
+        89: 131666,  # Cherba Loc.  - Orş. Urlaţi -> CHERBA
         90: 134229,  # Cheşnoiu Sat  - Com. Cocorăştii Colţ -> CHEŞNOIU
         91: 134121,  # Chiciureni Sat  - Com. Măneciu -> CHICIURENI
         93: 132654,  # Chiojdeanca Sat  - Com. Chiojdeanca -> CHIOJDEANCA
@@ -10248,10 +10204,11 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         111: 130865,  # Cocoşeşti Sat  - Com. Păuleşti -> COCOŞEŞTI
         113: 132761,  # Colceag Sat  - Com. Colceag -> COLCEAG
         114: 134265,  # Colţu de Jos Sat  - Com. Cocorăştii Colţ -> COLŢU DE JOS
+        115: 131345,  # Comarnic Orş.  -> COMARNIC
         116: 132191,  # Conduratu Sat  - Com. Baba Ana -> CONDURATU
         117: 130650,  # Corlăteşti Sat  - Com. Berceni -> CORLĂTEŞTI
-        120: 133054,  # Cornu de Jos Sat  - Com. Drăgăneşti -> CORNU DE JOS
         119: 132814,  # Cornu de Jos Sat  - Com. Cornu -> CORNU DE JOS
+        120: 133054,  # Cornu de Jos Sat  - Com. Drăgăneşti -> CORNU DE JOS
         121: 132823,  # Cornu de Sus Sat  - Com. Cornu -> CORNU DE SUS
         122: 133125,  # Cornu de Sus Sat  - Com. Dumbrava -> CORNU DE SUS
         123: 135976,  # Coslegi Sat  - Com. Valea Călugărească -> COSLEGI
@@ -10265,14 +10222,15 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         132: 133599,  # Cuib Sat  - Com. Gornet -> CUIB
         133: 132253,  # Curcubeu Sat  - Com. Balta Doamnei -> CURCUBEU
         134: 134363,  # Curmătura Sat  - Com. Păcureţi -> CURMĂTURA
+        135: 131265,  # Câmpina Mun.  -> CÂMPINA
         136: 136214,  # Cârjari Sat  - Com. Vâlcăneşti -> CÂRJARI
         137: 133367,  # Călineşti Sat  - Com. Floreşti -> CĂLINEŞTI
         138: 132468,  # Călugăreni Sat  - Com. Călugăreni -> CĂLUGĂRENI
         140: 134577,  # Cărbunari Sat  - Com. Poienarii Burchii -> CĂRBUNARI
         142: 132495,  # Cărbuneşti Sat  - Com. Cărbuneşti -> CĂRBUNEŞTI
         143: 133376,  # Cătina Sat  - Com. Floreşti -> CĂTINA
-        145: 132912,  # Cătunu Sat  - Com. Drajna -> CĂTUNU
         144: 130641,  # Cătunu Sat  - Com. Berceni -> CĂTUNU
+        145: 132912,  # Cătunu Sat  - Com. Drajna -> CĂTUNU
         146: 133189,  # Diţeşti Sat  - Com. Filipeştii de Pădure -> DIŢEŞTI
         147: 133642,  # Dobrota Sat  - Com. Gornet-Cricov -> DOBROTA
         148: 135823,  # Doftana Sat  - Com. Telega -> DOFTANA
@@ -10283,11 +10241,14 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         155: 133027,  # Drăgăneşti Sat  - Com. Drăgăneşti -> DRĂGĂNEŞTI
         157: 133107,  # Dumbrava Sat  - Com. Dumbrava -> DUMBRAVA
         159: 131470,  # Dumbrăveşti Sat  - Com. Dumbrăveşti -> DUMBRĂVEŞTI
+        160: 131005,  # Dâmbu Loc.  - Orş. Băicoi -> DÂMBU
         161: 135985,  # Dârvari Sat  - Com. Valea Călugărească -> DÂRVARI
         162: 133241,  # Ezeni Sat  - Com. Filipeştii de Târg -> EZENI
+        163: 131425,  # Fefelei Loc.  - Orş. Mizil -> FEFELEI
         164: 133170,  # Filipeştii de Pădure Sat  - Com. Filipeştii de Pădure -> FILIPEŞTII DE PĂDURE
         166: 133223,  # Filipeştii de Târg Sat  - Com. Filipeştii de Târg -> FILIPEŞTII DE TÂRG
         169: 133349,  # Floreşti Sat  - Com. Floreşti -> FLOREŞTI
+        170: 131130,  # Frăsinet Loc.  - Orş. Breaza -> FRĂSINET
         172: 133401,  # Fulga de Jos Sat  - Com. Fulga -> FULGA DE JOS
         173: 133410,  # Fulga de Sus Sat  - Com. Fulga -> FULGA DE SUS
         174: 131871,  # Fundeni Sat  - Com. Gura Vitioarei -> FUNDENI
@@ -10303,6 +10264,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         186: 133303,  # Ghinoaica Sat  - Com. Vadu Săpat -> GHINOAICA
         187: 134461,  # Ghiocel Sat  - Com. Podenii Noi -> GHIOCEL
         188: 134274,  # Ghioldum Sat  - Com. Cocorăştii Colţ -> GHIOLDUM
+        189: 131354,  # Ghioşeşti Loc.  - Orş. Comarnic -> GHIOŞEŞTI
         190: 133937,  # Glod Sat  - Com. Lapoş -> GLOD
         191: 135075,  # Goga Sat  - Com. Râfov -> GOGA
         192: 132501,  # Gogeasca Sat  - Com. Cărbuneşti -> GOGEASCA
@@ -10311,7 +10273,9 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         198: 133624,  # Gornet-Cricov Sat  - Com. Gornet-Cricov -> GORNET-CRICOV
         199: 132734,  # Goruna Sat  - Com. Cocorăştii Mislii -> GORUNA
         200: 135351,  # Gresia Sat  - Com. Starchiojd -> GRESIA
+        201: 131595,  # Groşani Loc.  - Orş. Slănic -> GROŞANI
         202: 132397,  # Grădiştea Sat  - Com. Boldeşti-Grădiştea -> GRADIŞTEA
+        203: 136232,  # Gura Beliei Loc.  - Orş. Breaza -> GURA BELIEI
         204: 134283,  # Gura Crivăţului Sat  - Com. Măneşti -> GURA CRIVĂŢULUI
         206: 133697,  # Gura Vadului Sat  - Com. Gura Vadului -> GURA VADULUI
         208: 131844,  # Gura Vitioarei Sat  - Com. Gura Vitioarei -> GURA VITIOAREI
@@ -10326,12 +10290,15 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         217: 133456,  # Independenţa Sat  - Com. Gherghiţa -> INDEPENDENŢA
         218: 132770,  # Inoteşti Sat  - Com. Colceag -> INOTEŞTI
         220: 133731,  # Iordăcheanu Sat  - Com. Iordăcheanu -> IORDĂCHEANU
+        221: 131149,  # Irimeşti Loc.  - Orş. Breaza -> IRIMEŞTI
         222: 132299,  # Izeşti Sat  - Com. Bălţeşti -> IZEŞTI
         224: 133802,  # Izvoarele Sat  - Com. Izvoarele -> IZVOARELE
         225: 134915,  # Izvoru Sat  - Com. Proviţa de Sus -> IZVORU
+        226: 131675,  # Jercălăi Loc.  - Orş. Urlaţi -> JERCĂLĂI
         228: 133875,  # Jugureni Sat  - Com. Jugureni -> JUGURENI
         229: 132262,  # Lacu Turcului Sat  - Com. Balta Doamnei -> LACU TURCULUI
         231: 133928,  # Lapoş Sat  - Com. Lapoş -> LAPOŞ
+        232: 131014,  # Lilieşti Loc.  - Orş. Băicoi -> LILIEŞTI
         234: 133973,  # Lipăneşti Sat  - Com. Lipăneşti -> LIPĂNEŞTI
         235: 136161,  # Livadea Sat  - Com. Vărbilău -> LIVADEA
         236: 135912,  # Loloiasca Sat  - Com. Tomşani -> LOLOIASCA
@@ -10355,6 +10322,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         254: 135280,  # Mireşu Mic Sat  - Com. Sângeru -> MIREŞU MIC
         255: 134960,  # Miroslăveşti Sat  - Com. Puchenii Mari -> MIROSLĂVEŞTI
         256: 135208,  # Mislea Sat  - Com. Scorţeni -> MISLEA
+        257: 131416,  # Mizil Orş.  -> MIZIL
         258: 134979,  # Moara Sat  - Com. Puchenii Mari -> MOARA
         259: 135093,  # Moara Domnească Sat  - Com. Râfov -> MOARA DOMNEASCĂ
         260: 130669,  # Moara Nouă Sat  - Com. Berceni -> MOARA NOUĂ
@@ -10371,13 +10339,15 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         274: 134103,  # Măneciu-Ungureni Sat  - Com. Măneciu -> MĂNECIU-UNGURENI
         276: 134201,  # Măneşti Sat  - Com. Măneşti -> MĂNEŞTI
         277: 133250,  # Mărginenii de Jos Sat  - Com. Filipeştii de Târg -> MĂRGINENII DE JOS
+        278: 131684,  # Mărunţiş Loc.  - Orş. Urlaţi -> MĂRUNŢIŞ
         279: 132100,  # Nedelea Sat  - Com. Ariceştii Rahtivani -> NEDELEA
         280: 130758,  # Negoieşti Sat  - Com. Brazi -> NEGOIEŞTI
         281: 134489,  # Nevesteasca Sat  - Com. Podenii Noi -> NEVESTEASCA
         282: 134434,  # Nisipoasa Sat  - Com. Plopu -> NISIPOASA
+        283: 131158,  # Nistoreşti Loc.  - Orş. Breaza -> NISTOREŞTI
         284: 133385,  # Novăceşti Sat  - Com. Floreşti -> NOVĂCEŞTI
-        286: 133606,  # Nucet Sat  - Com. Gornet -> NUCET
         285: 132663,  # Nucet Sat  - Com. Chiojdeanca -> NUCET
+        286: 133606,  # Nucet Sat  - Com. Gornet -> NUCET
         287: 134693,  # Nucşoara de Jos Sat  - Com. Poseşti -> NUCŞOARA DE JOS
         288: 134684,  # Nucşoara de Sus Sat  - Com. Poseşti -> NUCŞOARA DE SUS
         289: 131915,  # Ocina de Jos Sat  - Com. Adunaţi -> OCINA DE JOS
@@ -10388,6 +10358,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         294: 133483,  # Olarii Vechi Sat  - Com. Olari -> OLARII VECHI
         295: 134586,  # Ologeni Sat  - Com. Poienarii Burchii -> OLOGENI
         296: 135752,  # Olteni Sat  - Com. Teişani -> OLTENI
+        297: 131693,  # Orzoaia de Jos Loc.  - Orş. Urlaţi -> ORZOAIA DE JOS
+        298: 131700,  # Orzoaia de Sus Loc.  - Orş. Urlaţi -> ORZOAIA DE SUS
         299: 132002,  # Ostrovu Sat  - Com. Aluniş -> OSTROVU
         300: 135100,  # Palanca Sat  - Com. Râfov -> PALANCA
         301: 135994,  # Pantazi Sat  - Com. Valea Călugărească -> PANTAZI
@@ -10412,24 +10384,31 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         320: 135574,  # Plaiu Câmpinei Sat  - Com. Şotrile -> PLAIU CÂMPINEI
         321: 133759,  # Plavia Sat  - Com. Iordăcheanu -> PLAVIA
         322: 130829,  # Pleaşa Sat  - Com. Bucov -> PLEAŞA
+        323: 130543,  # Ploieşti Mun.  -> PLOIEŞTI
         324: 130696,  # Ploieştiori Sat  - Com. Blejoi -> PLOIEŞTIORI
         325: 131513,  # Plopeni Sat  - Com. Dumbrăveşti -> PLOPENI
+        326: 131452,  # Plopeni Orş.  -> PLOPENI
         327: 134407,  # Plopu Sat  - Com. Plopu -> PLOPU
         329: 134185,  # Plăieţu Sat  - Com. Măneciu -> PLĂIEŢU
         330: 134452,  # Podenii Noi Sat  - Com. Podenii Noi -> PODENII NOI
         332: 132306,  # Podenii Vechi Sat  - Com. Bălţeşti -> PODENII VECHI
         333: 135707,  # Podgoria Sat  - Com. Tătaru -> PODGORIA
         334: 132440,  # Podu Cheii Sat  - Com. Brebu -> PODU CHEII
+        335: 131167,  # Podu Corbului Loc.  - Orş. Breaza -> PODU CORBULUI
+        336: 131363,  # Podu Lung Loc.  - Orş. Comarnic -> PODU LUNG
         337: 136170,  # Podu Ursului Sat  - Com. Vărbilău -> PODU URSULUI
+        338: 131176,  # Podu Vadului Loc.  - Orş. Breaza -> PODU VADULUI
         339: 134602,  # Podu Văleni Sat  - Com. Poienarii Burchii -> PODU VĂLENI
         340: 134498,  # Podu lui Galben Sat  - Com. Podenii Noi -> PODU LUI GALBEN
         341: 132994,  # Podurile Sat  - Com. Drajna -> PODURILE
+        342: 131372,  # Poiana Loc.  - Orş. Comarnic -> POIANA
         343: 131880,  # Poiana Copăceni Sat  - Com. Gura Vitioarei -> POIANA COPĂCENI
         344: 131283,  # Poiana Câmpina Sat  - Com. Poiana Câmpina -> POIANA CÂMPINA
         346: 135360,  # Poiana Mare Sat  - Com. Bătrâni -> POIANA MARE
         347: 133009,  # Poiana Mierlei Sat  - Com. Drajna -> POIANA MIERLEI
         348: 132887,  # Poiana Trestiei Sat  - Com. Cosminele -> POIANA TRESTIEI
         349: 136189,  # Poiana Vărbilău Sat  - Com. Vărbilău -> POIANA VĂRBILĂU
+        350: 131238,  # Poiana Ţapului Loc.  - Orş. Buşteni -> POIANA ŢAPULUI
         351: 133544,  # Poienarii Apostoli Sat  - Com. Gorgota -> POIENARII APOSTOLI
         352: 134568,  # Poienarii Burchii Sat  - Com. Poienarii Burchii -> POIENARII BURCHII
         354: 134611,  # Poienarii Rali Sat  - Com. Poienarii Burchii -> POIENARII-RALI
@@ -10437,6 +10416,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         356: 134782,  # Poienile Sat  - Com. Predeal-Sărari -> POIENILE
         357: 130767,  # Popeşti Sat  - Com. Brazi -> POPEŞTI
         358: 134504,  # Popeşti Sat  - Com. Podenii Noi -> POPEŞTI
+        359: 131381,  # Posada Loc.  - Orş. Comarnic -> POSADA
         361: 134700,  # Poseştii Ungureni Sat  - Com. Poseşti -> POSEŞTII-UNGURENI
         362: 134657,  # Poseştii-Pământeni Sat  - Com. Poseşti -> POSEŞTII-PĂMÂNTENI
         363: 133553,  # Potigrafu Sat  - Com. Gorgota -> POTIGRAFU
@@ -10445,6 +10425,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         367: 133651,  # Priseaca Sat  - Com. Gornet-Cricov -> PRISEACA
         368: 134862,  # Proviţa de Jos Sat  - Com. Proviţa de Jos -> PROVIŢA DE JOS
         370: 134906,  # Proviţa de Sus Sat  - Com. Proviţa de Sus -> PROVIŢA DE SUS
+        372: 131602,  # Prăjani Loc.  - Orş. Slănic -> PRĂJANI
         373: 134951,  # Puchenii Mari Sat  - Com. Puchenii Mari -> PUCHENII MARI
         375: 135002,  # Puchenii Mici Sat  - Com. Puchenii Mari -> PUCHENII MICI
         376: 135011,  # Puchenii Moşneni Sat  - Com. Puchenii Mari -> PUCHENII-MOŞNENI
@@ -10465,10 +10446,13 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         395: 132217,  # Satu Nou Sat  - Com. Baba Ana -> SATU NOU
         396: 133982,  # Satu Nou Sat  - Com. Lipăneşti -> SATU NOU
         397: 134318,  # Satu de Sus Sat  - Com. Cocorăştii Colţ -> SATU DE SUS
+        398: 131023,  # Schela Loc.  - Orş. Băicoi -> SCHELA
+        399: 131719,  # Schiau Loc.  - Orş. Urlaţi -> SCHIAU
         400: 136027,  # Schiau Sat  - Com. Valea Călugărească -> SCHIAU
         401: 133857,  # Schiuleşti Sat  - Com. Izvoarele -> SCHIULEŞTI
         402: 135173,  # Scorţeni Sat  - Com. Scorţeni -> SCORŢENI
         404: 135636,  # Scurteşti Sat  - Com. Ştefeşti -> SCURTEŞTI
+        405: 131087,  # Seciu Loc.  - Orş. Boldeşti-Scăeni -> SECIU
         406: 135592,  # Seciuri Sat  - Com. Şotrile -> SECIURI
         407: 135235,  # Secăria Sat  - Com. Secăria -> SECĂRIA
         409: 131522,  # Sfârleanca Sat  - Com. Dumbrăveşti -> SFÂRLEANCA
@@ -10476,8 +10460,10 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         411: 135119,  # Sicrita Sat  - Com. Râfov -> SICRITA
         412: 135716,  # Siliştea Sat  - Com. Tătaru -> SILIŞTEA
         413: 133205,  # Siliştea Dealului Sat  - Com. Filipeştii de Pădure -> SILIŞTEA DEALULUI
+        414: 131559,  # Sinaia Orş.  -> SINAIA
         415: 134381,  # Slavu Sat  - Com. Păcureţi -> SLAVU
         416: 132592,  # Slon Sat  - Com. Ceraşu -> SLON
+        417: 131586,  # Slănic Orş.  -> SLĂNIC
         418: 135324,  # Starchiojd Sat  - Com. Starchiojd -> STARCHIOJD
         420: 130776,  # Stejaru Sat  - Com. Brazi -> STEJARU
         421: 132119,  # Stoeneşti Sat  - Com. Ariceştii Rahtivani -> STOENEŞTI
@@ -10485,6 +10471,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         423: 133768,  # Străoşti Sat  - Com. Iordăcheanu -> STRĂOŞTI
         424: 130918,  # Stănceşti Sat  - Com. Târgşoru Vechi -> STĂNCEŞTI
         425: 135413,  # Surani Sat  - Com. Surani -> SURANI
+        427: 131185,  # Surdeşti Loc.  - Orş. Breaza -> SURDEŞTI
         428: 135253,  # Sângeru Sat  - Com. Sângeru -> SÂNGERU
         430: 135217,  # Sârca Sat  - Com. Scorţeni -> SÂRCA
         431: 135155,  # Sălciile Sat  - Com. Sălciile -> SĂLCIILE
@@ -10506,6 +10493,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         453: 136223,  # Trestioara Sat  - Com. Vâlcăneşti -> TRESTIOARA
         454: 136125,  # Trăisteni Sat  - Com. Valea Doftanei -> TRĂISTENI
         455: 133081,  # Tufani Sat  - Com. Drăgăneşti -> TUFANI
+        456: 131032,  # Tufeni Loc.  - Orş. Băicoi -> TUFENI
         457: 134817,  # Tulburea Sat  - Com. Predeal-Sărari -> TULBUREA
         458: 134826,  # Tulburea Văleni Sat  - Com. Predeal-Sărari -> TULBUREA-VĂLENI
         459: 132128,  # Târgşoru Nou Sat  - Com. Ariceştii Rahtivani -> TÂRGŞORU NOU
@@ -10517,36 +10505,46 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         467: 130605,  # Tătărani Sat  - Com. Bărcăneşti -> TĂTĂRANI
         468: 134639,  # Tătărăi Sat  - Com. Poienarii Burchii -> TĂTĂRĂI
         469: 132057,  # Udreşti Sat  - Com. Apostolache -> UDREŞTI
-        472: 133312,  # Ungureni Sat  - Com. Vadu Săpat -> UNGURENI
+        470: 131728,  # Ulmi Loc.  - Orş. Urlaţi -> ULMI
         471: 133269,  # Ungureni Sat  - Com. Filipeştii de Târg -> UNGURENI
+        472: 133312,  # Ungureni Sat  - Com. Vadu Săpat -> UNGURENI
         473: 133492,  # Ungureni Sat  - Com. Gherghiţa -> UNGURENI
+        474: 131639,  # Urlaţi Orş.  -> URLAŢI
         475: 132333,  # Urleta Sat  - Com. Băneşti -> URLETA
         476: 131979,  # Vadu Părului Sat  - Com. Albeşti-Paleologu -> VADU PĂRULUI
         477: 133321,  # Vadu Săpat Sat  - Com. Vadu Săpat -> VADU SĂPAT
         478: 135388,  # Valea Anei Sat  - Com. Starchiojd -> VALEA ANEI
+        479: 131737,  # Valea Bobului Loc.  - Orş. Urlaţi -> VALEA BOBULUI
         480: 132609,  # Valea Borului Sat  - Com. Ceraşu -> VALEA BORULUI
         481: 134933,  # Valea Bradului Sat  - Com. Proviţa de Sus -> VALEA BRADULUI
         482: 132618,  # Valea Brădetului Sat  - Com. Ceraşu -> VALEA BRĂDETULUI
         483: 132066,  # Valea Cricovului Sat  - Com. Apostolache -> VALEA CRICOVULUI
+        484: 131746,  # Valea Crângului Loc.  - Orş. Urlaţi -> VALEA CRÂNGULUI
         485: 133777,  # Valea Cucului Sat  - Com. Iordăcheanu -> VALEA CUCULUI
         486: 135958,  # Valea Călugărească Sat  - Com. Valea Călugărească -> VALEA CĂLUGĂREASCĂ
         489: 134540,  # Valea Dulce Sat  - Com. Podenii Noi -> VALEA DULCE
         490: 136036,  # Valea Largă Sat  - Com. Valea Călugărească -> VALEA LARGĂ
         491: 132627,  # Valea Lespezii Sat  - Com. Ceraşu -> VALEA LESPEZII
         492: 136045,  # Valea Mantei Sat  - Com. Valea Călugărească -> VALEA MANTEI
+        493: 131755,  # Valea Mieilor Loc.  - Orş. Urlaţi -> VALEA MIEILOR
         494: 136054,  # Valea Nicovani Sat  - Com. Valea Călugărească -> VALEA NICOVANI
+        495: 131764,  # Valea Nucetului Loc.  - Orş. Urlaţi -> VALEA NUCETULUI
         496: 132832,  # Valea Oprii Sat  - Com. Cornu -> VALEA OPRII
         497: 130838,  # Valea Orlei Sat  - Com. Bucov -> VALEA ORLEI
+        498: 131773,  # Valea Pietrei Loc.  - Orş. Urlaţi -> VALEA PIETREI
         499: 134728,  # Valea Plopului Sat  - Com. Poseşti -> VALEA PLOPULUI
         500: 136063,  # Valea Poienii Sat  - Com. Valea Călugărească -> VALEA POIENII
         501: 136072,  # Valea Popii Sat  - Com. Valea Călugărească -> VALEA POPII
         502: 132477,  # Valea Scheilor Sat  - Com. Călugăreni -> VALEA SCHEILOR
         503: 134737,  # Valea Screzii Sat  - Com. Poseşti -> VALEA SCREZII
         504: 133679,  # Valea Seacă Sat  - Com. Gornet-Cricov -> VALEA SEACĂ
+        505: 131782,  # Valea Seman Loc.  - Orş. Urlaţi -> VALEA SEMAN
         506: 134746,  # Valea Stupinii Sat  - Com. Poseşti -> VALEA STUPINII
         507: 135770,  # Valea Stâlpului Sat  - Com. Teişani -> VALEA STÂLPULUI
         508: 132636,  # Valea Tocii Sat  - Com. Ceraşu -> VALEA TOCII
+        509: 131194,  # Valea Târsei Loc.  - Orş. Breaza -> VALEA TÂRSEI
         510: 133900,  # Valea Unghiului Sat  - Com. Jugureni -> VALEA UNGHIULUI
+        511: 131791,  # Valea Urloii Loc.  - Orş. Urlaţi -> VALEA URLOII
         512: 136081,  # Valea Ursoii Sat  - Com. Valea Călugărească -> VALEA URSOII
         513: 135495,  # Varniţa Sat  - Com. Şirna -> VARNIŢA
         514: 135609,  # Vistieru Sat  - Com. Şotrile -> VISTIERU
@@ -10554,6 +10552,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         516: 132798,  # Vâlcelele Sat  - Com. Colceag -> VÂLCELELE
         517: 136205,  # Vâlcăneşti Sat  - Com. Vâlcăneşti -> VÂLCĂNEŞTI
         519: 136090,  # Vârfurile Sat  - Com. Valea Călugărească -> VÂRFURILE
+        520: 131826,  # Vălenii de Munte Orş.  -> VĂLENII DE MUNTE
         521: 133786,  # Vărbila Sat  - Com. Iordăcheanu -> VĂRBILA
         522: 136143,  # Vărbilău Sat  - Com. Vărbilău -> VĂRBILĂU
         524: 130936,  # Zahanaua Sat  - Com. Târgşoru Vechi -> ZAHANAUA
@@ -10569,22 +10568,13 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         536: 135556,  # Şotrile Sat  - Com. Şotrile -> ŞOTRILE
         538: 135627,  # Ştefeşti Sat  - Com. Ştefeşti -> ŞTEFEŞTI
         540: 135761,  # Ştubeiu Sat  - Com. Teişani -> ŞTUBEIU
+        541: 131041,  # Ţintea Loc.  - Orş. Băicoi -> ŢINTEA
         542: 132743,  # Ţipăreşti Sat  - Com. Cocorăştii Mislii -> ŢIPĂREŞTI
         543: 135841,  # Ţonteşti Sat  - Com. Telega -> ŢONŢEŞTI
         544: 130703,  # Ţânţăreni Sat  - Com. Blejoi -> ŢÂNŢĂRENI
         545: 133660,  # Ţărculeşti Sat  - Com. Gornet-Cricov -> ŢĂRCULEŞTI
     },
     30: {  # SATU MARE
-        138: 136544,  # Ianculeşti Loc.  - Mun. Carei -> IANCULEŞTI
-        152: 136615,  # Luna Loc.  - Orş. Negreşti-Oaş -> LUNA
-        246: 136508,  # Sătmărel Loc.  - Mun. Satu Mare -> SĂTMĂREL
-        258: 136624,  # Tur Loc.  - Orş. Negreşti-Oaş -> TUR
-        223: 136492,  # Satu Mare Mun.  -> SATU MARE
-        51: 136535,  # Carei Mun.  -> CAREI
-        17: 136857,  # Ardud Orş.  -> ARDUD
-        149: 138048,  # Livada Orş.  -> LIVADA
-        174: 136606,  # Negreşti-Oaş Orş.  -> NEGREŞTI-OAŞ
-        269: 136651,  # Tăşnad Orş.  -> TĂŞNAD
         1: 138636,  # Aciua Sat  - Com. Pomi -> ACIUA
         2: 136722,  # Acâş Sat  - Com. Acâş -> ACÂŞ
         4: 138057,  # Adrian Sat  - Orş. Livada -> ADRIAN
@@ -10598,10 +10588,12 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         13: 136811,  # Apa Sat  - Com. Apa -> APA
         15: 137568,  # Apateu Sat  - Com. Culciu -> APATEU
         16: 136857,  # Ardud Sat  - Orş. Ardud -> ARDUD
+        17: 136857,  # Ardud Orş.  -> ARDUD
         18: 136866,  # Ardud-Vii Sat  - Orş. Ardud -> ARDUD-VII
         19: 137693,  # Atea Sat  - Com. Dorolţ -> ATEA
         20: 136875,  # Baba Novac Sat  - Orş. Ardud -> BABA NOVAC
         21: 137158,  # Babţa Sat  - Com. Bogdand -> BABŢA
+        22: 136928,  # Bătarci Sat  - Com. Bătarci -> BĂTARCI
         24: 138823,  # Becheni Sat  - Com. Săuca -> BECHENI
         25: 136973,  # Beltiug Sat  - Com. Beltiug -> BELTIUG
         27: 137988,  # Bercu Sat  - Com. Lazuri -> BERCU
@@ -10623,7 +10615,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         48: 137112,  # Bârsău de Sus Sat  - Com. Bârsău -> BÂRSĂU DE SUS
         49: 137782,  # Băbeşti Sat  - Com. Halmeu -> BĂBEŞTI
         50: 138100,  # Băbăşeşti Sat  - Com. Medieşu Aurit -> BĂBĂŞEŞTI
-        22: 136928,  # Bătarci Sat  - Com. Bătarci -> BĂTARCI
+        51: 136535,  # Carei Mun.  -> CAREI
         52: 138832,  # Cean Sat  - Com. Săuca -> CEAN
         53: 137381,  # Cehal Sat  - Com. Cehal -> CEHAL
         55: 137372,  # Cehăluţ Sat  - Com. Cehal -> CEHĂLUŢ
@@ -10694,6 +10686,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         135: 138477,  # Hrip Sat  - Com. Păuleşti -> HRIP
         136: 138967,  # Hurezu Mare Sat  - Com. Supur -> HUREZU MARE
         137: 137425,  # Huta Certeze Sat  - Com. Certeze -> HUTA-CERTEZE
+        138: 136544,  # Ianculeşti Loc.  - Mun. Carei -> IANCULEŞTI
         139: 137522,  # Iegherişte Sat  - Com. Crucişor -> IEGHERIŞTE
         140: 138119,  # Iojib Sat  - Com. Medieşu Aurit -> IOJIB
         141: 136795,  # Irina Sat  - Com. Andrid -> IRINA
@@ -10703,8 +10696,10 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         146: 137871,  # Lelei Sat  - Com. Hodod -> LELEI
         147: 137602,  # Lipău Sat  - Com. Culciu -> LIPĂU
         148: 138048,  # Livada Sat  - Orş. Livada -> LIVADA
+        149: 138048,  # Livada Orş.  -> LIVADA
         150: 138075,  # Livada Mică Sat  - Orş. Livada -> LIVADA MICĂ
         151: 137050,  # Lucăceni Sat  - Com. Berveni -> LUCĂCENI
+        152: 136615,  # Luna Loc.  - Orş. Negreşti-Oaş -> LUNA
         153: 136820,  # Lunca Apei Sat  - Com. Apa -> LUNCA APEI
         154: 138716,  # Marna Nouă Sat  - Com. Sanislău -> MARNA NOUĂ
         155: 138128,  # Medieş Râturi Sat  - Com. Medieşu Aurit -> MEDIEŞ-RÂTURI
@@ -10723,6 +10718,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         171: 138333,  # Mărtineşti Sat  - Com. Odoreu -> MĂRTINEŞTI
         172: 137880,  # Nadişu Hododului Sat  - Com. Hodod -> NADIŞU HODODULUI
         173: 137942,  # Necopoi Sat  - Com. Homoroade -> NECOPOI
+        174: 136606,  # Negreşti-Oaş Orş.  -> NEGREŞTI-OAŞ
         175: 137997,  # Nisipeni Sat  - Com. Lazuri -> NISIPENI
         176: 138002,  # Noroieni Sat  - Com. Lazuri -> NOROIENI
         177: 139385,  # Oar Sat  - Com. Vetiş -> OAR
@@ -10762,6 +10758,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         218: 137014,  # Răteşti Sat  - Com. Beltiug -> RĂTEŞTI
         219: 138672,  # Sanislău Sat  - Com. Sanislău -> SANISLĂU
         221: 138743,  # Santău Sat  - Com. Santău -> SANTĂU
+        223: 136492,  # Satu Mare Mun.  -> SATU MARE
         224: 137489,  # Satu Mic Sat  - Com. Craidorolţ -> SATU MIC
         225: 138609,  # Scărişoara Nouă Sat  - Com. Pişcolt -> SCĂRIŞOARA NOUĂ
         226: 138985,  # Sechereşa Sat  - Com. Supur -> SECHEREŞA
@@ -10781,6 +10778,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         243: 138565,  # Sărvăzel Sat  - Com. Pir -> SĂRVĂZEL
         244: 136900,  # Sărătura Sat  - Orş. Ardud -> SĂRĂTURA
         245: 136697,  # Sărăuad Sat  - Orş. Tăşnad -> SĂRĂUAD
+        246: 136508,  # Sătmărel Loc.  - Mun. Satu Mare -> SĂTMĂREL
         247: 138814,  # Săuca Sat  - Com. Săuca -> SĂUCA
         249: 139018,  # Tarna Mare Sat  - Com. Tarna Mare -> TARNA MARE
         251: 139063,  # Terebeşti Sat  - Com. Terebeşti -> TEREBEŞTI
@@ -10788,6 +10786,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         254: 139116,  # Tiream Sat  - Com. Tiream -> TIREAM
         256: 137666,  # Traian Sat  - Com. Doba -> TRAIAN
         257: 137096,  # Trip Sat  - Com. Bixad -> TRIP
+        258: 136624,  # Tur Loc.  - Orş. Negreşti-Oaş -> TUR
         259: 139223,  # Turulung Sat  - Com. Turulung -> TURULUNG
         261: 139241,  # Turulung Vii Sat  - Com. Turulung -> TURULUNG-VII
         262: 139189,  # Turţ Sat  - Com. Turţ -> TURŢ
@@ -10795,6 +10794,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         265: 139152,  # Târşolţ Sat  - Com. Târşolţ -> TÂRŞOLŢ
         267: 136955,  # Tămăşeni Sat  - Com. Bătarci -> TĂMĂŞENI
         268: 139438,  # Tătăreşti Sat  - Com. Viile Satu Mare -> TĂTĂREŞTI
+        269: 136651,  # Tăşnad Orş.  -> TĂŞNAD
         270: 136759,  # Unimăt Sat  - Com. Acâş -> UNIMĂT
         271: 139269,  # Urziceni Sat  - Com. Urziceni -> URZICENI
         273: 139278,  # Urziceni Pădure Sat  - Com. Urziceni -> URZICENI-PĂDURE
@@ -10813,22 +10813,6 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         290: 137498,  # Ţeghea Sat  - Com. Craidorolţ -> ŢEGHEA
     },
     31: {  # SĂLAJ
-        17: 139900,  # Bic Loc.  - Orş. Şimleu Silvaniei -> BIC
-        56: 139919,  # Cehei Loc.  - Orş. Şimleu Silvaniei -> CEHEI
-        96: 139839,  # Cuceu Loc.  - Orş. Jibou -> CUCEU
-        155: 139768,  # Horoatu Cehului Loc.  - Orş. Cehu Silvaniei -> HOROATU CEHULUI
-        160: 139848,  # Husia Loc.  - Orş. Jibou -> HUSIA
-        199: 139777,  # Motiş Loc.  - Orş. Cehu Silvaniei -> MOTIŞ
-        206: 139786,  # Nadiş Loc.  - Orş. Cehu Silvaniei -> NADIŞ
-        241: 139928,  # Pusta Loc.  - Orş. Şimleu Silvaniei -> PUSTA
-        254: 139857,  # Rona Loc.  - Orş. Jibou -> RONA
-        272: 139722,  # Stâna Loc.  - Mun. Zalău -> STÂNA
-        306: 139795,  # Ulciug Loc.  - Orş. Cehu Silvaniei -> ULCIUG
-        316: 139866,  # Var Loc.  - Orş. Jibou -> VAR
-        329: 139713,  # Zalău Mun.  -> ZALĂU
-        57: 139759,  # Cehu Silvaniei Orş.  -> CEHU SILVANIEI
-        172: 139820,  # Jibou Orş.  -> JIBOU
-        338: 139893,  # Şimleu Silvaniei Orş.  -> ŞIMLEU SILVANIEI
         1: 141045,  # Adalin Sat  - Com. Dragu -> ADALIN
         2: 142097,  # Aghireş Sat  - Com. Meseşenii de Jos -> AGHIREŞ
         4: 139946,  # Agrij Sat  - Com. Agrij -> AGRIJ
@@ -10842,6 +10826,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         14: 140253,  # Benesat Sat  - Com. Benesat -> BENESAT
         15: 142694,  # Bercea Sat  - Com. Sânmihaiu Almaşului -> BERCEA
         16: 141250,  # Bezded Sat  - Com. Gârbou -> BEZDED
+        17: 139900,  # Bic Loc.  - Orş. Şimleu Silvaniei -> BIC
         18: 142257,  # Bilghez Sat  - Com. Nuşfalău -> BILGHEZ
         19: 140271,  # Biuşa Sat  - Com. Benesat -> BIUŞA
         20: 141606,  # Bizuşa-Băi Sat  - Com. Ileanda -> BIZUŞA-BĂI
@@ -10872,6 +10857,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         52: 140459,  # Camăr Sat  - Com. Camăr -> CAMĂR
         54: 140486,  # Carastelec Sat  - Com. Carastelec -> CARASTELEC
         55: 143085,  # Ceaca Sat  - Com. Zalha -> CEACA
+        56: 139919,  # Cehei Loc.  - Orş. Şimleu Silvaniei -> CEHEI
+        57: 139759,  # Cehu Silvaniei Orş.  -> CEHU SILVANIEI
         58: 141349,  # Cerişa Sat  - Com. Halmăşd -> CERIŞA
         59: 141278,  # Cernuc Sat  - Com. Gârbou -> CERNUC
         60: 140164,  # Chechiş Sat  - Com. Bălan -> CHECHIŞ
@@ -10903,6 +10890,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         93: 140832,  # Crişeni Sat  - Com. Crişeni -> CRIŞENI
         94: 142024,  # Criştelec Sat  - Com. Măerişte -> CRIŞTELEC
         95: 140887,  # Cubleşu Sat  - Com. Cuzăplac -> CUBLEŞU
+        96: 139839,  # Cuceu Loc.  - Orş. Jibou -> CUCEU
         97: 141820,  # Cuciulat Sat  - Com. Letca -> CUCIULAT
         98: 140011,  # Cutis Sat  - Com. Almaşu -> CUTIŞ
         100: 140878,  # Cuzăplac Sat  - Com. Cuzăplac -> CUZĂPLAC
@@ -10952,9 +10940,11 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         149: 141321,  # Halmăşd Sat  - Com. Halmăşd -> HALMĂŞD
         151: 141385,  # Hereclean Sat  - Com. Hereclean -> HERECLEAN
         153: 141456,  # Hida Sat  - Com. Hida -> HIDA
+        155: 139768,  # Horoatu Cehului Loc.  - Orş. Cehu Silvaniei -> HOROATU CEHULUI
         156: 141544,  # Horoatu Crasnei Sat  - Com. Horoatu Crasnei -> HOROATU CRASNEI
         158: 141553,  # Hurez Sat  - Com. Horoatu Crasnei -> HUREZ
         159: 140645,  # Huseni Sat  - Com. Crasna -> HUSENI
+        160: 139848,  # Husia Loc.  - Orş. Jibou -> HUSIA
         161: 140413,  # Huta Sat  - Com. Buciumi -> HUTA
         162: 142532,  # Hăşmaş Sat  - Com. Şimişna -> HĂŞMAŞ
         163: 142364,  # Iaz Sat  - Com. Plopiş -> IAZ
@@ -10964,6 +10954,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         168: 141731,  # Ip Sat  - Com. Ip -> IP
         170: 140734,  # Jac Sat  - Com. Creaca -> JAC
         171: 140020,  # Jebucu Sat  - Com. Almaşu -> JEBUCU
+        172: 139820,  # Jibou Orş.  -> JIBOU
         173: 142970,  # Lazuri Sat  - Com. Valcău de Jos -> LAZURI
         174: 141839,  # Lemniu Sat  - Com. Letca -> LEMNIU
         175: 141795,  # Letca Sat  - Com. Letca -> LETCA
@@ -10985,11 +10976,13 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         196: 142131,  # Mirşid Sat  - Com. Mirşid -> MIRŞID
         197: 142925,  # Moiad Sat  - Com. Sărmăşag -> MOIAD
         198: 142159,  # Moigrad-Porolissum Sat  - Com. Mirşid -> MOIGRAD-POROLISSUM
+        199: 139777,  # Motiş Loc.  - Orş. Cehu Silvaniei -> MOTIŞ
         200: 140798,  # Muncel Sat  - Com. Cristolţ -> MUNCEL
         202: 142015,  # Măerişte Sat  - Com. Măerişte -> MĂERIŞTE
         203: 142417,  # Măgura Sat  - Com. Poiana Blenchii -> MĂGURA
         204: 141651,  # Măleni Sat  - Com. Ileanda -> MĂLENI
         205: 142051,  # Mălădia Sat  - Com. Măerişte -> MĂLĂDIA
+        206: 139786,  # Nadiş Loc.  - Orş. Cehu Silvaniei -> NADIŞ
         207: 140994,  # Naimon Sat  - Com. Dobrin -> NAIMON
         208: 141660,  # Negreni Sat  - Com. Ileanda -> NEGRENI
         209: 142603,  # Noţig Sat  - Com. Sălăţig -> NOŢIG
@@ -11019,6 +11012,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         238: 140574,  # Pria Sat  - Com. Cizer -> PRIA
         239: 140752,  # Prodăneşti Sat  - Com. Creaca -> PRODĂNEŞTI
         240: 141848,  # Purcăreţ Sat  - Com. Letca -> PURCĂREŢ
+        241: 139928,  # Pusta Loc.  - Orş. Şimleu Silvaniei -> PUSTA
         242: 140468,  # Pădureni Sat  - Com. Camăr -> PĂDURENI
         243: 141483,  # Păduriş Sat  - Com. Hida -> PĂDURIŞ
         244: 142462,  # Păuşa Sat  - Com. Românaşi -> PĂUŞA
@@ -11030,6 +11024,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         250: 141704,  # Rogna Sat  - Com. Ileanda -> ROGNA
         251: 142480,  # Romita Sat  - Com. Românaşi -> ROMITA
         253: 142435,  # Românaşi Sat  - Com. Românaşi -> ROMÂNAŞI
+        254: 139857,  # Rona Loc.  - Orş. Jibou -> RONA
         255: 140921,  # Ruginoasa Sat  - Com. Cuzăplac -> RUGINOASA
         257: 142505,  # Rus Sat  - Com. Rus -> RUS
         258: 141697,  # Răstoci Sat  - Com. Ileanda -> RĂSTOCI
@@ -11045,6 +11040,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         269: 140066,  # Stana Sat  - Com. Almaşu -> STANA
         270: 140930,  # Stoboru Sat  - Com. Cuzăplac -> STOBORU
         271: 141517,  # Stupini Sat  - Com. Hida -> STUPINI
+        272: 139722,  # Stâna Loc.  - Mun. Zalău -> STÂNA
         273: 141562,  # Stârciu Sat  - Com. Horoatu Crasnei -> STÂRCIU
         274: 143003,  # Subcetate Sat  - Com. Valcău de Jos -> SUB CETATE
         276: 142783,  # Surduc Sat  - Com. Surduc -> SURDUC
@@ -11072,6 +11068,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         303: 140949,  # Tămaşa Sat  - Com. Cuzăplac -> TĂMASA
         304: 141063,  # Ugruţiu Sat  - Com. Dragu -> UGRUŢIU
         305: 142060,  # Uileacu Şimleului Sat  - Com. Măerişte -> UILEACU ŞIMLEULUI
+        306: 139795,  # Ulciug Loc.  - Orş. Cehu Silvaniei -> ULCIUG
         308: 142961,  # Valcău de Jos Sat  - Com. Valcău de Jos -> VALCĂU DE JOS
         309: 143012,  # Valcău de Sus Sat  - Com. Valcău de Jos -> VALCĂU DE SUS
         310: 143101,  # Valea Ciurenilor Sat  - Com. Zalha -> VALEA CIURENILOR
@@ -11080,6 +11077,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         313: 141937,  # Valea Loznei Sat  - Com. Lozna -> VALEA LOZNEI
         314: 143129,  # Valea Lungă Sat  - Com. Zalha -> VALEA LUNGĂ
         315: 142872,  # Valea Pomilor Sat  - Com. Şamşud -> VALEA POMILOR
+        316: 139866,  # Var Loc.  - Orş. Jibou -> VAR
         317: 141018,  # Verveghiu Sat  - Com. Dobrin -> VERVEGHIU
         318: 140761,  # Viile Jacului Sat  - Com. Creaca -> VIILE JACULUI
         319: 141072,  # Voivodeni Sat  - Com. Dragu -> VOIVODENI
@@ -11090,12 +11088,14 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         325: 141875,  # Vălişoara Sat  - Com. Letca -> VĂLIŞOARA
         326: 143076,  # Zalha Sat  - Com. Zalha -> ZALHA
         328: 140315,  # Zalnoc Sat  - Com. Bobota -> ZALNOC
+        329: 139713,  # Zalău Mun.  -> ZALĂU
         330: 143156,  # Zimbor Sat  - Com. Zimbor -> ZIMBOR
         332: 141768,  # Zăuan Sat  - Com. Ip -> ZĂUAN
         333: 141777,  # Zăuan Băi Sat  - Com. Ip -> ZĂUAN-BĂI
         335: 142863,  # Şamşud Sat  - Com. Şamşud -> ŞAMŞUD
         336: 141713,  # Şasa Sat  - Com. Ileanda -> ŞASA
         337: 142541,  # Şimişna Sat  - Com. Şimişna -> ŞIMIŞNA
+        338: 139893,  # Şimleu Silvaniei Orş.  -> ŞIMLEU SILVANIEI
         339: 142765,  # Şoimuş Sat  - Com. Someş-Odorhei -> ŞOIMUŞ
         340: 141857,  # Şoimuşeni Sat  - Com. Letca -> ŞOIMUŞENI
         341: 141303,  # Şolomon Sat  - Com. Gârbou -> SOLOMON
@@ -11104,24 +11104,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         344: 140075,  # Ţăudu Sat  - Com. Almaşu -> ŢĂUDU
     },
     32: {  # SIBIU
-        53: 143753,  # Cisnădioara Loc.  - Orş. Cisnădie -> CISNĂDIOARA
-        60: 143708,  # Coveş Loc.  - Orş. Agnita -> COVEŞ
-        76: 143824,  # Ernea Loc.  - Orş. Dumbrăveni -> ERNEA
-        159: 143478,  # Păltiniş Loc.  - Mun. Sibiu -> PĂLTINIŞ
-        172: 143717,  # Ruja Loc.  - Orş. Agnita -> RUJA
-        224: 143833,  # Şaroş pe Târnave Loc.  - Orş. Dumbrăveni -> ŞAROŞ PE TÂRNAVE
-        186: 143469,  # Sibiu Mun.  -> SIBIU
-        112: 143628,  # Mediaş Mun.  -> MEDIAŞ
-        2: 143691,  # Agnita Orş.  -> AGNITA
-        19: 144063,  # Avrig Orş.  -> AVRIG
-        52: 143744,  # Cisnădie Orş.  -> CISNĂDIE
-        58: 143780,  # Copşa Mică Orş.  -> COPŞA MICĂ
-        72: 143815,  # Dumbrăveni Orş.  -> DUMBRĂVENI
-        118: 144937,  # Miercurea Sibiului Orş.  -> MIERCUREA SIBIULUI
-        141: 143860,  # Ocna Sibiului Orş.  -> OCNA SIBIULUI
-        195: 145505,  # Sălişte Orş.  -> SĂLIŞTE
-        206: 145836,  # Tălmaciu Orş.  -> TĂLMACIU
         1: 145514,  # Aciliu Sat  - Orş. Sălişte -> ACILIU
+        2: 143691,  # Agnita Orş.  -> AGNITA
         3: 144134,  # Agârbiciu Sat  - Com. Axente Sever -> AGÂRBICIU
         4: 145621,  # Albi Sat  - Com. Slimnic -> ALBI
         5: 144018,  # Alma Sat  - Com. Alma -> ALMA
@@ -11135,6 +11119,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         15: 144820,  # Armeni Sat  - Com. Loamneş -> ARMENI
         16: 143968,  # Arpaşu de Jos Sat  - Com. Arpaşu de Jos -> ARPAŞU DE JOS
         18: 143977,  # Arpaşu de Sus Sat  - Com. Arpaşu de Jos -> ARPAŞU DE SUS
+        19: 144063,  # Avrig Orş.  -> AVRIG
         20: 144125,  # Axente Sever Sat  - Com. Axente Sever -> AXENTE SEVER
         22: 144009,  # Aţel Sat  - Com. Aţel -> AŢEL
         24: 144161,  # Bazna Sat  - Com. Bazna -> BAZNA
@@ -11157,21 +11142,27 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         48: 145426,  # Caşolţ Sat  - Com. Roşia -> CAŞOLŢ
         49: 145015,  # Chesler Sat  - Com. Micăsasa -> CHESLER
         50: 144465,  # Chirpăr Sat  - Com. Chirpăr -> CHIRPĂR
+        52: 143744,  # Cisnădie Orş.  -> CISNĂDIE
+        53: 143753,  # Cisnădioara Loc.  - Orş. Cisnădie -> CISNĂDIOARA
         54: 143664,  # Colonia Târnava Sat  - Com. Târnava -> COLONIA TÂRNAVA
         55: 145854,  # Colonia Tălmaciu Sat  - Orş. Tălmaciu -> COLONIA TĂLMACIU
         56: 145319,  # Colun Sat  - Com. Porumbacu de Jos -> COLUN
         57: 144214,  # Copşa Mare Sat  - Com. Biertan -> COPŞA MARE
+        58: 143780,  # Copşa Mică Orş.  -> COPŞA MICĂ
         59: 145435,  # Cornăţel Sat  - Com. Roşia -> CORNĂŢEL
+        60: 143708,  # Coveş Loc.  - Orş. Agnita -> COVEŞ
         61: 145532,  # Crinţ Sat  - Orş. Sălişte -> CRINŢ
         62: 143496,  # Cristian Sat  - Com. Cristian -> CRISTIAN
         64: 144571,  # Curciu Sat  - Com. Dârlos -> CURCIU
-        67: 144517,  # Cârţa Sat  - Com. Cârţa -> CÂRŢA
         65: 144544,  # Cârţişoara Sat  - Com. Cârţişoara -> CÂRŢIŞOARA
+        67: 144517,  # Cârţa Sat  - Com. Cârţa -> CÂRŢA
         69: 145444,  # Daia Sat  - Com. Roşia -> DAIA
         70: 144982,  # Dealu Frumos Sat  - Com. Merghindeal -> DEALU FRUMOS
         71: 144955,  # Dobârca Sat  - Orş. Miercurea Sibiului -> DOBÂRCA
+        72: 143815,  # Dumbrăveni Orş.  -> DUMBRĂVENI
         73: 144027,  # Dupuş Sat  - Com. Aţel -> DUPUŞ
         74: 144562,  # Dârlos Sat  - Com. Dârlos -> DÂRLOS
+        76: 143824,  # Ernea Loc.  - Orş. Dumbrăveni -> ERNEA
         77: 144759,  # Floreşti Sat  - Com. Laslea -> FLOREŞTI
         78: 145168,  # Fofeldea Sat  - Com. Nocrich -> FOFELDEA
         79: 145550,  # Fântânele Sat  - Orş. Sălişte -> FÂNTÂNELE
@@ -11199,9 +11190,11 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         108: 144875,  # Ludoş Sat  - Com. Ludoş -> LUDOŞ
         109: 145569,  # Mag Sat  - Orş. Sălişte -> MAG
         111: 144900,  # Marpod Sat  - Com. Marpod -> MARPOD
+        112: 143628,  # Mediaş Mun.  -> MEDIAŞ
         114: 144973,  # Merghindeal Sat  - Com. Merghindeal -> MERGHINDEAL
         115: 145060,  # Metiş Sat  - Com. Mihăileni -> METIŞ
         117: 145006,  # Micăsasa Sat  - Com. Micăsasa -> MICĂSASA
+        118: 144937,  # Miercurea Sibiului Orş.  -> MIERCUREA SIBIULUI
         119: 144937,  # Miercurea Sibiului Sat  - Orş. Miercurea Sibiului -> MIERCUREA SIBIULUI
         120: 145701,  # Mighindoala Sat  - Com. Şeica Mare -> MIGHINDOALA
         122: 145051,  # Mihăileni Sat  - Com. Mihăileni -> MIHĂILENI
@@ -11221,6 +11214,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         138: 143986,  # Nou Român Sat  - Com. Arpaşu de Jos -> NOUL ROMÂN
         139: 144777,  # Nou Săsesc Sat  - Com. Laslea -> NOU SĂSESC
         140: 145462,  # Nucet Sat  - Com. Roşia -> NUCET
+        141: 143860,  # Ocna Sibiului Orş.  -> OCNA SIBIULUI
         143: 145211,  # Orlat Sat  - Com. Orlat -> ORLAT
         144: 145881,  # Paltin Sat  - Com. Boiţa -> PALTIN
         145: 144278,  # Pelişor Sat  - Com. Bârghiş -> PELIŞOR
@@ -11234,6 +11228,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         156: 143548,  # Prislop Sat  - Com. Răşinari -> PRISLOP
         157: 144633,  # Prod Sat  - Com. Hoghilag -> PROD
         158: 145630,  # Pădureni Sat  - Com. Slimnic -> PĂDURENI
+        159: 143478,  # Păltiniş Loc.  - Mun. Sibiu -> PĂLTINIŞ
         161: 145239,  # Păuca Sat  - Com. Păuca -> PĂUCA
         162: 144321,  # Păucea Sat  - Com. Blăjel -> PĂUCEA
         164: 145364,  # Racoviţa Sat  - Com. Racoviţa -> RACOVIŢA
@@ -11243,6 +11238,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         168: 145925,  # Rod Sat  - Com. Tilişca -> ROD
         169: 144330,  # Romaneşti Sat  - Com. Blăjel -> ROMANEŞTI
         170: 145417,  # Roşia Sat  - Com. Roşia -> ROŞIA
+        172: 143717,  # Ruja Loc.  - Orş. Agnita -> RUJA
         173: 145818,  # Rusciori Sat  - Com. Şura Mică -> RUSCIORI
         174: 145649,  # Ruşi Sat  - Com. Slimnic -> RUŞI
         175: 145391,  # Râu Sadului Sat  - Com. Râu Sadului -> RÂU SADULUI
@@ -11253,6 +11249,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         183: 145952,  # Sebeşu de Jos Sat  - Com. Turnu Roşu -> SEBEŞU DE JOS
         184: 145373,  # Sebeşu de Sus Sat  - Com. Racoviţa -> SEBEŞU DE SUS
         185: 145587,  # Sibiel Sat  - Orş. Sălişte -> SIBIEL
+        186: 143469,  # Sibiu Mun.  -> SIBIU
         188: 145612,  # Slimnic Sat  - Com. Slimnic -> SLIMNIC
         189: 145756,  # Soroştin Sat  - Com. Şeica Mică -> SOROŞTIN
         190: 144704,  # Stejărişu Sat  - Com. Iacobeni -> STEJĂRIŞU
@@ -11260,6 +11257,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         192: 145578,  # Săcel Sat  - Orş. Sălişte -> SĂCEL
         193: 144107,  # Săcădate Sat  - Orş. Avrig -> SĂCĂDATE
         194: 144857,  # Sădinca Sat  - Com. Loamneş -> SĂDINCA
+        195: 145505,  # Sălişte Orş.  -> SĂLIŞTE
         196: 145505,  # Sălişte Sat  - Orş. Sălişte -> SĂLIŞTE
         197: 145337,  # Sărata Sat  - Com. Porumbacu de Jos -> SĂRATA
         198: 144474,  # Săsăuş Sat  - Com. Chirpăr -> SĂSĂUŞ
@@ -11267,6 +11265,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         201: 143879,  # Topârcea Sat  - Orş. Ocna Sibiului -> TOPÂRCEA
         202: 145943,  # Turnu Roşu Sat  - Com. Turnu Roşu -> TURNU ROŞU
         204: 143655,  # Târnava Sat  - Com. Târnava -> TÂRNAVA
+        206: 145836,  # Tălmaciu Orş.  -> TĂLMACIU
         207: 145890,  # Tălmăcel Sat  - Orş. Tălmaciu -> TĂLMĂCEL
         208: 144642,  # Valchid Sat  - Com. Hoghilag -> VALCHID
         209: 145596,  # Vale Sat  - Orş. Sălişte -> VALE
@@ -11282,6 +11281,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         221: 144483,  # Vărd Sat  - Com. Chirpăr -> VĂRD
         222: 144296,  # Zlagna Sat  - Com. Bârghiş -> ZLAGNA
         223: 145097,  # Şalcău Sat  - Com. Mihăileni -> ŞALCĂU
+        224: 143833,  # Şaroş pe Târnave Loc.  - Orş. Dumbrăveni -> ŞAROŞ PE TÂRNAVE
         226: 145676,  # Şeica Mare Sat  - Com. Şeica Mare -> ŞEICA MARE
         228: 145747,  # Şeica Mică Sat  - Com. Şeica Mică -> ŞEICA MICĂ
         230: 143566,  # Şelimbăr Sat  - Com. Şelimbăr -> ŞELIMBĂR
@@ -11296,39 +11296,6 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         241: 145195,  # Ţichindeal Sat  - Com. Nocrich -> ŢICHINDEAL
     },
     33: {  # SUCEAVA
-        20: 151111,  # Bivolăria Loc.  - Orş. Vicovu de Sus -> BIVOLĂRIA
-        47: 147367,  # Broşteni Loc.  - Orş. Broşteni -> BROŞTENI
-        53: 148630,  # Bucşoaia Loc.  - Orş. Frasin -> BUCŞOAIA
-        62: 146940,  # Bădeuţi Loc.  - Orş. Milişăuţi -> BĂDEUŢI
-        169: 148621,  # Frasin Loc.  - Orş. Frasin -> FRASIN
-        220: 147401,  # Hăleasa Loc.  - Orş. Broşteni -> HĂLEASA
-        247: 147438,  # Lungeni Loc.  - Orş. Broşteni -> LUNGENI
-        254: 146398,  # Mereni Loc.  - Orş. Salcea -> MERENI
-        260: 146986,  # Milişăuţi Loc.  - Orş. Milişăuţi -> MILIŞĂUŢI
-        282: 146673,  # Mănăstioara Loc.  - Orş. Siret -> MĂNĂSTIOARA
-        289: 147447,  # Neagra Loc.  - Orş. Broşteni -> NEAGRA
-        315: 146405,  # Plopeni Loc.  - Orş. Salcea -> PLOPENI
-        346: 146682,  # Pădureni Loc.  - Orş. Siret -> PĂDURENI
-        376: 146389,  # Salcea Loc.  - Orş. Salcea -> SALCEA
-        460: 151102,  # Vicovu de Sus Loc.  - Orş. Vicovu de Sus -> VICOVU DE SUS
-        469: 146600,  # Voroneţ Loc.  - Orş. Gura Humorului -> VORONEŢ
-        475: 146423,  # Văratec Loc.  - Orş. Salcea -> VĂRATEC
-        413: 146272,  # Suceava Mun.  -> SUCEAVA
-        113: 146511,  # Câmpulung Moldovenesc Mun.  -> CÂMPULUNG MOLDOVENESC
-        183: 146548,  # Fălticeni Mun.  -> FĂLTICENI
-        369: 146637,  # Rădăuţi Mun.  -> RĂDĂUŢI
-        453: 146753,  # Vatra-Dornei Mun.  -> VATRA DORNEI
-        49: 147367,  # Broşteni Orş.  -> BROŞTENI
-        74: 147642,  # Cajvana Orş.  -> CAJVANA
-        131: 148015,  # Dolhasca Orş.  -> DOLHASCA
-        170: 148621,  # Frasin Orş.  -> FRASIN
-        200: 146593,  # Gura Humorului Orş.  -> GURA HUMORULUI
-        240: 149236,  # Liteni Orş.  -> LITENI
-        261: 146986,  # Milişăuţi Orş.  -> MILIŞĂUŢI
-        377: 146389,  # Salcea Orş.  -> SALCEA
-        390: 146664,  # Siret Orş.  -> SIRET
-        399: 146717,  # Solca Orş.  -> SOLCA
-        461: 151102,  # Vicovu de Sus Orş.  -> VICOVU DE SUS
         1: 146806,  # Adâncata Sat  - Com. Adâncata -> ADÂNCATA
         3: 148532,  # Antoceni Sat  - Com. Forăşti -> ANTOCENI
         4: 146879,  # Arbore Sat  - Com. Arbore -> ARBORE
@@ -11344,6 +11311,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         16: 148346,  # Berchişeşti Sat  - Com. Berchişeşti -> BERCHIŞEŞTI
         17: 146824,  # Bereşti Sat  - Com. Hănţeşti -> BEREŞTI
         18: 147045,  # Bilca Sat  - Com. Bilca -> BILCA
+        20: 151111,  # Bivolăria Loc.  - Orş. Vicovu de Sus -> BIVOLĂRIA
         21: 149209,  # Bobeica Sat  - Com. Izvoarele Sucevei -> BOBEICA
         22: 146888,  # Bodnăreni Sat  - Com. Arbore -> BODNĂRENI
         23: 146922,  # Bogata Sat  - Com. Baia -> BOGATA
@@ -11361,20 +11329,24 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         39: 147697,  # Braşca Sat  - Com. Ilişeşti -> BRAŞCA
         40: 147214,  # Breaza Sat  - Com. Breaza -> BREAZA
         42: 147223,  # Breaza de Sus Sat  - Com. Breaza -> BREAZA DE SUS
-        44: 149218,  # Brodina Sat  - Com. Izvoarele Sucevei -> BRODINA
         43: 147250,  # Brodina Sat  - Com. Brodina -> BRODINA
+        44: 149218,  # Brodina Sat  - Com. Izvoarele Sucevei -> BRODINA
         46: 147269,  # Brodina de Jos Sat  - Com. Brodina -> BRODINA DE JOS
+        47: 147367,  # Broşteni Loc.  - Orş. Broşteni -> BROŞTENI
         48: 148408,  # Broşteni Sat  - Com. Drăguşeni -> BROŞTENI
+        49: 147367,  # Broşteni Orş.  -> BROŞTENI
         50: 149076,  # Brădăţel Sat  - Com. Horodniceni -> BRĂDĂŢEL
         51: 147811,  # Brăieşti Sat  - Com. Cornu Luncii -> BRĂIEŞTI
         52: 148809,  # Brăniştea Sat  - Com. Fundu Moldovei -> BRANIŞTEA
-        55: 151362,  # Buda Sat  - Com. Zvoriştea -> BUDA
+        53: 148630,  # Bucşoaia Loc.  - Orş. Frasin -> BUCŞOAIA
         54: 150132,  # Buda Sat  - Com. Râşca -> BUDA
+        55: 151362,  # Buda Sat  - Com. Zvoriştea -> BUDA
         56: 148024,  # Budeni Sat  - Orş. Dolhasca -> BUDENI
         57: 149432,  # Bulai Sat  - Com. Moara -> BULAI
         58: 147474,  # Buneşti Sat  - Com. Buneşti -> BUNEŞTI
         60: 151148,  # Burla Sat  - Com. Burla -> BURLA
         61: 151040,  # Bursuceni Sat  - Com. Vereşti -> BURSUCENI
+        62: 146940,  # Bădeuţi Loc.  - Orş. Milişăuţi -> BĂDEUŢI
         63: 147802,  # Băişeşti Sat  - Com. Cornu Luncii -> BĂIŞEŞTI
         64: 147009,  # Bălcăuţi Sat  - Com. Bălcăuţi -> BĂLCĂUŢI
         66: 148934,  # Bălineşti Sat  - Com. Grămeşti -> BĂLINEŞTI
@@ -11384,6 +11356,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         70: 147090,  # Bărăşti Sat  - Com. Boroaia -> BĂRĂŞTI
         71: 147544,  # Cacica Sat  - Com. Cacica -> CACICA
         73: 147642,  # Cajvana Sat  - Orş. Cajvana -> CAJVANA
+        74: 147642,  # Cajvana Orş.  -> CAJVANA
         75: 147599,  # Calafindeşti Sat  - Com. Calafindeşti -> CALAFINDEŞTI
         77: 149771,  # Capu Codrului Sat  - Com. Păltinoasa -> CAPU CODRULUI
         78: 150917,  # Capu Câmpului Sat  - Com. Capu Câmpului -> CAPU CÂMPULUI
@@ -11418,6 +11391,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         110: 147893,  # Crucea Sat  - Com. Crucea -> CRUCEA
         111: 147152,  # Cumpărătura Sat  - Com. Bosanci -> CUMPĂRĂTURA
         112: 147278,  # Cununschi Sat  - Com. Brodina -> CUNUNSCHI
+        113: 146511,  # Câmpulung Moldovenesc Mun.  -> CÂMPULUNG MOLDOVENESC
         115: 147722,  # Cârlibaba Sat  - Com. Cârlibaba -> CÂRLIBABA
         116: 147731,  # Cârlibaba Nouă Sat  - Com. Cârlibaba -> CÂRLIBABA NOUĂ
         117: 147973,  # Călineşti Sat  - Com. Dărmăneşti -> CĂLINEŞTI
@@ -11434,6 +11408,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         128: 148827,  # Delniţa Sat  - Com. Fundu Moldovei -> DELNIŢA
         129: 148836,  # Deluţ Sat  - Com. Fundu Moldovei -> DELUŢ
         130: 149566,  # Demacusa Sat  - Com. Moldoviţa -> DEMACUŞA
+        131: 148015,  # Dolhasca Orş.  -> DOLHASCA
         132: 148015,  # Dolhasca Sat  - Orş. Dolhasca -> DOLHASCA
         134: 148113,  # Dolheştii Mici Sat  - Com. Dolheşti -> DOLHEŞTII MICI
         135: 148104,  # Dolheştii-Mari Sat  - Com. Dolheşti -> DOLHEŞTII-MARI
@@ -11462,6 +11437,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         165: 146450,  # Florinta Sat  - Com. Şcheia -> FLORINTA
         166: 148523,  # Forăşti Sat  - Com. Forăşti -> FORĂŞTI
         168: 147394,  # Frasin Sat  - Orş. Broşteni -> FRASIN
+        169: 148621,  # Frasin Loc.  - Orş. Frasin -> FRASIN
+        170: 148621,  # Frasin Orş.  -> FRASIN
         171: 149441,  # Frumoasa Sat  - Com. Moara -> FRUMOASA
         172: 148738,  # Frumosu Sat  - Com. Frumosu -> FRUMOSU
         174: 148676,  # Frătăuţii Noi Sat  - Com. Frătăuţii Noi -> FRĂTĂUŢII NOI
@@ -11469,6 +11446,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         178: 148774,  # Fundu Moldovei Sat  - Com. Fundu Moldovei -> FUNDU MOLDOVEI
         180: 150828,  # Fântâna Mare Sat  - Com. Fântâna Mare -> FÂNTÂNA MARE
         181: 148462,  # Fântânele Sat  - Com. Fântânele -> FÂNTÂNELE
+        183: 146548,  # Fălticeni Mun.  -> FĂLTICENI
         184: 146959,  # Gara Sat  - Orş. Milişăuţi -> GARA
         185: 148417,  # Gara Leu Sat  - Com. Drăguşeni -> GARA LEU
         186: 150374,  # Gemenea Sat  - Com. Stulpicani -> GEMENEA
@@ -11483,6 +11461,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         196: 148989,  # Grăniceşti Sat  - Com. Grăniceşti -> GRĂNICEŞTI
         198: 148033,  # Gulia Sat  - Orş. Dolhasca -> GULIA
         199: 150463,  # Gura Haitii Sat  - Com. Şaru Dornei -> GURA HAITII
+        200: 146593,  # Gura Humorului Orş.  -> GURA HUMORULUI
         201: 150061,  # Gura Putnei Sat  - Com. Putna -> GURA PUTNEI
         202: 149003,  # Gura Solcii Sat  - Com. Grăniceşti -> GURA SOLCII
         203: 150276,  # Găineşti Sat  - Com. Slatina -> GĂINEŞTI
@@ -11499,6 +11478,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         217: 148890,  # Hurjuieni Sat  - Com. Gălăneşti -> HURJUIENI
         218: 150025,  # Huşi Sat  - Com. Preuteşti -> HUŞI
         219: 150016,  # Hârtop Sat  - Com. Hârtop -> HÂRTOP
+        220: 147401,  # Hăleasa Loc.  - Orş. Broşteni -> HĂLEASA
         221: 146851,  # Hănţeşti Sat  - Com. Hănţeşti -> HĂNŢEŞTI
         223: 149147,  # Iacobeni Sat  - Com. Iacobeni -> IACOBENI
         224: 149012,  # Iacobeşti Sat  - Com. Grăniceşti -> IACOBEŞTI
@@ -11515,22 +11495,27 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         237: 150034,  # Leucuşeşti Sat  - Com. Preuteşti -> LEUCUŞEŞTI
         238: 146352,  # Lipoveni Sat  - Com. Mitocu Dragomirnei -> LIPOVENI
         239: 146307,  # Lisaura Sat  - Com. Ipoteşti -> LISAURA
+        240: 149236,  # Liteni Orş.  -> LITENI
         241: 149469,  # Liteni Sat  - Com. Moara -> LITENI
         242: 149236,  # Liteni Sat  - Orş. Liteni -> LITENI
         243: 148373,  # Lucăceşti Sat  - Com. Drăgoieşti -> LUCĂCEŞTI
-        245: 151308,  # Lunca Sat  - Com. Zamostea -> LUNCA
         244: 146977,  # Lunca Sat  - Orş. Milişăuţi -> LUNCA
+        245: 151308,  # Lunca Sat  - Com. Zamostea -> LUNCA
         246: 150613,  # Luncuşoara Sat  - Com. Udeşti -> LUNCUŞOARA
+        247: 147438,  # Lungeni Loc.  - Orş. Broşteni -> LUNGENI
         248: 150739,  # Lupcina Sat  - Com. Ulma -> LUPCINA
         249: 150098,  # Lămăşeni Sat  - Com. Rădăşeni -> LĂMĂŞENI
         250: 147553,  # Maidan Sat  - Com. Cacica -> MAIDAN
         251: 148550,  # Manolea Sat  - Com. Forăşti -> MANOLEA
         253: 149307,  # Marginea Sat  - Com. Marginea -> MARGINEA
+        254: 146398,  # Mereni Loc.  - Orş. Salcea -> MERENI
         255: 151200,  # Mereşti Sat  - Com. Vultureşti -> MEREŞTI
         256: 150846,  # Mesteceni Sat  - Com. Vadu Moldovei -> MESTECENI
         257: 149174,  # Mestecăniş Sat  - Com. Iacobeni -> MESTECĂNIŞ
         258: 146469,  # Mihoveni Sat  - Com. Şcheia -> MIHOVENI
         259: 149085,  # Mihăieşti Sat  - Com. Horodniceni -> MIHĂIEŞTI
+        260: 146986,  # Milişăuţi Loc.  - Orş. Milişăuţi -> MILIŞĂUŢI
+        261: 146986,  # Milişăuţi Orş.  -> MILIŞĂUŢI
         262: 150926,  # Mironu Sat  - Com. Valea Moldovei -> MIRONU
         263: 146361,  # Mitocaşi Sat  - Com. Mitocu Dragomirnei -> MITOCAŞI
         264: 146334,  # Mitocu Dragomirnei Sat  - Com. Mitocu Dragomirnei -> MITOCU DRAGOMIRNEI
@@ -11545,11 +11530,13 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         278: 150748,  # Măgura Sat  - Com. Ulma -> MĂGURA
         280: 149325,  # Mălini Sat  - Com. Mălini -> MĂLINI
         281: 148710,  # Măneuţi Sat  - Com. Frătăuţii Vechi -> MĂNEUŢI
+        282: 146673,  # Mănăstioara Loc.  - Orş. Siret -> MĂNĂSTIOARA
         283: 150622,  # Mănăstioara Sat  - Com. Udeşti -> MĂNĂSTIOARA
         285: 149389,  # Mănăstirea Humorului Sat  - Com. Mănăstirea Humorului -> MĂNĂSTIREA HUMORULUI
         286: 147946,  # Măriţei Sat  - Com. Dărmăneşti -> MĂRIŢEI
         287: 147991,  # Măriţeia Mică Sat  - Com. Dărmăneşti -> MĂRIŢEIA MICĂ
         288: 148337,  # Măzănăeşti Sat  - Com. Drăgoieşti -> MĂZĂNĂEŞTI
+        289: 147447,  # Neagra Loc.  - Orş. Broşteni -> NEAGRA
         290: 150454,  # Neagra Şarului Sat  - Com. Şaru Dornei -> NEAGRA ŞARULUI
         291: 147027,  # Negostina Sat  - Com. Bălcăuţi -> NEGOSTINA
         292: 150383,  # Negrileasa Sat  - Com. Stulpicani -> NEGRILEASA
@@ -11565,6 +11552,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         303: 147321,  # Paltin Sat  - Com. Brodina -> PALTIN
         304: 151013,  # Paltinu Sat  - Com. Vatra Moldoviţei -> PALTINU
         305: 149691,  # Panaci Sat  - Com. Panaci -> PANACI
+        307: 150551,  # Părhăuţi Sat  - Com. Todireşti -> PĂRHĂUŢI
         308: 147483,  # Petia Sat  - Com. Buneşti -> PETIA
         309: 147456,  # Pietroasa Sat  - Orş. Broşteni -> PIETROASA
         310: 149897,  # Pilugani Sat  - Com. Poiana Stampei -> PILUGANI
@@ -11572,6 +11560,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         312: 150472,  # Plaiu Şarului Sat  - Com. Şaru Dornei -> PLAIU ŞARULUI
         313: 149398,  # Pleşa Sat  - Com. Mănăstirea Humorului -> PLEŞA
         314: 151166,  # Pleşeşti Sat  - Com. Vultureşti -> PLEŞEŞTI
+        315: 146405,  # Plopeni Loc.  - Orş. Salcea -> PLOPENI
         316: 148658,  # Plutoniţa Sat  - Orş. Frasin -> PLUTONIŢA
         317: 150631,  # Plăvălari Sat  - Com. Udeşti -> PLĂVĂLARI
         318: 150105,  # Pocoleni Sat  - Com. Rădăşeni -> POCOLENI
@@ -11584,7 +11573,6 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         325: 148248,  # Poiana Negrii Sat  - Com. Dorna Candrenilor -> POIANA NEGRII
         326: 149860,  # Poiana Stampei Sat  - Com. Poiana Stampei -> POIANA STAMPEI
         328: 148051,  # Poienari Sat  - Orş. Dolhasca -> POIENARI
-        504: 146726,  # Poieni-Solca Sat  - Com. Poieni-Solca -> POIENI-SOLCA
         329: 150640,  # Poieni-Suceava Sat  - Com. Udeşti -> POIENI-SUCEAVA
         330: 149940,  # Pojorâta Sat  - Com. Pojorâta -> POJORÂTA
         332: 150873,  # Praxia Sat  - Com. Fântâna Mare -> PRAXIA
@@ -11598,16 +11586,16 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         343: 149799,  # Pârteştii de Jos Sat  - Com. Pârteştii de Jos -> PÂRTEŞTII DE JOS
         344: 147535,  # Pârteştii de Sus Sat  - Com. Cacica -> PÂRTEŞTII DE SUS
         345: 147232,  # Pârâu Negrei Sat  - Com. Breaza -> PÂRÂU NEGREI
+        346: 146682,  # Pădureni Loc.  - Orş. Siret -> PĂDURENI
         347: 147839,  # Păiseni Sat  - Com. Cornu Luncii -> PĂISENI
         348: 149744,  # Păltiniş Sat  - Com. Panaci -> PĂLTINIŞ
         349: 149762,  # Păltinoasa Sat  - Com. Păltinoasa -> PĂLTINOASA
-        307: 150551,  # Părhăuţi Sat  - Com. Todireşti -> PĂRHĂUŢI
         351: 149842,  # Pătrăuţi Sat  - Com. Pătrăuţi -> PĂTRĂUŢI
         353: 150659,  # Racova Sat  - Com. Udeşti -> RACOVA
         354: 149575,  # Raşca Sat  - Com. Moldoviţa -> RAŞCA
         355: 150668,  # Reuseni Sat  - Com. Udeşti -> REUSENI
-        357: 149021,  # Româneşti Sat  - Com. Grăniceşti -> ROMÂNEŞTI
         356: 148266,  # Româneşti Sat  - Com. Coşna -> ROMÂNEŞTI
+        357: 149021,  # Româneşti Sat  - Com. Grăniceşti -> ROMÂNEŞTI
         358: 149094,  # Rotopăneşti Sat  - Com. Horodniceni -> ROTOPĂNEŞTI
         359: 149263,  # Rotunda Sat  - Orş. Liteni -> ROTUNDA
         360: 149254,  # Roşcani Sat  - Orş. Liteni -> ROŞCANI
@@ -11618,10 +11606,13 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         365: 148587,  # Ruşi Sat  - Com. Forăşti -> RUŞI
         366: 150677,  # Ruşii-Mănăstioara Sat  - Com. Udeşti -> RUŞII-MĂNĂSTIOARA
         367: 150123,  # Râşca Sat  - Com. Râşca -> RÂŞCA
+        369: 146637,  # Rădăuţi Mun.  -> RĂDĂUŢI
         370: 150089,  # Rădăşeni Sat  - Com. Rădăşeni -> RĂDĂŞENI
         372: 151326,  # Răuţeni Sat  - Com. Zamostea -> RĂUŢENI
         373: 150187,  # Sadova Sat  - Com. Sadova -> SADOVA
         375: 147330,  # Sadău Sat  - Com. Brodina -> SADĂU
+        376: 146389,  # Salcea Loc.  - Orş. Salcea -> SALCEA
+        377: 146389,  # Salcea Orş.  -> SALCEA
         378: 147848,  # Sasca Mare Sat  - Com. Cornu Luncii -> SASCA MARE
         379: 147857,  # Sasca Mică Sat  - Com. Cornu Luncii -> SASCA MICĂ
         380: 147866,  # Sasca Nouă Sat  - Com. Cornu Luncii -> SASCA NOUĂ
@@ -11632,6 +11623,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         386: 149272,  # Siliştea Sat  - Orş. Liteni -> SILIŞTEA
         387: 148079,  # Siliştea Nouă Sat  - Orş. Dolhasca -> SILIŞTEA NOUĂ
         388: 150230,  # Siminicea Sat  - Com. Siminicea -> SIMINICEA
+        390: 146664,  # Siret Orş.  -> SIRET
         391: 150267,  # Slatina Sat  - Com. Slatina -> SLATINA
         393: 148499,  # Slobozia Sat  - Com. Fântânele -> SLOBOZIA
         394: 151406,  # Slobozia Sat  - Com. Zvoriştea -> SLOBOZIA
@@ -11639,6 +11631,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         396: 150169,  # Slătioara Sat  - Com. Râşca -> SLĂTIOARA
         397: 150392,  # Slătioara Sat  - Com. Stulpicani -> SLĂTIOARA
         398: 148863,  # Smida Ungurenilor Sat  - Com. Fundu Moldovei -> SMIDA UNGURENILOR
+        399: 146717,  # Solca Orş.  -> SOLCA
         400: 150579,  # Soloneţ Sat  - Com. Todireşti -> SOLONEŢ
         401: 147571,  # Soloneţu Nou Sat  - Com. Cacica -> SOLONEŢU NOU
         402: 150882,  # Spătăreşti Sat  - Com. Fântâna Mare -> SPĂTĂREŞTI
@@ -11649,6 +11642,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         409: 150365,  # Stulpicani Sat  - Com. Stulpicani -> STULPICANI
         411: 151415,  # Stânca Sat  - Com. Zvoriştea -> STÂNCA
         412: 151424,  # Stâncuţa Sat  - Com. Zvoriştea -> STÂNCUŢA
+        413: 146272,  # Suceava Mun.  -> SUCEAVA
         414: 150427,  # Suceviţa Sat  - Com. Suceviţa -> SUCEVIŢA
         416: 148195,  # Sunători Sat  - Com. Dorna-Arini -> SUNĂTORI
         417: 150560,  # Sârghieşti Sat  - Com. Todireşti -> SÂRGHIEŞTI
@@ -11680,20 +11674,25 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         448: 150944,  # Vama Sat  - Com. Vama -> VAMA
         450: 149815,  # Varvata Sat  - Com. Pârteştii de Jos -> VARVATA
         451: 150999,  # Vatra Moldoviţei Sat  - Com. Vatra Moldoviţei -> VATRA MOLDOVIŢEI
+        453: 146753,  # Vatra-Dornei Mun.  -> VATRA DORNEI
         454: 148961,  # Verbia Sat  - Com. Grămeşti -> VERBIA
         455: 149281,  # Vercicani Sat  - Orş. Liteni -> VERCICANI
         456: 151031,  # Vereşti Sat  - Com. Vereşti -> VEREŞTI
         458: 151086,  # Vicovu de Jos Sat  - Com. Vicovu de Jos -> VICOVU DE JOS
+        460: 151102,  # Vicovu de Sus Loc.  - Orş. Vicovu de Sus -> VICOVU DE SUS
+        461: 151102,  # Vicovu de Sus Orş.  -> VICOVU DE SUS
         462: 149646,  # Vicşani Sat  - Com. Muşeniţa -> VICŞANI
         463: 150436,  # Voievodeasa Sat  - Com. Suceviţa -> VOIEVODEASA
         464: 148907,  # Voitinel Sat  - Com. Voitinel -> VOITINEL
         465: 151139,  # Volovăţ Sat  - Com. Volovăţ -> VOLOVĂŢ
         467: 149487,  # Vornicenii Mari Sat  - Com. Moara -> VORNICENII MARI
         468: 149496,  # Vornicenii Mici Sat  - Com. Moara -> VORNICENII MICI
+        469: 146600,  # Voroneţ Loc.  - Orş. Gura Humorului -> VORONEŢ
         470: 151237,  # Vultureşti Sat  - Com. Vultureşti -> VULTUREŞTI
         472: 150338,  # Vâlcelele Sat  - Com. Stroieşti -> VÂLCELELE
         473: 149824,  # Vârfu Dealului Sat  - Com. Pârteştii de Jos -> VÂRFU DEALULUI
         474: 149361,  # Văleni-Stânişoara Sat  - Com. Mălini -> VĂLENI-STÂNIŞOARA
+        475: 146423,  # Văratec Loc.  - Orş. Salcea -> VĂRATEC
         476: 149637,  # Văşcăuţi Sat  - Com. Muşeniţa -> VĂŞCĂUŢI
         477: 150347,  # Zahareşti Sat  - Com. Stroieşti -> ZAHAREŞTI
         478: 147349,  # Zalomestra Sat  - Com. Brodina -> ZALOMESTRA
@@ -11711,15 +11710,12 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         494: 150212,  # Ţibeni Sat  - Com. Satu Mare -> ŢIBENI
         495: 147768,  # Ţibău Sat  - Com. Cârlibaba -> ŢIBĂU
         496: 148596,  # Ţoleşti Sat  - Com. Forăşti -> ŢOLEŞTI
+        504: 146726,  # Poieni-Solca Sat  - Com. Poieni-Solca -> POIENI-SOLCA
     },
     34: {  # TELEORMAN
-        3: 151807,  # Alexandria Mun.  -> ALEXANDRIA
-        208: 151889,  # Roşiori de Vede Mun.  -> ROSIORI DE VEDE
-        274: 151692,  # Turnu Măgurele Mun.  -> TURNU MĂGURELE
-        292: 151914,  # Videle Orş.  -> VIDELE
-        306: 151987,  # Zimnicea Orş.  -> ZIMNICEA
         1: 154086,  # Albeni Sat  - Com. Scurtu Mare -> ALBENI
         2: 154870,  # Albeşti Sat  - Com. Vedea -> ALBEŞTI
+        3: 151807,  # Alexandria Mun.  -> ALEXANDRIA
         4: 152378,  # Antoneşti Sat  - Com. Călineşti -> ANTONEŞTI
         5: 152109,  # Baciu Sat  - Com. Blejeşti -> BACIU
         6: 152001,  # Balaci Sat  - Com. Balaci -> BALACI
@@ -11730,6 +11726,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         12: 154512,  # Beiu Sat  - Com. Ştorobăneasa -> BEIU
         13: 153455,  # Belciug Sat  - Com. Necşeşti -> BELCIUG
         14: 152813,  # Beuca Sat  - Com. Beuca -> BEUCA
+        15: 153650,  # Bârseştii de Jos Sat  - Com. Beciu -> BÂRSEŞTII DE JOS
         16: 152092,  # Blejeşti Sat  - Com. Blejeşti -> BLEJEŞTI
         18: 152136,  # Bogdana Sat  - Com. Bogdana -> BOGDANA
         20: 152181,  # Botoroaga Sat  - Com. Botoroaga -> BOTOROAGA
@@ -11742,13 +11739,12 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         30: 153721,  # Brăteşti Sat  - Com. Poeni -> BRĂTEŞTI
         31: 154772,  # Brătăşani Sat  - Com. Trivalea-Moşteni -> BRĂTĂŞANI
         32: 152289,  # Bujoreni Sat  - Com. Bujoreni -> BUJORENI
-        36: 152430,  # Bujoru Sat  - Com. Călmăţuiu -> BUJORU
         34: 152323,  # Bujoru Sat  - Com. Bujoru -> BUJORU
+        36: 152430,  # Bujoru Sat  - Com. Călmăţuiu -> BUJORU
         37: 152010,  # Burdeni Sat  - Com. Balaci -> BURDENI
         38: 153990,  # Butculeşti Sat  - Com. Săceni -> BUTCULEŞTI
         39: 154246,  # Buteşti Sat  - Com. Siliştea -> BUTEŞTI
         40: 152341,  # Buzescu Sat  - Com. Buzescu -> BUZESCU
-        15: 153650,  # Bârseştii de Jos Sat  - Com. Beciu -> BÂRSEŞTII DE JOS
         42: 153044,  # Bâscoveni Sat  - Com. Gălăteni -> BÂSCOVENI
         43: 152047,  # Băbăiţa Sat  - Com. Băbăiţa -> BĂBĂIŢA
         45: 152485,  # Băcăleşti Sat  - Com. Călmăţuiu de Sus -> BĂCĂLEŞTI
@@ -11761,8 +11757,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         53: 153883,  # Cetatea Sat  - Com. Rădoieşti -> CETATEA
         55: 152537,  # Ciolăneştii din Deal Sat  - Com. Ciolăneşti -> CIOLĂNEŞTII DIN DEAL
         56: 152555,  # Ciolăneştii din Vale Sat  - Com. Ciolăneşti -> CIOLĂNEŞTII DIN VALE
-        59: 152608,  # Ciuperceni Sat  - Com. Cosmeşti -> CIUPERCENI
         57: 151718,  # Ciuperceni Sat  - Com. Ciuperceni -> CIUPERCENI
+        59: 152608,  # Ciuperceni Sat  - Com. Cosmeşti -> CIUPERCENI
         60: 154004,  # Ciurari Sat  - Com. Săceni -> CIURARI
         61: 153080,  # Ciurari-Deal Sat  - Com. Gratia -> CIURARI-DEAL
         62: 152056,  # Clăniţa Sat  - Com. Frăsinet -> CLĂNIŢA
@@ -11782,7 +11778,6 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         83: 152476,  # Călmăţuiu de Sus Sat  - Com. Călmăţuiu de Sus -> CĂLMĂŢUIU DE SUS
         85: 152190,  # Călugăru Sat  - Com. Botoroaga -> CĂLUGARU
         86: 153730,  # Cătunu Sat  - Com. Poeni -> CĂTUNU
-        220: 154781,  # Deparaţi Sat  - Com. Trivalea-Moşteni -> DEPARAŢI
         87: 152733,  # Dideşti Sat  - Com. Dideşti -> DIDEŞTI
         89: 154683,  # Dobreni Sat  - Com. Tătărăştii de Sus -> DOBRENI
         91: 152779,  # Dobroteşti Sat  - Com. Dobroteşti -> DOBROTEŞTI
@@ -11825,8 +11820,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         142: 153302,  # Merenii de Jos Sat  - Com. Mereni -> MERENII DE JOS
         143: 153311,  # Merenii de Sus Sat  - Com. Mereni -> MERENII DE SUS
         144: 154905,  # Meri Sat  - Com. Vedea -> MERI
-        146: 152788,  # Merişani Sat  - Com. Dobroteşti -> MERIŞANI
         145: 152074,  # Merişani Sat  - Com. Băbăiţa -> MERIŞANI
+        146: 152788,  # Merişani Sat  - Com. Dobroteşti -> MERIŞANI
         147: 151754,  # Moldoveni Sat  - Com. Islaz -> MOLDOVENI
         149: 152966,  # Moşteni Sat  - Com. Furculeşti -> MOŞTENI
         150: 153393,  # Moşteni Sat  - Com. Moşteni -> MOŞTENI
@@ -11864,13 +11859,14 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         197: 153749,  # Preajba Sat  - Com. Poeni -> PREAJBA
         198: 152305,  # Prunaru Sat  - Com. Bujoreni -> PRUNARU
         199: 153188,  # Prundu Sat  - Com. Lunca -> PRUNDU
-        201: 154255,  # Purani Sat  - Com. Purani -> PURANI
         200: 153785,  # Purani Sat  - Com. Vităneşti -> VITANESTI
+        201: 154255,  # Purani Sat  - Com. Purani -> PURANI
         202: 154264,  # Puranii de Sus Sat  - Com. Purani -> PURANII DE SUS
         203: 153838,  # Putineiu Sat  - Com. Putineiu -> PUTINEIU
         205: 153231,  # Păru Rotund Sat  - Com. Nenciuleşti -> PĂRU ROTUND
         206: 153017,  # Păuleasca Sat  - Com. Frumoasa -> PĂULEASCA
         207: 154558,  # Rotăreşti Sat  - Com. Talpa -> ROTĂREŞTI
+        208: 151889,  # Roşiori de Vede Mun.  -> ROSIORI DE VEDE
         210: 153892,  # Rădoieşti-Deal Sat  - Com. Rădoieşti -> RĂDOIEŞTI-DEAL
         211: 153874,  # Rădoieşti-Vale Sat  - Com. Rădoieşti -> RĂDOIEŞTI-VALE
         212: 151950,  # Răduleşti Sat  - Com. Crevenicu -> RĂDULEŞTI
@@ -11879,6 +11875,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         216: 153945,  # Salcia Sat  - Com. Salcia -> SALCIA
         218: 152751,  # Satu Nou Sat  - Com. Dideşti -> SATU NOU
         219: 152859,  # Satul Vechi Sat  - Com. Drăcşenei -> SATUL VECHI
+        220: 154781,  # Deparaţi Sat  - Com. Trivalea-Moşteni -> DEPARAŢI
         221: 153794,  # Schitu Poienari Sat  - Com. Vităneşti -> SCHITU POIENARI
         223: 154022,  # Scrioaştea Sat  - Com. Scrioaştea -> SCRIOAŞTEA
         225: 154077,  # Scurtu Mare Sat  - Com. Scurtu Mare -> SCURTU MARE
@@ -11889,8 +11886,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         231: 154193,  # Segarcea-Vale Sat  - Com. Segarcea-Vale -> SEGARCEA-VALE
         233: 152118,  # Sericu Sat  - Com. Blejeşti -> SERICU
         234: 154175,  # Sfinţeşti Sat  - Com. Sfinţeşti -> SFINŢEŞTI
-        238: 154237,  # Siliştea Sat  - Com. Siliştea -> SILIŞTEA
         237: 153801,  # Siliştea Sat  - Com. Vităneşti -> SILIŞTEA
+        238: 154237,  # Siliştea Sat  - Com. Siliştea -> SILIŞTEA
         239: 154273,  # Siliştea Mică Sat  - Com. Siliştea -> SILIŞTEA MICĂ
         241: 154291,  # Siliştea-Gumeşti Sat  - Com. Siliştea-Gumeşti -> SILIŞTEA-GUMEŞTI
         243: 154353,  # Slobozia Mândra Sat  - Com. Slobozia Mândra -> SLOBOZIA MÂNDRA
@@ -11899,8 +11896,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         247: 154399,  # Smârdioasa Sat  - Com. Smârdioasa -> SMÂRDIOASA
         248: 154451,  # Socetu Sat  - Com. Stejaru -> SOCETU
         249: 152975,  # Spătărei Sat  - Com. Furculeşti -> SPĂTĂREI
-        252: 154424,  # Stejaru Sat  - Com. Stejaru -> STEJARU
         251: 152653,  # Stejaru Sat  - Com. Crângeni -> STEJARU
+        252: 154424,  # Stejaru Sat  - Com. Stejaru -> STEJARU
         254: 154479,  # Suhaia Sat  - Com. Suhaia -> SUHAIA
         256: 154326,  # Sârbeni Sat  - Com. Sârbeni -> SÂRBENI
         257: 154317,  # Sârbenii de Jos Sat  - Com. Sârbeni -> SÂRBENII DE JOS
@@ -11915,6 +11912,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         271: 154807,  # Troianul Sat  - Com. Troianul -> TROIANUL
         272: 153963,  # Tudor Vladimirescu Sat  - Com. Salcia -> TUDOR VLADIMIRESCU
         273: 152216,  # Tunari Sat  - Com. Botoroaga -> TUNARI
+        274: 151692,  # Turnu Măgurele Mun.  -> TURNU MĂGURELE
         275: 152207,  # Târnava Sat  - Com. Botoroaga -> TÂRNAVA
         277: 154594,  # Tătărăştii de Jos Sat  - Com. Tătărăştii de Jos -> TĂTĂRĂŞTII DE JOS
         279: 154674,  # Tătărăştii de Sus Sat  - Com. Tătărăştii de Sus -> TĂTĂRĂŞTII DE SUS
@@ -11929,6 +11927,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         288: 153375,  # Valea Părului Sat  - Com. Mârzăneşti -> VALEA PĂRULUI
         289: 154825,  # Vatra Sat  - Com. Troianul -> VATRA
         290: 154861,  # Vedea Sat  - Com. Vedea -> VEDEA
+        292: 151914,  # Videle Orş.  -> VIDELE
         293: 154059,  # Viile Sat  - Com. Scrioaştea -> VIILE
         294: 154923,  # Viişoara Sat  - Com. Viişoara -> VIIŞOARA
         296: 153810,  # Vităneşti Sat  - Com. Vităneşti -> PURANI
@@ -11939,28 +11938,18 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         303: 152939,  # Văceni Sat  - Com. Drăgăneşti-Vlaşca -> VĂCENI
         304: 152895,  # Văcăreşti Sat  - Com. Drăgăneşti de Vede -> VĂCĂREŞTI
         305: 153767,  # Vătaşi Sat  - Com. Poeni -> VĂTAŞI
+        306: 151987,  # Zimnicea Orş.  -> ZIMNICEA
         307: 153428,  # Zimnicele Sat  - Com. Năsturelu -> ZIMNICELE
         308: 152715,  # Zlata Sat  - Com. Dracea -> ZLATA
         309: 154987,  # Zâmbreasca Sat  - Com. Zâmbreasca -> ZÂMBREASCA
-        315: 152742,  # Însurăţei Sat  - Com. Dideşti -> ÎNSURĂŢEI
         311: 154406,  # Şoimu Sat  - Com. Smârdioasa -> ŞOIMU
         312: 153320,  # Ştefeni Sat  - Com. Mereni -> ŞTEFENI
         314: 154503,  # Ştorobăneasa Sat  - Com. Ştorobăneasa -> ŞTOROBĂNEASA
+        315: 152742,  # Însurăţei Sat  - Com. Dideşti -> ÎNSURĂŢEI
         316: 153758,  # Ţavârlău Sat  - Com. Poeni -> ŢĂVÂRLĂU
         318: 154843,  # Ţigăneşti Sat  - Com. Ţigăneşti -> ŢIGĂNEŞTI
     },
     35: {  # TIMIŞ
-        319: 155421,  # Silagiu Loc.  - Orş. Buziaş -> SILAGIU
-        355: 155252,  # Timişoara Mun.  -> TIMIŞOARA
-        223: 155369,  # Lugoj Mun.  -> LUGOJ
-        56: 155412,  # Buziaş Orş.  -> BUZIAŞ
-        81: 156366,  # Ciacova Orş.  -> CIACOVA
-        121: 155467,  # Deta Orş.  -> DETA
-        148: 156810,  # Făget Orş.  -> FĂGET
-        178: 157095,  # Gătaia Orş.  -> GĂTAIA
-        210: 155500,  # Jimbolia Orş.  -> JIMBOLIA
-        294: 158323,  # Recaş Orş.  -> RECAŞ
-        339: 155537,  # Sânnicolau Mare Orş.  -> SÂNNICOLAU MARE
         1: 157852,  # Albina Sat  - Com. Moşniţa Nouă -> ALBINA
         2: 157709,  # Alioş Sat  - Com. Maşloc -> ALIOŞ
         3: 156053,  # Altringen Sat  - Com. Bogda -> ALTRINGEN
@@ -12005,6 +11994,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         53: 156874,  # Bunea Mică Sat  - Orş. Făget -> BUNEA MICĂ
         54: 157120,  # Butin Sat  - Orş. Gătaia -> BUTIN
         55: 156062,  # Buzad Sat  - Com. Bogda -> BUZAD
+        56: 155412,  # Buziaş Orş.  -> BUZIAŞ
         58: 155966,  # Bârna Sat  - Com. Bârna -> BÂRNA
         59: 158546,  # Bărăteaz Sat  - Com. Satchinez -> BĂRĂTEAZ
         60: 156829,  # Băteşti Sat  - Orş. Făget -> BĂTEŞTI
@@ -12025,6 +12015,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         78: 155822,  # Chizătău Sat  - Com. Belint -> CHIZĂTĂU
         79: 155332,  # Chişoda Sat  - Com. Giroc -> CHIŞODA
         80: 156366,  # Ciacova Sat  - Orş. Ciacova -> CIACOVA
+        81: 156366,  # Ciacova Orş.  -> CIACOVA
         82: 156552,  # Cireşu Sat  - Com. Criciova -> CIREŞU
         83: 156561,  # Cireşu Mic Sat  - Com. Criciova -> CIREŞU MIC
         84: 155868,  # Cladova Sat  - Com. Bethausen -> CLADOVA
@@ -12057,6 +12048,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         117: 156632,  # Darova Sat  - Com. Darova -> DAROVA
         118: 157807,  # Dejan Sat  - Com. Moraviţa -> DEJAN
         120: 156678,  # Denta Sat  - Com. Denta -> DENTA
+        121: 155467,  # Deta Orş.  -> DETA
         122: 158083,  # Dinias Sat  - Com. Peciu Nou -> DINIAŞ
         123: 155680,  # Dobreşti Sat  - Com. Bara -> DOBREŞTI
         124: 155617,  # Dolat Sat  - Com. Livezile -> DOLAŢ
@@ -12078,6 +12070,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         144: 159357,  # Folea Sat  - Com. Voiteg -> FOLEA
         146: 156936,  # Fârdea Sat  - Com. Fârdea -> FÂRDEA
         147: 155573,  # Fădimac Sat  - Com. Balint -> FĂDIMAC
+        148: 156810,  # Făget Orş.  -> FĂGET
         149: 156810,  # Făget Sat  - Orş. Făget -> FĂGET
         150: 158163,  # Fărăşeşti Sat  - Com. Pietroasa -> FĂRĂŞEŞTI
         151: 156384,  # Gad Sat  - Com. Ghilad -> GAD
@@ -12100,6 +12093,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         175: 157647,  # Groşi Sat  - Com. Margina -> GROŞI
         176: 155831,  # Gruni Sat  - Com. Belint -> GRUNI
         177: 157291,  # Grănicerii Sat  - Com. Giera -> GRĂNICERII
+        178: 157095,  # Gătaia Orş.  -> GĂTAIA
         179: 157095,  # Gătaia Sat  - Orş. Gătaia -> GĂTAIA
         180: 159277,  # Herendeşti Sat  - Com. Victor Vlad Delamarina -> HERENDEŞTI
         181: 158341,  # Herneacova Sat  - Orş. Recaş -> HERNEACOVA
@@ -12129,8 +12123,9 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         206: 156570,  # Jdioara Sat  - Com. Criciova -> JDIOARA
         208: 157433,  # Jebel Sat  - Com. Jebel -> JEBEL
         209: 157059,  # Jena Sat  - Com. Gavojdia -> JENA
-        212: 159099,  # Jupani Sat  - Com. Traian Vuia -> JUPANI
+        210: 155500,  # Jimbolia Orş.  -> JIMBOLIA
         211: 156892,  # Jupâneşti Sat  - Orş. Făget -> JUPÂNEŞTI
+        212: 159099,  # Jupani Sat  - Com. Traian Vuia -> JUPANI
         213: 156008,  # Jureşti Sat  - Com. Bârna -> JUREŞTI
         215: 157460,  # Lenauheim Sat  - Com. Lenauheim -> LENAUHEIM
         216: 155895,  # Leucuşeşti Sat  - Com. Bethausen -> LEUCUŞEŞTI
@@ -12138,6 +12133,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         219: 155626,  # Livezile Sat  - Com. Livezile -> LIVEZILE
         221: 157549,  # Lovrin Sat  - Com. Lovrin -> LOVRIN
         222: 156197,  # Lucaret Sat  - Com. Brestovăţ -> LUCAREŢ
+        223: 155369,  # Lugoj Mun.  -> LUGOJ
         224: 157068,  # Lugojel Sat  - Com. Gavojdia -> LUGOJEL
         225: 158939,  # Luncanii de Jos Sat  - Com. Tomeşti -> LUNCANII DE JOS
         226: 158948,  # Luncanii de Sus Sat  - Com. Tomeşti -> LUNCANII DE SUS
@@ -12194,6 +12190,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         290: 159295,  # Pădureni Sat  - Com. Victor Vlad Delamarina -> PĂDURENI
         291: 156507,  # Păru Sat  - Com. Coşteiu -> PĂRU
         293: 158252,  # Racoviţa Sat  - Com. Racoviţa -> RACOVIŢA
+        294: 158323,  # Recaş Orş.  -> RECAŞ
         295: 158323,  # Recaş Sat  - Orş. Recaş -> RECAŞ
         297: 158403,  # Remetea Mare Sat  - Com. Remetea Mare -> REMETEA MARE
         298: 157727,  # Remetea Mică Sat  - Com. Maşloc -> REMETEA MICĂ
@@ -12214,6 +12211,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         315: 157157,  # Sculia Sat  - Orş. Gătaia -> SCULIA
         317: 158617,  # Secaş Sat  - Com. Secaş -> SECAŞ
         318: 158056,  # Seceani Sat  - Com. Ortişoara -> SECEANI
+        319: 155421,  # Silagiu Loc.  - Orş. Buziaş -> SILAGIU
         320: 156142,  # Sinersig Sat  - Com. Boldur -> SINERSIG
         321: 156099,  # Sintar Sat  - Com. Bogda -> SINTAR
         322: 157665,  # Sinteşti Sat  - Com. Margina -> SINTEŞTI
@@ -12231,6 +12229,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         335: 158092,  # Sânmartinu Sârbesc Sat  - Com. Peciu Nou -> SÂNMARTINU SÂRBESC
         336: 158715,  # Sânmihaiu German Sat  - Com. Sânmihaiu Român -> SÂNMIHAIU GERMAN
         338: 158706,  # Sânmihaiu Român Sat  - Com. Sânmihaiu Român -> SÂNMIHAIU ROMÂN
+        339: 155537,  # Sânnicolau Mare Orş.  -> SÂNNICOLAU MARE
         341: 158742,  # Sânpetru Mare Sat  - Com. Sânpetru Mare -> SÂNPETRU MARE
         342: 159240,  # Sânpetru Mic Sat  - Com. Variaş -> SÂNPETRU MIC
         343: 158305,  # Sârbova Sat  - Com. Racoviţa -> SÂRBOVA
@@ -12243,6 +12242,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         352: 158868,  # Teremia Mare Sat  - Com. Teremia Mare -> TEREMIA MARE
         353: 158886,  # Teremia Mică Sat  - Com. Teremia Mare -> TEREMIA MICĂ
         354: 156204,  # Teş Sat  - Com. Brestovăţ -> TEŞ
+        355: 155252,  # Timişoara Mun.  -> TIMIŞOARA
         356: 157308,  # Toager Sat  - Com. Giera -> TOAGER
         358: 158902,  # Tomeşti Sat  - Com. Tomeşti -> TOMEŞTI
         359: 157567,  # Tomnatic Sat  - Com. Tomnatic -> TOMNATIC
@@ -12259,6 +12259,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         374: 158519,  # Unip Sat  - Com. Sacoşu Turcesc -> UNIP
         375: 157889,  # Urseni Sat  - Com. Moşniţa Nouă -> URSENI
         376: 158724,  # Utvin Sat  - Com. Sânmihaiu Român -> UTVIN
+        377: 156758,  # Vălcani Sat  - Com. Vălcani -> VĂLCANI
         378: 156525,  # Valea Lungă Română Sat  - Com. Coşteiu -> VALEA LUNGĂ ROMÂNĂ
         379: 159222,  # Variaş Sat  - Com. Variaş -> VARIAŞ
         381: 159268,  # Victor Vlad Delamarina Sat  - Com. Victor Vlad Delamarina -> VICTOR VLAD DELAMARINA
@@ -12267,7 +12268,6 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         385: 159320,  # Vişag Sat  - Com. Victor Vlad Delamarina -> VIŞAG
         386: 159348,  # Voiteg Sat  - Com. Voiteg -> VOITEG
         388: 156348,  # Vucova Sat  - Com. Chevereşu Mare -> VUCOVA
-        377: 156758,  # Vălcani Sat  - Com. Vălcani -> VĂLCANI
         389: 158840,  # Zgribeşti Sat  - Com. Ştiuca -> ZGRIBEŞTI
         390: 156990,  # Zolt Sat  - Com. Fârdea -> ZOLT
         391: 157674,  # Zorani Sat  - Com. Margina -> ZORANI
@@ -12281,18 +12281,11 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         401: 156516,  # Ţipari Sat  - Com. Coşteiu -> ŢIPARI
     },
     36: {  # TULCEA
-        136: 159712,  # Revărsarea Loc.  - Orş. Isaccea -> REVĂRSAREA
-        164: 159703,  # Tichileşti Loc.  - Orş. Isaccea -> TICHILEŞTI
-        169: 159632,  # Tudor Vladimirescu Loc.  - Mun. Tulcea -> TUDOR VLADIMIRESCU
-        170: 159623,  # Tulcea Mun.  -> TULCEA
-        5: 159669,  # Babadag Orş.  -> BABADAG
-        77: 159696,  # Isaccea Orş.  -> ISACCEA
-        107: 159749,  # Măcin Orş.  -> MĂCIN
-        158: 159776,  # Sulina Orş.  -> SULINA
         1: 161507,  # Agighiol Sat  - Com. Valea Nucarilor -> AGIGHIOL
         2: 160582,  # Alba Sat  - Com. Izvoarele -> ALBA
         3: 160341,  # Ardealu Sat  - Com. Dorobanţu -> ARDEALU
         4: 160243,  # Atmagea Sat  - Com. Ciucurova -> ATMAGEA
+        5: 159669,  # Babadag Orş.  -> BABADAG
         6: 159794,  # Baia Sat  - Com. Baia -> BAIA
         8: 160494,  # Balabancea Sat  - Com. Hamcearca -> BALABANCEA
         9: 159856,  # Beidaud Sat  - Com. Beidaud -> BEIDAUD
@@ -12345,6 +12338,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         74: 161516,  # Iazurile Sat  - Com. Valea Nucarilor -> IAZURILE
         75: 161071,  # Ilganii de Jos Sat  - Com. Nufăru -> ILGANII DE JOS
         76: 160797,  # Ilganii de Sus Sat  - Com. Maliuc -> ILGANII DE SUS
+        77: 159696,  # Isaccea Orş.  -> ISACCEA
         78: 160591,  # Iulia Sat  - Com. Izvoarele -> IULIA
         79: 160573,  # Izvoarele Sat  - Com. Izvoarele -> IZVOARELE
         81: 160626,  # Jijila Sat  - Com. Jijila -> JIJILA
@@ -12365,6 +12359,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         103: 161320,  # Mineri Sat  - Com. Somova -> MINERI
         104: 160154,  # Mircea Vodă Sat  - Com. Cerna -> MIRCEA VODĂ
         105: 160920,  # Murighiol Sat  - Com. Murighiol -> MURIGHIOL
+        107: 159749,  # Măcin Orş.  -> MĂCIN
         108: 161446,  # Măgurele Sat  - Com. Topolog -> MĂGURELE
         109: 161008,  # Nalbant Sat  - Com. Nalbant -> NALBANT
         111: 159865,  # Neatârnarea Sat  - Com. Beidaud -> NEATÂRNAREA
@@ -12387,6 +12382,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         133: 160065,  # Pătlăgeanca Sat  - Com. Ceatalchioi -> PĂTLĂGEANCA
         134: 160706,  # Rachelu Sat  - Com. Luncaviţa -> RACHELU
         135: 160010,  # Rahman Sat  - Com. Casimcea -> RAHMAN
+        136: 159712,  # Revărsarea Loc.  - Orş. Isaccea -> REVĂRSAREA
         137: 160902,  # Rândunica Sat  - Com. Mihail Kogălniceanu -> RÂNDUNICA
         138: 160029,  # Războieni Sat  - Com. Casimcea -> RĂZBOIENI
         139: 161204,  # Sabangia Sat  - Com. Sarichioi -> SABANGIA
@@ -12402,14 +12398,18 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         154: 161311,  # Somova Sat  - Com. Somova -> SOMOVA
         156: 161357,  # Stejaru Sat  - Com. Stejaru -> STEJARU
         157: 160038,  # Stânca Sat  - Com. Casimcea -> STÂNCA
+        158: 159776,  # Sulina Orş.  -> SULINA
         159: 161455,  # Sâmbăta Nouă Sat  - Com. Topolog -> SÂMBĂTA NOUĂ
         160: 160083,  # Sălceni Sat  - Com. Ceatalchioi -> SĂLCENI
         161: 160671,  # Sălcioara Sat  - Com. Jurilovca -> SĂLCIOARA
         162: 160216,  # Tatanir Sat  - Com. Chilia Veche -> TATANIR
         163: 160421,  # Teliţa Sat  - Com. Frecăţei -> TELIŢA
+        164: 159703,  # Tichileşti Loc.  - Orş. Isaccea -> TICHILEŞTI
         166: 161393,  # Topolog Sat  - Com. Topolog -> TOPOLOG
         167: 160163,  # Traian Sat  - Com. Cerna -> TRAIAN
         168: 161026,  # Trestenic Sat  - Com. Nalbant -> TRESTENIC
+        169: 159632,  # Tudor Vladimirescu Loc.  - Mun. Tulcea -> TUDOR VLADIMIRESCU
+        170: 159623,  # Tulcea Mun.  -> TULCEA
         172: 161473,  # Turcoaia Sat  - Com. Turcoaia -> TURCOAIA
         173: 160868,  # Turda Sat  - Com. Mihai Bravu -> TURDA
         174: 160984,  # Uzlina Sat  - Com. Murighiol -> UZLINA
@@ -12424,16 +12424,6 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         184: 161222,  # Zebil Sat  - Com. Sarichioi -> ZEBIL
     },
     37: {  # VASLUI
-        17: 161963,  # Bahnari Loc.  - Mun. Vaslui -> BAHNARI
-        49: 161972,  # Brodoc Loc.  - Mun. Vaslui -> BRODOC
-        287: 161981,  # Moara Grecilor Loc.  - Mun. Vaslui -> MOARA GRECILOR
-        380: 161990,  # Rediu Loc.  - Mun. Vaslui -> REDIU
-        494: 162005,  # Viişoara Loc.  - Mun. Vaslui -> VIIŞOARA
-        490: 161954,  # Vaslui Mun.  -> VASLUI
-        66: 161801,  # Bârlad Mun.  -> BÂRLAD
-        245: 161838,  # Huşi Mun.  -> HUŞI
-        296: 164990,  # Murgeni Orş.  -> MURGENI
-        311: 161865,  # Negreşti Orş.  -> NEGREŞTI
         1: 162318,  # 1 Decembrie Sat  - Com. Banca -> 1 DECEMBRIE
         3: 162023,  # Albeşti Sat  - Com. Albeşti -> ALBEŞTI
         4: 163397,  # Albeşti Sat  - Com. Deleşti -> ALBEŞTI
@@ -12447,6 +12437,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         14: 162611,  # Arşiţa Sat  - Com. Bogdana -> ARŞIŢA
         15: 162933,  # Avereşti Sat  - Com. Buneşti-Avereşti -> AVEREŞTI
         16: 166887,  # Avrămeşti Sat  - Com. Voineşti -> AVRĂMEŞTI
+        17: 161963,  # Bahnari Loc.  - Mun. Vaslui -> BAHNARI
         19: 162210,  # Banca Sat  - Com. Banca -> BANCA
         20: 164614,  # Bejeneşti Sat  - Com. Laza -> BEJENEŞTI
         21: 164561,  # Belceşti Sat  - Com. Pogoneşti -> BELCEŞTI
@@ -12459,8 +12450,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         30: 163707,  # Bobeşti Sat  - Com. Duda-Epureni -> BOBEŞTI
         31: 162602,  # Bogdana Sat  - Com. Bogdana -> BOGDANA
         33: 165997,  # Bogdana-Voloşeni Sat  - Com. Stănileşti -> BOGDANA-VOLOSENI
-        36: 163850,  # Bogdăneşti Sat  - Com. Fălciu -> BOGDĂNEŞTI
         34: 162700,  # Bogdăneşti Sat  - Com. Bogdăneşti -> BOGDĂNEŞTI
+        36: 163850,  # Bogdăneşti Sat  - Com. Fălciu -> BOGDĂNEŞTI
         37: 162808,  # Bogdăniţa Sat  - Com. Bogdăniţa -> BOGDĂNIŢA
         39: 165434,  # Bogeşti Sat  - Com. Pogana -> BOGEŞTI
         40: 165737,  # Bolaţi Sat  - Com. Rebricea -> BOLAŢI
@@ -12471,6 +12462,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         45: 162880,  # Boţeşti Sat  - Com. Boţeşti -> BOŢEŞTI
         47: 163280,  # Boţoaia Sat  - Com. Dăneşti -> BOŢOAIA
         48: 166084,  # Brahaşoaia Sat  - Com. Ştefan cel Mare -> BRĂHĂŞOAIA
+        49: 161972,  # Brodoc Loc.  - Mun. Vaslui -> BRODOC
         50: 164767,  # Broscoşeşti Sat  - Com. Lunca Banului -> BROSCOŞEŞTI
         51: 164437,  # Broşteni Sat  - Com. Ivăneşti -> BROŞTENI
         52: 166798,  # Brădeşti Sat  - Com. Vinderei -> BRĂDEŞTI
@@ -12486,6 +12478,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         63: 163814,  # Bursuci Sat  - Com. Epureni -> BURSUCI
         64: 164446,  # Buscata Sat  - Com. Ivăneşti -> BUSCATA
         65: 167099,  # Butucăria Sat  - Com. Zăpodeni -> BUTUCĂRIA
+        66: 161801,  # Bârlad Mun.  -> BÂRLAD
         67: 163805,  # Bârlăleşti Sat  - Com. Epureni -> BÂRLĂLEŞTI
         68: 166075,  # Bârzeşti Sat  - Com. Ştefan cel Mare -> BÂRZEŞTI
         69: 162416,  # Băbuşa Sat  - Com. Băceşti -> BĂBUŞA
@@ -12572,11 +12565,11 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         160: 166725,  # Dodeşti Sat  - Com. Dodeşti -> DODEŞTI
         162: 163495,  # Dragomireşti Sat  - Com. Dragomireşti -> DRAGOMIREŞTI
         163: 164008,  # Dragomăneşti Sat  - Com. Ghergheşti -> DRAGOMĂNEŞTI
-        169: 165755,  # Draxeni Sat  - Com. Rebricea -> DRAXENI
         164: 162354,  # Drujeşti Sat  - Com. Băcani -> DRUJEŞTI
         166: 163627,  # Drânceni Sat  - Com. Drânceni -> DRÂNCENI
         167: 166440,  # Drăgeşti Sat  - Com. Todireşti -> DRĂGEŞTI
         168: 164017,  # Drăxeni Sat  - Com. Ghergheşti -> DRĂXENI
+        169: 165755,  # Draxeni Sat  - Com. Rebricea -> DRAXENI
         170: 163716,  # Duda Sat  - Com. Duda-Epureni -> DUDA
         172: 166262,  # Dumasca Sat  - Com. Tăcuta -> DUMASCA
         173: 164080,  # Dumbrăveni Sat  - Com. Gârceni -> DUMBRĂVENI
@@ -12584,8 +12577,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         176: 163752,  # Dumeştii Vechi Sat  - Com. Dumeşti -> DUMEŞTII VECHI
         178: 163262,  # Dăneşti Sat  - Com. Dăneşti -> DĂNEŞTI
         179: 163299,  # Emil Racoviţă Sat  - Com. Dăneşti -> EMIL RACOVIŢĂ
-        182: 163690,  # Epureni Sat  - Com. Duda-Epureni -> EPURENI
         181: 163798,  # Epureni Sat  - Com. Epureni -> EPURENI
+        182: 163690,  # Epureni Sat  - Com. Duda-Epureni -> EPURENI
         183: 166155,  # Fedeşti Sat  - Com. Şuletea -> FEDEŞTI
         184: 166654,  # Fereşti Sat  - Com. Fereşti -> FEREŞTI
         185: 165050,  # Floreni Sat  - Orş. Murgeni -> FLORENI
@@ -12595,8 +12588,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         189: 165372,  # Frasinu Sat  - Com. Poieneşti -> FRASINU
         190: 164151,  # Fruntişeni Sat  - Com. Fruntişeni -> FRUNTIŞENI
         191: 165559,  # Fulgu Sat  - Com. Puieşti -> FULGU
-        193: 165381,  # Fundu Văii Sat  - Com. Poieneşti -> FUNDU VĂII
         192: 164730,  # Fundu Văii Sat  - Com. Lipovăţ -> FUNDU VĂII
+        193: 165381,  # Fundu Văii Sat  - Com. Poieneşti -> FUNDU VĂII
         194: 162167,  # Fundătura Sat  - Com. Arsura -> FUNDĂTURA
         195: 163431,  # Fundătura Sat  - Com. Deleşti -> FUNDĂTURA
         196: 164473,  # Fundătura Mare Sat  - Com. Ivăneşti -> FUNDĂTURA MARE
@@ -12611,8 +12604,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         206: 166832,  # Gara Tălăşman Sat  - Com. Vinderei -> GARA TĂLĂŞMAN
         207: 163020,  # Ghergheleu Sat  - Com. Codăeşti -> GHERGHELEU
         209: 163976,  # Ghergheşti Sat  - Com. Ghergheşti -> GHERGHEŞTI
-        211: 163654,  # Ghermăneşti Sat  - Com. Drânceni -> GHERMĂNEŞTI
         210: 162229,  # Ghermăneşti Sat  - Com. Banca -> GHERMĂNEŞTI
+        211: 163654,  # Ghermăneşti Sat  - Com. Drânceni -> GHERMĂNEŞTI
         212: 162096,  # Ghicani Sat  - Com. Alexandru Vlahuţă -> GHICANI
         213: 164847,  # Ghireasca Sat  - Com. Măluşteni -> GHIREASCA
         214: 165568,  # Gilteşti Sat  - Com. Puieşti -> GÂLŢEŞTI
@@ -12642,6 +12635,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         242: 166459,  # Huc Sat  - Com. Todireşti -> HUC
         243: 162737,  # Hupca Sat  - Com. Bogdăneşti -> HUPCA
         244: 164286,  # Hurdugi Sat  - Com. Dimitrie Cantemir -> HURDUGI
+        245: 161838,  # Huşi Mun.  -> HUŞI
         246: 163440,  # Hârşova Sat  - Com. Deleşti -> HÂRSOVA
         247: 164491,  # Hârşoveni Sat  - Com. Ivăneşti -> HÂRŞOVENI
         248: 164357,  # Hălăreşti Sat  - Com. Iana -> HĂLĂREŞTI
@@ -12653,8 +12647,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         255: 164507,  # Iezerel Sat  - Com. Ivăneşti -> IEZEREL
         256: 162577,  # Igeşti Sat  - Com. Blăgeşti -> IGEŞTI
         258: 164552,  # Iveşti Sat  - Com. Iveşti -> IVEŞTI
-        261: 165229,  # Ivăneşti Sat  - Com. Pădureni -> IVĂNEŞTI
         260: 164400,  # Ivăneşti Sat  - Com. Ivăneşti -> IVĂNEŞTI
+        261: 165229,  # Ivăneşti Sat  - Com. Pădureni -> IVĂNEŞTI
         262: 166164,  # Jigălia Sat  - Com. Şuletea -> JIGĂLIA
         263: 162648,  # Lacu Babei Sat  - Com. Bogdana -> LACU BABEI
         264: 164605,  # Laza Sat  - Com. Laza -> LAZA
@@ -12676,6 +12670,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         284: 163100,  # Mireni Sat  - Com. Coroieşti -> MIRENI
         285: 162247,  # Mitoc Sat  - Com. Banca -> MITOC
         286: 166663,  # Moara Domnească Sat  - Com. Văleni -> MOARA DOMNEASCĂ
+        287: 161981,  # Moara Grecilor Loc.  - Mun. Vaslui -> MOARA GRECILOR
         288: 163351,  # Moreni Sat  - Com. Deleni -> MORENI
         289: 162121,  # Morăreni Sat  - Com. Alexandru Vlahuţă -> MORĂRENI
         290: 163119,  # Movileni Sat  - Com. Coroieşti -> MOVILENI
@@ -12683,6 +12678,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         292: 164945,  # Muntenii de Jos Sat  - Com. Muntenii de Jos -> MUNTENII DE JOS
         294: 166217,  # Muntenii de Sus Sat  - Com. Muntenii de Sus -> MUNTENII DE SUS
         295: 164990,  # Murgeni Sat  - Orş. Murgeni -> MURGENI
+        296: 164990,  # Murgeni Orş.  -> MURGENI
         297: 162513,  # Muşata Sat  - Com. Berezeni -> MUŞATA
         298: 164963,  # Mânjeşti Sat  - Com. Muntenii de Jos -> MÂNJEŞTI
         299: 162112,  # Mânzaţi Sat  - Com. Ibăneşti -> MÂNZAŢI
@@ -12696,6 +12692,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         308: 166119,  # Mărăşeni Sat  - Com. Ştefan cel Mare -> MĂRĂŞENI
         309: 166921,  # Mărăşeşti Sat  - Com. Voineşti -> MĂRĂŞEŞTI
         310: 165452,  # Măscurei Sat  - Com. Pogana -> MĂSCUREI
+        311: 161865,  # Negreşti Orş.  -> NEGREŞTI
         312: 166841,  # Obârşeni Sat  - Com. Vinderei -> OBÂRŞENI
         313: 166930,  # Obârşeni Sat  - Com. Voineşti -> OBÂRŞENI
         314: 166949,  # Obârşenii Lingurari Sat  - Com. Voineşti -> OBÂRŞENII LINGURARI
@@ -12744,8 +12741,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         364: 162185,  # Pâhneşti Sat  - Com. Arsura -> PÂHNEŞTI
         365: 163173,  # Pârveşti Sat  - Com. Costeşti -> PÂRVEŞTI
         366: 163128,  # Păcurăreşti Sat  - Com. Coroieşti -> PĂCURĂREŞTI
-        368: 165194,  # Pădureni Sat  - Com. Pădureni -> PĂDURENI
         367: 165167,  # Pădureni Sat  - Com. Oşeşti -> PĂDURENI
+        368: 165194,  # Pădureni Sat  - Com. Pădureni -> PĂDURENI
         370: 162425,  # Păltiniş Sat  - Com. Băceşti -> PĂLTINIŞ
         371: 164099,  # Racova Sat  - Com. Gârceni -> RACOVA
         372: 164106,  # Racoviţa Sat  - Com. Gârceni -> RACOVIŢA
@@ -12755,8 +12752,9 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         376: 165773,  # Rateşu Cuzei Sat  - Com. Rebricea -> RATEŞU CUZEI
         377: 165728,  # Rebricea Sat  - Com. Rebricea -> REBRICEA
         379: 164366,  # Recea Sat  - Com. Iana -> RECEA
-        382: 165871,  # Rediu Sat  - Com. Roşieşti -> REDIU
+        380: 161990,  # Rediu Loc.  - Mun. Vaslui -> REDIU
         381: 164240,  # Rediu Sat  - Com. Hoceni -> REDIU
+        382: 165871,  # Rediu Sat  - Com. Roşieşti -> REDIU
         383: 163048,  # Rediu Galian Sat  - Com. Codăeşti -> REDIU GALIAN
         384: 165595,  # Rotari Sat  - Com. Puieşti -> ROTARI
         385: 165826,  # Roşieşti Sat  - Com. Roşieşti -> ROŞIEŞTI
@@ -12773,23 +12771,23 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         397: 164810,  # Răducani Sat  - Com. Lunca Banului -> RĂDUCANI
         398: 163477,  # Răduieşti Sat  - Com. Deleşti -> RĂDUIEŞTI
         399: 162844,  # Rădăeşti Sat  - Com. Bogdăniţa -> RĂDĂEŞTI
-        401: 166173,  # Răşcani Sat  - Com. Şuletea -> RĂŞCANI
         400: 163306,  # Răşcani Sat  - Com. Dăneşti -> RĂŞCANI
+        401: 166173,  # Răşcani Sat  - Com. Şuletea -> RĂŞCANI
         402: 165782,  # Sasova Sat  - Com. Rebricea -> SASOVA
-        408: 165933,  # Satu Nou Sat  - Com. Soleşti -> SATU NOU
-        407: 166609,  # Satu Nou Sat  - Com. Pochidia -> SATU NOU
-        406: 166226,  # Satu Nou Sat  - Com. Muntenii de Sus -> SATU NOU
-        405: 163244,  # Satu Nou Sat  - Com. Creţeşti -> SATU NOU
-        404: 162531,  # Satu Nou Sat  - Com. Berezeni -> SATU NOU
         403: 162256,  # Satu Nou Sat  - Com. Banca -> SATU NOU
+        404: 162531,  # Satu Nou Sat  - Com. Berezeni -> SATU NOU
+        405: 163244,  # Satu Nou Sat  - Com. Creţeşti -> SATU NOU
+        406: 166226,  # Satu Nou Sat  - Com. Muntenii de Sus -> SATU NOU
+        407: 166609,  # Satu Nou Sat  - Com. Pochidia -> SATU NOU
+        408: 165933,  # Satu Nou Sat  - Com. Soleşti -> SATU NOU
         409: 165032,  # Schineni Sat  - Orş. Murgeni -> SCHINENI
         410: 163761,  # Schinetea Sat  - Com. Dumeşti -> SCHINETEA
         411: 162853,  # Schitu Sat  - Com. Bogdăniţa -> SCHITU
         412: 164972,  # Secuia Sat  - Com. Muntenii de Jos -> SECUIA
         413: 163583,  # Semenea Sat  - Com. Dragomireşti -> SEMENEA
-        416: 165684,  # Siliştea Sat  - Com. Pungeşti -> SILIŞTEA
         414: 164375,  # Siliştea Sat  - Com. Iana -> SILIŞTEA
         415: 166486,  # Siliştea Sat  - Com. Todireşti -> SILIŞTEA
+        416: 165684,  # Siliştea Sat  - Com. Pungeşti -> SILIŞTEA
         417: 167213,  # Simila Sat  - Com. Zorleni -> SIMILA
         418: 162666,  # Similişoara Sat  - Com. Bogdana -> SIMILIŞOARA
         419: 162586,  # Sipeni Sat  - Com. Blăgeşti -> SIPENI
@@ -12856,10 +12854,12 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         487: 164678,  # Valea Târgului Sat  - Com. Puşcaşi -> VALEA TÂRGULUI
         488: 166397,  # Valea lui Bosie Sat  - Com. Tătărăni -> VALEA LUI BOSIE
         489: 165880,  # Valea lui Darie Sat  - Com. Roşieşti -> VALEA LUI DARIE
+        490: 161954,  # Vaslui Mun.  -> VASLUI
         491: 162684,  # Verdeş Sat  - Com. Bogdana -> VERDEŞ
         492: 166681,  # Vetrişoaia Sat  - Com. Vetrişoaia -> VETRIŞOAIA
-        497: 166510,  # Viişoara Sat  - Com. Todireşti -> VIIŞOARA
+        494: 162005,  # Viişoara Loc.  - Mun. Vaslui -> VIIŞOARA
         495: 166716,  # Viişoara Sat  - Com. Viişoara -> VIIŞOARA
+        497: 166510,  # Viişoara Sat  - Com. Todireşti -> VIIŞOARA
         498: 166761,  # Viltoteşti Sat  - Com. Viişoara -> VILTOTEŞTI
         499: 166789,  # Vinderei Sat  - Com. Vinderei -> VINDEREI
         501: 165112,  # Vineţeşti Sat  - Com. Olteneşti -> VINEŢEŞTI
@@ -12892,44 +12892,13 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         536: 164883,  # Ţuţcani Sat  - Com. Măluşteni -> ŢUŢCANI
     },
     38: {  # VÂLCEA
-        9: 167491,  # Aranghel Loc.  - Mun. Râmnicu Vâlcea -> ARANGHEL
-        111: 167703,  # Cheia Loc.  - Orş. Băile Olăneşti -> CHEIA
-        135: 167712,  # Comanca Loc.  - Orş. Băile Olăneşti -> COMANCA
-        157: 167650,  # Curăţurile Loc.  - Orş. Băile Govora -> CURĂTURILE
-        163: 167927,  # Căciulata Loc.  - Orş. Călimăneşti -> CĂCIULATA
-        176: 167525,  # Dealu Malului Loc.  - Mun. Râmnicu Vâlcea -> DEALU MALULUI
-        269: 167721,  # Gurguiata Loc.  - Orş. Băile Olăneşti -> GURGUIATA
-        280: 167669,  # Gătejeşti Loc.  - Orş. Băile Govora -> GĂTEJEŞTI
-        666: 167936,  # Jiblea Nouă Loc.  - Orş. Călimăneşti -> JIBLEA NOUĂ
-        667: 167945,  # Jiblea Veche Loc.  - Orş. Călimăneşti -> JIBLEA VECHE
-        308: 167730,  # Livadia Loc.  - Orş. Băile Olăneşti -> LIVADIA
-        354: 167749,  # Mosoroasa Loc.  - Orş. Băile Olăneşti -> MOŞOROAŞA
-        403: 167758,  # Olăneşti Loc.  - Orş. Băile Olăneşti -> OLĂNEŞTI
-        424: 167767,  # Pietrişu Loc.  - Orş. Băile Olăneşti -> PIETRIŞU
-        434: 167534,  # Poenari Loc.  - Mun. Râmnicu Vâlcea -> POENARI
-        452: 167543,  # Priba Loc.  - Mun. Râmnicu Vâlcea -> PRIBA
-        462: 167678,  # Prăjila Loc.  - Orş. Băile Govora -> PRAJILA
-        672: 167954,  # Păuşa Loc.  - Orş. Călimăneşti -> PĂUŞA
-        677: 167963,  # Seaca Loc.  - Orş. Călimăneşti -> SEACA
-        573: 167776,  # Tisa Loc.  - Orş. Băile Olăneşti -> TISA
-        578: 167570,  # Troian Loc.  - Mun. Râmnicu Vâlcea -> TROIAN
-        504: 167482,  # Râmnicu Vâlcea Mun.  -> RÂMNICU VÂLCEA
-        205: 167990,  # Drăgăşani Mun.  -> DRĂGĂŞANI
-        24: 168611,  # Berbeşti Orş.  -> BERBEŞTI
-        49: 167801,  # Brezoi Orş.  -> BREZOI
-        76: 168381,  # Băbeni Orş.  -> BĂBENI
-        82: 167678,  # Băile Govora Orş.  -> PRAJILA
-        83: 167730,  # Băile Olăneşti Orş.  -> LIVADIA
-        86: 168461,  # Bălceşti Orş.  -> BĂLCEŞTI
-        165: 167918,  # Călimăneşti Orş.  -> CĂLIMĂNEŞTI
-        284: 168050,  # Horezu Orş.  -> HOREZU
-        394: 168176,  # Ocnele Mari Orş.  -> GURA SUHAŞULUI
         1: 169707,  # Afânata Sat  - Com. Fârtăţeşti -> AFÂNATA
         2: 170248,  # Aldeşti Sat  - Com. Goleşti -> ALDEŞTI
         3: 168238,  # Alunu Sat  - Com. Alunu -> ALUNU
         5: 168318,  # Amărăşti Sat  - Com. Amărăşti -> AMĂRĂŞTI
         7: 171557,  # Andreieşti Sat  - Com. Muereasca -> ANDREIEŞTI
         8: 170186,  # Aninoasa Sat  - Com. Glăvile -> ANINOASA
+        9: 167491,  # Aranghel Loc.  - Mun. Râmnicu Vâlcea -> ARANGHEL
         10: 173702,  # Aricioaia Sat  - Com. Şirineasa -> ARICIOAIA
         11: 169048,  # Armăşeşti Sat  - Com. Cernişoara -> ARMĂŞEŞTI
         12: 171343,  # Arsanca Sat  - Com. Mihăeşti -> ARSANCA
@@ -12944,6 +12913,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         21: 168470,  # Beneşti Sat  - Orş. Bălceşti -> BENEŞTI
         22: 168611,  # Berbeşti Sat  - Orş. Berbeşti -> BERBEŞTI
         23: 170630,  # Berbeşti Sat  - Com. Laloşu -> BERBEŞTI
+        24: 168611,  # Berbeşti Orş.  -> BERBEŞTI
         25: 168826,  # Bercioiu Sat  - Com. Budeşti -> BERCIOIU
         26: 170818,  # Bereşti Sat  - Com. Lăpuşata -> BEREŞTI
         27: 168693,  # Berislăveşti Sat  - Com. Berislăveşti -> BERISLĂVEŞTI
@@ -12966,6 +12936,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         46: 170015,  # Bratia din Deal Sat  - Com. Galicea -> BRATIA DIN DEAL
         47: 170024,  # Bratia din Vale Sat  - Com. Galicea -> BRATIA DIN VALE
         48: 172180,  # Bratoveşti Sat  - Com. Titeşti -> BRATOVEŞTI
+        49: 167801,  # Brezoi Orş.  -> BREZOI
         50: 170827,  # Broşteni Sat  - Com. Lăpuşata -> BROŞTENI
         51: 168700,  # Brădişor Sat  - Com. Berislăveşti -> BRĂDIŞOR
         52: 169565,  # Buciumeni Sat  - Com. Drăgoeşti -> BUCIUMENI
@@ -12989,12 +12960,16 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         73: 173409,  # Bârsoiu Sat  - Com. Stoileşti -> BÂRSOIU
         74: 168586,  # Bârzeşti Sat  - Com. Bărbăteşti -> BÂRZEŞTI
         75: 168381,  # Băbeni Sat  - Orş. Băbeni -> BĂBENI
+        76: 168381,  # Băbeni Orş.  -> BĂBENI
         77: 169609,  # Băbeni-Olteţu Sat  - Com. Diculeşti -> BĂBENI-OLTEŢU
         78: 169379,  # Băbueşti Sat  - Com. Dăeşti -> BĂBUEŞTI
         79: 169422,  # Bădeni Sat  - Com. Dănicei -> BĂDENI
         80: 172607,  # Băiaşa Sat  - Com. Roeşti -> BĂIAŞA
         81: 172171,  # Băiaşu Sat  - Com. Perişani -> BĂIAŞU
+        82: 167678,  # Băile Govora Orş.  -> PRAJILA
+        83: 167730,  # Băile Olăneşti Orş.  -> LIVADIA
         84: 172616,  # Băjenari Sat  - Com. Roeşti -> BĂJENARI
+        86: 168461,  # Bălceşti Orş.  -> BĂLCEŞTI
         87: 169208,  # Bălteni Sat  - Com. Copăceni -> BĂLTENI
         88: 169912,  # Băluţoaia Sat  - Com. Frânceşti -> BĂLUŢOAIA
         89: 171227,  # Bălşoara Sat  - Com. Mădulari -> BĂLŞOARA
@@ -13011,12 +12986,13 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         101: 170970,  # Carcadieşti Sat  - Com. Lungeşti -> CARCADIEŞTI
         102: 171824,  # Casa Veche Sat  - Com. Olanu -> CASA VECHE
         103: 169431,  # Ceretu Sat  - Com. Dănicei -> CERETU
-        105: 170701,  # Cermegeşti Sat  - Com. Lădeşti -> CERMEGEŞTI
         104: 172297,  # Cermegeşti Sat  - Com. Pesceana -> CERMEGEŞTI
+        105: 170701,  # Cermegeşti Sat  - Com. Lădeşti -> CERMEGEŞTI
         106: 174049,  # Cerna Sat  - Com. Vaideeni -> CERNA
         107: 172037,  # Cernelele Sat  - Com. Păuşeşti -> CERNELELE
         108: 169057,  # Cernişoara Sat  - Com. Cernişoara -> CERNIŞOARA
         110: 173622,  # Cetăţeaua Sat  - Com. Mitrofani -> CETĂŢEAUA
+        111: 167703,  # Cheia Loc.  - Orş. Băile Olăneşti -> CHEIA
         112: 172723,  # Cherăşti Sat  - Com. Roşiile -> CHERĂŞTI
         113: 173971,  # Chiceni Sat  - Com. Tomşani -> CHICENI
         114: 168489,  # Chirculeşti Sat  - Orş. Bălceşti -> CHIRCULEŞTI
@@ -13040,10 +13016,11 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         132: 170033,  # Cocoru Sat  - Com. Galicea -> COCORU
         133: 169636,  # Colelia Sat  - Com. Diculeşti -> COLELIA
         134: 168256,  # Colteşti Sat  - Com. Alunu -> COLTEŞTI
+        135: 167712,  # Comanca Loc.  - Orş. Băile Olăneşti -> COMANCA
         136: 173766,  # Condoieşti Sat  - Com. Ştefăneşti -> CONDOIEŞTI
         137: 174334,  # Contea Sat  - Com. Lăcusteni -> CONTEA
-        139: 172554,  # Copăceni Sat  - Com. Racoviţa -> COPĂCENI
         138: 169226,  # Copăceni Sat  - Com. Copăceni -> COPĂCENI
+        139: 172554,  # Copăceni Sat  - Com. Racoviţa -> COPĂCENI
         141: 171655,  # Corbii din Vale Sat  - Com. Nicolae Bălcescu -> CORBII DIN VALE
         142: 167829,  # Corbu Sat  - Orş. Brezoi -> CORBU
         143: 174058,  # Cornet Sat  - Com. Vaideeni -> CORNET
@@ -13058,31 +13035,35 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         154: 173178,  # Cuculeşti Sat  - Com. Stăneşti -> CUCULEŞTI
         155: 172643,  # Cueni Sat  - Com. Roeşti -> CUENI
         156: 172395,  # Curtea Sat  - Com. Popeşti -> CURTEA
+        157: 167650,  # Curăţurile Loc.  - Orş. Băile Govora -> CURĂTURILE
         159: 169137,  # Câinenii Mari Sat  - Com. Câineni -> CÂINENII MARI
         160: 169128,  # Câinenii Mici Sat  - Com. Câineni -> CÂINENII MICI
         161: 168498,  # Cârlogani Sat  - Orş. Bălceşti -> CÂRLOGANI
         162: 171968,  # Cârstăneşti Sat  - Com. Oteşani -> CÂRSTĂNEŞTI
+        163: 167927,  # Căciulata Loc.  - Orş. Călimăneşti -> CĂCIULATA
         164: 172830,  # Căligi Sat  - Com. Runcu -> CĂLIGI
+        165: 167918,  # Călimăneşti Orş.  -> CĂLIMĂNEŞTI
         166: 172484,  # Călina Sat  - Com. Prundeni -> CĂLINA
         167: 167810,  # Călineşti Sat  - Orş. Brezoi -> CĂLINEŞTI
-        169: 171487,  # Căzăneşti Sat  - Com. Milcoiu -> CĂZĂNEŞTI
         168: 170113,  # Căzăneşti Sat  - Com. Ghioroiu -> CĂZĂNEŞTI
+        169: 171487,  # Căzăneşti Sat  - Com. Milcoiu -> CĂZĂNEŞTI
         170: 169725,  # Căţetu Sat  - Com. Fârtăţeşti -> CĂŢETU
         171: 168639,  # Dealu Aluniş Sat  - Orş. Berbeşti -> DEALU ALUNIŞ
         172: 173025,  # Dealu Bisericii Sat  - Com. Sineşti -> DEALU BISERICII
         173: 170738,  # Dealu Corni Sat  - Com. Lădeşti -> DEALU CORNI
         174: 174343,  # Dealu Glămeia Sat  - Com. Zătreni -> DEALU GLĂMEIA
         175: 169413,  # Dealu Lăunele Sat  - Com. Dănicei -> DEALU LĂUNELE
+        176: 167525,  # Dealu Malului Loc.  - Mun. Râmnicu Vâlcea -> DEALU MALULUI
         177: 170051,  # Dealu Mare Sat  - Com. Galicea -> DEALU MARE
-        179: 170471,  # Dealu Mare Sat  - Com. Guşoeni -> DEALU MARE
         178: 170541,  # Dealu Mare Sat  - Com. Ioneşti -> DEALU MARE
+        179: 170471,  # Dealu Mare Sat  - Com. Guşoeni -> DEALU MARE
         180: 169459,  # Dealu Scheiului Sat  - Com. Dănicei -> DEALU SCHEIULUI
         181: 174352,  # Dealu Văleni Sat  - Com. Zătreni -> DEALU VĂLENI
         182: 169752,  # Dejoi Sat  - Com. Fârtăţeşti -> DEJOI
         183: 173276,  # Deleni Sat  - Com. Stoeneşti -> DELENI
-        186: 173427,  # Delureni Sat  - Com. Stoileşti -> DELURENI
         184: 170550,  # Delureni Sat  - Com. Ioneşti -> DELURENI
         185: 174110,  # Delureni Sat  - Com. Valea Mare -> DELURENI
+        186: 173427,  # Delureni Sat  - Com. Stoileşti -> DELURENI
         187: 169930,  # Dezrobiţi Sat  - Com. Frânceşti -> DEZROBIŢI
         188: 170364,  # Diaconeşti Sat  - Com. Grădiştea -> DIACONEŞTI
         189: 173560,  # Dianu Sat  - Com. Stroeşti -> DIANU
@@ -13100,6 +13081,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         202: 169477,  # Drăguleşti Sat  - Com. Dănicei -> DRĂGULEŞTI
         203: 167838,  # Drăgăneşti Sat  - Orş. Brezoi -> DRĂGĂNEŞTI
         204: 170275,  # Drăgăneşti Sat  - Com. Goleşti -> DRĂGĂNEŞTI
+        205: 167990,  # Drăgăşani Mun.  -> DRĂGĂŞANI
         206: 170989,  # Dumbrava Sat  - Com. Lungeşti -> DUMBRAVA
         207: 173980,  # Dumbrăveşti Sat  - Com. Tomşani -> DUMBRĂVEŞTI
         208: 168719,  # Dângeşti Sat  - Com. Berislăveşti -> DÂNGEŞTI
@@ -13120,8 +13102,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         226: 170998,  # Fumureni Sat  - Com. Lungeşti -> FUMURENI
         227: 174174,  # Fundătura Sat  - Com. Vlădeşti -> FUNDĂTURA
         228: 169690,  # Fârtăţeşti Sat  - Com. Fârtăţeşti -> FÂRTĂŢEŞTI
-        231: 174361,  # Făureşti Sat  - Com. Zătreni -> FĂUREŞTI
         230: 169654,  # Făureşti Sat  - Com. Făureşti -> FĂUREŞTI
+        231: 174361,  # Făureşti Sat  - Com. Zătreni -> FĂUREŞTI
         233: 170006,  # Galicea Sat  - Com. Galicea -> GALICEA
         235: 171003,  # Ganţulei Sat  - Com. Lungeşti -> GĂNŢULEI
         236: 169574,  # Geamăna Sat  - Com. Drăgoeşti -> GEAMĂNA
@@ -13153,6 +13135,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         266: 170587,  # Guguianca Sat  - Com. Ioneşti -> GUGUIANCA
         267: 169495,  # Gura Crucilor Sat  - Com. Dănicei -> GURA CRUCILOR
         268: 168924,  # Gura Văii Sat  - Com. Bujoreni -> GURA VĂII
+        269: 167721,  # Gurguiata Loc.  - Orş. Băile Olăneşti -> GURGUIATA
         270: 171370,  # Gurişoara Sat  - Com. Mihăeşti -> GURIŞOARA
         271: 170453,  # Guşoeni Sat  - Com. Guşoeni -> GUŞOENI
         273: 170480,  # Guşoianca Sat  - Com. Guşoeni -> GUŞOIANCA
@@ -13162,9 +13145,11 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         277: 170747,  # Găgeni Sat  - Com. Lădeşti -> GĂGENI
         278: 169663,  # Găineşti Sat  - Com. Făureşti -> GĂINEŞTI
         279: 174370,  # Găneşti Sat  - Com. Lăcusteni -> GĂNEŞTI
+        280: 167669,  # Gătejeşti Loc.  - Orş. Băile Govora -> GĂTEJEŞTI
         281: 168782,  # Găujani Sat  - Com. Boişoara -> GĂUJANI
         282: 171575,  # Găvăneşti Sat  - Com. Muereasca -> GĂVĂNEŞTI
         283: 170122,  # Herăşti Sat  - Com. Ghioroiu -> HERĂŞTI
+        284: 168050,  # Horezu Orş.  -> HOREZU
         285: 171584,  # Hotarele Sat  - Com. Muereasca -> HOTARELE
         286: 169235,  # Hotărasa Sat  - Com. Copăceni -> HOTĂRASA
         287: 172732,  # Hotăroaia Sat  - Com. Roşiile -> HOTĂROAIA
@@ -13177,15 +13162,16 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         295: 171502,  # Izbăşeşti Sat  - Com. Milcoiu -> IZBĂSEŞTI
         296: 173631,  # Izvoraşu Sat  - Com. Mitrofani -> IZVORAŞU
         297: 169324,  # Izvoru Sat  - Com. Creţeni -> IZVORU
-        299: 174067,  # Izvoru Rece Sat  - Com. Vaideeni -> IZVORU RECE
         298: 173463,  # Izvoru Rece Sat  - Com. Stoileşti -> IZVORU RECE
+        299: 174067,  # Izvoru Rece Sat  - Com. Vaideeni -> IZVORU RECE
         300: 170195,  # Jaroştea Sat  - Com. Glăvile -> JAROŞTEA
         301: 170621,  # Laloşu Sat  - Com. Laloşu -> LALOŞU
-        304: 170382,  # Linia Sat  - Com. Grădiştea -> LINIA
         303: 168844,  # Linia Sat  - Com. Budeşti -> LINIA
+        304: 170382,  # Linia Sat  - Com. Grădiştea -> LINIA
         305: 173196,  # Linia Dealului Sat  - Com. Stăneşti -> LINIA DEALULUI
         306: 171691,  # Linia Hanului Sat  - Com. Nicolae Bălcescu -> LINIA HANULUI
         307: 169510,  # Linia Pe Vale Sat  - Com. Dănicei -> LINIA PE VALE
+        308: 167730,  # Livadia Loc.  - Orş. Băile Olăneşti -> LIVADIA
         309: 170881,  # Livezi Sat  - Com. Livezi -> LIVEZI
         311: 168933,  # Lunca Sat  - Com. Bujoreni -> LUNCA
         312: 170961,  # Lungeşti Sat  - Com. Lungeşti -> LUNGEŞTI
@@ -13223,6 +13209,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         351: 173114,  # Mogeşti Sat  - Com. Slătioara -> MOGEŞTI
         352: 173310,  # Mogoşeşti Sat  - Com. Stoeneşti -> MOGOŞEŞTI
         353: 170658,  # Mologeşti Sat  - Com. Laloşu -> MOLOGEŞTI
+        354: 167749,  # Mosoroasa Loc.  - Orş. Băile Olăneşti -> MOŞOROAŞA
         355: 169967,  # Moşteni Sat  - Com. Frânceşti -> MOŞTENI
         356: 169333,  # Mreneşti Sat  - Com. Creţeni -> MRENEŞTI
         357: 171548,  # Muereasca Sat  - Com. Muereasca -> MUEREASCA
@@ -13230,13 +13217,13 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         360: 171405,  # Munteni Sat  - Com. Mihăeşti -> MUNTENI
         361: 171717,  # Mângureni Sat  - Com. Nicolae Bălcescu -> MÂNGURENI
         363: 171156,  # Măciuceni Sat  - Com. Măciuca -> MĂCIUCENI
-        365: 171218,  # Mădulari Sat  - Com. Mădulari -> MĂDULARI
         364: 169075,  # Mădulari Sat  - Com. Cernişoara -> MĂDULARI
+        365: 171218,  # Mădulari Sat  - Com. Mădulari -> MĂDULARI
         367: 171389,  # Măgura Sat  - Com. Mihăeşti -> MĂGURA
         368: 170499,  # Măgureni Sat  - Com. Guşoeni -> MĂGURENI
-        371: 171281,  # Măldăreşti Sat  - Com. Măldăreşti -> MĂLDĂREŞTI
-        370: 171165,  # Măldăreşti Sat  - Com. Măciuca -> MĂLDĂREŞTI
         369: 170756,  # Măldăreşti Sat  - Com. Lădeşti -> MĂLDĂREŞTI
+        370: 171165,  # Măldăreşti Sat  - Com. Măciuca -> MĂLDĂREŞTI
+        371: 171281,  # Măldăreşti Sat  - Com. Măldăreşti -> MĂLDĂREŞTI
         373: 171290,  # Măldăreştii de Jos Sat  - Com. Măldăreşti -> MĂLDĂREŞTII DE JOS
         374: 173891,  # Măneasa Sat  - Com. Tetoiu -> MĂNEASA
         375: 169958,  # Mănăileşti Sat  - Com. Frânceşti -> MĂNĂILEŞTI
@@ -13257,13 +13244,15 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         391: 173490,  # Obogeni Sat  - Com. Stoileşti -> OBOGENI
         392: 173579,  # Obroceşti Sat  - Com. Stroeşti -> OBROCEŞTI
         393: 169093,  # Obârşia Sat  - Com. Cernişoara -> OBÂRŞIA
+        394: 168176,  # Ocnele Mari Orş.  -> GURA SUHAŞULUI
         395: 168283,  # Ocracu Sat  - Com. Alunu -> OCRACU
         396: 171815,  # Olanu Sat  - Com. Olanu -> OLANU
-        399: 170765,  # Olteanca Sat  - Com. Lădeşti -> OLTEANCA
         398: 170202,  # Olteanca Sat  - Com. Glăvile -> OLTEANCA
+        399: 170765,  # Olteanca Sat  - Com. Lădeşti -> OLTEANCA
         400: 168899,  # Olteni Sat  - Com. Bujoreni -> OLTENI
         401: 170667,  # Olteţani Sat  - Com. Laloşu -> OLTEŢANI
         402: 174432,  # Olteţu Sat  - Com. Zătreni -> OLTEŢU
+        403: 167758,  # Olăneşti Loc.  - Orş. Băile Olăneşti -> OLĂNEŞTI
         404: 170300,  # Opăteşti Sat  - Com. Goleşti -> OPĂTEŞTI
         405: 171888,  # Orleşti Sat  - Com. Orleşti -> ORLEŞTI
         407: 170060,  # Ostroveni Sat  - Com. Galicea -> OSTROVENI
@@ -13279,6 +13268,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         421: 172359,  # Pietrari Sat  - Com. Pietrari -> PIETRARI
         422: 172368,  # Pietrarii de Sus Sat  - Com. Pietrari -> PIETRARII DE SUS
         423: 169280,  # Pietreni Sat  - Com. Costeşti -> PIETRENI
+        424: 167767,  # Pietrişu Loc.  - Orş. Băile Olăneşti -> PIETRIŞU
         425: 174147,  # Pietroasa Sat  - Com. Valea Mare -> PIETROASA
         426: 173338,  # Piscu Mare Sat  - Com. Stoeneşti -> PISCU MARE
         427: 168853,  # Piscu Pietrei Sat  - Com. Budeşti -> PISCU PIETREI
@@ -13288,22 +13278,24 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         431: 170934,  # Pleşoiu Sat  - Com. Livezi -> PLEŞOIU
         432: 171726,  # Pleşoiu Sat  - Com. Nicolae Bălcescu -> PLEŞOIU
         433: 172215,  # Podeni Sat  - Com. Perişani -> PODENI
+        434: 167534,  # Poenari Loc.  - Mun. Râmnicu Vâlcea -> POENARI
         435: 170319,  # Poeniţa Sat  - Com. Goleşti -> POENIŢA
         436: 172224,  # Poiana Sat  - Com. Perişani -> POIANA
         437: 170140,  # Poienari Sat  - Com. Ghioroiu -> POIENARI
         438: 173588,  # Pojogi-Cerna Sat  - Com. Stroeşti -> POJOGI-CERNA
-        444: 171735,  # Popeşti Sat  - Com. Nicolae Bălcescu -> POPEŞTI
-        443: 172386,  # Popeşti Sat  - Com. Popeşti -> POPEŞTI
-        441: 173347,  # Popeşti Sat  - Com. Stoeneşti -> POPEŞTI
         440: 173917,  # Popeşti Sat  - Com. Tetoiu -> POPEŞTI
+        441: 173347,  # Popeşti Sat  - Com. Stoeneşti -> POPEŞTI
+        442: 173043,  # Popeşti Sat  - Com. Sineşti -> POPEŞTI
+        443: 172386,  # Popeşti Sat  - Com. Popeşti -> POPEŞTI
+        444: 171735,  # Popeşti Sat  - Com. Nicolae Bălcescu -> POPEŞTI
+        445: 171174,  # Popeşti Sat  - Com. Măciuca -> POPEŞTI
         446: 170783,  # Popeşti Sat  - Com. Lădeşti -> POPEŞTI
         447: 170239,  # Popeşti Sat  - Com. Goleşti -> POPEŞTI
-        442: 173043,  # Popeşti Sat  - Com. Sineşti -> POPEŞTI
-        445: 171174,  # Popeşti Sat  - Com. Măciuca -> POPEŞTI
         448: 169823,  # Popeşti Sat  - Com. Fârtăţeşti -> POPEŞTI
         449: 170676,  # Portăreşti Sat  - Com. Laloşu -> PORTĂREŞTI
         450: 171744,  # Predeşti Sat  - Com. Nicolae Bălcescu -> PREDEŞTI
         451: 168531,  # Preoteşti Sat  - Orş. Bălceşti -> PREOTEŞTI
+        452: 167543,  # Priba Loc.  - Mun. Râmnicu Vâlcea -> PRIBA
         453: 169155,  # Priloage Sat  - Com. Câineni -> PRILOAGE
         454: 171600,  # Pripoara Sat  - Com. Muereasca -> PRIPOARA
         455: 172233,  # Pripoare Sat  - Com. Perişani -> PRIPOARE
@@ -13312,6 +13304,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         458: 170603,  # Prodăneşti Sat  - Com. Ioneşti -> PRODĂNEŞTI
         459: 167865,  # Proieni Sat  - Orş. Brezoi -> PROIENI
         461: 172466,  # Prundeni Sat  - Com. Prundeni -> PRUNDENI
+        462: 167678,  # Prăjila Loc.  - Orş. Băile Govora -> PRAJILA
         463: 170907,  # Pârâienii de Jos Sat  - Com. Livezi -> PÂRÂIENII DE JOS
         464: 170916,  # Pârâienii de Mijloc Sat  - Com. Livezi -> PÂRÂIENII DE MIJLOC
         465: 170925,  # Pârâienii de Sus Sat  - Com. Livezi -> PÂRÂIENII DE SUS
@@ -13324,8 +13317,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         472: 172000,  # Păuşeşti Sat  - Com. Păuşeşti -> PĂUŞEŞTI
         474: 172091,  # Păuşeşti-Măglaşi Sat  - Com. Păuşeşti-Măglaşi -> PĂUŞEŞTI-MĂGLAŞI
         476: 172046,  # Păuşeşti-Otăsău Sat  - Com. Păuşeşti -> PĂUSEŞTI-OTĂSĂU
-        479: 172518,  # Racoviţa Sat  - Com. Racoviţa -> RACOVIŢA
         478: 168862,  # Racoviţa Sat  - Com. Budeşti -> RACOVIŢA
+        479: 172518,  # Racoviţa Sat  - Com. Racoviţa -> RACOVIŢA
         480: 173668,  # Racu Sat  - Com. Mitrofani -> RACU
         481: 168737,  # Robaia Sat  - Com. Berislăveşti -> ROBAIA
         482: 169173,  # Robeşti Sat  - Com. Câineni -> ROBEŞTI
@@ -13341,12 +13334,13 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         494: 168648,  # Roşioara Sat  - Orş. Berbeşti -> ROŞIOARA
         495: 171307,  # Roşoveni Sat  - Com. Măldăreşti -> ROŞOVENI
         496: 168871,  # Ruda Sat  - Com. Budeşti -> RUDA
-        498: 173123,  # Rugetu Sat  - Com. Slătioara -> RUGETU
         497: 171423,  # Rugetu Sat  - Com. Mihăeşti -> RUGETU
+        498: 173123,  # Rugetu Sat  - Com. Slătioara -> RUGETU
         500: 172821,  # Runcu Sat  - Com. Runcu -> RUNCU
         501: 169832,  # Rusăneşti Sat  - Com. Fârtăţeşti -> RUSĂNEŞTI
         502: 168078,  # Râmeşti Sat  - Orş. Horezu -> RÂMEŞTI
         503: 173819,  # Râmeşti Sat  - Com. Şuşani -> RÂMEŞTI
+        504: 167482,  # Râmnicu Vâlcea Mun.  -> RÂMNICU VÂLCEA
         505: 172670,  # Râpa Cărămizii Sat  - Com. Roeşti -> RÂPA CĂRĂMIZII
         506: 169002,  # Râpăneşti Sat  - Com. Buneşti -> RÂPĂNEŞTI
         507: 169164,  # Râu Vadului Sat  - Com. Câineni -> RÂU VADULUI
@@ -13369,8 +13363,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         527: 172242,  # Spinu Sat  - Com. Perişani -> SPINU
         528: 170505,  # Spârleni Sat  - Com. Guşoeni -> SPÂRLENI
         529: 174450,  # Stanomiru Sat  - Com. Zătreni -> STANOMIRU
-        532: 168684,  # Stoeneşti Sat  - Com. Berislăveşti -> STOENEŞTI
         531: 173249,  # Stoeneşti Sat  - Com. Stoeneşti -> STOENEŞTI
+        532: 168684,  # Stoeneşti Sat  - Com. Berislăveşti -> STOENEŞTI
         533: 173837,  # Stoiculeşti Sat  - Com. Şuşani -> STOICULEŞTI
         534: 171860,  # Stoicăneşti Sat  - Com. Olanu -> STOICĂNEŞTI
         536: 173383,  # Stoileşti Sat  - Com. Stoileşti -> STOILEŞTI
@@ -13379,14 +13373,14 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         540: 170408,  # Străchineşti Sat  - Com. Grădiştea -> STRĂCHINEŞTI
         541: 171441,  # Stupărei Sat  - Com. Mihăeşti -> STUPĂREI
         542: 169850,  # Stănculeşti Sat  - Com. Fârtăţeşti -> STĂNCULEŞTI
-        545: 173141,  # Stăneşti Sat  - Com. Stăneşti -> STĂNEŞTI
         544: 173506,  # Stăneşti Sat  - Com. Stoileşti -> STĂNEŞTI
+        545: 173141,  # Stăneşti Sat  - Com. Stăneşti -> STĂNEŞTI
         546: 171012,  # Stăneşti-Lunca Sat  - Com. Lungeşti -> STĂNEŞTI-LUNCA
         547: 171986,  # Sub Deal Sat  - Com. Oteşani -> SUB DEAL
         548: 173203,  # Suieşti Sat  - Com. Stăneşti -> SUIEŞTI
         549: 172251,  # Surdoiu Sat  - Com. Perişani -> SURDOIU
-        551: 169976,  # Surpatele Sat  - Com. Frânceşti -> SURPATELE
         550: 172867,  # Surpaţi Sat  - Com. Runcu -> SURPAŢI
+        551: 169976,  # Surpatele Sat  - Com. Frânceşti -> SURPATELE
         552: 173356,  # Suseni Sat  - Com. Stoeneşti -> SUSENI
         554: 173604,  # Suteşti Sat  - Com. Suteşti -> SUTEŞTI
         555: 169397,  # Sânbotin Sat  - Com. Dăeşti -> SÂNBOTIN
@@ -13405,15 +13399,16 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         570: 173864,  # Tetoiu Sat  - Com. Tetoiu -> TETOIU
         571: 174236,  # Tighina Sat  - Com. Voiceşti -> TIGHINA
         572: 170943,  # Tina Sat  - Com. Livezi -> TINA
+        573: 167776,  # Tisa Loc.  - Orş. Băile Olăneşti -> TISA
         574: 172260,  # Titeşti Sat  - Com. Titeşti -> TITEŞTI
         575: 169020,  # Titireci Sat  - Com. Buneşti -> TITIRECI
         577: 173944,  # Tomşani Sat  - Com. Tomşani -> TOMŞANI
+        578: 167570,  # Troian Loc.  - Mun. Râmnicu Vâlcea -> TROIAN
         579: 174209,  # Trundin Sat  - Com. Vlădeşti -> TRUNDIN
         580: 171771,  # Tufanii Sat  - Com. Nicolae Bălcescu -> TUFANII
-        582: 170328,  # Tulei-Câmpeni Sat  - Com. Goleşti -> TULEI-CÂMPENI
         581: 170417,  # Turburea Sat  - Com. Grădiştea -> TURBUREA
+        582: 170328,  # Tulei-Câmpeni Sat  - Com. Goleşti -> TULEI-CÂMPENI
         583: 171094,  # Turceşti Sat  - Com. Mateeşti -> TURCEŞTI
-        664: 172572,  # Tuţuleşti Sat  - Com. Racoviţa -> TUŢULEŞTI
         584: 168657,  # Târgu Gânguleşti Sat  - Orş. Berbeşti -> TÂRGU GÂNGULEŞTI
         585: 168103,  # Tănăşeşti Sat  - Orş. Horezu -> TĂNĂSEŞTI
         586: 168434,  # Tătărani Sat  - Orş. Băbeni -> TĂTĂRANI
@@ -13452,7 +13447,6 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         622: 173524,  # Vlăduleşti Sat  - Com. Stoileşti -> VLĂDULEŞTI
         623: 174227,  # Voiceşti Sat  - Com. Voiceşti -> VOICEŞTI
         625: 174245,  # Voiceştii din Vale Sat  - Com. Voiceşti -> VOICEŞTII DIN VALE
-        682: 170211,  # Voiculeasa Sat  - Com. Glăvile -> VOICULEASA
         626: 174263,  # Voineasa Sat  - Com. Voineasa -> VOINEASA
         628: 174281,  # Voineşiţa Sat  - Com. Voineasa -> VOINEŞIŢA
         629: 171450,  # Vulpueşti Sat  - Com. Mihăeşti -> VULPUEŞTI
@@ -13479,31 +13473,23 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         652: 173695,  # Şirineasa Sat  - Com. Şirineasa -> ŞIRINEASA
         653: 172064,  # Şoliceşti Sat  - Com. Păuşeşti -> ŞOLICEŞTI
         654: 169869,  # Şotani Sat  - Com. Fârtăţeşti -> ŞOTANI
-        657: 171183,  # Ştefăneşti Sat  - Com. Măciuca -> ŞTEFĂNEŞTI
         656: 173757,  # Ştefăneşti Sat  - Com. Ştefăneşti -> ŞTEFĂNEŞTI
+        657: 171183,  # Ştefăneşti Sat  - Com. Măciuca -> ŞTEFĂNEŞTI
         658: 170159,  # Ştirbeşti Sat  - Com. Ghioroiu -> ŞTIRBEŞTI
         659: 171511,  # Şuricaru Sat  - Com. Milcoiu -> ŞURICARU
         660: 171619,  # Şuta Sat  - Com. Muereasca -> ŞUTA
         662: 173800,  # Şuşani Sat  - Com. Şuşani -> ŞUŞANI
         663: 173926,  # Ţepeşti Sat  - Com. Tetoiu -> ŢEPEŞTI
+        664: 172572,  # Tuţuleşti Sat  - Com. Racoviţa -> TUŢULEŞTI
         665: 170426,  # Ţuţuru Sat  - Com. Grădiştea -> ŢUŢURU
+        666: 167936,  # Jiblea Nouă Loc.  - Orş. Călimăneşti -> JIBLEA NOUĂ
+        667: 167945,  # Jiblea Veche Loc.  - Orş. Călimăneşti -> JIBLEA VECHE
+        672: 167954,  # Păuşa Loc.  - Orş. Călimăneşti -> PĂUŞA
+        677: 167963,  # Seaca Loc.  - Orş. Călimăneşti -> SEACA
+        682: 170211,  # Voiculeasa Sat  - Com. Glăvile -> VOICULEASA
     },
     39: {  # VRANCEA
-        44: 174888,  # Burcioaia Loc.  - Mun. Adjud -> BURCIOAIA
-        81: 175073,  # Crucea de Jos Loc.  - Orş. Panciu -> CRUCEA DE JOS
-        82: 175082,  # Crucea de Sus Loc.  - Orş. Panciu -> CRUCEA DE SUS
-        105: 175091,  # Dumbrava Loc.  - Orş. Panciu -> DUMBRAVA
-        194: 174762,  # Mândreşti-Moldova Loc.  - Mun. Focşani -> MÂNDREŞTI-MOLDOVA
-        195: 174771,  # Mândreşti-Munteni Loc.  - Mun. Focşani -> MÂNDREŞTI-MUNTENI
-        207: 175108,  # Neicu Loc.  - Orş. Panciu -> NEICU
-        298: 175117,  # Satu Nou Loc.  - Orş. Panciu -> SATU NOU
-        306: 174940,  # Siretu Loc.  - Orş. Mărăşeşti -> SIRETU
-        328: 174959,  # Tişiţa Loc.  - Orş. Mărăşeşti -> TIŞIŢA
-        120: 174753,  # Focşani Mun.  -> FOCŞANI
         1: 174879,  # Adjud Mun.  -> ADJUD
-        202: 174931,  # Mărăşeşti Orş.  -> MĂRĂŞEŞTI
-        221: 175028,  # Odobeşti Orş.  -> ODOBEŞTI
-        228: 175064,  # Panciu Orş.  -> PANCIU
         2: 174897,  # Adjudu Vechi Sat  - Mun. Adjud -> ADJUDU VECHI
         3: 175956,  # Alexandru Vlahuţă Sat  - Com. Dumbrăveni -> ALEXANDRU VLAHUŢĂ
         4: 175135,  # Andreiaşu de Jos Sat  - Com. Andreiaşu de Jos -> ANDREIAŞU DE JOS
@@ -13522,8 +13508,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         18: 175288,  # Bicheşti Sat  - Com. Bogheşti -> BICHEŞTI
         19: 177860,  # Bilieşti Sat  - Com. Bilieşti -> BILIEŞTI
         20: 176230,  # Bizigheşti Sat  - Com. Garoafa -> BIZIGHEŞTI
-        22: 176025,  # Blidari Sat  - Com. Dumitreşti -> BLIDARI
         21: 175750,  # Blidari Sat  - Com. Cârligele -> BLIDARI
+        22: 176025,  # Blidari Sat  - Com. Dumitreşti -> BLIDARI
         23: 178778,  # Bodeşti Sat  - Com. Vrâncioaia -> BODEŞTI
         24: 175279,  # Bogheşti Sat  - Com. Bogheşti -> BOGHEŞTI
         26: 175297,  # Bogheştii de Sus Sat  - Com. Bogheşti -> BOGHEŞTII DE SUS
@@ -13541,11 +13527,13 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         41: 175803,  # Buda Sat  - Com. Corbiţa -> BUDA
         42: 175901,  # Budeşti Sat  - Com. Coteşti -> BUDEŞTI
         43: 178395,  # Burca Sat  - Com. Vidra -> BURCA
+        44: 174888,  # Burcioaia Loc.  - Mun. Adjud -> BURCIOAIA
         45: 175233,  # Bârseşti Sat  - Com. Bârseşti -> BÂRSEŞTI
         47: 177021,  # Bâtcari Sat  - Com. Nistoreşti -> BÂTCARI
         48: 175215,  # Băleşti Sat  - Com. Băleşti -> BĂLEŞTI
         50: 176356,  # Bălăneşti Sat  - Com. Gura Caliţei -> BĂLĂNEŞTI
         51: 178206,  # Bătineşti Sat  - Com. Ţifeşti -> BĂTINEŞTI
+        52: 177637,  # Căiata Sat  - Com. Sihlea -> CĂIATA
         53: 177129,  # Carşocheşti-Corăbiţa Sat  - Com. Spulber -> CARŞOCHEŞTI-CORĂBIŢA
         54: 174842,  # Ceardac Sat  - Com. Goleşti -> CEARDAC
         55: 176579,  # Cerbu Sat  - Com. Jitia -> CERBU
@@ -13565,42 +13553,45 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         72: 177673,  # Cornetu Sat  - Com. Slobozia Bradului -> CORNETU
         73: 177682,  # Coroteni Sat  - Com. Slobozia Bradului -> COROTENI
         74: 177904,  # Costişa Sat  - Com. Tănăsoaia -> COSTIŞA
-        76: 176472,  # Costişa Sat  - Com. Homocea -> COSTIŞA
         75: 177913,  # Costişa de Sus Sat  - Com. Tănăsoaia -> COSTIŞA DE SUS
+        76: 176472,  # Costişa Sat  - Com. Homocea -> COSTIŞA
         78: 175894,  # Coteşti Sat  - Com. Coteşti -> COTEŞTI
         79: 177922,  # Covrag Sat  - Com. Tănăsoaia -> COVRAG
         80: 178135,  # Coza Sat  - Com. Tulnici -> COZA
+        81: 175073,  # Crucea de Jos Loc.  - Orş. Panciu -> CRUCEA DE JOS
+        82: 175082,  # Crucea de Sus Loc.  - Orş. Panciu -> CRUCEA DE SUS
         84: 174799,  # Câmpineanca Sat  - Com. Câmpineanca -> CÂMPINEANCA
         86: 175689,  # Câmpuri Sat  - Com. Câmpuri -> CÂMPURI
         87: 175965,  # Cândeşti Sat  - Com. Dumbrăveni -> CÂNDEŞTI
         89: 175741,  # Cârligele Sat  - Com. Cârligele -> CÂRLIGELE
-        52: 177637,  # Căiata Sat  - Com. Sihlea -> CĂIATA
         90: 176873,  # Călienii Noi Sat  - Com. Năneşti -> CĂLIENII NOI
         91: 176882,  # Călienii Vechi Sat  - Com. Năneşti -> CĂLIENII VECHI
         92: 177897,  # Călimăneasa Sat  - Com. Tănăsoaia -> CĂLIMĂNEASA
         93: 174977,  # Călimăneşti Sat  - Orş. Mărăşeşti -> CĂLIMĂNEŞTI
         94: 175527,  # Cătăuţi Sat  - Com. Chiojdeni -> CĂTĂUŢI
+        95: 175778,  # Dălhăuţi Sat  - Com. Cârligele -> DĂLHĂUŢI
         96: 177281,  # Dealu Cucului Sat  - Com. Poiana Cristei -> DEALU CUCULUI
-        98: 176374,  # Dealul Lung Sat  - Com. Gura Caliţei -> DEALUL LUNG
         97: 176588,  # Dealul Sării Sat  - Com. Jitia -> DEALU SĂRII
+        98: 176374,  # Dealul Lung Sat  - Com. Gura Caliţei -> DEALUL LUNG
         99: 176819,  # Diocheţi-Rediu Sat  - Com. Moviliţa -> DIOCHEŢI-REDIU
         100: 176258,  # Doaga Sat  - Com. Garoafa -> DOAGA
         101: 177389,  # Domneşti-Sat Sat  - Com. Pufeşti -> DOMNEŞTI-SAT
         102: 177398,  # Domneşti-Târg Sat  - Com. Pufeşti -> DOMNEŞTI-TÂRG
         103: 175974,  # Dragosloveni Sat  - Com. Dumbrăveni -> DRAGOSLOVENI
         104: 177771,  # Dragosloveni Sat  - Com. Soveja -> DRAGOSLOVENI
+        105: 175091,  # Dumbrava Loc.  - Orş. Panciu -> DUMBRAVA
         106: 177290,  # Dumbrava Sat  - Com. Poiana Cristei -> DUMBRAVA
         108: 175947,  # Dumbrăveni Sat  - Com. Dumbrăveni -> DUMBRĂVENI
         110: 175992,  # Dumitreşti Sat  - Com. Dumitreşti -> DUMITREŞTI
         111: 176043,  # Dumitreştii de Sus Sat  - Com. Dumitreşti -> DUMITREŞTII DE SUS
         112: 176034,  # Dumitreştii-Față Sat  - Com. Dumitreşti -> DUMITREŞTII-FAŢĂ
         113: 178509,  # După Măgura Sat  - Com. Vintileasca -> DUPĂ MĂGURA
-        95: 175778,  # Dălhăuţi Sat  - Com. Cârligele -> DĂLHĂUŢI
         114: 177487,  # Farcaş Sat  - Com. Reghiu -> FARCAŞ
         115: 177931,  # Feldioara Sat  - Com. Tănăsoaia -> FELDIOARA
         116: 175698,  # Feteşti Sat  - Com. Câmpuri -> FETEŞTI
         117: 175162,  # Fetig Sat  - Com. Andreiaşu de Jos -> FETIG
         119: 176169,  # Fitioneşti Sat  - Com. Fitioneşti -> FITIONEŞTI
+        120: 174753,  # Focşani Mun.  -> FOCŞANI
         121: 176828,  # Frecăţei Sat  - Com. Moviliţa -> FRECĂŢEI
         122: 177049,  # Făgetu Sat  - Com. Nistoreşti -> FĂGETU
         123: 178714,  # Fărăoanele Sat  - Com. Vârteşcoiu -> FARAOANELE
@@ -13638,6 +13629,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         162: 176597,  # Jitia de Jos Sat  - Com. Jitia -> JITIA DE JOS
         163: 178634,  # Jorăşti Sat  - Com. Vânători -> JORĂŞTI
         164: 176392,  # Lacu lui Baban Sat  - Com. Gura Caliţei -> LACU LUI BABAN
+        165: 176775,  # Lămoteşti Sat  - Com. Milcovul -> LĂMOTEŞTI
         166: 178162,  # Lepşa Sat  - Com. Tulnici -> LEPŞA
         167: 176481,  # Lespezi Sat  - Com. Homocea -> LESPEZI
         168: 177691,  # Lieşti Sat  - Com. Slobozia Bradului -> LIEŞTI
@@ -13646,7 +13638,6 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         171: 175536,  # Lojniţa Sat  - Com. Chiojdeni -> LOJNIŢA
         172: 175545,  # Luncile Sat  - Com. Chiojdeni -> LUNCILE
         173: 176070,  # Lupoaia Sat  - Com. Dumitreşti -> LUPOAIA
-        165: 176775,  # Lămoteşti Sat  - Com. Milcovul -> LĂMOTEŞTI
         174: 175830,  # Lărgăşeni Sat  - Com. Corbiţa -> LĂRGĂŞENI
         175: 176061,  # Lăstuni Sat  - Com. Dumitreşti -> LĂSTUNI
         176: 177307,  # Mahriu Sat  - Com. Poiana Cristei -> MAHRIU
@@ -13664,15 +13655,19 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         190: 176800,  # Moviliţa Sat  - Com. Moviliţa -> MOVILIŢA
         192: 178787,  # Muncei Sat  - Com. Vrâncioaia -> MUNCEI
         193: 177815,  # Muncelu Sat  - Com. Străoane -> MUNCELU
+        194: 174762,  # Mândreşti-Moldova Loc.  - Mun. Focşani -> MÂNDREŞTI-MOLDOVA
+        195: 174771,  # Mândreşti-Munteni Loc.  - Mun. Focşani -> MÂNDREŞTI-MUNTENI
         196: 176604,  # Măgura Sat  - Com. Jitia -> MĂGURA
         197: 176622,  # Măicăneşti Sat  - Com. Măicăneşti -> MĂICĂNEŞTI
         199: 176203,  # Mănăstioara Sat  - Com. Fitioneşti -> MĂNĂSTIOARA
         200: 178028,  # Mărtineşti Sat  - Com. Tătăranu -> MĂRTINEŞTI
         201: 175554,  # Mărăcini Sat  - Com. Chiojdeni -> MĂRĂCINI
+        202: 174931,  # Mărăşeşti Orş.  -> MĂRĂŞEŞTI
         203: 177432,  # Mărăşti Sat  - Com. Răcoasa -> MĂRĂŞTI
         204: 178340,  # Mătăcina Sat  - Com. Valea Sării -> MĂTĂCINA
         205: 178518,  # Neculele Sat  - Com. Vintileasca -> NECULELE
         206: 175242,  # Negrileşti Sat  - Com. Negrileşti -> NEGRILEŞTI
+        207: 175108,  # Neicu Loc.  - Orş. Panciu -> NEICU
         208: 176953,  # Nereju Sat  - Com. Nereju -> NEREJU
         210: 176980,  # Nereju Mic Sat  - Com. Nereju -> NEREJU MIC
         211: 177012,  # Nistoreşti Sat  - Com. Nistoreşti -> NISTOREŞTI
@@ -13682,16 +13677,18 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         218: 178064,  # Obrejiţa Sat  - Com. Obrejiţa -> OBREJIŢA
         219: 175849,  # Ocheşeşti Sat  - Com. Corbiţa -> OCHEŞEŞTI
         220: 177316,  # Odobasca Sat  - Com. Poiana Cristei -> ODOBASCA
+        221: 175028,  # Odobeşti Orş.  -> ODOBEŞTI
         222: 178233,  # Oleşeşti Sat  - Com. Ţifeşti -> OLEŞEŞTI
         223: 178723,  # Olteni Sat  - Com. Vârteşcoiu -> OLTENI
         224: 177708,  # Olăreni Sat  - Com. Slobozia Bradului -> OLĂRENI
         225: 176329,  # Oreavu Sat  - Com. Gugeşti -> OREAVU
         226: 177110,  # Paltin Sat  - Com. Paltin -> PALTIN
+        228: 175064,  # Panciu Orş.  -> PANCIU
         229: 177325,  # Petreanu Sat  - Com. Poiana Cristei -> PETREANU
         230: 178661,  # Petreşti Sat  - Com. Vânători -> PETREŞTI
+        231: 174806,  # Pietroasa Sat  - Com. Câmpineanca -> PIETROASA
         232: 178732,  # Pietroasa Sat  - Com. Vârteşcoiu -> PIETROASA
         233: 175402,  # Pietroasa Sat  - Com. Boloteşti -> PIETROASA
-        231: 174806,  # Pietroasa Sat  - Com. Câmpineanca -> PIETROASA
         234: 178082,  # Pietroasa Sat  - Com. Tâmboeşti -> PIETROASA
         235: 178572,  # Piscu Radului Sat  - Com. Vizantea-Livezi -> PISCU RADULUI
         236: 177502,  # Piscu Reghiului Sat  - Com. Reghiu -> PISCU REGHIULUI
@@ -13720,8 +13717,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         261: 177361,  # Pufeşti Sat  - Com. Pufeşti -> PUFEŞTI
         262: 175411,  # Putna Sat  - Com. Boloteşti -> PUTNA
         263: 174995,  # Pădureni Sat  - Orş. Mărăşeşti -> PĂDURENI
-        265: 176524,  # Pădureni Sat  - Com. Jariştea -> PĂDURENI
         264: 178073,  # Pădureni Sat  - Com. Tâmboeşti -> PĂDURENI
+        265: 176524,  # Pădureni Sat  - Com. Jariştea -> PĂDURENI
         266: 178242,  # Pătrăşcani Sat  - Com. Ţifeşti -> PĂTRĂŞCANI
         267: 178171,  # Păuleşti Sat  - Com. Păuleşti -> PĂULEŞTI
         268: 177245,  # Păuneşti Sat  - Com. Păuneşti -> PĂUNEŞTI
@@ -13750,12 +13747,14 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         295: 176999,  # Sahastru Sat  - Com. Nereju -> SAHASTRU
         296: 175634,  # Salcia Nouă Sat  - Com. Ciorăşti -> SALCIA NOUĂ
         297: 175643,  # Salcia Veche Sat  - Com. Ciorăşti -> SALCIA VECHE
+        298: 175117,  # Satu Nou Loc.  - Orş. Panciu -> SATU NOU
         299: 175652,  # Satu Nou Sat  - Com. Ciorăşti -> SATU NOU
         300: 178420,  # Scafari Sat  - Com. Vidra -> SCAFARI
         301: 176533,  # Scânteia Sat  - Com. Jariştea -> SCÂNTEIA
         302: 175572,  # Seciu Sat  - Com. Chiojdeni -> SECIU
         303: 177619,  # Sihlea Sat  - Com. Sihlea -> SIHLEA
         305: 176114,  # Siminoc Sat  - Com. Dumitreşti -> SIMINOC
+        306: 174940,  # Siretu Loc.  - Orş. Mărăşeşti -> SIRETU
         307: 178091,  # Slimnic Sat  - Com. Tâmboeşti -> SLIMNIC
         308: 176659,  # Slobozia Boteşti Sat  - Com. Măicăneşti -> SLOBOZIA BOTEŞTI
         309: 177664,  # Slobozia Bradului Sat  - Com. Slobozia Bradului -> SLOBOZIA BRADULUI
@@ -13772,6 +13771,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         325: 178448,  # Tichiriş Sat  - Com. Vidra -> TICHIRIŞ
         326: 176123,  # Tinoasa Sat  - Com. Dumitreşti -> TINOASA
         327: 175199,  # Titila Sat  - Com. Andreiaşu de Jos -> TITILA
+        328: 174959,  # Tişiţa Loc.  - Orş. Mărăşeşti -> TIŞIŢA
         329: 177183,  # Tojanii de Jos Sat  - Com. Spulber -> TOJANII DE JOS
         330: 177192,  # Tojanii de Sus Sat  - Com. Spulber -> TOJANII DE SUS
         331: 175251,  # Topeşti Sat  - Com. Bârseşti -> TOPEŞTI
@@ -13780,6 +13780,7 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         334: 176837,  # Trotuşanu Sat  - Com. Moviliţa -> TROTUŞANU
         335: 175581,  # Tulburea Sat  - Com. Chiojdeni -> TULBUREA
         336: 178126,  # Tulnici Sat  - Com. Tulnici -> TULNICI
+        338: 175867,  # Ţuţu Sat  - Com. Corbiţa -> TUŢU
         339: 178055,  # Tâmboeşti Sat  - Com. Tâmboeşti -> TÂMBOEŞTI
         341: 177343,  # Târâtu Sat  - Com. Poiana Cristei -> TÂRÂTU
         342: 175359,  # Tăbuceşti Sat  - Com. Bogheşti -> TĂBUCEŞTI
@@ -13802,8 +13803,8 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         363: 177450,  # Verdea Sat  - Com. Răcoasa -> VERDEA
         364: 177094,  # Vetreşti-Herăstrău Sat  - Com. Nistoreşti -> VETREŞTI-HERĂSTRĂU
         365: 178386,  # Vidra Sat  - Com. Vidra -> VIDRA
-        368: 178457,  # Viişoara Sat  - Com. Vidra -> VIIŞOARA
         367: 177254,  # Viişoara Sat  - Com. Păuneşti -> VIIŞOARA
+        368: 178457,  # Viişoara Sat  - Com. Vidra -> VIIŞOARA
         369: 178484,  # Vintileasca Sat  - Com. Vintileasca -> VINTILEASCA
         371: 178260,  # Vităneşti Sat  - Com. Ţifeşti -> VITĂNEŞTI
         372: 175420,  # Vităneştii de Sub Măgura Sat  - Com. Boloteşti -> VITĂNEŞTII DE SUB MĂGURĂ
@@ -13834,7 +13835,6 @@ LOCALITIES_TO_SIRUTA_ID = {  # ANAF ids to siruta ids
         402: 177209,  # Ţepa Sat  - Com. Paltin -> ŢEPA
         403: 178199,  # Ţifeşti Sat  - Com. Ţifeşti -> ŢIFEŞTI
         405: 177218,  # Ţipău Sat  - Com. Spulber -> ŢIPĂU
-        338: 175867,  # Ţuţu Sat  - Com. Corbiţa -> TUŢU
     },
     40: {  # BUCUREŞTI
         1: 179141,  # 1 Sector  - Mun. Bucureşti -> BUCUREŞTI SECTORUL 1

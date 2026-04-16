@@ -1,23 +1,5 @@
 [
   {
-    "denumire": "Giurgiu Mun. ",
-    "cod": "73",
-    "codPrimarie": "4852455",
-    "siruta": "100530"
-  },
-  {
-    "denumire": "Bolintin-Vale Or\u015f. ",
-    "cod": "7",
-    "codPrimarie": "5483380",
-    "siruta": "101207"
-  },
-  {
-    "denumire": "Mih\u0103ile\u015fti Or\u015f. ",
-    "cod": "117",
-    "codPrimarie": "5246201",
-    "siruta": "104145"
-  },
-  {
     "denumire": "Aduna\u0163ii-Cop\u0103ceni Sat  - Com. Aduna\u0163ii-Cop\u0103ceni",
     "cod": "1",
     "codPrimarie": "5246171",
@@ -40,6 +22,12 @@
     "cod": "5",
     "codPrimarie": "5843129",
     "siruta": "101172"
+  },
+  {
+    "denumire": "Bolintin-Vale Or\u015f. ",
+    "cod": "7",
+    "codPrimarie": "5483380",
+    "siruta": "101207"
   },
   {
     "denumire": "Brani\u015ftea Sat  - Com. Oinacu",
@@ -154,12 +142,6 @@
     "cod": "32",
     "codPrimarie": "5755124",
     "siruta": "102115"
-  },
-  {
-    "denumire": "Comasca Sat  - Com. Oinacu",
-    "cod": "224",
-    "codPrimarie": "5798583",
-    "siruta": "180082"
   },
   {
     "denumire": "Copaciu Sat  - Com. Ghimpa\u0163i",
@@ -360,6 +342,12 @@
     "siruta": "105320"
   },
   {
+    "denumire": "Giurgiu Mun. ",
+    "cod": "73",
+    "codPrimarie": "4852455",
+    "siruta": "100530"
+  },
+  {
     "denumire": "Gogo\u015fari Sat  - Com. Gogo\u015fari",
     "cod": "74",
     "codPrimarie": "5026621",
@@ -474,16 +462,16 @@
     "siruta": "103700"
   },
   {
-    "denumire": "Isvoarele Sat  - Com. Isvoarele",
-    "cod": "104",
-    "codPrimarie": "16462227",
-    "siruta": "103666"
-  },
-  {
     "denumire": "Izvoarele Sat  - Com. Izvoarele",
     "cod": "103",
     "codPrimarie": "5182159",
     "siruta": "103906"
+  },
+  {
+    "denumire": "Isvoarele Sat  - Com. Isvoarele",
+    "cod": "104",
+    "codPrimarie": "16462227",
+    "siruta": "103666"
   },
   {
     "denumire": "Izvoru Sat  - Com. Gogo\u015fari",
@@ -538,6 +526,12 @@
     "cod": "116",
     "codPrimarie": "5843129",
     "siruta": "101181"
+  },
+  {
+    "denumire": "Mih\u0103ile\u015fti Or\u015f. ",
+    "cod": "117",
+    "codPrimarie": "5246201",
+    "siruta": "104145"
   },
   {
     "denumire": "Milcov\u0103\u0163u Sat  - Com. Letca Nou\u0103",
@@ -1018,5 +1012,11 @@
     "cod": "215",
     "codPrimarie": "5026664",
     "siruta": "106050"
+  },
+  {
+    "denumire": "Comasca Sat  - Com. Oinacu",
+    "cod": "224",
+    "codPrimarie": "5798583",
+    "siruta": "180082"
   }
 ]

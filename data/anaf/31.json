@@ -1,101 +1,5 @@
 [
   {
-    "denumire": "Bic Loc.  - Or\u015f. \u015eimleu Silvaniei",
-    "cod": "17",
-    "codPrimarie": "4566658",
-    "siruta": "139900"
-  },
-  {
-    "denumire": "Cehei Loc.  - Or\u015f. \u015eimleu Silvaniei",
-    "cod": "56",
-    "codPrimarie": "4566658",
-    "siruta": "139919"
-  },
-  {
-    "denumire": "Cuceu Loc.  - Or\u015f. Jibou",
-    "cod": "96",
-    "codPrimarie": "4494926",
-    "siruta": "139839"
-  },
-  {
-    "denumire": "Horoatu Cehului Loc.  - Or\u015f. Cehu Silvaniei",
-    "cod": "155",
-    "codPrimarie": "4291859",
-    "siruta": "139768"
-  },
-  {
-    "denumire": "Husia Loc.  - Or\u015f. Jibou",
-    "cod": "160",
-    "codPrimarie": "4494926",
-    "siruta": "139848"
-  },
-  {
-    "denumire": "Moti\u015f Loc.  - Or\u015f. Cehu Silvaniei",
-    "cod": "199",
-    "codPrimarie": "4291859",
-    "siruta": "139777"
-  },
-  {
-    "denumire": "Nadi\u015f Loc.  - Or\u015f. Cehu Silvaniei",
-    "cod": "206",
-    "codPrimarie": "4291859",
-    "siruta": "139786"
-  },
-  {
-    "denumire": "Pusta Loc.  - Or\u015f. \u015eimleu Silvaniei",
-    "cod": "241",
-    "codPrimarie": "4566658",
-    "siruta": "139928"
-  },
-  {
-    "denumire": "Rona Loc.  - Or\u015f. Jibou",
-    "cod": "254",
-    "codPrimarie": "4494926",
-    "siruta": "139857"
-  },
-  {
-    "denumire": "St\u00e2na Loc.  - Mun. Zal\u0103u",
-    "cod": "272",
-    "codPrimarie": "4291786",
-    "siruta": "139722"
-  },
-  {
-    "denumire": "Ulciug Loc.  - Or\u015f. Cehu Silvaniei",
-    "cod": "306",
-    "codPrimarie": "4291859",
-    "siruta": "139795"
-  },
-  {
-    "denumire": "Var Loc.  - Or\u015f. Jibou",
-    "cod": "316",
-    "codPrimarie": "4494926",
-    "siruta": "139866"
-  },
-  {
-    "denumire": "Zal\u0103u Mun. ",
-    "cod": "329",
-    "codPrimarie": "4291786",
-    "siruta": "139713"
-  },
-  {
-    "denumire": "Cehu Silvaniei Or\u015f. ",
-    "cod": "57",
-    "codPrimarie": "4291859",
-    "siruta": "139759"
-  },
-  {
-    "denumire": "Jibou Or\u015f. ",
-    "cod": "172",
-    "codPrimarie": "4494926",
-    "siruta": "139820"
-  },
-  {
-    "denumire": "\u015eimleu Silvaniei Or\u015f. ",
-    "cod": "338",
-    "codPrimarie": "4566658",
-    "siruta": "139893"
-  },
-  {
     "denumire": "Adalin Sat  - Com. Dragu",
     "cod": "1",
     "codPrimarie": "4637651",
@@ -172,6 +76,12 @@
     "cod": "16",
     "codPrimarie": "4291654",
     "siruta": "141250"
+  },
+  {
+    "denumire": "Bic Loc.  - Or\u015f. \u015eimleu Silvaniei",
+    "cod": "17",
+    "codPrimarie": "4566658",
+    "siruta": "139900"
   },
   {
     "denumire": "Bilghez Sat  - Com. Nu\u015ffal\u0103u",
@@ -352,6 +262,18 @@
     "cod": "55",
     "codPrimarie": "4495220",
     "siruta": "143085"
+  },
+  {
+    "denumire": "Cehei Loc.  - Or\u015f. \u015eimleu Silvaniei",
+    "cod": "56",
+    "codPrimarie": "4566658",
+    "siruta": "139919"
+  },
+  {
+    "denumire": "Cehu Silvaniei Or\u015f. ",
+    "cod": "57",
+    "codPrimarie": "4291859",
+    "siruta": "139759"
   },
   {
     "denumire": "Ceri\u015fa Sat  - Com. Halm\u0103\u015fd",
@@ -538,6 +460,12 @@
     "cod": "95",
     "codPrimarie": "4637600",
     "siruta": "140887"
+  },
+  {
+    "denumire": "Cuceu Loc.  - Or\u015f. Jibou",
+    "cod": "96",
+    "codPrimarie": "4494926",
+    "siruta": "139839"
   },
   {
     "denumire": "Cuciulat Sat  - Com. Letca",
@@ -834,6 +762,12 @@
     "siruta": "141456"
   },
   {
+    "denumire": "Horoatu Cehului Loc.  - Or\u015f. Cehu Silvaniei",
+    "cod": "155",
+    "codPrimarie": "4291859",
+    "siruta": "139768"
+  },
+  {
     "denumire": "Horoatu Crasnei Sat  - Com. Horoatu Crasnei",
     "cod": "156",
     "codPrimarie": "4495085",
@@ -850,6 +784,12 @@
     "cod": "159",
     "codPrimarie": "4495115",
     "siruta": "140645"
+  },
+  {
+    "denumire": "Husia Loc.  - Or\u015f. Jibou",
+    "cod": "160",
+    "codPrimarie": "4494926",
+    "siruta": "139848"
   },
   {
     "denumire": "Huta Sat  - Com. Buciumi",
@@ -904,6 +844,12 @@
     "cod": "171",
     "codPrimarie": "4637619",
     "siruta": "140020"
+  },
+  {
+    "denumire": "Jibou Or\u015f. ",
+    "cod": "172",
+    "codPrimarie": "4494926",
+    "siruta": "139820"
   },
   {
     "denumire": "Lazuri Sat  - Com. Valc\u0103u de Jos",
@@ -1032,6 +978,12 @@
     "siruta": "142159"
   },
   {
+    "denumire": "Moti\u015f Loc.  - Or\u015f. Cehu Silvaniei",
+    "cod": "199",
+    "codPrimarie": "4291859",
+    "siruta": "139777"
+  },
+  {
     "denumire": "Muncel Sat  - Com. Cristol\u0163",
     "cod": "200",
     "codPrimarie": "4291638",
@@ -1060,6 +1012,12 @@
     "cod": "205",
     "codPrimarie": "4292030",
     "siruta": "142051"
+  },
+  {
+    "denumire": "Nadi\u015f Loc.  - Or\u015f. Cehu Silvaniei",
+    "cod": "206",
+    "codPrimarie": "4291859",
+    "siruta": "139786"
   },
   {
     "denumire": "Naimon Sat  - Com. Dobrin",
@@ -1236,6 +1194,12 @@
     "siruta": "141848"
   },
   {
+    "denumire": "Pusta Loc.  - Or\u015f. \u015eimleu Silvaniei",
+    "cod": "241",
+    "codPrimarie": "4566658",
+    "siruta": "139928"
+  },
+  {
     "denumire": "P\u0103dureni Sat  - Com. Cam\u0103r",
     "cod": "242",
     "codPrimarie": "4495263",
@@ -1300,6 +1264,12 @@
     "cod": "253",
     "codPrimarie": "4291557",
     "siruta": "142435"
+  },
+  {
+    "denumire": "Rona Loc.  - Or\u015f. Jibou",
+    "cod": "254",
+    "codPrimarie": "4494926",
+    "siruta": "139857"
   },
   {
     "denumire": "Ruginoasa Sat  - Com. Cuz\u0103plac",
@@ -1390,6 +1360,12 @@
     "cod": "271",
     "codPrimarie": "4792272",
     "siruta": "141517"
+  },
+  {
+    "denumire": "St\u00e2na Loc.  - Mun. Zal\u0103u",
+    "cod": "272",
+    "codPrimarie": "4291786",
+    "siruta": "139722"
   },
   {
     "denumire": "St\u00e2rciu Sat  - Com. Horoatu Crasnei",
@@ -1554,6 +1530,12 @@
     "siruta": "142060"
   },
   {
+    "denumire": "Ulciug Loc.  - Or\u015f. Cehu Silvaniei",
+    "cod": "306",
+    "codPrimarie": "4291859",
+    "siruta": "139795"
+  },
+  {
     "denumire": "Valc\u0103u de Jos Sat  - Com. Valc\u0103u de Jos",
     "cod": "308",
     "codPrimarie": "4291930",
@@ -1600,6 +1582,12 @@
     "cod": "315",
     "codPrimarie": "4291999",
     "siruta": "142872"
+  },
+  {
+    "denumire": "Var Loc.  - Or\u015f. Jibou",
+    "cod": "316",
+    "codPrimarie": "4494926",
+    "siruta": "139866"
   },
   {
     "denumire": "Verveghiu Sat  - Com. Dobrin",
@@ -1662,6 +1650,12 @@
     "siruta": "140315"
   },
   {
+    "denumire": "Zal\u0103u Mun. ",
+    "cod": "329",
+    "codPrimarie": "4291786",
+    "siruta": "139713"
+  },
+  {
     "denumire": "Zimbor Sat  - Com. Zimbor",
     "cod": "330",
     "codPrimarie": "4637643",
@@ -1696,6 +1690,12 @@
     "cod": "337",
     "codPrimarie": "14992936",
     "siruta": "142541"
+  },
+  {
+    "denumire": "\u015eimleu Silvaniei Or\u015f. ",
+    "cod": "338",
+    "codPrimarie": "4566658",
+    "siruta": "139893"
   },
   {
     "denumire": "\u015eoimu\u015f Sat  - Com. Some\u015f-Odorhei",

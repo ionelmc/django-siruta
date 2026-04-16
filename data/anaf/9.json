@@ -1,29 +1,5 @@
 [
   {
-    "denumire": "Br\u0103ila Mun. ",
-    "cod": "15",
-    "codPrimarie": "4205670",
-    "siruta": "42691"
-  },
-  {
-    "denumire": "F\u0103urei Or\u015f. ",
-    "cod": "56",
-    "codPrimarie": "4343052",
-    "siruta": "42762"
-  },
-  {
-    "denumire": "Ianca Or\u015f. ",
-    "cod": "73",
-    "codPrimarie": "4874631",
-    "siruta": "43340"
-  },
-  {
-    "denumire": "\u00censur\u0103\u0163ei Or\u015f. ",
-    "cod": "181",
-    "codPrimarie": "4721220",
-    "siruta": "43420"
-  },
-  {
     "denumire": "Agaua Sat  - Com. Frec\u0103\u0163ei",
     "cod": "1",
     "codPrimarie": "4874658",
@@ -94,6 +70,12 @@
     "cod": "14",
     "codPrimarie": "4874690",
     "siruta": "43484"
+  },
+  {
+    "denumire": "Br\u0103ila Mun. ",
+    "cod": "15",
+    "codPrimarie": "4205670",
+    "siruta": "42691"
   },
   {
     "denumire": "Bumb\u0103cari Sat  - Com. Dude\u015fti",
@@ -216,16 +198,16 @@
     "siruta": "43723"
   },
   {
-    "denumire": "Cuza Vod\u0103 Sat  - Com. St\u0103ncu\u0163a",
-    "cod": "41",
-    "codPrimarie": "4874771",
-    "siruta": "44088"
-  },
-  {
     "denumire": "Cuza Vod\u0103 Sat  - Com. Salcia Tudor",
     "cod": "40",
     "codPrimarie": "4721271",
     "siruta": "43894"
+  },
+  {
+    "denumire": "Cuza Vod\u0103 Sat  - Com. St\u0103ncu\u0163a",
+    "cod": "41",
+    "codPrimarie": "4874771",
+    "siruta": "44088"
   },
   {
     "denumire": "C\u00e2ineni-B\u0103i Sat  - Com. Vi\u015fani",
@@ -300,6 +282,12 @@
     "siruta": "43126"
   },
   {
+    "denumire": "F\u0103urei Or\u015f. ",
+    "cod": "56",
+    "codPrimarie": "4343052",
+    "siruta": "42762"
+  },
+  {
     "denumire": "F\u0103urei Sat Sat  - Com. Surdila-Greci",
     "cod": "57",
     "codPrimarie": "4874666",
@@ -370,6 +358,12 @@
     "cod": "72",
     "codPrimarie": "4874666",
     "siruta": "42815"
+  },
+  {
+    "denumire": "Ianca Or\u015f. ",
+    "cod": "73",
+    "codPrimarie": "4874631",
+    "siruta": "43340"
   },
   {
     "denumire": "Ibrianu Sat  - Com. Gr\u0103di\u015ftea",
@@ -850,6 +844,12 @@
     "cod": "179",
     "codPrimarie": "4342740",
     "siruta": "44159"
+  },
+  {
+    "denumire": "\u00censur\u0103\u0163ei Or\u015f. ",
+    "cod": "181",
+    "codPrimarie": "4721220",
+    "siruta": "43420"
   },
   {
     "denumire": "\u0162epe\u015f Vod\u0103 Sat  - Com. Movila Miresii",

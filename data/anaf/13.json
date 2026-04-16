@@ -1,155 +1,5 @@
 [
   {
-    "denumire": "Cap Aurora Loc.  - Mun. Mangalia",
-    "cod": "26",
-    "codPrimarie": "4515255",
-    "siruta": "63223"
-  },
-  {
-    "denumire": "Eforie Nord Loc.  - Or\u015f. Eforie",
-    "cod": "89",
-    "codPrimarie": "4617794",
-    "siruta": "60473"
-  },
-  {
-    "denumire": "Eforie Sud Loc.  - Or\u015f. Eforie",
-    "cod": "90",
-    "codPrimarie": "4617794",
-    "siruta": "60464"
-  },
-  {
-    "denumire": "Jupiter Loc.  - Mun. Mangalia",
-    "cod": "125",
-    "codPrimarie": "4515255",
-    "siruta": "63214"
-  },
-  {
-    "denumire": "Mamaia Loc.  - Mun. Constan\u0163a",
-    "cod": "136",
-    "codPrimarie": "4785631",
-    "siruta": "60437"
-  },
-  {
-    "denumire": "Mamaia-Sat Loc.  - Or\u015f. N\u0103vodari",
-    "cod": "137",
-    "codPrimarie": "4618382",
-    "siruta": "60525"
-  },
-  {
-    "denumire": "Neptun Loc.  - Mun. Mangalia",
-    "cod": "159",
-    "codPrimarie": "4515255",
-    "siruta": "63205"
-  },
-  {
-    "denumire": "Olimp Loc.  - Mun. Mangalia",
-    "cod": "167",
-    "codPrimarie": "4515255",
-    "siruta": "63143"
-  },
-  {
-    "denumire": "Palazu Mare Loc.  - Mun. Constan\u0163a",
-    "cod": "175",
-    "codPrimarie": "4785631",
-    "siruta": "60446"
-  },
-  {
-    "denumire": "Remus Opreanu Loc.  - Mun. Medgidia",
-    "cod": "196",
-    "codPrimarie": "4301456",
-    "siruta": "60865"
-  },
-  {
-    "denumire": "Saturn Loc.  - Mun. Mangalia",
-    "cod": "207",
-    "codPrimarie": "4515255",
-    "siruta": "63241"
-  },
-  {
-    "denumire": "Vadu Oii Loc.  - Or\u015f. H\u00e2r\u015fova",
-    "cod": "243",
-    "codPrimarie": "7453165",
-    "siruta": "60829"
-  },
-  {
-    "denumire": "Valea Dacilor Loc.  - Mun. Medgidia",
-    "cod": "244",
-    "codPrimarie": "4301456",
-    "siruta": "60874"
-  },
-  {
-    "denumire": "Venus Loc.  - Mun. Mangalia",
-    "cod": "248",
-    "codPrimarie": "4515255",
-    "siruta": "63232"
-  },
-  {
-    "denumire": "Constan\u0163a Mun. ",
-    "cod": "55",
-    "codPrimarie": "4785631",
-    "siruta": "60428"
-  },
-  {
-    "denumire": "Mangalia Mun. ",
-    "cod": "138",
-    "codPrimarie": "4515255",
-    "siruta": "60491"
-  },
-  {
-    "denumire": "Medgidia Mun. ",
-    "cod": "139",
-    "codPrimarie": "4301456",
-    "siruta": "60856"
-  },
-  {
-    "denumire": "Cernavod\u0103 Or\u015f. ",
-    "cod": "35",
-    "codPrimarie": "4304568",
-    "siruta": "60785"
-  },
-  {
-    "denumire": "Eforie Or\u015f. ",
-    "cod": "88",
-    "codPrimarie": "4617794",
-    "siruta": "60455"
-  },
-  {
-    "denumire": "H\u00e2r\u015fova Or\u015f. ",
-    "cod": "114",
-    "codPrimarie": "7453165",
-    "siruta": "60810"
-  },
-  {
-    "denumire": "Murfatlar Or\u015f. ",
-    "cod": "17",
-    "codPrimarie": "4859712",
-    "siruta": "62379"
-  },
-  {
-    "denumire": "Negru Vod\u0103 Or\u015f. ",
-    "cod": "157",
-    "codPrimarie": "6398763",
-    "siruta": "62404"
-  },
-  {
-    "denumire": "N\u0103vodari Or\u015f. ",
-    "cod": "165",
-    "codPrimarie": "4618382",
-    "siruta": "60516"
-  },
-  {
-    "denumire": "Ovidiu Or\u015f. ",
-    "cod": "174",
-    "codPrimarie": "4301359",
-    "siruta": "60696"
-  },
-  {
-    "denumire": "Techirghiol Or\u015f. ",
-    "cod": "225",
-    "codPrimarie": "4300540",
-    "siruta": "60543"
-  },
-  {
     "denumire": "2 Mai Sat  - Com. Limanu",
     "cod": "1",
     "codPrimarie": "4671688",
@@ -210,6 +60,12 @@
     "siruta": "60963"
   },
   {
+    "denumire": "Murfatlar Or\u015f. ",
+    "cod": "17",
+    "codPrimarie": "4859712",
+    "siruta": "62379"
+  },
+  {
     "denumire": "Biruin\u0163a Sat  - Com. Topraisar",
     "cod": "18",
     "codPrimarie": "5459919",
@@ -252,6 +108,12 @@
     "siruta": "62075"
   },
   {
+    "denumire": "Cap Aurora Loc.  - Mun. Mangalia",
+    "cod": "26",
+    "codPrimarie": "4515255",
+    "siruta": "63223"
+  },
+  {
     "denumire": "Capidava Sat  - Com. Topalu",
     "cod": "27",
     "codPrimarie": "7249808",
@@ -286,6 +148,12 @@
     "cod": "33",
     "codPrimarie": "4618439",
     "siruta": "61176"
+  },
+  {
+    "denumire": "Cernavod\u0103 Or\u015f. ",
+    "cod": "35",
+    "codPrimarie": "4304568",
+    "siruta": "60785"
   },
   {
     "denumire": "Cetatea Sat  - Com. Dobromir",
@@ -366,6 +234,12 @@
     "siruta": "61336"
   },
   {
+    "denumire": "Constan\u0163a Mun. ",
+    "cod": "55",
+    "codPrimarie": "4785631",
+    "siruta": "60428"
+  },
+  {
     "denumire": "Corbu Sat  - Com. Corbu",
     "cod": "56",
     "codPrimarie": "4707714",
@@ -426,12 +300,6 @@
     "siruta": "62100"
   },
   {
-    "denumire": "Culmea Sat  - Or\u015f. Ovidiu",
-    "cod": "297",
-    "codPrimarie": "4301359",
-    "siruta": "63349"
-  },
-  {
     "denumire": "Cump\u0103na Sat  - Com. Cump\u0103na",
     "cod": "69",
     "codPrimarie": "4618170",
@@ -460,12 +328,6 @@
     "cod": "74",
     "codPrimarie": "4618439",
     "siruta": "61185"
-  },
-  {
-    "denumire": "Darabani Sat  - Or\u015f. Negru Vod\u0103",
-    "cod": "273",
-    "codPrimarie": "6398763",
-    "siruta": "62413"
   },
   {
     "denumire": "Deleni Sat  - Com. Deleni",
@@ -526,6 +388,24 @@
     "cod": "87",
     "codPrimarie": "7453130",
     "siruta": "61032"
+  },
+  {
+    "denumire": "Eforie Or\u015f. ",
+    "cod": "88",
+    "codPrimarie": "4617794",
+    "siruta": "60455"
+  },
+  {
+    "denumire": "Eforie Nord Loc.  - Or\u015f. Eforie",
+    "cod": "89",
+    "codPrimarie": "4617794",
+    "siruta": "60473"
+  },
+  {
+    "denumire": "Eforie Sud Loc.  - Or\u015f. Eforie",
+    "cod": "90",
+    "codPrimarie": "4617794",
+    "siruta": "60464"
   },
   {
     "denumire": "Esechioi Sat  - Com. Ostrov",
@@ -648,6 +528,12 @@
     "siruta": "61835"
   },
   {
+    "denumire": "H\u00e2r\u015fova Or\u015f. ",
+    "cod": "114",
+    "codPrimarie": "7453165",
+    "siruta": "60810"
+  },
+  {
     "denumire": "Independen\u0163a Sat  - Com. Independen\u0163a",
     "cod": "115",
     "codPrimarie": "6228149",
@@ -690,6 +576,12 @@
     "siruta": "62743"
   },
   {
+    "denumire": "Jupiter Loc.  - Mun. Mangalia",
+    "cod": "125",
+    "codPrimarie": "4515255",
+    "siruta": "63214"
+  },
+  {
     "denumire": "Lanurile Sat  - Com. B\u0103r\u0103ganu",
     "cod": "126",
     "codPrimarie": "15226406",
@@ -730,6 +622,30 @@
     "cod": "135",
     "codPrimarie": "4707714",
     "siruta": "61531"
+  },
+  {
+    "denumire": "Mamaia Loc.  - Mun. Constan\u0163a",
+    "cod": "136",
+    "codPrimarie": "4785631",
+    "siruta": "60437"
+  },
+  {
+    "denumire": "Mamaia-Sat Loc.  - Or\u015f. N\u0103vodari",
+    "cod": "137",
+    "codPrimarie": "4618382",
+    "siruta": "60525"
+  },
+  {
+    "denumire": "Mangalia Mun. ",
+    "cod": "138",
+    "codPrimarie": "4515255",
+    "siruta": "60491"
+  },
+  {
+    "denumire": "Medgidia Mun. ",
+    "cod": "139",
+    "codPrimarie": "4301456",
+    "siruta": "60856"
   },
   {
     "denumire": "Mereni Sat  - Com. Mereni",
@@ -810,10 +726,22 @@
     "siruta": "61354"
   },
   {
+    "denumire": "Negru Vod\u0103 Or\u015f. ",
+    "cod": "157",
+    "codPrimarie": "6398763",
+    "siruta": "62404"
+  },
+  {
     "denumire": "Negureni Sat  - Com. B\u0103neasa",
     "cod": "158",
     "codPrimarie": "5408818",
     "siruta": "61096"
+  },
+  {
+    "denumire": "Neptun Loc.  - Mun. Mangalia",
+    "cod": "159",
+    "codPrimarie": "4515255",
+    "siruta": "63205"
   },
   {
     "denumire": "Nicolae B\u0103lcescu Sat  - Com. Nicolae B\u0103lcescu",
@@ -840,10 +768,22 @@
     "siruta": "62048"
   },
   {
+    "denumire": "N\u0103vodari Or\u015f. ",
+    "cod": "165",
+    "codPrimarie": "4618382",
+    "siruta": "60516"
+  },
+  {
     "denumire": "Oituz Sat  - Com. Lumina",
     "cod": "166",
     "codPrimarie": "4671807",
     "siruta": "62217"
+  },
+  {
+    "denumire": "Olimp Loc.  - Mun. Mangalia",
+    "cod": "167",
+    "codPrimarie": "4515255",
+    "siruta": "63143"
   },
   {
     "denumire": "Olteni Sat  - Com. Independen\u0163a",
@@ -868,6 +808,18 @@
     "cod": "172",
     "codPrimarie": "4804482",
     "siruta": "62547"
+  },
+  {
+    "denumire": "Ovidiu Or\u015f. ",
+    "cod": "174",
+    "codPrimarie": "4301359",
+    "siruta": "60696"
+  },
+  {
+    "denumire": "Palazu Mare Loc.  - Mun. Constan\u0163a",
+    "cod": "175",
+    "codPrimarie": "4785631",
+    "siruta": "60446"
   },
   {
     "denumire": "Palazu Mic Sat  - Com. Mihail Kog\u0103lniceanu",
@@ -936,12 +888,6 @@
     "siruta": "62770"
   },
   {
-    "denumire": "Poiana Sat  - Or\u015f. Ovidiu",
-    "cod": "284",
-    "codPrimarie": "4301359",
-    "siruta": "60712"
-  },
-  {
     "denumire": "Pot\u00e2rnichea Sat  - Com. Topraisar",
     "cod": "191",
     "codPrimarie": "5459919",
@@ -964,6 +910,12 @@
     "cod": "195",
     "codPrimarie": "4514675",
     "siruta": "62805"
+  },
+  {
+    "denumire": "Remus Opreanu Loc.  - Mun. Medgidia",
+    "cod": "196",
+    "codPrimarie": "4301456",
+    "siruta": "60865"
   },
   {
     "denumire": "Runcu Sat  - Com. Pantelimon",
@@ -1008,16 +960,22 @@
     "siruta": "62832"
   },
   {
+    "denumire": "Satu Nou Sat  - Com. Mircea Vod\u0103",
+    "cod": "205",
+    "codPrimarie": "4514632",
+    "siruta": "62333"
+  },
+  {
     "denumire": "Satu Nou Sat  - Com. Oltina",
     "cod": "206",
     "codPrimarie": "6228122",
     "siruta": "62510"
   },
   {
-    "denumire": "Satu Nou Sat  - Com. Mircea Vod\u0103",
-    "cod": "205",
-    "codPrimarie": "4514632",
-    "siruta": "62333"
+    "denumire": "Saturn Loc.  - Mun. Mangalia",
+    "cod": "207",
+    "codPrimarie": "4515255",
+    "siruta": "63241"
   },
   {
     "denumire": "Schitu Sat  - Com. Costine\u015fti",
@@ -1104,6 +1062,12 @@
     "siruta": "61443"
   },
   {
+    "denumire": "Techirghiol Or\u015f. ",
+    "cod": "225",
+    "codPrimarie": "4300540",
+    "siruta": "60543"
+  },
+  {
     "denumire": "Tichile\u015fti Sat  - Com. Horia",
     "cod": "226",
     "codPrimarie": "7453190",
@@ -1176,6 +1140,18 @@
     "siruta": "61540"
   },
   {
+    "denumire": "Vadu Oii Loc.  - Or\u015f. H\u00e2r\u015fova",
+    "cod": "243",
+    "codPrimarie": "7453165",
+    "siruta": "60829"
+  },
+  {
+    "denumire": "Valea Dacilor Loc.  - Mun. Medgidia",
+    "cod": "244",
+    "codPrimarie": "4301456",
+    "siruta": "60874"
+  },
+  {
     "denumire": "Valu lui Traian Sat  - Com. Valu lui Traian",
     "cod": "245",
     "codPrimarie": "4671718",
@@ -1186,6 +1162,12 @@
     "cod": "247",
     "codPrimarie": "4671688",
     "siruta": "60678"
+  },
+  {
+    "denumire": "Venus Loc.  - Mun. Mangalia",
+    "cod": "248",
+    "codPrimarie": "4515255",
+    "siruta": "63232"
   },
   {
     "denumire": "Veteranu Sat  - Com. Pe\u015ftera",
@@ -1222,12 +1204,6 @@
     "cod": "254",
     "codPrimarie": "5806830",
     "siruta": "62663"
-  },
-  {
-    "denumire": "V\u00e2lcelele Sat  - Or\u015f. Negru Vod\u0103",
-    "cod": "288",
-    "codPrimarie": "6398763",
-    "siruta": "62431"
   },
   {
     "denumire": "V\u00e2n\u0103tori Sat  - Com. Pecineaga",
@@ -1282,5 +1258,29 @@
     "cod": "264",
     "codPrimarie": "4514632",
     "siruta": "62351"
+  },
+  {
+    "denumire": "Darabani Sat  - Or\u015f. Negru Vod\u0103",
+    "cod": "273",
+    "codPrimarie": "6398763",
+    "siruta": "62413"
+  },
+  {
+    "denumire": "Poiana Sat  - Or\u015f. Ovidiu",
+    "cod": "284",
+    "codPrimarie": "4301359",
+    "siruta": "60712"
+  },
+  {
+    "denumire": "V\u00e2lcelele Sat  - Or\u015f. Negru Vod\u0103",
+    "cod": "288",
+    "codPrimarie": "6398763",
+    "siruta": "62431"
+  },
+  {
+    "denumire": "Culmea Sat  - Or\u015f. Ovidiu",
+    "cod": "297",
+    "codPrimarie": "4301359",
+    "siruta": "63349"
   }
 ]

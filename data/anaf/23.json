@@ -1,53 +1,5 @@
 [
   {
-    "denumire": "Bragadiru Or\u015f. ",
-    "cod": "12",
-    "codPrimarie": "4992998",
-    "siruta": "179221"
-  },
-  {
-    "denumire": "Buftea Or\u015f. ",
-    "cod": "16",
-    "codPrimarie": "4434029",
-    "siruta": "100585"
-  },
-  {
-    "denumire": "Chitila Or\u015f. ",
-    "cod": "24",
-    "codPrimarie": "4420848",
-    "siruta": "179285"
-  },
-  {
-    "denumire": "M\u0103gurele Or\u015f. ",
-    "cod": "87",
-    "codPrimarie": "4364500",
-    "siruta": "179409"
-  },
-  {
-    "denumire": "Otopeni Or\u015f. ",
-    "cod": "97",
-    "codPrimarie": "4364446",
-    "siruta": "179481"
-  },
-  {
-    "denumire": "Pantelimon Or\u015f. ",
-    "cod": "99",
-    "codPrimarie": "4420759",
-    "siruta": "179515"
-  },
-  {
-    "denumire": "Pope\u015fti-Leordeni Or\u015f. ",
-    "cod": "109",
-    "codPrimarie": "4505596",
-    "siruta": "179533"
-  },
-  {
-    "denumire": "Voluntari Or\u015f. ",
-    "cod": "132",
-    "codPrimarie": "4283481",
-    "siruta": "179551"
-  },
-  {
     "denumire": "1 Decembrie Sat  - Com. 1 Decembrie",
     "cod": "1",
     "codPrimarie": "4505588",
@@ -90,6 +42,12 @@
     "siruta": "179230"
   },
   {
+    "denumire": "Bragadiru Or\u015f. ",
+    "cod": "12",
+    "codPrimarie": "4992998",
+    "siruta": "179221"
+  },
+  {
     "denumire": "Br\u0103ne\u015fti Sat  - Com. Br\u0103ne\u015fti",
     "cod": "13",
     "codPrimarie": "4420724",
@@ -100,6 +58,12 @@
     "cod": "15",
     "codPrimarie": "4364470",
     "siruta": "102231"
+  },
+  {
+    "denumire": "Buftea Or\u015f. ",
+    "cod": "16",
+    "codPrimarie": "4434029",
+    "siruta": "100585"
   },
   {
     "denumire": "Buria\u015f Sat  - Com. Peri\u015f",
@@ -130,6 +94,12 @@
     "cod": "22",
     "codPrimarie": "4364527",
     "siruta": "179258"
+  },
+  {
+    "denumire": "Chitila Or\u015f. ",
+    "cod": "24",
+    "codPrimarie": "4420848",
+    "siruta": "179285"
   },
   {
     "denumire": "Chitila Sat  - Or\u015f. Chitila",
@@ -402,6 +372,12 @@
     "siruta": "179472"
   },
   {
+    "denumire": "M\u0103gurele Or\u015f. ",
+    "cod": "87",
+    "codPrimarie": "4364500",
+    "siruta": "179409"
+  },
+  {
     "denumire": "M\u0103gurele Sat  - Or\u015f. M\u0103gurele",
     "cod": "88",
     "codPrimarie": "4364500",
@@ -450,10 +426,22 @@
     "siruta": "179490"
   },
   {
+    "denumire": "Otopeni Or\u015f. ",
+    "cod": "97",
+    "codPrimarie": "4364446",
+    "siruta": "179481"
+  },
+  {
     "denumire": "Pantelimon Sat  - Or\u015f. Pantelimon",
     "cod": "98",
     "codPrimarie": "4420759",
     "siruta": "179524"
+  },
+  {
+    "denumire": "Pantelimon Or\u015f. ",
+    "cod": "99",
+    "codPrimarie": "4420759",
+    "siruta": "179515"
   },
   {
     "denumire": "Pas\u0103rea Sat  - Com. Br\u0103ne\u015fti",
@@ -496,6 +484,12 @@
     "cod": "108",
     "codPrimarie": "4505596",
     "siruta": "179542"
+  },
+  {
+    "denumire": "Pope\u015fti-Leordeni Or\u015f. ",
+    "cod": "109",
+    "codPrimarie": "4505596",
+    "siruta": "179533"
   },
   {
     "denumire": "Po\u015fta Sat  - Com. Cernica",
@@ -610,6 +604,12 @@
     "cod": "131",
     "codPrimarie": "4283481",
     "siruta": "179560"
+  },
+  {
+    "denumire": "Voluntari Or\u015f. ",
+    "cod": "132",
+    "codPrimarie": "4283481",
+    "siruta": "179551"
   },
   {
     "denumire": "V\u00e2n\u0103tori Sat  - Com. Petr\u0103chioaia",

@@ -1,167 +1,5 @@
 [
   {
-    "denumire": "B\u0103ile Homorod Loc.  - Or\u015f. Vl\u0103hi\u0163a",
-    "cod": "33",
-    "codPrimarie": "4245224",
-    "siruta": "83767"
-  },
-  {
-    "denumire": "Carpitus Loc.  - Or\u015f. B\u0103ile Tu\u015fnad",
-    "cod": "38",
-    "codPrimarie": "4245348",
-    "siruta": "83446"
-  },
-  {
-    "denumire": "Ciba Loc.  - Mun. Miercurea Ciuc",
-    "cod": "48",
-    "codPrimarie": "4245747",
-    "siruta": "83348"
-  },
-  {
-    "denumire": "Covacipeter Loc.  - Mun. Gheorgheni",
-    "cod": "65",
-    "codPrimarie": "4245070",
-    "siruta": "83589"
-  },
-  {
-    "denumire": "C\u0103lim\u0103nel Loc.  - Mun. Topli\u0163a",
-    "cod": "75",
-    "codPrimarie": "4245178",
-    "siruta": "83650"
-  },
-  {
-    "denumire": "Harghita-B\u0103i Loc.  - Mun. Miercurea Ciuc",
-    "cod": "120",
-    "codPrimarie": "4245747",
-    "siruta": "83357"
-  },
-  {
-    "denumire": "Jigodin-B\u0103i Loc.  - Mun. Miercurea Ciuc",
-    "cod": "133",
-    "codPrimarie": "4245747",
-    "siruta": "83366"
-  },
-  {
-    "denumire": "Lacu Ro\u015fu Loc.  - Mun. Gheorgheni",
-    "cod": "137",
-    "codPrimarie": "4245070",
-    "siruta": "83598"
-  },
-  {
-    "denumire": "Luncani Loc.  - Mun. Topli\u0163a",
-    "cod": "150",
-    "codPrimarie": "4245178",
-    "siruta": "83669"
-  },
-  {
-    "denumire": "Minele Lueta Loc.  - Or\u015f. Vl\u0103hi\u0163a",
-    "cod": "166",
-    "codPrimarie": "4245224",
-    "siruta": "83776"
-  },
-  {
-    "denumire": "Mogl\u0103ne\u015fti Loc.  - Mun. Topli\u0163a",
-    "cod": "168",
-    "codPrimarie": "4245178",
-    "siruta": "83687"
-  },
-  {
-    "denumire": "M\u0103gheru\u015f Loc.  - Mun. Topli\u0163a",
-    "cod": "174",
-    "codPrimarie": "4245178",
-    "siruta": "83678"
-  },
-  {
-    "denumire": "Secu Loc.  - Mun. Topli\u0163a",
-    "cod": "226",
-    "codPrimarie": "4245178",
-    "siruta": "83696"
-  },
-  {
-    "denumire": "Vale Loc.  - Mun. Topli\u0163a",
-    "cod": "275",
-    "codPrimarie": "4245178",
-    "siruta": "83703"
-  },
-  {
-    "denumire": "Vargatac Loc.  - Mun. Gheorgheni",
-    "cod": "287",
-    "codPrimarie": "4245070",
-    "siruta": "83605"
-  },
-  {
-    "denumire": "Visafolio Loc.  - Mun. Gheorgheni",
-    "cod": "290",
-    "codPrimarie": "4245070",
-    "siruta": "83614"
-  },
-  {
-    "denumire": "V\u00e2gani Loc.  - Mun. Topli\u0163a",
-    "cod": "295",
-    "codPrimarie": "4245178",
-    "siruta": "83712"
-  },
-  {
-    "denumire": "Zencani Loc.  - Mun. Topli\u0163a",
-    "cod": "300",
-    "codPrimarie": "4245178",
-    "siruta": "83721"
-  },
-  {
-    "denumire": "Miercurea Ciuc Mun. ",
-    "cod": "162",
-    "codPrimarie": "4245747",
-    "siruta": "83339"
-  },
-  {
-    "denumire": "Gheorgheni Mun. ",
-    "cod": "111",
-    "codPrimarie": "4245070",
-    "siruta": "83570"
-  },
-  {
-    "denumire": "Odorheiu Secuiesc Mun. ",
-    "cod": "188",
-    "codPrimarie": "4367558",
-    "siruta": "83142"
-  },
-  {
-    "denumire": "Topli\u0163a Mun. ",
-    "cod": "259",
-    "codPrimarie": "4245178",
-    "siruta": "83641"
-  },
-  {
-    "denumire": "Borsec Or\u015f. ",
-    "cod": "23",
-    "codPrimarie": "4245380",
-    "siruta": "83507"
-  },
-  {
-    "denumire": "B\u0103ile Tu\u015fnad Or\u015f. ",
-    "cod": "34",
-    "codPrimarie": "4245348",
-    "siruta": "83437"
-  },
-  {
-    "denumire": "B\u0103lan Or\u015f. ",
-    "cod": "35",
-    "codPrimarie": "4367612",
-    "siruta": "83473"
-  },
-  {
-    "denumire": "Cristuru Secuiesc Or\u015f. ",
-    "cod": "67",
-    "codPrimarie": "4367647",
-    "siruta": "83534"
-  },
-  {
-    "denumire": "Vl\u0103hi\u0163a Or\u015f. ",
-    "cod": "291",
-    "codPrimarie": "4245224",
-    "siruta": "83758"
-  },
-  {
     "denumire": "Aldea Sat  - Com. M\u0103rtini\u015f",
     "cod": "1",
     "codPrimarie": "4246238",
@@ -276,6 +114,12 @@
     "siruta": "85608"
   },
   {
+    "denumire": "Borsec Or\u015f. ",
+    "cod": "23",
+    "codPrimarie": "4245380",
+    "siruta": "83507"
+  },
+  {
     "denumire": "Borzont Sat  - Com. Joseni",
     "cod": "24",
     "codPrimarie": "4367990",
@@ -288,16 +132,16 @@
     "siruta": "83160"
   },
   {
-    "denumire": "Bucin Sat  - Com. Praid",
-    "cod": "28",
-    "codPrimarie": "4368103",
-    "siruta": "85378"
-  },
-  {
     "denumire": "Bucin Sat  - Com. Joseni",
     "cod": "27",
     "codPrimarie": "4367990",
     "siruta": "84585"
+  },
+  {
+    "denumire": "Bucin Sat  - Com. Praid",
+    "cod": "28",
+    "codPrimarie": "4368103",
+    "siruta": "85378"
   },
   {
     "denumire": "Bulg\u0103reni Sat  - Com. Lupeni",
@@ -324,6 +168,24 @@
     "siruta": "84647"
   },
   {
+    "denumire": "B\u0103ile Homorod Loc.  - Or\u015f. Vl\u0103hi\u0163a",
+    "cod": "33",
+    "codPrimarie": "4245224",
+    "siruta": "83767"
+  },
+  {
+    "denumire": "B\u0103ile Tu\u015fnad Or\u015f. ",
+    "cod": "34",
+    "codPrimarie": "4245348",
+    "siruta": "83437"
+  },
+  {
+    "denumire": "B\u0103lan Or\u015f. ",
+    "cod": "35",
+    "codPrimarie": "4367612",
+    "siruta": "83473"
+  },
+  {
     "denumire": "Calonda Sat  - Com. Corund",
     "cod": "36",
     "codPrimarie": "4246084",
@@ -334,6 +196,12 @@
     "cod": "37",
     "codPrimarie": "4612487",
     "siruta": "84166"
+  },
+  {
+    "denumire": "Carpitus Loc.  - Or\u015f. B\u0103ile Tu\u015fnad",
+    "cod": "38",
+    "codPrimarie": "4245348",
+    "siruta": "83446"
   },
   {
     "denumire": "Casinu Nou Sat  - Com. Pl\u0103ie\u015fii de Jos",
@@ -388,6 +256,12 @@
     "cod": "47",
     "codPrimarie": "16367667",
     "siruta": "85644"
+  },
+  {
+    "denumire": "Ciba Loc.  - Mun. Miercurea Ciuc",
+    "cod": "48",
+    "codPrimarie": "4245747",
+    "siruta": "83348"
   },
   {
     "denumire": "Ciceu Sat  - Com. Ciceu",
@@ -462,10 +336,22 @@
     "siruta": "84040"
   },
   {
+    "denumire": "Covacipeter Loc.  - Mun. Gheorgheni",
+    "cod": "65",
+    "codPrimarie": "4245070",
+    "siruta": "83589"
+  },
+  {
     "denumire": "Cozmeni Sat  - Com. Cozmeni",
     "cod": "66",
     "codPrimarie": "14597953",
     "siruta": "85813"
+  },
+  {
+    "denumire": "Cristuru Secuiesc Or\u015f. ",
+    "cod": "67",
+    "codPrimarie": "4367647",
+    "siruta": "83534"
   },
   {
     "denumire": "Cri\u015feni Sat  - Com. Atid",
@@ -502,6 +388,12 @@
     "cod": "74",
     "codPrimarie": "4367710",
     "siruta": "86026"
+  },
+  {
+    "denumire": "C\u0103lim\u0103nel Loc.  - Mun. Topli\u0163a",
+    "cod": "75",
+    "codPrimarie": "4245178",
+    "siruta": "83650"
   },
   {
     "denumire": "C\u0103lnaci Sat  - Com. Subcetate",
@@ -660,16 +552,22 @@
     "siruta": "84219"
   },
   {
+    "denumire": "F\u0103ge\u0163el Sat  - Com. Frumoasa",
+    "cod": "109",
+    "codPrimarie": "4246173",
+    "siruta": "84442"
+  },
+  {
     "denumire": "F\u0103ge\u0163el Sat  - Com. Remetea",
     "cod": "110",
     "codPrimarie": "4367655",
     "siruta": "85430"
   },
   {
-    "denumire": "F\u0103ge\u0163el Sat  - Com. Frumoasa",
-    "cod": "109",
-    "codPrimarie": "4246173",
-    "siruta": "84442"
+    "denumire": "Gheorgheni Mun. ",
+    "cod": "111",
+    "codPrimarie": "4245070",
+    "siruta": "83570"
   },
   {
     "denumire": "Ghidu\u0163 Sat  - Com. L\u0103zarea",
@@ -696,12 +594,6 @@
     "siruta": "83883"
   },
   {
-    "denumire": "G\u00e2rciu Sat  - Com. Racu",
-    "cod": "225",
-    "codPrimarie": "16373057",
-    "siruta": "85671"
-  },
-  {
     "denumire": "G\u0103l\u0103u\u0163a\u015f Sat  - Com. G\u0103l\u0103u\u0163a\u015f",
     "cod": "116",
     "codPrimarie": "4367981",
@@ -718,6 +610,12 @@
     "cod": "119",
     "codPrimarie": "4245933",
     "siruta": "86151"
+  },
+  {
+    "denumire": "Harghita-B\u0103i Loc.  - Mun. Miercurea Ciuc",
+    "cod": "120",
+    "codPrimarie": "4245747",
+    "siruta": "83357"
   },
   {
     "denumire": "Hodo\u015fa Sat  - Com. S\u0103rma\u015f",
@@ -792,6 +690,12 @@
     "siruta": "84781"
   },
   {
+    "denumire": "Jigodin-B\u0103i Loc.  - Mun. Miercurea Ciuc",
+    "cod": "133",
+    "codPrimarie": "4245747",
+    "siruta": "83366"
+  },
+  {
     "denumire": "Jolotca Sat  - Com. Ditr\u0103u",
     "cod": "134",
     "codPrimarie": "4367957",
@@ -802,6 +706,12 @@
     "cod": "135",
     "codPrimarie": "4367990",
     "siruta": "84567"
+  },
+  {
+    "denumire": "Lacu Ro\u015fu Loc.  - Mun. Gheorgheni",
+    "cod": "137",
+    "codPrimarie": "4245070",
+    "siruta": "83598"
   },
   {
     "denumire": "Laz-Firt\u0103nu\u015f Sat  - Com. Avr\u0103me\u015fti",
@@ -858,6 +768,12 @@
     "siruta": "84763"
   },
   {
+    "denumire": "Luncani Loc.  - Mun. Topli\u0163a",
+    "cod": "150",
+    "codPrimarie": "4245178",
+    "siruta": "83669"
+  },
+  {
     "denumire": "Lupeni Sat  - Com. Lupeni",
     "cod": "151",
     "codPrimarie": "4368049",
@@ -906,6 +822,12 @@
     "siruta": "85065"
   },
   {
+    "denumire": "Miercurea Ciuc Mun. ",
+    "cod": "162",
+    "codPrimarie": "4245747",
+    "siruta": "83339"
+  },
+  {
     "denumire": "Mih\u0103ileni Sat  - Com. Mih\u0103ileni",
     "cod": "163",
     "codPrimarie": "4246254",
@@ -918,10 +840,22 @@
     "siruta": "86080"
   },
   {
+    "denumire": "Minele Lueta Loc.  - Or\u015f. Vl\u0103hi\u0163a",
+    "cod": "166",
+    "codPrimarie": "4245224",
+    "siruta": "83776"
+  },
+  {
     "denumire": "Misentea Sat  - Com. Leliceni",
     "cod": "167",
     "codPrimarie": "16363525",
     "siruta": "85733"
+  },
+  {
+    "denumire": "Mogl\u0103ne\u015fti Loc.  - Mun. Topli\u0163a",
+    "cod": "168",
+    "codPrimarie": "4245178",
+    "siruta": "83687"
   },
   {
     "denumire": "Mor\u0103reni Sat  - Com. Lupeni",
@@ -946,6 +880,12 @@
     "cod": "173",
     "codPrimarie": "14596052",
     "siruta": "84255"
+  },
+  {
+    "denumire": "M\u0103gheru\u015f Loc.  - Mun. Topli\u0163a",
+    "cod": "174",
+    "codPrimarie": "4245178",
+    "siruta": "83678"
   },
   {
     "denumire": "M\u0103rtini\u015f Sat  - Com. M\u0103rtini\u015f",
@@ -1012,6 +952,12 @@
     "cod": "187",
     "codPrimarie": "4368103",
     "siruta": "85396"
+  },
+  {
+    "denumire": "Odorheiu Secuiesc Mun. ",
+    "cod": "188",
+    "codPrimarie": "4367558",
+    "siruta": "83142"
   },
   {
     "denumire": "Or\u0103\u015feni Sat  - Com. M\u0103rtini\u015f",
@@ -1206,6 +1152,18 @@
     "siruta": "85270"
   },
   {
+    "denumire": "G\u00e2rciu Sat  - Com. Racu",
+    "cod": "225",
+    "codPrimarie": "16373057",
+    "siruta": "85671"
+  },
+  {
+    "denumire": "Secu Loc.  - Mun. Topli\u0163a",
+    "cod": "226",
+    "codPrimarie": "4245178",
+    "siruta": "83696"
+  },
+  {
     "denumire": "Secuieni Sat  - Com. Secuieni",
     "cod": "227",
     "codPrimarie": "4367671",
@@ -1338,6 +1296,12 @@
     "siruta": "84139"
   },
   {
+    "denumire": "Topli\u0163a Mun. ",
+    "cod": "259",
+    "codPrimarie": "4245178",
+    "siruta": "83641"
+  },
+  {
     "denumire": "Tulghe\u015f Sat  - Com. Tulghe\u015f",
     "cod": "260",
     "codPrimarie": "4245933",
@@ -1410,6 +1374,12 @@
     "siruta": "86231"
   },
   {
+    "denumire": "Vale Loc.  - Mun. Topli\u0163a",
+    "cod": "275",
+    "codPrimarie": "4245178",
+    "siruta": "83703"
+  },
+  {
     "denumire": "Valea Boro\u015f Sat  - Com. Lunca de Jos",
     "cod": "276",
     "codPrimarie": "4246211",
@@ -1476,6 +1446,12 @@
     "siruta": "84736"
   },
   {
+    "denumire": "Vargatac Loc.  - Mun. Gheorgheni",
+    "cod": "287",
+    "codPrimarie": "4245070",
+    "siruta": "83605"
+  },
+  {
     "denumire": "Vasileni Sat  - Com. Ulie\u015f",
     "cod": "288",
     "codPrimarie": "4367744",
@@ -1486,6 +1462,18 @@
     "cod": "289",
     "codPrimarie": "4367663",
     "siruta": "85519"
+  },
+  {
+    "denumire": "Visafolio Loc.  - Mun. Gheorgheni",
+    "cod": "290",
+    "codPrimarie": "4245070",
+    "siruta": "83614"
+  },
+  {
+    "denumire": "Vl\u0103hi\u0163a Or\u015f. ",
+    "cod": "291",
+    "codPrimarie": "4245224",
+    "siruta": "83758"
   },
   {
     "denumire": "Vo\u015fl\u0103beni Sat  - Com. Vo\u015fl\u0103beni",
@@ -1500,6 +1488,18 @@
     "siruta": "86213"
   },
   {
+    "denumire": "V\u00e2gani Loc.  - Mun. Topli\u0163a",
+    "cod": "295",
+    "codPrimarie": "4245178",
+    "siruta": "83712"
+  },
+  {
+    "denumire": "V\u0103r\u015fag Sat  - Com. V\u0103r\u015fag",
+    "cod": "296",
+    "codPrimarie": "4367752",
+    "siruta": "86320"
+  },
+  {
     "denumire": "V\u0103c\u0103re\u015fti Sat  - Com. Mih\u0103ileni",
     "cod": "298",
     "codPrimarie": "4246254",
@@ -1512,10 +1512,10 @@
     "siruta": "83302"
   },
   {
-    "denumire": "V\u0103r\u015fag Sat  - Com. V\u0103r\u015fag",
-    "cod": "296",
-    "codPrimarie": "4367752",
-    "siruta": "86320"
+    "denumire": "Zencani Loc.  - Mun. Topli\u0163a",
+    "cod": "300",
+    "codPrimarie": "4245178",
+    "siruta": "83721"
   },
   {
     "denumire": "Zetea Sat  - Com. Zetea",
